@@ -2,13 +2,1138 @@
 <html lang="uz">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>IslamHub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Islomiy Ilmiy Sayt</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Assalomu alaykum, bu IslamHub</h1>
-  <p>Allohning qudratini eslatuvchi sahifa</p>
+  <!-- Hamburger menyu -->
+  <div id="menu-button" class="hamburger">☰</div>
+
+  <!-- Sidebar menyu -->
+  <div id="sidebar" class="sidebar">
+    <ul>
+      <li onclick="loadSection('bosh_sahifa')">🏠 Bosh sahifa</li>
+      <li onclick="loadSection('islom_nima')">🕌 Islom nima</li>
+      <li onclick="loadSection('islom_tarixi')">📜 Islom tarixi</li>
+      <li onclick="loadSection('namoz')">🕋 Namoz</li>
+      <li onclick="loadSection('namoz_vaqtlari')">🕰 Namoz vaqtlari</li>
+      <li onclick="loadSection('quron')">📖 Qur'on</li>
+      <li onclick="loadSection('farishtalar')">👼 Farishtalar</li>
+      <li onclick="loadSection('paygambarlar')">🧔 Payg'ambarlar</li>
+      <li onclick="loadSection('sahobalar')">🤝 Sahobalar</li>
+      <li onclick="loadSection('tobeinlar')">👥 Tobeinlar</li>
+      <li onclick="loadSection('hadislar')">📚 Hadislar</li>
+      <li onclick="loadSection('duolar')">🤲 Duolar</li>
+      <li onclick="loadSection('tasbeh')">🔢 Tasbeh</li>
+      <li onclick="loadSection('zikrlar')">💬 Zikrlar</li>
+      <li onclick="loadSection('alloh_ismlari')">📝 Allohning ismlari</li>
+      <li onclick="loadSection('haj_umra')">🕋 Haj va Umra</li>
+      <li onclick="loadSection('qibla')">🧭 Qibla yo'nalishi</li>
+      <li onclick="loadSection('axloq')">❤️ Islomiy axloq</li>
+      <li onclick="loadSection('adabiyotlar')">📘 Islomiy adabiyotlar</li>
+      <li onclick="loadSection('testlar')">📝 Testlar</li>
+    </ul>
+  </div>
+
+  <!-- Asosiy kontent -->
+  <div id="content" class="content">
+    <div id="bosh_sahifa" class="section active">
+      <h1 class="center">Assalomu alaykum va rahmatullohi va barokatuh!</h1>
+      <p class="center">
+        Islomiy ilmiy saytingizga xush kelibsiz! Quyidagi bo‘limlardan birini tanlab ilmga chuqurroq sho‘ng‘ing:
+      </p>
+  
+      <div class="cards-container">
+        <div class="card" onclick="loadSection('islom_nima')">
+          <h3>🕌 Islom nima</h3>
+          <p>Islom dinining mohiyati, maqsadi va haqiqatlari haqida.</p>
+        </div>
+        <div class="card" onclick="loadSection('quron')">
+          <h3>📖 Qur'on</h3>
+          <p>114 sura, oyatlar, tafsirlar va tarjimalar bilan.</p>
+        </div>
+        <div class="card" onclick="loadSection('namoz')">
+          <h3>🕋 Namoz</h3>
+          <p>Namoz turlari, tahorat, farzlar, sunnatlar va niyatlar.</p>
+        </div>
+        <div class="card" onclick="loadSection('farishtalar')">
+          <h3>👼 Farishtalar</h3>
+          <p>Allohning nurlardan yaratgan maxluqotlari haqida.</p>
+        </div>
+        <div class="card" onclick="loadSection('duolar')">
+          <h3>🤲 Duolar</h3>
+          <p>Arabcha, o'qilishi, tarjimasi va nusxa olish tugmalari bilan.</p>
+        </div>
+        <div class="card" onclick="loadSection('alloh_ismlari')">
+          <h3>📝 Allohning ismlari</h3>
+          <p>99 ta ism va ularning ma'nolari, foydalari bilan.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 🕌 Islom nima bo‘limi (menyu) -->
+<div id="islom_nima" class="section" style="display: none;">
+  <button class="back-button" onclick="loadSection('bosh_sahifa')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🕌 Islom dini nima?</h1>
+  <p class="section-subtitle">Islom – bu faqat din emas, u to‘liq hayot tarzidir. Quyidagi bo‘limlardan birini tanlang:</p>
+  <div class="info-grid">
+    <div class="info-box clickable" onclick="showSubSection('islom_5_ustun')">🧱 Islomning 5 ustuni</div>
+    <div class="info-box clickable" onclick="showSubSection('islom_maqsadi')">📘 Islomning maqsadi</div>
+    <div class="info-box clickable" onclick="showSubSection('islom_ilm')">📖 Ilmga chaqiriq</div>
+    <div class="info-box clickable" onclick="showSubSection('islom_hayot')">🌍 Islom hayot tarzidir</div>
+    <div class="info-box clickable" onclick="showSubSection('islom_axloq')">❤️ Axloqiy go‘zallik</div>
+    <div class="info-box clickable" onclick="showSubSection('islom_adolat')">⚖️ Adolat va tinchlik</div>
+  </div>
+</div>
+
+<!-- 🧱 Islomning 5 ustuni -->
+<div id="islom_5_ustun" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🧱 Islomning 5 ustuni</h1>
+  <p class="section-subtitle">Islomning asosiy ibodat va e’tiqodlari bo‘lgan besh ustun:</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>📜 Shahodat</h3>
+      <p><strong>Arabcha:</strong> La ilaha illalloh, Muhammadur Rasululloh</p>
+      <p><strong>Ma’nosi:</strong> Allohdan o‘zga iloh yo‘q, Muhammad Uning Rasulidir.</p>
+    </div>
+    <div class="info-box">
+      <h3>🕋 Namoz</h3>
+      <p>Har kuni 5 mahal ibodat qilish, Alloh bilan aloqa o‘rnatish.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌙 Ro‘za</h3>
+      <p>Ramazon oyida sabr va poklanish uchun ro‘za tutish.</p>
+    </div>
+    <div class="info-box">
+      <h3>💰 Zakat</h3>
+      <p>Mol-davlatdan ma’lum qismini faqirlarga berish.</p>
+    </div>
+    <div class="info-box">
+      <h3>🕋 Haj</h3>
+      <p>Moliy va jismoniy imkoniyati bo‘lganlar uchun Makkaga safar.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 📘 Islomning maqsadi -->
+<div id="islom_maqsadi" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">📘 Islomning maqsadi</h1>
+  <p class="section-subtitle">Insonni Allohga yaqinlashtirish va jamiyatda adolat o‘rnatish.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🌟 Maqsad</h3>
+      <p>Insonni Allohga yaqinlashtirish, ruhiy va jismoniy poklikka erishish.</p>
+    </div>
+    <div class="info-box">
+      <h3>🤝 Jamiyat</h3>
+      <p>Adolat, tinchlik va halollikni jamiyatda o‘rnatish.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Qalb pokligi</h3>
+      <p>Qalb va jismni gunohlardan poklash, xayot tarzini yaxshilash.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 📖 Ilmga chaqiriq -->
+<div id="islom_ilm" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">📖 Ilmga chaqiriq</h1>
+  <p class="section-subtitle">Islom ilm olishga va tafakkur qilishga undaydi.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>📜 Qur’ondagi dalil</h3>
+      <p class="arabic-text">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</p>
+      <p class="translation">“O‘qi! Seni yaradgan Robbing nomi bilan o‘qi!” (Alaq 96:1)</p>
+    </div>
+    <div class="info-box">
+      <h3>📚 Hadis</h3>
+      <p>Payg‘ambarimiz (s.a.v.): “Ilm olish har bir musulmon erkak va ayol uchun farzdir.”</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Maqsad</h3>
+      <p>Islom har doim bilim, tafakkur va ilmiy izlanishga chaqiradi.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🌍 Islom hayot tarzidir -->
+<div id="islom_hayot" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌍 Islom hayot tarzidir</h1>
+  <p class="section-subtitle">Islom kundalik hayotning har bir jabhasini qamrab oladi.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🏡 Oila</h3>
+      <p>Oila qurish, farzand tarbiyasi va mehr-oqibat ko‘rsatish.</p>
+    </div>
+    <div class="info-box">
+      <h3>🤝 Muomala</h3>
+      <p>Do‘stlik, qo‘shnichilik va jamiyatdagi muomalalarda adab.</p>
+    </div>
+    <div class="info-box">
+      <h3>💼 Ish faoliyati</h3>
+      <p>Halol mehnat, adolatli savdo va ishonchli bo‘lish.</p>
+    </div>
+    <div class="info-box">
+      <h3>😊 Tabassum</h3>
+      <p>Hatto tabassum ham sadaqa hisoblanadi.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ❤️ Axloqiy go‘zallik -->
+<div id="islom_axloq" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">❤️ Axloqiy go‘zallik</h1>
+  <p class="section-subtitle">Islom odob-axloqqa katta e’tibor beradi.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🧔 Payg‘ambar namunasi</h3>
+      <p>Payg‘ambarimiz Muhammad (s.a.v.) eng go‘zal xulq bilan yuborilganlar.</p>
+    </div>
+    <div class="info-box">
+      <h3>✅ Fazilatlar</h3>
+      <p>Halollik, sabr, rostgo‘ylik va mehr-oqibat.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Maqsad</h3>
+      <p>Insonning ichki va tashqi go‘zalligini yuksaltirish.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ⚖️ Adolat va tinchlik -->
+<div id="islom_adolat" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_nima')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">⚖️ Adolat va tinchlik</h1>
+  <p class="section-subtitle">Islom adolat va tinchlikka asoslangan din.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>📜 Qur’ondagi dalil</h3>
+      <p class="arabic-text">إِنَّ اللهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ</p>
+      <p class="translation">“Albatta, Alloh adolat va yaxshilik qilishni buyuradi.” (Nahl 16:90)</p>
+    </div>
+    <div class="info-box">
+      <h3>⚖️ Adolat</h3>
+      <p>Inson huquqlari, ayol va erkak tengligi, adolatli muomala.</p>
+    </div>
+    <div class="info-box">
+      <h3>🕊 Tinchlik</h3>
+      <p>Yomonlikka sabr qilish va tinchlikni targ‘ib qilish.</p>
+    </div>
+  </div>
+</div>
+
+  <!-- 📜 Islom tarixi sahifasi -->
+<div id="islom_tarixi" class="section">
+  <button class="back-button" onclick="loadSection('bosh_sahifa')">⬅️ Ortga qaytish</button>
+
+  <h1 class="section-title">📜 Islom tarixi</h1>
+  <p class="section-subtitle">
+    Quyidagi bo‘limlardan birini tanlang:
+  </p>
+
+  <div class="info-grid">
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_paygambarlar')">
+      🌌 Payg‘ambarlar davri
+    </div>
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_muhammad')">
+      📅 Muhammad ﷺ davri
+    </div>
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_xalifalik')">
+      👑 Xalifalik davri
+    </div>
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_dunyoga')">
+      🌍 Islom dunyoga yoyilishi
+    </div>
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_ilm')">
+      🕌 Ilm-fan va uyg‘onish
+    </div>
+    <div class="info-box clickable" onclick="showSubSection('islom_tarixi_inqiroz')">
+      📉 Inqiroz va tiklanish
+    </div>
+  </div>
+</div>
+
+<!-- 🌌 Payg‘ambarlar davri (sub-sahifa) -->
+<div id="islom_tarixi_paygambarlar" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+
+  <h1 class="section-title">🌌 Payg‘ambarlar davri</h1>
+  <p class="section-subtitle">
+    Islom tarixining boshlanishi Odam (a.s.) bilan bog‘liq. Alloh har davrda payg‘ambarlar yuborgan.
+  </p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>👤 Odam (a.s.) – birinchi inson va payg‘ambar</h3>
+      <p>Alloh Odamni loydan yaratdi va unga ilmlarni o‘rgatdi. U barcha insoniyatning otasidir.</p>
+    </div>
+
+    <div class="info-box">
+      <h3>🛶 Nuh (a.s.) – sabr va najot</h3>
+      <p>Qavmini 950 yil da’vat qildi. Oxirida to‘fon kelib, faqat imonlilar qutuldi.</p>
+    </div>
+
+    <div class="info-box">
+      <h3>🔥 Ibrohim (a.s.) – towhid bayroqdori</h3>
+      <p>Butlarga qarshi kurashdi. Uni o‘tga otishdi, Alloh uni najot qildi.</p>
+    </div>
+
+    <div class="info-box">
+      <h3>🕋 Muhammad ﷺ – oxirgi rasul</h3>
+      <p>571-yil Makkada tug‘ildi. 40 yoshda vahiy oldi. 23 yil davomida Islomni to‘liq yetkazdi.</p>
+    </div>
+  </div>
+</div>
+
+<div id="islom_tarixi_muhammad" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">📅 Muhammad ﷺ davri</h1>
+  <p class="section-subtitle">Muhammad ﷺ hayoti islomning eng asosiy davridir.</p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🧒 Tug‘ilishi</h3>
+      <p>571-yil Makkada tug‘ildi, Abdulloh va Omina farzandi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🕋 Vahiy kelishi</h3>
+      <p>40 yoshlarida Hiro g‘orida birinchi vahiy: “O‘qi!” — Iqra’ surasi nozil bo‘ldi.</p>
+    </div>
+    <div class="info-box">
+      <h3>📢 Da’vat va hijrat</h3>
+      <p>Makkada 13 yil davomida sabr bilan da’vat qildi, so‘ng Madinaga hijrat qildi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Madina davri</h3>
+      <p>Islom jamiyati qurildi, urushlar, jamoa, qonunlar shakllandi.</p>
+    </div>
+    <div class="info-box">
+      <h3>⚰️ Vafoti</h3>
+      <p>Hijriy 11-yil, Madinada, 63 yoshda vafot etdi.</p>
+    </div>
+  </div>
+</div>
+
+<div id="islom_tarixi_xalifalik" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">👑 Xalifalik davri</h1>
+  <p class="section-subtitle">Muhammad ﷺ vafotidan so‘ng xalifalar boshqaruvi boshlandi.</p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>1️⃣ Abu Bakr (r.a.)</h3>
+      <p>Birinchi xalifa. Qur’on birinchi marta to‘plandi. Ridda urushlari bo‘ldi.</p>
+    </div>
+    <div class="info-box">
+      <h3>2️⃣ Umar (r.a.)</h3>
+      <p>Islom davlati juda kengaydi. Adolatli boshqaruvni joriy qildi.</p>
+    </div>
+    <div class="info-box">
+      <h3>3️⃣ Usmon (r.a.)</h3>
+      <p>Qur’on rasmiy mushafga aylandi va ko‘paytirildi. Firqalar paydo bo‘la boshladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>4️⃣ Ali (r.a.)</h3>
+      <p>Fitnali davr. Ichki nizolar, sabr, bilim va hikmat bilan boshqardi.</p>
+    </div>
+  </div>
+</div>
+
+<div id="islom_tarixi_dunyoga" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌍 Islom dunyoga yoyilishi</h1>
+  <p class="section-subtitle">Islom xalifalik orqali butun dunyoga yoyildi.</p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕌 Yaqin Sharq</h3>
+      <p>Iroq, Eron, Shom, Misr – dastlabki kengayish hududlari bo‘ldi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌍 Afrika va Andalusiya</h3>
+      <p>Shimoliy Afrika va Ispaniyagacha (Andalusiya) yoyildi.</p>
+    </div>
+    <div class="info-box">
+      <h3>📚 Madaniyat ta’siri</h3>
+      <p>Yevropaga ilm, san’at, adolat tushunchalari yetkazildi.</p>
+    </div>
+  </div>
+</div>
+
+<div id="islom_tarixi_ilm" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🕌 Ilm-fan va uyg‘onish davri</h1>
+  <p class="section-subtitle">Islom olami ilm-fanda yuksak darajaga erishdi.</p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>📖 Qur’on va hadis ilmlari</h3>
+      <p>Imom Buxoriy, Termiziy, Imom Abu Hanifa kabi allomalar yetishdi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧪 Ilmiy kashfiyotlar</h3>
+      <p>Al-Xorazmiy – algebra, Ibn Sino – tibbiyot, Al-Biruniy – astronomiya asoschisi.</p>
+    </div>
+    <div class="info-box">
+      <h3>📚 Kutubxonalar va madrasalar</h3>
+      <p>Bag‘doddagi Baytul Hikma – dunyodagi eng katta kutubxonalardan biri bo‘lgan.</p>
+    </div>
+  </div>
+</div>
+
+<div id="islom_tarixi_inqiroz" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('islom_tarixi')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">📉 Inqiroz va tiklanish</h1>
+  <p class="section-subtitle">Islom olami tarixda qiyinchiliklarga duch kelgan, ammo har doim qayta tiklangan.</p>
+
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>⚔️ Mo‘g‘ullar istilosi</h3>
+      <p>Bag‘dod 1258 yili vayron qilindi, ammo islom yashab qoldi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔒 Mustamlakachilik</h3>
+      <p>Yevropa tomonidan ko‘plab musulmon yerlar bosib olindi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌅 Tiklanishlar</h3>
+      <p>Usmoniylar, Hindiston, Movarounnahr – islom yana tiklandi. Bugun ham islom o‘sishda davom etmoqda.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🕢 Namoz sahifasi‘ s-->
+<div id="namoz" class="section">
+  <button class="back-button" onclick="loadSection('bosh_sahifa')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🕋 Namoz</h1>
+  <p class="section-subtitle">Namoz islomning ustunidir. Quyidagi 7 bo‘limdan birini tanlang:</p>
+  <div class="info-grid">
+    <div class="info-box clickable" onclick="showSubSection('tahorat')">🚿 Tahorat</div>
+    <div class="info-box clickable" onclick="showSubSection('bomdod')">🌅 Bomdod</div>
+    <div class="info-box clickable" onclick="showSubSection('peshin')">🌞 Peshin</div>
+    <div class="info-box clickable" onclick="showSubSection('asr')">🌇 Asr</div>
+    <div class="info-box clickable" onclick="showSubSection('shom')">🌆 Shom</div>
+    <div class="info-box clickable" onclick="showSubSection('xufton')">🌃 Xufton</div>
+    <div class="info-box clickable" onclick="showSubSection('namoz_nafl')">🕊 Nafl namozlari</div>
+  </div>
+</div>
+
+<!-- 🚿 Tahorat bo‘limi -->
+<div id="tahorat" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🚿 Tahorat</h1>
+  <p class="section-subtitle">Namoz o‘qishdan oldin tanani poklash, ya'ni tahorat olish farzdir. Quyidagi bosqichlar asosida tahorat oling:</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p><strong>Arabcha:</strong><br>
+        نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ الأَصْورِ فَرْضًا ِللهِ تَعَالَى</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Navaytul-wudū’a li raf‘il-ḥadasil-aṣghar farḍan lillāhi ta‘ālā</p>
+      <p><strong>Tarjimasi:</strong><br>
+        Kichik hadasdan pok bo‘lish uchun Alloh rizoligi uchun tahorat qilishga niyat qildim.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Tahorat tartibi (8 bosqich)</h3>
+      <ol>
+        <li>Qo‘llarni bilakgacha 3 marta yuvish</li>
+        <li>Og‘izga 3 marta suv olib chayish</li>
+        <li>Burunga 3 marta suv tortish va tozalash</li>
+        <li>Yuzni 3 marta yuvish (peshonadan iyagigacha, quloqdan quloqqacha)</li>
+        <li>O‘ng va chap qo‘lni tirsakkacha 3 marta yuvish</li>
+        <li>Boshni bir marta mash qilish (ho‘l qo‘l bilan)</li>
+        <li>Quloqlarni bir marta mash qilish (ichki va tashqi)</li>
+        <li>Oyoqlarni tovon bilan birga 3 marta yuvish (o‘ngdan boshlanadi)</li>
+      </ol>
+    </div>
+    <div class="info-box">
+      <h3>📌 Tahoratning 4 farzi</h3>
+      <ul>
+        <li>Yuzni yuvish</li>
+        <li>Qo‘llarni tirsakkacha yuvish</li>
+        <li>Boshni mash qilish</li>
+        <li>Oyoqlarni tovon bilan birga yuvish</li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Tahoratning sunnatlari</h3>
+      <ul>
+        <li>Niyat qilish</li>
+        <li>“Bismillah” aytish</li>
+        <li>Qo‘llarni avval yuvish</li>
+        <li>Og‘iz va burunni yuvish</li>
+        <li>Har bir a’zoni 3 marta yuvish</li>
+        <li>Tartib va muvolat (ketma-ketlik va oraliqni uzmaslik)</li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>📿 Tahoratdan so‘ng duo</h3>
+      <p><strong>Arabcha:</strong><br>
+        اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، اَللَّهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Ashhadu alla ilaha illallohu wahdahu la sharika lah, wa ashhadu anna Muhammadan abduhu wa rasuluh. Allohumma aj‘alni minattawwabin waj‘alni minal mutatahhirin</p>
+      <p><strong>Ma'nosi:</strong><br>
+        Guvohlik beramanki, Allohdan o‘zga iloh yo‘q, U yagona, sherigi yo‘q. Guvohlik beramanki, Muhammad – Uning quli va rasulidir. Ey Allohim! Meni tavba qiluvchilardan va poklanuvchilardan qilgin.</p>
+    </div>
+    <div class="info-box">
+      <h3>📷 Rasmiy ko‘rinish (tavsif)</h3>
+      <p>Quyidagi bosqichlarda rasm chizmasi ko‘rsatilishi mumkin: yuz, qo‘l, bosh, oyoq yuvilishi va mash qilish.</p>
+      <p><em>(Agar rasm yuklansa, <code><img src=\"tahorat1.png\" /></code> shaklida joylashtiriladi)</em></p>
+    </div>
+  </div>
+</div>
+
+<!-- 🌅 Bomdod namozi bo‘limi -->
+<div id="bomdod" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌅 Bomdod namozi</h1>
+  <p class="section-subtitle">Bomdod – tongda o‘qiladigan ikki rakat farz va ikki rakat sunnatdan iborat.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p><strong>Arabcha:</strong> <br>
+        نَوَيْتُ أَنْ أُصَلِّيَ لِلّٰهِ تَعَالٰى رَكْعَتَيِ صَلَاةِ الفَجْرِ فَرْضًا مُسْتَقْبِلَ القِبْلَةِ اللهُ أَكْبَرُ</p>
+      <p><strong>O'qilishi:</strong><br>Navaytu an usalliya lillāhi ta‘ālā rak‘atay ṣalāt-il-fajri farḍan mustaqbilal qiblati Allāhu Akbar</p>
+      <p><strong>Tarjimasi:</strong><br>Bomdod namozining ikki rakat farzini Alloh uchun o‘qishni niyat qildim. Qiblaga yuzlanib, Allohu Akbar dedim.</p>
+    </div>
+    <div class="info-box">
+      <h3>📖 1-rakat</h3>
+      <ul>
+        <li>1. Takbir: "Allohu Akbar"</li>
+        <li>2. Subhanaka (sano duosi)</li>
+        <li>3. Fotiha surasi</li>
+        <li>4. Qo‘shilgan sura: Masalan, Ixlos</li>
+        <li>5. Ruku</li>
+        <li>6. Sajda (2 marta)</li>
+        <li>7. Ikkinchi rakatga turiladi</li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>📖 2-rakat</h3>
+      <ul>
+        <li>1. Fotiha surasi</li>
+        <li>2. Qo‘shilgan sura (masalan, Falak)</li>
+        <li>3. Ruku</li>
+        <li>4. Sajda (2 marta)</li>
+        <li>5. Qa’da – Attahiyyat, Salovot, Duo</li>
+        <li>6. Salom: Assalomu alaykum va rohmatulloh</li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>📚 O‘qiladigan suralar</h3>
+      <ul>
+        <li><strong>Fotiha surasi</strong></li>
+        <li><strong>Ixlos surasi</strong> – Qul huvallohu ahad...</li>
+        <li><strong>Falak yoki Nos surasi</strong> (ixtiyoriy)</li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>🗣 Zikr va duo</h3>
+      <ul>
+        <li><strong>Subhana robbiyal 'aziym</strong> – ruku’da</li>
+        <li><strong>Subhana robbiyal a’la</strong> – sajdada</li>
+        <li><strong>Attahiyyatu, Salovot (Allohumma salli...), Robbana atina...</strong></li>
+      </ul>
+    </div>
+    <div class="info-box">
+      <h3>📌 Sunnat rakatlari</h3>
+      <p>Avval sunnat 2 rakat o‘qiladi: tarsi va o‘qilishi farz kabi, lekin sal quyi ovozda va niyat quyidagicha:</p>
+      <p><strong>Niyat:</strong><br>Bomdod namozining ikki rakat sunnatini Alloh uchun o‘qishni niyat qildim. Allohu Akbar.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🌞 Peshin namozi bo‘limi -->
+<div id="peshin" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌞 Peshin namozi</h1>
+  <p class="section-subtitle">Peshin namozi 4 rakat sunnat va 4 rakat farzdan iborat. Quyida har biri haqida batafsil ko‘rsatilgan.</p>
+  <div class="info-grid">
+    <!-- Niyat -->
+    <div class="info-box">
+      <h3>🧠 Niyat (Farz uchun)</h3>
+      <p><strong>Arabcha:</strong><br>
+        نَوَيْتُ أَنْ أُصَلِّيَ لِلّٰهِ تَعَالٰى أَرْبَعَ رَكَعَاتٍ فَرْضَ صَلَاةِ الظُّهْرِ مُسْتَقْبِلَ الْقِبْلَةِ اللهُ أَكْبَرُ</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Navaytu an usalliya lillāhi ta‘ālā arba‘a raka‘āti farḍa ṣalātiz-zuhri mustaqbilal qiblati Allāhu Akbar</p>
+      <p><strong>Tarjimasi:</strong><br>
+        Alloh rizoligi uchun Peshin namozining to‘rt rakat farzini o‘qishni niyat qildim. Qiblaga yuzlanib, Allohu Akbar dedim.</p>
+    </div>
+    <!-- 4 Rakat Farz -->
+    <div class="info-box">
+      <h3>🕌 4 Rakat Farz tartibi</h3>
+      <ol>
+        <li>1-rakat: Takbir, Subhanaka, Fotiha, sura (masalan, Ixlos), ruku, sajda</li>
+        <li>2-rakat: Fotiha, sura, ruku, sajda, qa’da (Attahiyyot)</li>
+        <li>3-rakat: Faqat Fotiha, ruku, sajda</li>
+        <li>4-rakat: Fotiha, ruku, sajda, oxirgi qa’da: Attahiyyot, salovot, duo, salom</li>
+      </ol>
+    </div>
+    <!-- 4 Rakat Sunnat -->
+    <div class="info-box">
+      <h3>🌟 4 Rakat Sunnat tartibi</h3>
+      <p>Sunnat ham farz kabi o‘qiladi, lekin ovoz chiqarilmaydi va niyat quyidagicha:</p>
+      <p><strong>Niyat:</strong> Alloh uchun Peshin namozining to‘rt rakat sunnatini o‘qishni niyat qildim.</p>
+    </div>
+    <!-- Suralar -->
+    <div class="info-box">
+      <h3>📖 O‘qiladigan suralar</h3>
+      <ul>
+        <li>Fotiha surasi har rakatda</li>
+        <li>1 va 2-rakatlarda Ixlos, Falaq yoki Kavsar surasi</li>
+      </ul>
+    </div>
+    <!-- Zikr va Duolar -->
+    <div class="info-box">
+      <h3>📿 Zikr va duolar</h3>
+      <ul>
+        <li>Ruku: <strong>Subhana robbiyal ‘aziym</strong> (3 marta)</li>
+        <li>Sajda: <strong>Subhana robbiyal a’la</strong> (3 marta)</li>
+        <li>Qa’da: <strong>Attahiyyatu, Salovot, Robbana atina</strong></li>
+        <li>Salom: <em>Assalomu alaykum wa rohmatulloh</em> (o‘ng va chapga)</li>
+      </ul>
+    </div>
+    <!-- Maslahat -->
+    <div class="info-box">
+      <h3>✅ Maslahatlar</h3>
+      <ul>
+        <li>Farzni jamoat bilan o‘qish afzal.</li>
+        <li>Sunnatni o‘z vaqtida ado qilishga harakat qiling.</li>
+        <li>Qur'onni to‘g‘ri talaffuz qilishga e’tibor bering.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 🌇 Asr namozi bo‘limi -->
+<div id="asr" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌇 Asr namozi</h1>
+  <p class="section-subtitle">Asr namozi 4 rakat sunnat emas (muvakkad bo‘lmagan) va 4 rakat farzdan iborat.</p>
+  <div class="info-grid">
+    <!-- Niyat -->
+    <div class="info-box">
+      <h3>🧠 Niyat (Farz uchun)</h3>
+      <p><strong>Arabcha:</strong><br>
+        نَوَيْتُ أَنْ أُصَلِّيَ لِلّٰهِ تَعَالٰى أَرْبَعَ رَكَعَاتٍ فَرْضَ صَلَاةِ الْعَصْرِ مُسْتَقْبِلَ الْقِبْلَةِ اللهُ أَكْبَرُ</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Navaytu an usalliya lillāhi ta‘ālā arba‘a raka‘āti farḍa ṣalātil-‘asri mustaqbilal qiblati Allāhu Akbar</p>
+      <p><strong>Tarjimasi:</strong><br>
+        Alloh rizoligi uchun Asr namozining to‘rt rakat farzini o‘qishni niyat qildim. Qiblaga yuzlanib, Allohu Akbar dedim.</p>
+    </div>
+    <!-- 4 Rakat Farz -->
+    <div class="info-box">
+      <h3>🕌 4 Rakat Farz tartibi</h3>
+      <ol>
+        <li>1-rakat: Takbir, Subhanaka, Fotiha, sura (masalan, Qadr), ruku, sajda</li>
+        <li>2-rakat: Fotiha, sura, ruku, sajda, qa’da: Attahiyyot</li>
+        <li>3-rakat: Fotiha, ruku, sajda</li>
+        <li>4-rakat: Fotiha, ruku, sajda, oxirgi qa’da: Attahiyyot, salovot, duo, salom</li>
+      </ol>
+      <p><em>Eslatma:</em> Imom bilan o‘qilsa, ba’zi qismlar o‘tkaziladi.</p>
+    </div>
+    <!-- Suralar -->
+    <div class="info-box">
+      <h3>📖 O‘qiladigan suralar</h3>
+      <ul>
+        <li>Fotiha surasi har rakatda</li>
+        <li>1 va 2-rakatlarda Ixlos, Kavsar, Nasr yoki Qadr surasi</li>
+      </ul>
+    </div>
+    <!-- Zikr va Duolar -->
+    <div class="info-box">
+      <h3>📿 Zikr va duolar</h3>
+      <ul>
+        <li>Ruku: <strong>Subhana robbiyal ‘aziym</strong> (3 marta)</li>
+        <li>Sajda: <strong>Subhana robbiyal a’la</strong> (3 marta)</li>
+        <li>Qa’da: <strong>Attahiyyat, Salovot, Robbana atina</strong></li>
+        <li>Salom: <em>Assalomu alaykum wa rohmatulloh</em> (o‘ng va chapga)</li>
+      </ul>
+    </div>
+    <!-- Tavsiyalar -->
+    <div class="content-box">
+      <h3>✅ Tavsiyalar</h3>
+      <ul>
+        <li>Asr namozi kechiktirilmay, o‘z vaqtida o‘qilishi kerak.</li>
+        <li>Asr – farz bo‘lib, uni jamoatda o‘qish savobi yuqori.</li>
+        <li>Ortidan Qur’on tilovati yoki zikrlar qilish tavsiya etiladi.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 🌆 Shom namozi bo‘limi -->
+<div id="shom" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌆 Shom namozi</h1>
+  <p class="section-subtitle">Shom namozi 3 rakat farz va 2 rakat sunnatdan iborat bo‘lib, quyosh botgandan keyin o‘qiladi.</p>
+  <div class="info-grid">
+    <!-- Niyat -->
+    <div class="info-box">
+      <h3>🧠 Niyat (Farz uchun)</h3>
+      <p><strong>Arabcha:</strong><br>
+        نَوَيْتُ أَنْ أُصَلِّيَ لِلّٰهِ تَعَالٰى ثَلَاثَ رَكَعَاتٍ فَرْضَ صَلَاةِ الْمَغْرِبِ مُسْتَقْبِلَ الْقِبْلَةِ اللهُ أَكْبَرُ</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Navaytu an usalliya lillāhi ta‘ālā thalāsa raka‘āti farḍa ṣalātil-mag‘rib mustaqbilal qiblati Allāhu Akbar</p>
+      <p><strong>Tarjimasi:</strong><br>
+        Alloh rizoligi uchun Shom namozining uch rakat farzini o‘qishni niyat qildim. Qiblaga yuzlanib, Allohu Akbar dedim.</p>
+    </div>
+    <!-- 3 Rakat Farz -->
+    <div class="info-box">
+      <h3>🕌 3 Rakat Farz tartibi</h3>
+      <ol>
+        <li>1-rakat: Takbir, Subhanaka, Fotiha, sura (masalan, Ixlos), ruku, sajda</li>
+        <li>2-rakat: Fotiha, sura, ruku, sajda, qa’da: Attahiyyot</li>
+        <li>3-rakat: Fotiha, sura, ruku, sajda, oxirgi qa’da: Attahiyyot, salovot, duo, salom</li>
+      </ol>
+      <p><em>Eslatma:</em> Imom ortida ba'zi qismlar jim turib tinglanadi.</p>
+    </div>
+    <!-- 2 Rakat Sunnat -->
+    <div class="info-box">
+      <h3>🌟 2 Rakat Sunnat</h3>
+      <p><strong>Niyat:</strong> Alloh uchun Shom namozining ikki rakat sunnatini o‘qishni niyat qildim.</p>
+      <p>Bu sunnat Payg‘ambarimiz sollallohu alayhi vasallam doim qilgan sunnatlardandir (muakkada).</p>
+    </div>
+    <!-- Suralar -->
+    <div class="info-box">
+      <h3>📖 O‘qiladigan suralar</h3>
+      <ul>
+        <li>Fotiha surasi har rakatda</li>
+        <li>1 va 2-rakatlarda: Kavsar, Ixlos, Nasr kabi qisqa suralar</li>
+      </ul>
+    </div>
+    <!-- Duolar va Zikr -->
+    <div class="info-box">
+      <h3>📿 Duolar va zikrlar</h3>
+      <ul>
+        <li>Ruku: <strong>Subhana robbiyal ‘aziym</strong> (3 marta)</li>
+        <li>Sajda: <strong>Subhana robbiyal a’la</strong> (3 marta)</li>
+        <li>Qa’da: <strong>Attahiyyat, Salovot, Robbana atina</strong></li>
+        <li>Salom: <em>Assalomu alaykum wa rohmatulloh</em> (o‘ng va chapga)</li>
+      </ul>
+    </div>
+    <!-- Tavsiyalar -->
+    <div class="info-box">
+      <h3>✅ Tavsiyalar</h3>
+      <ul>
+        <li>Shom namozi quyosh botishi bilan kiradi va qorong‘ilikka qadar davom etadi.</li>
+        <li>Namozni o‘z vaqtida o‘qish afzaldir.</li>
+        <li>Sunnatni tark qilmaslik tavsiya etiladi.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 🌃 Xufton namozi bo‘limi -->
+<div id="xufton" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌃 Xufton namozi</h1>
+  <p class="section-subtitle">Xufton namozi 4 rakat farz, 2 rakat sunnat va 3 rakat vitr namozidan iborat.</p>
+  <div class="info-grid">
+    <!-- Farz Niyat -->
+    <div class="info-box">
+      <h3>🧠 Niyat (Farz uchun)</h3>
+      <p><strong>Arabcha:</strong><br>
+        نَوَيْتُ أَنْ أُصَلِّيَ لِلّٰهِ تَعَالٰى أَرْبَعَ رَكَعَاتٍ فَرْضَ صَلَاةِ الْعِشَاءِ مُسْتَقْبِلَ الْقِبْلَةِ اللهُ أَكْبَرُ</p>
+      <p><strong>O‘qilishi:</strong><br>
+        Navaytu an usalliya lillāhi ta‘ālā arba‘a raka‘āti farḍa ṣalātil-‘ishā’i mustaqbilal qiblati Allāhu Akbar</p>
+      <p><strong>Tarjimasi:</strong><br>
+        Alloh rizoligi uchun xufton (isha) namozining to‘rt rakat farzini o‘qishni niyat qildim. Qiblaga yuzlanib, Allohu Akbar dedim.</p>
+    </div>
+    <!-- Farz tartibi -->
+    <div class="info-box">
+      <h3>🕌 4 Rakat Farz tartibi</h3>
+      <ol>
+        <li>1-rakat: Takbir, Subhanaka, Fotiha, sura, ruku, sajda</li>
+        <li>2-rakat: Fotiha, sura, ruku, sajda, qa’da: Attahiyyot</li>
+        <li>3-rakat: Fotiha, ruku, sajda</li>
+        <li>4-rakat: Fotiha, ruku, sajda, oxirgi qa’da: Attahiyyot, Salovot, duo, salom</li>
+      </ol>
+    </div>
+    <!-- Sunnat -->
+    <div class="info-box">
+      <h3>🌟 2 Rakat Sunnat</h3>
+      <p><strong>Niyat:</strong> Alloh rizoligi uchun xufton namozining ikki rakat sunnatini o‘qishni niyat qildim.</p>
+    </div>
+    <!-- Vitr -->
+    <div class="info-box">
+      <h3>🌠 3 Rakat Vitr namozi</h3>
+      <p><strong>Niyat:</strong> Alloh rizoligi uchun 3 rakat vitr namozini o‘qishni niyat qildim.</p>
+      <p><strong>Tartibi:</strong></p>
+      <ul>
+        <li>1-rakat: Fotiha + sura</li>
+        <li>2-rakat: Fotiha + sura → ruku → sajda → turish</li>
+        <li>3-rakat: Fotiha + sura → <strong>Qunot duosi</strong> → ruku → sajda → qa’da</li>
+      </ul>
+    </div>
+    <!-- Qunot Duosi -->
+    <div class="info-box">
+      <h3>📜 Qunot Duosi</h3>
+      <p><strong>Arabcha:</strong></p>
+      <p>
+        اللَّهُمَّ إِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ، وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ،<br>
+        وَنُثْنِي عَلَيْكَ الْخَيْرَ، وَنَشْكُرُكَ وَلَا نَكْفُرُكَ،<br>
+        وَنَخْلَعُ وَنَتْرُكُ مَنْ يَفْجُرُكَ،<br>
+        اللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّي وَنَسْجُدُ،<br>
+        وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ،<br>
+        إِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحَقٌ
+      </p>
+      <p><strong>O‘qilishi:</strong></p>
+      <p>
+        Allohumma inna nasta‘īnuka wa nastaghfiruk, wa nu’minu bika wa natawakkalu ‘alayk,<br>
+        wa nuthnī ‘alaykal-khayra, wa nashkuruka wa la nakfuruk,<br>
+        wa nakhla‘u wa natruku man yafjuruk,<br>
+        Allāhumma iyyāka na‘budu wa laka nuṣallī wa nasjud,<br>
+        wa ilayka nas‘ā wa naḥfid, narjū raḥmatak, wa nakhshā ‘adhābak,<br>
+        inna ‘adhābaka bil-kuffāri mulḥaq
+      </p>
+      <p><strong>Tarjimasi:</strong></p>
+      <p>
+        Allohim! Sendan yordam so‘raymiz, gunohlarimiz uchun kechirim tilaymiz.<br>
+        Senga imon keltiramiz, Senga tavakkal qilamiz, Seni maqtaymiz,<br>
+        Senga shukr qilamiz, nankorlik qilmaymiz.<br>
+        Seni inkor qiluvchilardan yuz o‘girib, ularni tark qilamiz.<br>
+        Ey Allohim! Faqatgina Senga ibodat qilamiz, Sening uchun namoz o‘qiymiz va sajda qilamiz.<br>
+        Senga intilamiz va xizmat qilamiz, Sening rahmatingni umid qilamiz, azobingdan qo‘rqamiz.<br>
+        Albatta, Sening azobing kofirlargadir.
+      </p>
+    </div>
+    <!-- Suralar -->
+    <div class="info-box">
+      <h3>📖 O‘qiladigan suralar</h3>
+      <ul>
+        <li>Fotiha surasi har rakatda</li>
+        <li>Ixlos, Nas, Kavsar suralari tavsiya etiladi</li>
+      </ul>
+    </div>
+    <!-- Zikr va Duolar -->
+    <div class="info-box">
+      <h3>📿 Zikrlar</h3>
+      <ul>
+        <li>Ruku: <strong>Subhana robbiyal ‘aziym</strong> (3 marta)</li>
+        <li>Sajda: <strong>Subhana rabbiyal a’la</strong> (3 marta)</li>
+        <li>Qa’da: Attahiyyot, Salovot, Robbana otina</li>
+      </ul>
+    </div>
+    <!-- Tavsiyalar -->
+    <div class="info-box">
+      <h3>✅ Tavsiyalar</h3>
+      <ul>
+        <li>Qunot duosini yod olishga harakat qiling</li>
+        <li>Vitr namozi xuftonning eng muhim qismidir</li>
+        <li>Vitr namozi kechikmasdan xuftondan so‘ng o‘qilsin</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 🕊 Nafl Namozlari bo‘limi menyusi -->
+<div id="namoz_nafl" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🕊 Nafl Namozlari</h1>
+  <p class="section-subtitle">Farz bo‘lmagan, ammo katta savob keltiruvchi va tavsiya etiladigan nafl namozlar:</p>
+  <div class="info-grid">
+    <div class="info-box clickable" onclick="showSubSection('nafl_tahajjud')">🌃 Tahajjud namozi</div>
+    <div class="info-box clickable" onclick="showSubSection('nafl_duha')">☀️ Duha (Chasht) namozi</div>
+    <div class="info-box clickable" onclick="showSubSection('nafl_istikhora')">🧭 Istikhora namozi</div>
+    <div class="info-box clickable" onclick="showSubSection('nafl_tarawih')">🌙 Taroveh namozi</div>
+    <div class="info-box clickable" onclick="showSubSection('nafl_tahiyyatulmasjid')">🕌 Tahiyyatul Masjid</div>
+    <div class="info-box clickable" onclick="showSubSection('nafl_tahiyyatulvuzu')">💧 Tahiyyatul Vuzu</div>
+  </div>
+</div>
+
+<!-- 🌃 Tahajjud Namozi -->
+<div id="nafl_tahajjud" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌃 Tahajjud namozi</h1>
+  <p class="section-subtitle">Tungi ibodatning eng muhim va savobli shakli.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Tungi yarmidan bomdod namozigacha, eng afzali kechaning so‘nggi uchdan bir qismida.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>Kamida 2 rakat, odatda 8 rakatgacha o‘qiladi, so‘ng vitr bilan yakunlanadi.</p>
+    </div>
+    <div class="info-box">
+      <h3>📜 Dalil</h3>
+      <p class="arabic-text">وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ</p>
+      <p class="translation">“Kechani nafl ibodat bilan o‘tkaz, bu senga farz qilinmagan ibodatdir.” (Isro: 79)</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Allohga yaqinlik, gunohlar kechirilishi va duolarning ijobat bo‘lishi. Payg‘ambarimiz (s.a.v.) doim o‘qiganlar.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Tahajjud namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ☀️ Duha (Chasht) Namozi -->
+<div id="nafl_duha" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">☀️ Duha (Chasht) namozi</h1>
+  <p class="section-subtitle">Kunduzgi savobli ibodat, sadaqa o‘rnini bosadi.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Quyosh chiqqanidan 15-20 daqiqa o‘tgachdan peshin vaqtigacha, eng afzali choshgoh vaqti.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>2, 4, 6 yoki 8 rakat, har ikki rakatdan salom berib o‘qiladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Har bir bo‘g‘im uchun sadaqa hisoblanadi. Payg‘ambarimiz (s.a.v.): “Duha namozi sadaqa o‘rnini bosadi.”</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Duha namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🧭 Istikhora Namozi -->
+<div id="nafl_istikhora" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🧭 Istikhora namozi</h1>
+  <p class="section-subtitle">Muhim qaror qabul qilishdan oldin Allohdan yo‘l-yo‘riq so‘rash.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Har qanday vaqtda (makruh vaqtlar bundan mustasno), halol ish oldidan o‘qiladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>2 rakat nafl, so‘ng maxsus istikhora duosi o‘qiladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>📜 Duo</h3>
+      <p class="arabic-text">
+        اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ...
+      </p>
+      <p class="translation">Allohim, Sening ilming bilan yaxshilik so‘rayman, Sening qudrating bilan quvvat so‘rayman...</p>
+      <p>(To‘liq duo sahih hadislarda keltirilgan, yodlash tavsiya etiladi).</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Allohdan eng yaxshi yo‘lni so‘rash, qalbga xotirjamlik va ishonch keltiradi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Istikhora namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🌙 Taroveh Namozi -->
+<div id="nafl_tarawih" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🌙 Taroveh namozi</h1>
+  <p class="section-subtitle">Ramazon oyidagi maxsus ibodat, katta savob keltiradi.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Ramazon oyida xufton namozidan keyin vitr namozigacha o‘qiladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>20 rakat (har ikki rakatdan salom beriladi), jamoat bilan o‘qish afzal.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Payg‘ambarimiz (s.a.v.): “Kim Ramazonda tarovehni iymon bilan o‘qisa, gunohlari kechiriladi.”</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Taroveh namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 🕌 Tahiyyatul Masjid -->
+<div id="nafl_tahiyyatulmasjid" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">🕌 Tahiyyatul Masjid</h1>
+  <p class="section-subtitle">Masjidga kirganda hurmat sifatida o‘qiladigan namoz.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Masjidga kirganda, o‘tirishdan oldin, makruh vaqtlardan tashqari.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>2 rakat nafl namoz.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Masjidga hurmat ko‘rsatish va ibodat boshlash uchun o‘qiladi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Tahiyyatul Masjid namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 💧 Tahiyyatul Vuzu -->
+<div id="nafl_tahiyyatulvuzu" class="section" style="display: none;">
+  <button class="back-button" onclick="showSubSection('namoz_nafl')">⬅️ Ortga qaytish</button>
+  <h1 class="section-title">💧 Tahiyyatul Vuzu</h1>
+  <p class="section-subtitle">Tahoratdan keyin shukronalik sifatida o‘qiladigan namoz.</p>
+  <div class="info-grid">
+    <div class="info-box">
+      <h3>🕰 Vaqti</h3>
+      <p>Tahorat olgandan so‘ng darhol, makruh vaqtlardan tashqari.</p>
+    </div>
+    <div class="info-box">
+      <h3>🔢 Rakat soni</h3>
+      <p>2 rakat nafl namoz.</p>
+    </div>
+    <div class="info-box">
+      <h3>🌟 Fazilati</h3>
+      <p>Tahoratning savobini oshiradi, Allohga shukronalik bildiradi.</p>
+    </div>
+    <div class="info-box">
+      <h3>🧠 Niyat</h3>
+      <p>Alloh rizoligi uchun Tahiyyatul Vuzu namozining ikki rakat naflini o‘qishni niyat qildim.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Namoz vaqtlari bo'limi -->
+<section id="namoz_vaqtlari" class="section" style="display: none;">
+  <div class="namoz-section-container">
+    <h2 class="section-title">Namoz Vaqtlari</h2>
+    
+    <div class="date-info">
+        <p id="currentDate"></p>
+        <p id="hijriDate"></p>
+    </div>
+
+    <div class="location-selector">
+        <select id="regionSelect" class="select-dropdown">
+            <option value="">Viloyatni tanlang</option>
+            <option value="andijon">Andijon</option>
+            <option value="namangan">Namangan</option>
+            <option value="fargona">Farg'ona</option>
+            <option value="toshkent">Toshkent</option>
+            <option value="sirdaryo">Sirdaryo</option>
+            <option value="jizzax">Jizzax</option>
+            <option value="navoiy">Navoiy</option>
+            <option value="qashqadaryo">Qashqadaryo</option>
+            <option value="surxondaryo">Surxondaryo</option>
+            <option value="samarqand">Samarqand</option>
+            <option value="buxoro">Buxoro</option>
+            <option value="xorazm">Xorazm</option>
+            <option value="qoraqalpogiston">Qoraqalpog'iston</option>
+        </select>
+
+        <select id="citySelect" class="select-dropdown" disabled>
+            <option value="">Tuman/Shaharni tanlang</option>
+        </select>
+    </div>
+
+    <!-- Faqat mana bu DIV ga id="prayerTimesDisplay" bering -->
+    <div class="prayer-times-display" id="prayerTimesDisplay" style="display: none;">
+        <h3 id="selectedLocation"></h3>
+        
+        <div class="prayer-times-grid">
+            <div class="prayer-time-card">
+                <h4>Bomdod</h4>
+                <p class="time" id="fajrTime">--:--</p>
+            </div>
+            <div class="prayer-time-card">
+                <h4>Quyosh</h4>
+                <p class="time" id="sunriseTime">--:--</p>
+            </div>
+            <div class="prayer-time-card">
+                <h4>Peshin</h4>
+                <p class="time" id="dhuhrTime">--:--</p>
+            </div>
+            <div class="prayer-time-card">
+                <h4>Asr</h4>
+                <p class="time" id="asrTime">--:--</p>
+            </div>
+            <div class="prayer-time-card">
+                <h4>Shom</h4>
+                <p class="time" id="maghribTime">--:--</p>
+            </div>
+            <div class="prayer-time-card">
+                <h4>Xufton</h4>
+                <p class="time" id="ishaTime">--:--</p>
+            </div>
+        </div>
+
+        <div class="next-prayer-info">
+            <p>Keyingi namoz: <span id="nextPrayer"></span></p>
+            <p>Qolgan vaqt: <span id="timeRemaining"></span></p>
+        </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Qur'on bo'limi -->
+<section id="quron" class="section" style="display: none;">
+  <!-- Amiri fontni ulash uchun Google Fonts linki qo‘shildi -->
+  <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet">
+  <!-- Font Awesome ikonkasi uchun CDN qo‘shildi -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <div class="quran-section">
+      <h2 class="section-title">Qur'oni Karim</h2>
+      
+      <div class="search-bar">
+          <input type="text" id="suraSearch" placeholder="Sura nomi yoki raqamini kiriting...">
+          <!-- search-icon sinfi Font Awesome ikonkasi bilan almashtirildi -->
+          <button id="searchBtn"><i class="fas fa-search"></i> Qidirish</button>
+      </div>
+
+      <div class="sura-list" id="suraList">
+          <!-- Suralar ro'yxati JavaScript orqali to'ldiriladi -->
+      </div>
+
+      <div class="sura-content" id="suraContent" style="display: none;">
+          <div class="sura-header">
+              <button class="back-btn" id="backBtn">← Orqaga</button>
+              <h3 id="suraTitle"></h3>
+              <div class="sura-info">
+                  <span id="suraPlace"></span>
+                  <span id="ayahCount"></span>
+              </div>
+          </div>
+
+          <div class="reading-controls">
+              <button id="increaseFontBtn">A+</button>
+              <button id="decreaseFontBtn">A-</button>
+              <button id="copyAllBtn">Nusxa olish</button>
+              <button id="downloadBtn">Yuklab olish</button>
+          </div>
+
+          <div class="bismillah" id="bismillah">
+              <p class="arabic">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+              <p class="transcription">Bismillahir Rohmanir Rohiym</p>
+              <p class="translation">Mehribon va rahmli Alloh nomi bilan</p>
+          </div>
+
+          <div class="ayah-container" id="ayahContainer">
+              <!-- Oyatlar JavaScript orqali to'ldiriladi -->
+          </div>
+      </div>
+  </div>
+</section>
+
   <script src="script.js"></script>
 </body>
 </html>
