@@ -1288,6 +1288,1996 @@ const surahs = [
           "translation": "Va dengizni sizlar uchun bo'lib, sizni qutqarganimizni va ko'zlaringiz oldida Fir'avn xonaqdonini cho'ktirganmizni eslang.",
           "tafsir": "Dengizning bo'linishi va Fir'avnning cho'kishi mo'jizasi.",
           "copySymbol": "📋"
+        },
+          {
+            "numberArabic": "٥١",
+            "numberLatin": "51",
+            "arabic": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةًۭ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ",
+            "transcription": "wa idh wāʿadnā mūsā arbaʿīna laylatan thumma ttakhadhtumu l-ʿijla min baʿdihi wa antum ẓālimūn",
+            "translation": "Musoga qırq kecha va'da berganimizni eslang. So'ng siz undan keyin buzovni (iloh) qilib oldingiz va siz zolimlar edingiz.",
+            "tafsir": "Bani Isroilning buzov sajdasi va zulmi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٢",
+            "numberLatin": "52",
+            "arabic": "ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+            "transcription": "thumma ʿafawnā ʿankum min baʿdi dhālika laʿallakum tashkurūn",
+            "translation": "So'ng bundan keyin sizni kechirdik, shukr qilishingiz uchun.",
+            "tafsir": "Allohning afvi va rahmat ko'rsatishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٣",
+            "numberLatin": "53",
+            "arabic": "وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+            "transcription": "wa idh ātaynā mūsā l-kitāba wa l-furqāna laʿallakum tahtadūn",
+            "translation": "Musoga Kitob va Furqonni (haq va botilni farqluvchini) berganimizni eslang, hidoyat topishingiz uchun.",
+            "tafsir": "Tavrotning nozil qilinishi va uning hidoyat maqsadi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٤",
+            "numberLatin": "54",
+            "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+            "transcription": "wa idh qāla mūsā li-qawmihi yā qawmi innakum ẓalamtum anfusakum bi-ttikhādhikumu l-ʿijla fa-tūbū ilā bāri'ikum fa-qtulū anfusakum dhālikum khayrun lakum ʿinda bāri'ikum fa-tāba ʿalaykum innahu huwa t-tawwābu r-raḥīm",
+            "translation": "Muso qavmiga: 'Ey qavmim! Siz buzovni iloh qilib olish bilan o'zingizga zulm qildingiz. Yaratuvchingizga tavba qiling va o'zingizni o'ldiring. Bu sizning Yaratuvchingiz huzurida yaxshiroqdir' deganini eslang. U sizning tavbangizni qabul qildi. Albatta U ko'p tavba qabul qiluvchi va rahmli Zotdir.",
+            "tafsir": "Buzov sajdasidan tavba qilish va uning qabul bo'lishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٥",
+            "numberLatin": "55",
+            "arabic": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+            "transcription": "wa idh qultum yā mūsā lan nu'mina laka ḥattā narā llāha jahratan fa-akhadhatkumu ṣ-ṣāʿiqatu wa antum tanẓurūn",
+            "translation": "'Ey Muso! Allohni ochiq-oydin ko'rmagunicha senga iymon keltirmaymiz' deganingizni eslang. Shu payt sizni ko'z o'ngida chaqmoq urdi.",
+            "tafsir": "Bani Isroilning haddan oshgan talabi va ularga chaqmoq urishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٦",
+            "numberLatin": "56",
+            "arabic": "ثُمَّ بَعَثْنَـٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+            "transcription": "thumma baʿathnākum min baʿdi mawtikum laʿallakum tashkurūn",
+            "translation": "So'ng sizni o'limingizdan keyin tiriltirdik, shukr qilishingiz uchun.",
+            "tafsir": "Allohning mo'jizaviy kuchi bilan qayta tiriltirish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٧",
+            "numberLatin": "57",
+            "arabic": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+            "transcription": "wa ẓallalnā ʿalaykumu l-ghamāma wa anzalnā ʿalaykumu l-manna wa s-salwā kulū min ṭayyibāti mā razaqnākum wa mā ẓalamūnā wa lākin kānū anfusahum yaẓlimūn",
+            "translation": "Ustingizga bulutni soya qildik, sizga mann va salvo (qudbinlar) nozil qildik. Sizga rizq qilib bergan pokiza narsalardan yeng. Ular Bizga zulm qilmadilar, lekin o'zlariga zulm qiladilar.",
+            "tafsir": "Sahroda Allohning mo'jizaviy rizq berishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٨",
+            "numberLatin": "58",
+            "arabic": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَـٰيَـٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+            "transcription": "wa idh qulnā dkhulū hādhihi l-qaryata fa-kulū minhā ḥaythu shi'tum raghadan wa dkhulū l-bāba sujjadan wa qūlū ḥittatun naghfir lakum khaṭāyākum wa sa-nazīdu l-muḥsinīn",
+            "translation": "'Bu shaharga kiring va undan xohlaganingizcha mo'l-ko'l yeng, darvozaga sajda qilib kiring va «Hitta» (gunohlarimizni kechir) deng, xatolaringizni kechiraman va yaxshilik qiluvchilarni oshirib beraman' deganimizni eslang.",
+            "tafsir": "Muqaddas shaharga kirishda tavozu va istig'for ko'rsatish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٩",
+            "numberLatin": "59",
+            "arabic": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+            "transcription": "fa-baddala lladhīna ẓalamū qawlan ghayra lladhī qīla lahum fa-anzalnā ʿalā lladhīna ẓalamū rijzan mina s-samā'i bimā kānū yafsuqūn",
+            "translation": "Zolimlar ularga aytilgan so'zni boshqaga almashtirdilar. Shuning uchun zolimlar ustiga osmondan azob tushirdik, ular fosiqlik qilganliklari uchun.",
+            "tafsir": "Alloh amrini o'zgartirishning jazo¬si.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٠",
+            "numberLatin": "60",
+            "arabic": "وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+            "transcription": "wa idhi stasqā mūsā li-qawmihi fa-qulnā ḍrib bi-ʿaṣāka l-ḥajara fa-nfajarat minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum kulū wa shrabū min rizqi llāhi wa lā taʿthaw fī l-arḍi mufsidīn",
+            "translation": "Muso qavmi uchun suv so'raganini eslang. Dedik: 'Asong bilan toshni ur.' Undan o'n ikki buloq otilib chiqdi. Har bir qabila o'z ichish joyini bildi. Allohning rizqidan yeng va iching va yerda fasodchilik qilmang.",
+            "tafsir": "Muso Alayhissalomning asa mo'jizasi va suv chiqarishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦١",
+            "numberLatin": "61",
+            "arabic": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+            "transcription": "wa idh qultum yā mūsā lan naṣbira ʿalā ṭaʿāmin wāḥidin fa-dʿu lanā rabbaka yukhrij lanā mimmā tunbitu l-arḍu min baqlihā wa qiththa'ihā wa fūmihā wa ʿadasihā wa baṣalihā qāla a-tastabdilūna lladhī huwa adnā bi-lladhī huwa khayrun hbiṭū miṣran fa-inna lakum mā sa'altum wa ḍuribat ʿalayhimu dh-dhillatu wa l-maskanatu wa bā'ū bi-ghaḍabin mina llāhi dhālika bi-annahum kānū yakfurūna bi-āyāti llāhi wa yaqtulūna n-nabiyyīna bi-ghayri l-ḥaqqi dhālika bimā ʿaṣaw wa kānū yaʿtadūn",
+            "translation": "'Ey Muso! Biz bir xil taomga sabr qila olmaymiz. Bizga Robbing duo qil, bizga yerdan o'sadigan sabzavot, bodring, sarimsoq, yasmiq va piyoz chiqarsin' deganingizni eslang. (Muso): 'Yaxshiroqni pastroq bilan almashtirasizmi? Shaharga tushing, sizga so'ragan narsangiz bor' dedi. Ularga zillat va miskinlik muhr bosildi va Allohning g'azabiga uchrashdilar. Bu ular Allohning oyatlarini inkor qilganları va payg'ambarlarni nohaq o'ldirganları uchundir. Bu ular itoatsizlik qilganları va haddan oshganları uchundir.",
+            "tafsir": "Bani Isroilning noshukrligi va ularga muhr bosilgan zillat.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٢",
+            "numberLatin": "62",
+            "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَـٰلِحًۭا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "transcription": "inna lladhīna āmanū wa lladhīna hādū wa n-naṣārā wa ṣ-ṣābi'īna man āmana billāhi wa l-yawmi l-ākhiri wa ʿamila ṣāliḥan fa-lahum ajruhum ʿinda rabbihim wa lā khawfun ʿalayhim wa lā hum yaḥzanūn",
+            "translation": "Iymon keltirguvchilar, yahudiylar, nasroniylar va sabiiylardan kim Allohga va oxirat kuniga iymon keltirib solih amal qilsa, ularga Robbiları huzurida ajrları bor. Ularga na qo'rquv, na g'am bor.",
+            "tafsir": "Barcha dinlarda solih amal qiluvchilarning mukofoti.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٣",
+            "numberLatin": "63",
+            "arabic": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ mَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+            "transcription": "wa idh akhadhnā mīthāqakum wa rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa dhkurū mā fīhi laʿallakum tattaqūn",
+            "translation": "Sizdan ahd olganimizni va ustingizga Tur tog'ini ko'targanimizni eslang: 'Sizga bergan narsani quvvat bilan oling va undagi narsalarni eslab turing, taqvodor bo'lishingiz uchun.'",
+            "tafsir": "Tur tog'ining ko'tarilishi va ahdni qat'iy qabul qilish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٤",
+            "numberLatin": "64",
+            "arabic": "ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَـٰسِرِينَ",
+            "transcription": "thumma tawallaytum min baʿdi dhālika fa-law lā faḍlu llāhi ʿalaykum wa raḥmatahu la-kuntum mina l-khāsirīn",
+            "translation": "So'ng bundan keyin yuz o'girdingiz. Agar Allohning sizga fazli va rahmati bo'lmaganida, ziyonkorlardan bo'lgan bo'lardingiz.",
+            "tafsir": "Ahddan qaytish va Allohning fazl-karam ko'rsatishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٥",
+            "numberLatin": "65",
+            "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+            "transcription": "wa la-qad ʿalimtumu lladhīna ʿtadaw minkum fī s-sabti fa-qulnā lahum kūnū qiradatan khāsi'īn",
+            "translation": "Sizlardan shanba (taqiqi)da haddan oshganlarni bildingiz. Ularga: 'Xor maymunlar bo'ling' dedik.",
+            "tafsir": "Shanba kunini buzuvchilarning maymunlarga aylantirilishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٦",
+            "numberLatin": "66",
+            "arabic": "فَجَعَلْنَـٰهَا نَكَـٰلًۭا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ",
+            "transcription": "fa-jaʿalnāhā nakālan li-mā bayna yadayhā wa mā khalfahā wa mawʿiẓatan li-l-muttaqīn",
+            "translation": "Buni o'zidan oldingi va keyingilar uchun ogohlantirish va taqvodorlar uchun ibrat qildik.",
+            "tafsir": "Bu voqeaning ibrat va ogohlantirish maqsadi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٧",
+            "numberLatin": "67",
+            "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةًۭ ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًۭا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ",
+            "transcription": "wa idh qāla mūsā li-qawmihi inna llāha ya'murukum an tadhbaḥū baqaratan qālū a-tattakhidhunā huzuwan qāla aʿūdhu billāhi an akūna mina l-jāhilīn",
+            "translation": "Muso qavmiga: 'Alloh sizga bir sigirni so'yishni buyuradi' deganini eslang. Dedilar: 'Bizni masxara qilyapsanmi?' Dedi: 'Johillardan bo'lishdan Allohga panoh tilayman.'",
+            "tafsir": "Sigir so'yish buyrug'i va qavmning hayron bo'lishi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٨",
+            "numberLatin": "68",
+            "arabic": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا فَارِضٌۭ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+            "transcription": "qālū dʿu lanā rabbaka yubayyil lanā mā hiya qāla innahu yaqūlu innahā baqaratun lā fāriḍun wa lā bikrun ʿawānun bayna dhālika fa-fʿalū mā tu'marūn",
+            "translation": "Dedilar: 'Bizga Robbingdan so'ra, u qanday sigir ekanini bayonlasin.' Dedi: 'U aytadi: Bu sigir na keksa, na yosh, ikkovining o'rtachasidir. Sizga buyurilgan narsani qiling.'",
+            "tafsir": "Sigirning yoshi haqida tafsilot so'rash.",
+            "copySymbol": "📋"
+          },
+          {
+              "numberArabic": "٦٩",
+              "numberLatin": "69",
+              "arabic": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ صَفْرَآءُ فَاقِعٌۭ لَّوْنُهَا تَسُرُّ ٱلنَّـٰظِرِينَ",
+              "transcription": "qālū dʿu lanā rabbaka yubayyil lanā mā lawnuhā qāla innahu yaqūlu innahā baqaratun ṣafrā'u fāqiʿun lawnuhā tasurru n-nāẓirīn",
+              "translation": "Dedilar: 'Bizga Robbingdan so'ra, uning rangi qanday ekanini bayonlasin.' Dedi: 'U aytadi: Bu to'q sariq rangli sigir, rangi ko'ruvchilarni xursand qiladi.'",
+              "tafsir": "Sigirning rangi haqida tafsilot so'rash.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٠",
+              "numberLatin": "70",
+              "arabic": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَـٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ",
+              "transcription": "qālū dʿu lanā rabbaka yubayyil lanā mā hiya inna l-baqara tashābaha ʿalaynā wa innā in shā'a llāhu la-muhtadūn",
+              "translation": "Dedilar: 'Bizga Robbingdan so'ra, u qanday sigir ekanini bayonlasin. Sigirlar bizga o'xshab ketdi. Agar Alloh xohlasa, albatta hidoyat topamiz.'",
+              "tafsir": "Sigirning aniq belgilarini aniqlash so'rovi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧١",
+              "numberLatin": "71",
+              "arabic": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌۭ لَّا ذَلُولٌۭ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌۭ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٔـٰنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ",
+              "transcription": "qāla innahu yaqūlu innahā baqaratun lā dhalūlun tuthīru l-arḍa wa lā tasqī l-ḥartha musallamatun lā shiyata fīhā qālū l-āna ji'ta bi-l-ḥaqqi fa-dhabaḥūhā wa mā kādū yafʿalūn",
+              "translation": "Dedi: 'U aytadi: Bu yer haydashda ishlatilmaydigan, ekin suvarmayдigan, nuqsonsiz va dog'siz sigirdir.' Dedilar: 'Endi haqiqatni keltirding.' Uni so'ydilar, deyarli qilmayotgan edilar.",
+              "tafsir": "Sigirning oxirgi tavsifi va nihoyat so'yilishi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٢",
+              "numberLatin": "72",
+              "arabic": "وَإِذْ قَتَلْتُمْ نَفْسًۭا فَٱدَّٰرَأْتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌۭ مَّا كُنتُمْ تَكْتُمُونَ",
+              "transcription": "wa idh qataltum nafsan fa-ddāra'tum fīhā wa llāhu mukhrijun mā kuntum taktumūn",
+              "translation": "Bir kishini o'ldirib, uning haqida tortishganingizni eslang. Alloh yashirayotgan narsalaringizni chiqaruvchidir.",
+              "tafsir": "O'ldirilgan kishi haqida nizo va yashirin narsalarning oshkor bo'lishi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٣",
+              "numberLatin": "73",
+              "arabic": "فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+              "transcription": "fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā wa yurīkum āyātihi laʿallakum taʿqilūn",
+              "translation": "Dedik: 'Uni (sigirning) bir qismi bilan uring.' Shunday qilib Alloh o'liklarni tiriltiradi va sizga oyatlarini ko'rsatadi, aql yuritishingiz uchun.",
+              "tafsir": "O'lgan kishining tirilishi va Allohning qudrat belgisi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٤",
+              "numberLatin": "74",
+              "arabic": "ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةًۭ ۚ وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَـٰرُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+              "transcription": "thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan wa inna mina l-ḥijārati la-mā yatafajjaru minhu l-anhāru wa inna minhā la-mā yashaqqaqu fa-yakhruju minhu l-mā'u wa inna minhā la-mā yahbiṭu min khashyati llāhi wa mā llāhu bi-ghāfilin ʿammā taʿmalūn",
+              "translation": "So'ng bundan keyin qalblaringiz qotib ketdi, ular toshlardek yoki undan ham qattiqroq bo'ldi. Halbuki toshlardan ba'zilari bor ki, ulardan daryolar otilib chiqadi. Ulardan ba'zilari bor ki, yorilib, undan suv chiqadi. Ulardan ba'zilari bor ki, Allohdan qo'rqib qulab tushadi. Alloh qilayotgan ishlaringizdan g'ofil emas.",
+              "tafsir": "Qalblarning qotib ketishi va hatto toshlardan ham qattiq bo'lishi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٥",
+              "numberLatin": "75",
+              "arabic": "أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌۭ مِّنْهُمْ يَسْمَعُونَ كَلَـٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+              "transcription": "a-fa-taṭmaʿūna an yu'minū lakum wa qad kāna farīqun minhum yasmaʿūna kalāma llāhi thumma yuḥarrifūnahu min baʿdi mā ʿaqalūhu wa hum yaʿlamūn",
+              "translation": "Ular sizga iymon keltirishlaridan umid qilasizmi? Holbuki ulardan bir guruh Allohning kalamini eshitib, tushungandan keyin uni bilgan holda burmalashtiradilar.",
+              "tafsir": "Bani Isroilning Alloh kalamini buzish odati.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٦",
+              "numberLatin": "76",
+              "arabic": "وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍۢ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ",
+              "transcription": "wa idhā laqū lladhīna āmanū qālū āmannā wa idhā khalā baʿḍuhum ilā baʿḍin qālū a-tuḥaddithūnahum bimā fataḥa llāhu ʿalaykum li-yuḥājjūkum bihi ʿinda rabbikum a-fa-lā taʿqilūn",
+              "translation": "Mo'minlar bilan uchrashaganlarida: 'Iymon keltirdik' deydilar. Bir-birlari bilan yolg'iz qolganlarida: 'Alloh sizga ochib bergan narsalarni ularga aytasizmi, Robbingiz huzurida u bilan sizga hujjat keltirishlari uchunmi? Aql yuritmasmisiz?' deydilar.",
+              "tafsir": "Yahudiylarning ikki yuzlamaligi va haqiqatni yashirishi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٧",
+              "numberLatin": "77",
+              "arabic": "أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+              "transcription": "a-wa-lā yaʿlamūna anna llāha yaʿlamu mā yusirrūna wa mā yuʿlinūn",
+              "translation": "Alloh ularning yashirgan va oshkor qilgan narsalarini bilishini bilmaydilarmi?",
+              "tafsir": "Allohning sir va oshkorni bilishi haqida.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٨",
+              "numberLatin": "78",
+              "arabic": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+              "transcription": "wa minhum ummiyyūna lā yaʿlamūna l-kitāba illā amāniyya wa in hum illā yaẓunnūn",
+              "translation": "Ulardan ba'zilari savadsiz bo'lib, Kitobni faqat xayollar bilan biladilar va ular faqat gumon qiladilar.",
+              "tafsir": "Savadsiz yahudiylarning kitob haqidagi noto'g'ri tasavvurlari.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٧٩",
+              "numberLatin": "79",
+              "arabic": "فَوَيْلٌۭ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَـٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَوَيْلٌۭ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌۭ لَّهُم مِّمَّا يَكْسِبُونَ",
+              "transcription": "fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi li-yashtarū bihi thamanan qalīlan fa-waylun lahum mimmā katabat aydīhim wa waylun lahum mimmā yaksibūn",
+              "translation": "Voy o'sha kishilarga ki, kitobni o'z qo'llari bilan yozib, so'ng uni oz bahoga sotish uchun 'Bu Alloh tomonidandir' deydilar! Voy ularga qo'llari yozganidan va voy ularga kasb qilganlaridan!",
+              "tafsir": "Kitobni o'zgartirish va yolg'on nisbat berish gunahi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨٠",
+              "numberLatin": "80",
+              "arabic": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَةًۭ ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًۭا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+              "transcription": "wa qālū lan tamassanā n-nāru illā ayyāman maʿdūdatan qul attakhadhtum ʿinda llāhi ʿahdan fa-lan yukhilfa llāhu ʿahdahu am taqūlūna ʿalā llāhi mā lā taʿlamūn",
+              "translation": "'Bizni do'zax faqat sanab o'tadigan bir necha kun tegadi' dedilar. De: 'Alloh huzuridan ahd oldingizmi ki, Alloh ahdini buzmaydi? Yoki Alloh haqida bilmagan narsangizni aytasizmi?'",
+              "tafsir": "Yahudiylarning do'zax haqidagi noto'g'ri e'tiqodi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨١",
+              "numberLatin": "81",
+              "arabic": "بَلَىٰ مَن كَسَبَ سَيِّئَةًۭ وَأَحَـٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+              "transcription": "balā man kasaba sayyi'atan wa aḥāṭat bihi khaṭī'atuhu fa-ulā'ika aṣḥābu n-nāri hum fīhā khālidūn",
+              "translation": "Yo'q, kim yomonlik qilib, xatosi uni o'rab olsa, mana ular do'zax ahlidirlar va unda abadiy qolurlar.",
+              "tafsir": "Gunohning o'rab olishi va do'zaxda abadiy qolish.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨٢",
+              "numberLatin": "82",
+              "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+              "transcription": "wa lladhīna āmanū wa ʿamilū ṣ-ṣāliḥāti ulā'ika aṣḥābu l-jannati hum fīhā khālidūn",
+              "translation": "Iymon keltirib solih amallar qilganilar esa jannat ahlidirlar va ular unda abadiy qolurlar.",
+              "tafsir": "Iymon va solih amalning mukofoti - abadiy jannat.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨٣",
+              "numberLatin": "83",
+              "arabic": "وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًۭا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًۭا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًۭا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+              "transcription": "wa idh akhadhnā mīthāqa banī isrā'īla lā taʿbudūna illā llāha wa bi-l-wālidayni iḥsānan wa dhī l-qurbā wa l-yatāmā wa l-masākīni wa qūlū li-n-nāsi ḥusnan wa aqīmū ṣ-ṣalāta wa ātū z-zakāta thumma tawallaytum illā qalīlan minkum wa antum muʿriḍūn",
+              "translation": "Bani Isroildan ahd olganimizni eslang: 'Allohdan boshqasiga ibodat qilmang, ota-onaga, qarindoshlarga, yetimlarga va miskınlarga yaxshilik qiling, odamlarga chiroyli so'z ayting, namozni qoim qiling va zakat bering.' So'ng sizlardan ozginasi bundan mustasno, yuz o'girib, e'tiborsiz qoldingiz.",
+              "tafsir": "Bani Isroil bilan qilingan ahd va ularning itoatsizligi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨٤",
+              "numberLatin": "84",
+              "arabic": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَـٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ",
+              "transcription": "wa idh akhadhnā mīthāqakum lā tasfıkūna dimā'akum wa lā tukhrijūna anfusakum min diyārikum thumma aqrartum wa antum tashhadūn",
+              "translation": "Sizdan ahd olganimizni eslang: 'Bir-biringizning qonini to'kmang va bir-biringizni yurtlaringizdan chiqarmang.' So'ng siz tan oldingiz va guvoh bo'ldingiz.",
+              "tafsir": "Qon to'kmaslik va surg'un qilmaslik ahdi.",
+              "copySymbol": "📋"
+            },
+            {
+              "numberArabic": "٨٥",
+              "numberLatin": "85",
+              "arabic": "ثُمَّ أَنتُمْ هَـٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًۭا مِّنكُم مِّن دِيَـٰرِهِمْ تَظَـٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَـٰرَىٰ تُفَـٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَـٰبِ وَتَكْفُرُونَ بِبَعْضٍۢ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌۭ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+              "transcription": "thumma antum hā'ulā'i taqtulūna anfusakum wa tukhrijūna farīqan minkum min diyārihim taẓāharūna ʿalayhim bi-l-ithmi wa l-ʿudwāni wa in ya'tūkum usārā tufādūhum wa huwa muḥarramun ʿalaykum ikhrājuhum a-fa-tu'minūna bi-baʿḍi l-kitābi wa takfurūna bi-baʿḍin fa-mā jazā'u man yafʿalu dhālika minkum illā khizyun fī l-ḥayāti d-dunyā wa yawma l-qiyāmati yuraddūna ilā ashaddi l-ʿadhābi wa mā llāhu bi-ghāfilin ʿammā taʿmalūn",
+              "translation": "So'ng sizlar shularki, bir-biringizni o'ldirasiz va bir guruhingizni yurtlarından chiqarasiz, gunoh va dushmanchılik bilan ularga qarshi birlashasiz. Agar ular asir bo'lib sizning oldingizga kelsa, fidya bilan ozod qilasız. Holbuki ularni chiqarish sizga haram qılingan edi. Kitobning bir qismiga iymon kelirib, bir qismini inkor qilasizmi? Sizlardan buni qiluvchining jazosi dunyo hayotida sharmandlikdan boshqa narsa emas. Qiyomat kuni eng qattiq azobga qaytarilurlar. Alloh qilayotgan ishlaringizdan g'ofil emas.",
+              "tafsir": "Ahdni buzish va kitobning bir qismini qabul qilish, bir qismini rad etish.",
+              "copySymbol": "📋"
+            },
+              {
+                "numberArabic": "٨٦",
+                "numberLatin": "86",
+                "arabic": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ",
+                "transcription": "ulā'ika lladhīna shtaraw l-ḥayāta d-dunyā bi-l-ākhirati fa-lā yukhaffafu ʿanhumu l-ʿadhābu wa lā hum yunṣarūn",
+                "translation": "Mana shular dunyo hayotini oxirat evaziga sotib olganlardir. Ulardan azob yengillatilmaydi va ularga yordam berilmaydi.",
+                "tafsir": "Dunyoni oxiratga afzal ko'rishning jazo¬si.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٨٧",
+                "numberLatin": "87",
+                "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ",
+                "transcription": "wa la-qad ātaynā mūsā l-kitāba wa qaffaynā min baʿdihi bi-r-rusuli wa ātaynā ʿīsā bna maryama l-bayyināti wa ayyadnāhu bi-rūḥi l-qudusi a-fa-kullamā jā'akum rasūlun bimā lā tahwā anfusukum stakbartum fa-farīqan kadhdhabtum wa farīqan taqtulūn",
+                "translation": "Musoga Kitobni berdik va undan keyin rasullar bilan izladik. Iso ibn Maryamga ochiq dalillarni berdik va uni Muqaddas Ruh bilan quvvatladik. Sizga nafslaringiz istamagan narsa bilan rasul kelganda takabburlik qilasizmi? Bir guruhni yolg'onladingiz va bir guruhni o'ldirasiz.",
+                "tafsir": "Payg'ambarlar silsilasi va Bani Isroilning ularga nisbatan yomon munosabati.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٨٨",
+                "numberLatin": "88",
+                "arabic": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ",
+                "transcription": "wa qālū qulūbunā ghulfun bal laʿanahumu llāhu bi-kufrihim fa-qalīlan mā yu'minūn",
+                "translation": "Ular: 'Qalblarimiz qobiqqa o'ralgan' dedilar. Yo'q, Alloh ularni kufrları uchun la'natladi, shuning uchun ozgina iymon keltiradilar.",
+                "tafsir": "Qalblarning yopiq bo'lishi va la'natlanish.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٨٩",
+                "numberLatin": "89",
+                "arabic": "وَلَمَّا جَآءَهُمْ كِتَـٰبٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ",
+                "transcription": "wa lammā jā'ahum kitābun min ʿindi llāhi muṣaddiqun li-mā maʿahum wa kānū min qablu yastaftiḥūna ʿalā lladhīna kafarū fa-lammā jā'ahum mā ʿarafū kafarū bihi fa-laʿnatu llāhi ʿalā l-kāfirīn",
+                "translation": "Ularga Alloh tomonidan o'zlari bilan birga bo'lgan narsani tasdiq qiluvchi Kitob kelganda - ular ilgari kofirlardan (bu Kitob bilan) yordam so'rab turadilar edi - tanigan narsalari kelganda uni inkor qildilar. Kofirlar ustiga Allohning la'nati bo'lsin!",
+                "tafsir": "Tanigan haqiqatni inkor qilish va la'nat.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٠",
+                "numberLatin": "90",
+                "arabic": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ",
+                "transcription": "bi'samā shtaraw bihi anfusahum an yakfurū bimā anzala llāhu baghyan an yunazzila llāhu min faḍlihi ʿalā man yashā'u min ʿibādihi fa-bā'ū bi-ghaḍabin ʿalā ghaḍabin wa li-l-kāfirīna ʿadhābun muhīn",
+                "translation": "O'zlarini sotgan narsalari qanday yomon! Allohning bandalariindan xohlaganiga O'z fazlidan nozil qilishini hasad qilib, Alloh nozil qilganını inkor qildilar. G'azab ustiga g'azabga uchrashdilar. Kofirlar uchun xorlovchi azob bor.",
+                "tafsir": "Hasaddan dolayı kufrga tushish va qo'shılan g'azab.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩١",
+                "numberLatin": "91",
+                "arabic": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ",
+                "transcription": "wa idhā qīla lahum āminū bimā anzala llāhu qālū nu'minu bimā unzila ʿalaynā wa yakfurūna bimā warā'ahu wa huwa l-ḥaqqu muṣaddiqan li-mā maʿahum qul fa-lima taqtulūna anbiyā'a llāhi min qablu in kuntum mu'minīn",
+                "translation": "Ularga: 'Alloh nozil qilganiga iymon keltiring' deyilganda: 'Bizga nozil qilinganiga iymon keltıramiz' deydilar va undan keyingisını inkor qıladilar. Holbuki u haq va o'zlari bilan birga bo'lgan narsanı tasdiq qıluvchidir. De: 'Agar mo'min bo'lsangiz, nega oldindan Allohning payg'ambarlarını o'ldirardingiz?'",
+                "tafsir": "Faqat o'z kitobiga iymon keltirish va boshqalarını inkor qılish tutarsızligi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٢",
+                "numberLatin": "92",
+                "arabic": "وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ",
+                "transcription": "wa la-qad jā'akum mūsā bi-l-bayyināti thumma ttakhadhtumu l-ʿijla min baʿdihi wa antum ẓālimūn",
+                "translation": "Sizga Muso ochiq dalillar bilan keldi, so'ng undan keyin buzovni (iloh) qilib oldingiz va siz zolimlar edingiz.",
+                "tafsir": "Muso Alayhissalomdan keyin buzov sajdasi va zulm.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٣",
+                "numberLatin": "93",
+                "arabic": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍۢ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+                "transcription": "wa idh akhadhnā mīthāqakum wa rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa smaʿū qālū samiʿnā wa ʿaṣaynā wa ushribū fī qulūbihimu l-ʿijla bi-kufrihim qul bi'samā ya'murukum bihi īmānukum in kuntum mu'minīn",
+                "translation": "Sizdan ahd olganimizni va ustingizga Tur tog'ini ko'targanimizni eslang: 'Sizga bergan narsani quvvat bilan oling va eshiting.' Dedilar: 'Eshitdik va itoatsizlik qildik.' Kufrlari tufayli qalblariga buzov (muhabbati) singdirildi. De: 'Agar mo'min bo'lsangiz, iymoningiz sizga buyurgan narsa qanday yomon!'",
+                "tafsir": "Ochiq itoatsizlik va qalbga buzov muhabbatining singdirilishi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٤",
+                "numberLatin": "94",
+                "arabic": "قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْءَاخِرَةُ عِندَ ٱللَّهِ خَالِصَةًۭ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+                "transcription": "qul in kānat lakumu d-dāru l-ākhiratu ʿinda llāhi khāliṣatan min dūni n-nāsi fa-tamannaw l-mawta in kuntum ṣādiqīn",
+                "translation": "De: 'Agar Alloh huzurida oxirat yurti boshqa odamlardan farqli o'laroq faqat sizga xos bo'lsa, rostgo'y bo'lsangiz, o'limni tilang.'",
+                "tafsir": "Oxiratda o'zlarini maxsus deb hisoblash da'volari sinovı.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٥",
+                "numberLatin": "95",
+                "arabic": "وَلَن يَتَمَنَّوْهُ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+                "transcription": "wa lan yatamannawhu abadan bimā qaddamat aydīhim wa llāhu ʿalīmun bi-ẓ-ẓālimīn",
+                "translation": "Qo'llari muqaddam qilgan (yomon amallar) tufayli uni hech qachon tilamaydilar. Alloh zolimlarni biluvchidir.",
+                "tafsir": "Yomon amallar tufayli o'limni tilamaslik.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٦",
+                "numberLatin": "96",
+                "arabic": "وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍۢ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍۢ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+                "transcription": "wa la-tajidannahum aḥraṣa n-nāsi ʿalā ḥayātin wa mina lladhīna ashrakū yawaddu aḥaduhum law yuʿammaru alfa sanatin wa mā huwa bi-muzaḥziḥihi mina l-ʿadhābi an yuʿammara wa llāhu baṣīrun bimā yaʿmalūn",
+                "translation": "Ularni odamlarning eng hayotga harisliları va mushriklar kabi topasın. Ulardan biri ming yıl umr ko'rishni istaydi. Umr ko'rishi uni azobdan qutqarmaydi. Alloh qilayotgan ishlarını ko'ruvchidir.",
+                "tafsir": "Hayotga haddan tashqarı harislik va azobdan qutula olmaslik.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٧",
+                "numberLatin": "97",
+                "arabic": "قُلْ مَن كَانَ عَدُوًّۭا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَهُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+                "transcription": "qul man kāna ʿaduwwan li-jibrīla fa-innahu nazzalahu ʿalā qalbika bi-idhni llāhi muṣaddiqan li-mā bayna yadayhi wa hudal wa bushrā li-l-mu'minīn",
+                "translation": "De: 'Kim Jibroilga dushman bo'lsa, (bilsin ki) u buni Allohning izni bilan qalbingga nozil qildi - o'zidan oldingilarni tasdiq qiluvchi, mo'minlar uchun hidoyat va xushxabar (qilib).'",
+                "tafsir": "Jibroil Alayhissalomga dushmanlık qılganlarning javobi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٨",
+                "numberLatin": "98",
+                "arabic": "مَن كَانَ عَدُوًّۭا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّۭ لِّلْكَـٰفِرِينَ",
+                "transcription": "man kāna ʿaduwwan lillāhi wa malā'ikatihi wa rusulihi wa jibrīla wa mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn",
+                "translation": "Kim Alloh, farishtalar, rasullar, Jibroil va Mikoilga dushman bo'lsa, albatta Alloh kofirlarning dushmanidir.",
+                "tafsir": "Alloh va Uning elchilariga dushmanlık qılganlarga qarshı turish.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٩٩",
+                "numberLatin": "99",
+                "arabic": "وَلَقَدْ أَنزَلْنَآ إِلَيْكَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَـٰسِقُونَ",
+                "transcription": "wa la-qad anzalnā ilayka āyātin bayyinātin wa mā yakfuru bihā illā l-fāsiqūn",
+                "translation": "Senga ochiq oyatlarni nozil qildık. Ularni faqat fosiqlar inkor qıladi.",
+                "tafsir": "Ochiq oyatlarni faqat fosiqlar inkor qılishi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "١٠٠",
+                "numberLatin": "100",
+                "arabic": "أَوَكُلَّمَا عَـٰهَدُوا۟ عَهْدًۭا نَّبَذَهُۥ فَرِيقٌۭ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+                "transcription": "a-wa-kullamā ʿāhadū ʿahdan nabadhaху farīqun minhum bal aktharuhum lā yu'minūn",
+                "translation": "Ular har ahd qilganlarında, ulardan bir guruh uni tashlab yuboradimi? Yo'q, ko'plari iymon keltirmaydi.",
+                "tafsir": "Ahd buzishning odatga aylanishi va iymon etmaslik.",
+                "copySymbol": "📋"
+              },
+                {
+                  "numberArabic": "١٠١",
+                  "numberLatin": "101",
+                  "arabic": "وَلَمَّا جَآءَهُمْ رَسُولٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌۭ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ",
+                  "transcription": "wa lammā jā'ahum rasūlun min ʿindi llāhi muṣaddiqun li-mā maʿahum nabadha farīqun mina lladhīna ūtū l-kitāba kitāba llāhi warā'a ẓuhūrihim ka-annahum lā yaʿlamūn",
+                  "translation": "Ularga Alloh tomonidan o'zlari bilan birga bo'lgan narsani tasdiq qiluvchi rasul kelganda, Kitob berilganlarning bir guruhi Allohning kitobini orqalariga tashlab yubordilar, go'yo bilmagandek.",
+                  "tafsir": "Ahl-kitobning Qur'onni tashlab yuborishi va bilmaslik da'vosi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٢",
+                  "numberLatin": "102",
+                  "arabic": "وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌۭ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَـٰقٍۢ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+                  "transcription": "wa ttabaʿū mā tatlū sh-shayāṭīnu ʿalā mulki sulaymāna wa mā kafara sulaymānu wa lākinna sh-shayāṭīna kafarū yuʿallimūna n-nāsa s-siḥra wa mā unzila ʿalā l-malakayni bi-bābila hārūta wa mārūta wa mā yuʿallimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa-lā takfur fa-yataʿallamūna minhumā mā yufarriqūna bihi bayna l-mar'i wa zawjihi wa mā hum bi-ḍārrīna bihi min aḥadin illā bi-idhni llāhi wa yataʿallamūna mā yaḍurruhum wa lā yanfaʿuhum wa la-qad ʿalimū la-mani shtarāhu mā lahu fī l-ākhirati min khalāqin wa la-bi'sa mā sharaw bihi anfusahum law kānū yaʿlamūn",
+                  "translation": "Shaytonlar Sulayman saltanatida o'qigan narsalarga ergashdilar. Sulayman kufr qilmadi, lekin shaytonlar kufr qildilar. Ular odamlarga sehr va Bobilda ikki farishta Horot va Morotga nozil qilingan narsani o'rgatdilar. Ular hech kimga: 'Biz faqat sinovmiz, kufr qilma' demaguncha o'rgatmazdilar. Ular ikkovidan erkak va xotini orasini ajratadigan narsani o'rganadilar. Ular Allohning izni bilan bundan hech kimga zarar yetkazuvchi emaslar. O'zlariga zarar beruvchi va foyda bermagan narsani o'rganadilar. Albatta bildilarki, kimki uni sotib olsa, oxiratda ulushi yo'q. O'zlarini sotgan narsalari qanday yomon! Agar bilsalar edi.",
+                  "tafsir": "Sehr haqida va uning zarari, Horot va Morot farishtalari haqida.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٣",
+                  "numberLatin": "103",
+                  "arabic": "وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌۭ مِّنْ عِندِ ٱللَّهِ خَيْرٌۭ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ",
+                  "transcription": "wa law annahum āmanū wa ttaqaw la-mathūbatun min ʿindi llāhi khayrun law kānū yaʿlamūn",
+                  "translation": "Agar ular iymon keltirib taqvo qilganda, Alloh huzuridagi mukofot yaxshiroq edi. Agar bilsalar edi.",
+                  "tafsir": "Iymon va taqvoning sehr va kufr qilishdan yaxshiroq ekanligi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٤",
+                  "numberLatin": "104",
+                  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌۭ",
+                  "transcription": "yā ayyuhā lladhīna āmanū lā taqūlū rāʿinā wa qūlū nẓurnā wa smaʿū wa li-l-kāfirīna ʿadhābun alīm",
+                  "translation": "Ey iymon keltirguvchilar! 'Ra'ina' demang, 'Unzurna' deng va eshiting. Kofirlar uchun alamli azob bor.",
+                  "tafsir": "Payg'ambarga murojaat qilishda adabli so'zlar ishlatish.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٥",
+                  "numberLatin": "105",
+                  "arabic": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍۢ مِّن رَّبِّكُمْ ۗ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+                  "transcription": "mā yawaddu lladhīna kafarū min ahli l-kitābi wa lā l-mushrikīna an yunazzala ʿalaykum min khayrin min rabbikum wa llāhu yakhtaṣṣu bi-raḥmatihi man yashā'u wa llāhu dhū l-faḍli l-ʿaẓīm",
+                  "translation": "Ahl-kitobdan kofir bo'lganlar va mushriklar sizga Robbingizdan xayr nozil qilinishini xohlamaydilar. Alloh rahmati bilan xohlaganini maxsus qiladi. Alloh ulkan fazl egasidir.",
+                  "tafsir": "Ahl-kitob va mushriklar mo'minlarga hasad qilishi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٦",
+                  "numberLatin": "106",
+                  "arabic": "مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍۢ مِّنْهَآ أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+                  "transcription": "mā nansakh min āyatin aw nunsihā na'ti bi-khayrin minhā aw mithlihā a-lam taʿlam anna llāha ʿalā kulli shay'in qadīr",
+                  "translation": "Biz qaysi oyatni naskh qilsak yoki unuttirsak, undan yaxshiroq yoki ungacha keltiramiz. Allohning har narsaga qodir ekanini bilmadingmi?",
+                  "tafsir": "Naskh (bekor qilish) va uning hikmatlari haqida.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٧",
+                  "numberLatin": "107",
+                  "arabic": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ",
+                  "transcription": "a-lam taʿlam anna llāha lahu mulku s-samāwāti wa l-arḍi wa mā lakum min dūni llāhi min waliyyin wa lā naṣīr",
+                  "translation": "Osmonlar va yerning mulki Allohniki ekanini bilmadingmi? Sizga Allohdan boshqa na himoyachi, na yordamchi yo'q.",
+                  "tafsir": "Allohning mutlaq mulki va Uningagina tavakkul qilish.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٨",
+                  "numberLatin": "108",
+                  "arabic": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+                  "transcription": "am turīdūna an tas'alū rasūlakum ka-mā su'ila mūsā min qablu wa man yatabaddali l-kufra bi-l-īmāni fa-qad ḍalla sawā'a s-sabīl",
+                  "translation": "Yoki rasullaringizdan ilgari Musoga so'ralgandek so'ramoqchi bo'lasizmi? Kim iymonni kufr bilan almashtirsa, to'g'ri yo'ldan adashgan bo'ladi.",
+                  "tafsir": "Haddan oshgan savol-javob va iymonni kufr bilan almashtirish xavfi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١٠٩",
+                  "numberLatin": "109",
+                  "arabic": "وَدَّ كَثِيرٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَـٰنِكُمْ كُفَّارًا حَسَدًۭا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ ۖ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+                  "transcription": "wadda kathīrun min ahli l-kitābi law yaruddūnakum min baʿdi īmānikum kuffāran ḥasadan min ʿindi anfusihim min baʿdi mā tabayyana lahumu l-ḥaqqu fa-ʿfū wa ṣfaḥū ḥattā ya'tiya llāhu bi-amrihi inna llāha ʿalā kulli shay'in qadīr",
+                  "translation": "Ahl-kitobning ko'plari sizni iymoningizdan keyin kofirlarga qaytarishni xohlashadi, haq ularga ochiq bo'lgandan keyin o'zlarining hasadidan. Afv eting va kechiring, Alloh O'z amri bilan kelgunicha. Albatta Alloh har narsaga qodirdir.",
+                  "tafsir": "Ahl-kitobning hasadi va sabr-toqat ko'rsatish tavsiyasi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٠",
+                  "numberLatin": "110",
+                  "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+                  "transcription": "wa aqīmū ṣ-ṣalāta wa ātū z-zakāta wa mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi inna llāha bimā taʿmalūna baṣīr",
+                  "translation": "Namozni qoim qiling va zakat bering. O'zingiz uchun muqaddam qilgan har qanday yaxshilikni Alloh huzurida topasiz. Albatta Alloh qilayotgan ishlaringizni ko'ruvchidir.",
+                  "tafsir": "Namoz, zakat va yaxshi amallarning mukofoti.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١١",
+                  "numberLatin": "111",
+                  "arabic": "وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَـٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+                  "transcription": "wa qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn",
+                  "translation": "Dedilar: 'Jannatga faqat yahudiy yoki nasroniy bo'lganlar kiradi.' Bu ularning xayollaridir. De: 'Agar rostgo'y bo'lsangiz, dalillaringizni keltiring.'",
+                  "tafsir": "Jannatni faqat o'zlariga xos deb hisoblash xatosi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٢",
+                  "numberLatin": "112",
+                  "arabic": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+                  "transcription": "balā man aslama wajhahu lillāhi wa huwa muḥsinun fa-lahū ajruhu ʿinda rabbihi wa lā khawfun ʿalayhim wa lā hum yaḥzanūn",
+                  "translation": "Yo'q, kim yuzini Allohga taslim qilib, ehson qiluvchi bo'lsa, unga Robbi huzurida ajri bor. Ularga na qo'rquv, na g'am yo'q.",
+                  "tafsir": "Haqiqiy najot taslim bo'lish va ehson qilishda ekanligi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٣",
+                  "numberLatin": "113",
+                  "arabic": "وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍۢ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍۢ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+                  "transcription": "wa qālati l-yahūdu laysati n-naṣārā ʿalā shay'in wa qālati n-naṣārā laysati l-yahūdu ʿalā shay'in wa hum yatlūna l-kitāba kadhālika qāla lladhīna lā yaʿlamūna mithla qawlihim fa-llāhu yaḥkumu baynahum yawma l-qiyāmati fī-mā kānū fīhi yakhtalifūn",
+                  "translation": "Yahudiylar: 'Nasroniylar hech narsada emaslar' dedilar. Nasroniylar: 'Yahudiylar hech narsada emaslar' dedilar. Holbuki ular Kitobni o'qiydilar. Shunday qilib, bilmaydigan kishilar ham ularning so'ziga o'xshash so'z dedilar. Alloh qiyomat kuni ixtilof qilgan narsalarida ular orasida hukm qiladi.",
+                  "tafsir": "Yahudiy va nasroniylar orasidagi takfir va nizolar.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٤",
+                  "numberLatin": "114",
+                  "arabic": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَـٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ ۚ أُو۟لَـٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ",
+                  "transcription": "wa man aẓlamu mimman manaʿa masājida llāhi an yudhkara fīhā smuhu wa saʿā fī kharābihā ulā'ika mā kāna lahum an yadkhulūhā illā khā'ifīna lahum fī d-dunyā khizyun wa lahum fī l-ākhirati ʿadhābun ʿaẓīm",
+                  "translation": "Allohning masjidlarida ismini zikr qilishni man qilgan va ularni vayron qilishga harakat qilgandan ko'ra zolimroq kim bor? Mana shular u yerga faqat qo'rqib kirishlari kerak edi. Ularga dunyoda sharmandlik va oxiratda azim azob bor.",
+                  "tafsir": "Masjidlarga zulm qilish va ularni vayron qilishning jazo¬si.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٥",
+                  "numberLatin": "115",
+                  "arabic": "وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ",
+                  "transcription": "wa lillāhi l-mashriqu wa l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāhi inna llāha wāsiʿun ʿalīm",
+                  "translation": "Sharq ham, g'arb ham Allohniki. Qayerga yuz o'girsangiz, u yerda Allohning yuzi bor. Albatta Alloh keng va biluvchidir.",
+                  "tafsir": "Allohning har tarafda mavjudligi va qibla masalasi.",
+                  "copySymbol": "📋"
+                },
+                {
+                  "numberArabic": "١١٦",
+                  "numberLatin": "116",
+                  "arabic": "وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَـٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَـٰنِتُونَ",
+                  "transcription": "wa qālū ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti wa l-arḍi kullun lahu qānitūn",
+                  "translation": "Dedilar: 'Alloh farzand oldi.' U pokdir! Yo'q, osmonlar va yerdagi barcha narsa Unikidir. Barchasi Unga itoatkordirlar.",
+                  "tafsir": "Allohga farzand nisbat berishning batil ekanligi.",
+                  "copySymbol": "📋"
+                },
+                {
+                    "numberArabic": "١١٧",
+                    "numberLatin": "117",
+                    "arabic": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+                    "transcription": "badīʿu s-samāwāti wa l-arḍi wa idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn",
+                    "translation": "U osmonlar va yerning yaratuvchisidir. Bir ishni qilishni iroda qilganda, unga faqat 'bo'l' deydi va u bo'ladi.",
+                    "tafsir": "Allohning yaratish qudrati va 'kun fa yakun' kalimasi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١١٨",
+                    "numberLatin": "118",
+                    "arabic": "وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌۭ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَـٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْءَايَـٰتِ لِقَوْمٍۢ يُوقِنُونَ",
+                    "transcription": "wa qāla lladhīna lā yaʿlamūna law-lā yukallimunā llāhu aw ta'tīnā āyatun kadhālika qāla lladhīna min qablihim mithla qawlihim tashābahat qulūbuhum qad bayyanā l-āyāti li-qawmin yūqinūn",
+                    "translation": "Bilmaydigan kishilar: 'Alloh biz bilan gaplashsa yoki bizga oyat (mo'jiza) kelsa edi' dedilar. Ulardan oldingilar ham xuddi shunday so'z dedilar. Qalblari o'xshab ketdi. Yakkin qiluvchi qawm uchun oyatlarni bayonladik.",
+                    "tafsir": "Johillarning haddan oshgan talablari va oldingilar bilan o'xshashligi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١١٩",
+                    "numberLatin": "119",
+                    "arabic": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَـٰبِ ٱلْجَحِيمِ",
+                    "transcription": "innā arsalnāka bi-l-ḥaqqi bashīran wa nadhīran wa lā tus'alu ʿan aṣḥābi l-jaḥīm",
+                    "translation": "Biz seni haq bilan bashirotchi va ogohlik beruvchi qilib yubordik. Sen do'zax ahlidan so'ralmassan.",
+                    "tafsir": "Payg'ambarning vazifasi va mas'uliyati chegarasi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٠",
+                    "numberLatin": "120",
+                    "arabic": "وَلَن تَرْضَىٰ عَنكَ ٱلْيَهُودُ وَلَا ٱلنَّصَـٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۗ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ ٱلَّذِى جَآءَكَ مِنَ ٱلْعِلْمِ ۙ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّۢ وَلَا نَصِيرٍۢ",
+                    "transcription": "wa lan tarḍā ʿanka l-yahūdu wa lā n-naṣārā ḥattā tattabiʿa millatahum qul inna hudā llāhi huwa l-hudā wa la-ini ttabaʿta ahwā'ahum baʿda lladhī jā'aka mina l-ʿilmi mā laka mina llāhi min waliyyin wa lā naṣīr",
+                    "translation": "Yahudiylar va nasroniylar ularning diniga ergashguncha sendan rozi bo'lmaydilar. De: 'Allohning hidoyati hidoyatdir.' Agar senga kelgan ilmdan keyin ularning xohishlariga ergashsang, sening uchun Allohdan na himoyachi, na yordamchi bo'lmaydi.",
+                    "tafsir": "Ahl-kitobning maqsadi va ularga ergashishning xavfi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢١",
+                    "numberLatin": "121",
+                    "arabic": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+                    "transcription": "alladhīna ātaynāhumu l-kitāba yatlūnahu ḥaqqa tilāwatihi ulā'ika yu'minūna bihi wa man yakfur bihi fa-ulā'ika humu l-khāsirūn",
+                    "translation": "Kitob berganlarimiz uni haqli qilib o'qiydilar, mana shular unga iymon keltiradilar. Kim uni inkor qilsa, mana shular ziyonkorlardir.",
+                    "tafsir": "Kitobni to'g'ri o'qish va unga iymon keltirish.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٢",
+                    "numberLatin": "122",
+                    "arabic": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+                    "transcription": "yā banī isrā'īla dhkurū niʿmatiya llatī anʿamtu ʿalaykum wa annī faḍḍaltukum ʿalā l-ʿālamīn",
+                    "translation": "Ey Bani Isroil! Men sizga bergan ne'matimni va sizni olamlardan ustun qilganimni eslang.",
+                    "tafsir": "Bani Isroilga yana bir bor ne'matni eslatish.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٣",
+                    "numberLatin": "123",
+                    "arabic": "وَٱتَّقُوا۟ يَوْمًۭا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍۢ شَيْـًۭٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌۭ وَلَا تَنفَعُهَا شَفَـٰعَةٌۭ وَلَا هُمْ يُنصَرُونَ",
+                    "transcription": "wa ttaqū yawman lā tajzī nafsun ʿan nafsin shay'an wa lā yuqbalu minhā ʿadlun wa lā tanfaʿuhā shafāʿatun wa lā hum yunṣarūn",
+                    "translation": "Shunday kundan qo'rqingki, unda hech bir jon boshqa jon uchun hech narsa qila olmaydi, undan fidya qabul qilinmaydi, shafa'at foyda bermaydi va ularga yordam berilmaydi.",
+                    "tafsir": "Qiyomat kunining dahshati va har birning o'z amali uchun javobgarligi (takrorlash).",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٤",
+                    "numberLatin": "124",
+                    "arabic": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَـٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّـٰلِمِينَ",
+                    "transcription": "wa idhi btalā ibrāhīma rabbahu bi-kalimātin fa-atammahunna qāla innī jāʿiluka li-n-nāsi imāman qāla wa min dhurriyyatī qāla lā yanālu ʿahdī ẓ-ẓālimīn",
+                    "translation": "Ibrohimni Robbi ba'zi kalimalar bilan sinaganda, u ularni to'la bajardi. (Alloh): 'Men seni odamlarga imam qilaman' dedi. (Ibrohim): 'Naslimdan ham' dedi. (Alloh): 'Mening ahdim zolimlarni qamramaydi' dedi.",
+                    "tafsir": "Ibrohim Alayhissalomning sinovdan o'tishi va imomlik unvoni olishi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٥",
+                    "numberLatin": "125",
+                    "arabic": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِـۧمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَـٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+                    "transcription": "wa idh jaʿalnā l-bayta mathābatan li-n-nāsi wa amnan wa ttakhidhū min maqāmi ibrāhīma muṣallan wa ʿahidnā ilā ibrāhīma wa ismāʿīla an ṭahhirā baytiya li-ṭ-ṭā'ifīna wa l-ʿākifīna wa r-rukkaʿi s-sujūd",
+                    "translation": "Uyni odamlar uchun qaytish joyi va omon joy qilganimizni, Ibrohim maqomidan namoz o'qi joyini tuting. Ibrohim va Ismоilga ahd berdik: 'Mening uyimni tavof qiluvchilar, e'tikaf qiluvchilar va ruku-sajda qiluvchilar uchun poklang.'",
+                    "tafsir": "Ka'baning fazilati va uni poklash vazifasi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٦",
+                    "numberLatin": "126",
+                    "arabic": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ ٱجْعَلْ هَـٰذَا بَلَدًا ءَامِنًۭا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًۭا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+                    "transcription": "wa idh qāla ibrāhīmu rabbi j'al hādhā baladan āminan wa rzuq ahlahu mina th-thamarāti man āmana minhum billāhi wa l-yawmi l-ākhiri qāla wa man kafara fa-umattiʿuhu qalīlan thumma aḍṭarruhu ilā ʿadhābi n-nāri wa bi'sa l-maṣīr",
+                    "translation": "Ibrohim: 'Robbim! Bu joyni omon shahar qil va uning ahlidan Allohga va oxirat kuniga iymon keltirganlarga mevalardan rizq ber' deganini (esla). (Alloh): 'Kim kufr qilsa, uni ozgina foydalantirib, so'ng do'zax azobiga majbur qilaman. Qanday yomon qaytish joyi!' dedi.",
+                    "tafsir": "Ibrohim Alayhissalomning Makka uchun duosi va Allohning javobi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٧",
+                    "numberLatin": "127",
+                    "arabic": "وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+                    "transcription": "wa idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa ismāʿīlu rabbanā taqabbal minnā innaka anta s-samīʿu l-ʿalīm",
+                    "translation": "Ibrohim uyning poydevorlarini va Ismoil (ham) ko'targanda: 'Robbimiz! Bizdan qabul qil. Albatta Sen eshituvchi va biluvchi Zotsan' (deganini esla).",
+                    "tafsir": "Ka'baning qurilishi va qabul bo'lish duosi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٨",
+                    "numberLatin": "128",
+                    "arabic": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةًۭ مُّسْلِمَةًۭ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ�أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+                    "transcription": "rabbanā wa j'alnā muslimayni laka wa min dhurriyyatinā ummatan muslimatan laka wa arinā manāsikanā wa tub ʿalaynā innaka anta t-tawwābu r-raḥīm",
+                    "translation": "Robbimiz! Bizni Senga taslim bo'luvchilar qil va naslimizdan Senga taslim bo'luvchi ummat chiqar. Bizga haj tartiblarini ko'rsat va bizning tavbamizni qabul qil. Albatta Sen ko'p tavba qabul qiluvchi va rahmli Zotsan.",
+                    "tafsir": "Ibrohim va Ismoilning ummat uchun duosi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٢٩",
+                    "numberLatin": "129",
+                    "arabic": "رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                    "transcription": "rabbanā wa b'ath fīhim rasūlan minhum yatlū ʿalayhim āyātika wa yuʿallimuhumu l-kitāba wa l-ḥikmata wa yuzakkīhim innaka anta l-ʿazīzu l-ḥakīm",
+                    "translation": "Robbimiz! Ular ichiga o'zlaridan rasul yuborgin, ularga oyatlaringni o'qisin, kitob va hikmatni o'rgatsin va ularni poklasin. Albatta Sen qudratli va hikmatli Zotsan.",
+                    "tafsir": "Muhammad ﷺ payg'ambar yuborilishi haqida duo.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٣٠",
+                    "numberLatin": "130",
+                    "arabic": "وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَـٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+                    "transcription": "wa man yarghabu ʿan millati ibrāhīma illā man safiha nafsahu wa la-qadi ṣṭafaynāhu fī d-dunyā wa innahu fī l-ākhirati la-mina ṣ-ṣāliḥīn",
+                    "translation": "O'zini ahmoqqa solgan kishidan boshqa kim Ibrohim dinidan yuz o'giradi? Biz uni dunyoda tanladik va u oxiratda solihlardan bo'ladi.",
+                    "tafsir": "Ibrohim dinining fazilati va undan yuz o'girishning ahmoqlik ekanligi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٣١",
+                    "numberLatin": "131",
+                    "arabic": "إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+                    "transcription": "idh qāla lahu rabbahu aslim qāla aslamtu li-rabbi l-ʿālamīn",
+                    "translation": "Robbi unga: 'Taslim bo'l' deganida, u: 'Olamlar Robbiga taslim bo'ldim' dedi.",
+                    "tafsir": "Ibrohim Alayhissalomning Allohga taslim bo'lishi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٣٢",
+                    "numberLatin": "132",
+                    "arabic": "وَوَصَّىٰ بِهَآ إِبْرَٰهِـۧمُ بَنِيهِ وَيَعْقُوبُ يَـٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+                    "transcription": "wa waṣṣā bihā ibrāhīmu banīhi wa yaʿqūbu yā baniyya inna llāha ṣṭafā lakumu d-dīna fa-lā tamūtunna illā wa antum muslimūn",
+                    "translation": "Ibrohim o'g'illariga va Ya'qub (ham): 'Ey o'g'illarim! Alloh sizlar uchun dinni tanladi. Shuning uchun musulmon bo'lmasdan o'lmang' deb vasiyat qildi.",
+                    "tafsir": "Payg'ambarlarning avlodlariga diniy vasiyati.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٣٣",
+                    "numberLatin": "133",
+                    "arabic": "أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًۭا وَٰحِدًۭا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+                    "transcription": "am kuntum shuhadā'a idh ḥaḍara yaʿqūba l-mawtu idh qāla li-banīhi mā taʿbudūna min baʿdī qālū naʿbudu ilāhaka wa ilāha ābā'ika ibrāhīma wa ismāʿīla wa isḥāqa ilāhan wāḥidan wa naḥnu lahu muslimūn",
+                    "translation": "Ya'qubga o'lim yetib kelganda siz guvoh edingizmi? U o'g'illariga: 'Mendan keyin nimaga ibodat qilasiz?' dedi. Dedilar: 'Sening ilohingga va ota-bobolaringn Ibrohim, Ismoil va Ishoqning ilohi bo'lgan yagona ilohga ibodat qilamiz va biz Unga musulmonmiz.'",
+                    "tafsir": "Ya'qub Alayhissalomning o'lim oldidagi vasiyati va o'g'illarining javobi.",
+                    "copySymbol": "📋"
+                  },
+                  {
+                    "numberArabic": "١٣٤",
+                    "numberLatin": "134",
+                    "arabic": "تِلْكَ أُمَّةٌۭ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+                    "transcription": "tilka ummatun qad khalat lahā mā kasabat wa lakum mā kasabtum wa lā tus'alūna ʿammā kānū yaʿmalūn",
+                    "translation": "Bu o'tib ketgan ummatdir. Ularga o'zlari kasb qilgani, sizga siz kasb qilganning bor. Siz ularning qilgan ishlaridan so'ralmaysiz.",
+                    "tafsir": "Har bir ummatning o'z amali uchun javobgarligi.",
+                    "copySymbol": "📋"
+                  },
+                    {
+                      "numberArabic": "١٥١",
+                      "numberLatin": "151",
+                      "arabic": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًۭا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+                      "transcription": "kamā arsalnā fīkum rasūlan minkum yatlū ʿalaykum āyātinā wa yuzakkīkum wa yuʿallimukumu l-kitāba wa l-ḥikmata wa yuʿallimukum mā lam takūnū taʿlamūn",
+                      "translation": "Xuddi sizga o'zingizdan rasul yuborganimizdek, u sizga oyatlarimizni o'qiydi, sizni poklaydi, kitob va hikmatni o'rgatadi va sizga bilmagan narsalaringizni o'rgatadi.",
+                      "tafsir": "Payg'ambarning vazifalar: tilovat, tazkiya, ta'lim.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٢",
+                      "numberLatin": "152",
+                      "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+                      "transcription": "fa-dhkurūnī adhkurkum wa shkurū lī wa lā takfurūn",
+                      "translation": "Meni eslab turing, Men ham sizni eslayman. Menga shukr qiling va kufr qilmang.",
+                      "tafsir": "Zikr va shukrning ahamiyati, kufr qilmaslik.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٣",
+                      "numberLatin": "153",
+                      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+                      "transcription": "yā ayyuhā lladhīna āmanū staʿīnū bi-ṣ-ṣabri wa ṣ-ṣalāti inna llāha maʿa ṣ-ṣābirīn",
+                      "translation": "Ey iymon keltirguvchilar! Sabr va namoz bilan yordam so'rang. Albatta Alloh sabrlilar bilan birga.",
+                      "tafsir": "Sabr va namozning kuchi, Allohning sabrlilar bilan birgaligi.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٤",
+                      "numberLatin": "154",
+                      "arabic": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَـٰكِن لَّا تَشْعُرُونَ",
+                      "transcription": "wa lā taqūlū li-man yuqtalu fī sabīli llāhi amwātun bal aḥyā'un wa lākin lā tashʿurūn",
+                      "translation": "Alloh yo'lida o'ldirilganlarga 'o'lik' demang. Yo'q, ular tirikdirlar, lekin sez sezmazsiz.",
+                      "tafsir": "Shahidlarning haqiqiy hayoti va ularning martabasi.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٥",
+                      "numberLatin": "155",
+                      "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+                      "transcription": "wa la-nabluwannakum bi-shay'in mina l-khawfi wa l-jūʿi wa naqṣin mina l-amwāli wa l-anfusi wa th-thamarāti wa bashshiri ṣ-ṣābirīn",
+                      "translation": "Albatta sizni qo'rquv, ochlik, mol, jon va mevalarning kamayishi bilan sinaymiz. Sabrli kishilarni xushxabar ber.",
+                      "tafsir": "Dunyo hayotidagi sinovlar va sabr qiluvchilarga xushxabar.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٦",
+                      "numberLatin": "156",
+                      "arabic": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+                      "transcription": "alladhīna idhā aṣābat-hum muṣībatun qālū innā lillāhi wa innā ilayhi rājiʿūn",
+                      "translation": "Ularga musibat yetganda: 'Albatta biz Allohnikimiz va albatta Unga qaytuvchilarmiz' deydiganlar.",
+                      "tafsir": "Musibat paytida aytiluvchi duo - inna lillahi wa inna ilayhi raji'un.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٧",
+                      "numberLatin": "157",
+                      "arabic": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌۭ مِّن رَّبِّهِمْ وَرَحْمَةٌۭ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+                      "transcription": "ulā'ika ʿalayhim ṣalawātun min rabbihim wa raḥmatun wa ulā'ika humu l-muhtadūn",
+                      "translation": "Mana ularga Robbilaridan salavotlar va rahmat bor. Mana shular hidoyat topuvchilardir.",
+                      "tafsir": "Sabr qiluvchilarga Allohning rahmat va hidoyati.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٨",
+                      "numberLatin": "158",
+                      "arabic": "إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًۭا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌۭ",
+                      "transcription": "inna ṣ-ṣafā wa l-marwata min shaʿā'iri llāhi fa-man ḥajja l-bayta awi ʿtamara fa-lā junāḥa ʿalayhi an yaṭṭawwafa bihimā wa man taṭawwaʿa khayran fa-inna llāha shākirun ʿalīm",
+                      "translation": "Albatta Safo va Marva Allohning belgilaridandir. Kim Baytga haj yoki umra qilsa, ikkovining orasida tavof qilishida gunoh yo'q. Kim yaxshilik qilsa, albatta Alloh shukr qiluvchi va biluvchidir.",
+                      "tafsir": "Safo va Marva orasidagi sa'y ibodati va uning fazilati.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٥٩",
+                      "numberLatin": "159",
+                      "arabic": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ",
+                      "transcription": "inna lladhīna yaktumūna mā anzalnā mina l-bayyināti wa l-hudā min baʿdi mā bayyanāhu li-n-nāsi fī l-kitābi ulā'ika yalʿanuhumu llāhu wa yalʿanuhumu l-lāʿinūn",
+                      "translation": "Biz nozil qilgan ochiq dalillar va hidoyatni odamlarga Kitobda bayonlab berganimizdan keyin yashiradigan kishilarni Alloh ham la'natlaydi, la'natlovchilar ham la'natlaydilar.",
+                      "tafsir": "Ilm va hidoyatni yashirishning gunohи va la'nati.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٠",
+                      "numberLatin": "160",
+                      "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَـٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+                      "transcription": "illā lladhīna tābū wa aṣlaḥū wa bayyanū fa-ulā'ika atūbu ʿalayhim wa ana t-tawwābu r-raḥīm",
+                      "translation": "Magar tavba qilib, isloh bo'lib, (haqni) bayonladigan kishilar bundan mustasno. Mana ularning tavbasini qabul qilaman. Men ko'p tavba qabul qiluvchi va rahmli Zotman.",
+                      "tafsir": "Tavba, isloh va haqni bayonlashning fazilati.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦١",
+                      "numberLatin": "161",
+                      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَـٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+                      "transcription": "inna lladhīna kafarū wa mātū wa hum kuffārun ulā'ika ʿalayhim laʿnatu llāhi wa l-malā'ikati wa n-nāsi ajmaʿīn",
+                      "translation": "Kufr qilib, kofir holda o'lganlar ustiga Alloh, farishtalar va barcha odamlarning la'nati bor.",
+                      "tafsir": "Kufr ustida o'lishning oqibati - umumiy la'nat.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٢",
+                      "numberLatin": "162",
+                      "arabic": "خَـٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+                      "transcription": "khālidīna fīhā lā yukhaffafu ʿanhumu l-ʿadhābu wa lā hum yunẓarūn",
+                      "translation": "Ular unda abadiy qolurlar. Ulardan azob yengillatilmaydi va ularga nazar ham solinmaydi.",
+                      "tafsir": "Kofirlar uchun abadiy azob va rahmsizlik.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٣",
+                      "numberLatin": "163",
+                      "arabic": "وَإِلَـٰهُكُمْ إِلَـٰهٌۭ وَٰحِدٌۭ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+                      "transcription": "wa ilāhukum ilāhun wāḥidun lā ilāha illā huwa r-raḥmānu r-raḥīm",
+                      "translation": "Sizning ilohingiz yagona ilohdır. Undan boshqa iloh yo'q. U rahmli va mehribon Zotdir.",
+                      "tafsir": "Tawhidning asl bayoni - Allohning yagonaligi.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٤",
+                      "numberLatin": "164",
+                      "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍۢ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+                      "transcription": "inna fī khalqi s-samāwāti wa l-arḍi wa khtilāfi l-layli wa n-nahāri wa l-fulki llatī tajrī fī l-baḥri bimā yanfaʿu n-nāsa wa mā anzala llāhu mina s-samā'i min mā'in fa-aḥyā bihi l-arḍa baʿda mawtihā wa baththa fīhā min kulli dābbatin wa taṣrīfi r-riyāḥi wa s-saḥābi l-musakhkhari bayna s-samā'i wa l-arḍi la-āyātin li-qawmin yaʿqilūn",
+                      "translation": "Albatta osmonlar va yerning yaratilishida, kecha va kunduzning almashinishida, dengizda odamlarga foydali narsalar bilan yuradigan kemalarda, Alloh osmondan nozil qilgan suv bilan yerni o'limidan keyin tiriltirishida va unda har xil jonzotlarni tarqatishida, shamollar va osmon-yer orasida xizmatga olingan bulutlarning harakatida aql yurituvchi qawm uchun oyatlar bor.",
+                      "tafsir": "Koinotdagi Alloh oyatlari va ulardan ibrat olish.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٥",
+                      "numberLatin": "165",
+                      "arabic": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًۭا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّۭا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًۭا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+                      "transcription": "wa mina n-nāsi man yattakhidhu min dūni llāhi andādan yuḥibbūnahum ka-ḥubbi llāhi wa lladhīna āmanū ashaddu ḥubban lillāhi wa law yarā lladhīna ẓalamū idh yarawna l-ʿadhāba anna l-quwwata lillāhi jamīʿan wa anna llāha shadīdu l-ʿadhāb",
+                      "translation": "Odamlardan ba'zilari Allohdan boshqalarni tengdosh qilib oladilar va ularni Allohni sevgandek sevadilar. Iymon keltirguvchilar Allohni eng qattiq sevadilar. Qachonki zolimlar azobni ko'rganda, barcha quvvat Allohniki ekanini va Alloh qattiq azob beruvchi ekanini bilsalar edi!",
+                      "tafsir": "Shirk qiluvchilar va mo'minlarning Allohga muhabbati farqi.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٦",
+                      "numberLatin": "166",
+                      "arabic": "إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ",
+                      "transcription": "idh tabarra'a lladhīna ttubiʿū mina lladhīna ttabaʿū wa ra'aw l-ʿadhāba wa taqaṭṭaʿat bihimu l-asbāb",
+                      "translation": "Ergashilganlar ergashuvchilardan voz kechib, azobni ko'rganlarida va ular orasidagi rishta uzilganida.",
+                      "tafsir": "Qiyomatda peshvalar va izlovchilar orasidagi aloqaning uzilishi.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٧",
+                      "numberLatin": "167",
+                      "arabic": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَـٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ",
+                      "transcription": "wa qāla lladhīna ttabaʿū law anna lanā karratan fa-natabarra'a minhum kamā tabarra'ū minnā kadhālika yurīhimu llāhu aʿmālahum ḥasarātin ʿalayhim wa mā hum bi-khārijīna mina n-nār",
+                      "translation": "Ergashuvchilar: 'Agar bizga (dunyoga) qaytish imkoni bo'lsaydi, biz ham ular bizdan voz kechgandek ulardan voz kechardik' dedilar. Shunday qilib Alloh ularga amallarini hasrat qilib ko'rsatadi. Ular do'zaxdan chiquvchi emaslar.",
+                      "tafsir": "Izlovchilarning qiyomatdagi pushaymonligi va abadiy azob.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٨",
+                      "numberLatin": "168",
+                      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَـٰلًۭا طَيِّبًۭا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ",
+                      "transcription": "yā ayyuhā n-nāsu kulū mimmā fī l-arḍi ḥalālan ṭayyiban wa lā tattabiʿū khuṭuwāti sh-shayṭāni innahu lakum ʿaduwwun mubīn",
+                      "translation": "Ey odamlar! Yerdagi halol va pokiza narsalardan yeng va shaytonning qadamlariga ergashmang. U sizga ochiq dushmandır.",
+                      "tafsir": "Halol ovqat yeyish va shaytondan ehtiyot bo'lish.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٦٩",
+                      "numberLatin": "169",
+                      "arabic": "إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+                      "transcription": "innamā ya'murukum bi-s-sū'i wa l-faḥshā'i wa an taqūlū ʿalā llāhi mā lā taʿlamūn",
+                      "translation": "U sizga faqat yomonlik, fahshiyat va Alloh haqida bilmagan narsalaringizni aytishni buyuradi.",
+                      "tafsir": "Shaytonning insonga buyuradigan yomon ishları.",
+                      "copySymbol": "📋"
+                    },
+                    {
+                      "numberArabic": "١٧٠",
+                      "numberLatin": "170",
+                      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًۭٔا وَلَا يَهْتَدُونَ",
+                      "transcription": "wa idhā qīla lahumu ttabiʿū mā anzala llāhu qālū bal nattabiʿu mā alfaynā ʿalayhi ābā'anā a-wa-law kāna ābā'uhum lā yaʿqilūna shay'an wa lā yahtadūn",
+                      "translation": "Ularga: 'Alloh nozil qilganiga ergashing' deyilganda: 'Yo'q, biz ota-bobolarimizni ustida topgan narsaga ergashamiz' deydilar. Ota-bobolar hech narsani aql yuritmagan va hidoyat topmagan bo'lsa ham (ergashadimi)?",
+                      "tafsir": "Kоr-ko'rona ota-bobolarning an'anasiga ergashish tanqidi.",
+                      "copySymbol": "📋"
+                    },
+                      {
+                        "numberArabic": "١٧١",
+                        "numberLatin": "171",
+                        "arabic": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءًۭ وَنِدَآءًۭ ۚ صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَعْقِلُونَ",
+                        "transcription": "wa mathalu lladhīna kafarū ka-mathali lladhī yanʿiqu bimā lā yasmaʿu illā duʿā'an wa nidā'an ṣummun bukmun ʿumyun fa-hum lā yaʿqilūn",
+                        "translation": "Kofirlarning misoli chaqiriq va nidodan boshqa hech narsani eshitmaydigan hayvonni baqirib chaqiruvchining misolidek. Ular kar, soqov va ko'r, shuning uchun aql yuritmaydilar.",
+                        "tafsir": "Kofirlarning haqni qabul qilishdagi ojizligi hayvonlar bilan taqqoslanishi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٢",
+                        "numberLatin": "172",
+                        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+                        "transcription": "yā ayyuhā lladhīna āmanū kulū min ṭayyibāti mā razaqnākum wa shkurū lillāhi in kuntum iyyāhu taʿbudūn",
+                        "translation": "Ey iymon keltirguvchilar! Sizga bergan pokiza rizqlarimizdan yeng va agar Unga ibodat qilsangiz, Allohga shukr qiling.",
+                        "tafsir": "Mo'minlarga halol rizq yeyish va shukr qilish buyrug'i.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٣",
+                        "numberLatin": "173",
+                        "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                        "transcription": "innamā ḥarrama ʿalaykumu l-maytata wa d-dama wa laḥma l-khinzīri wa mā uhilla bihī li-ghayri llāhi fa-mani ḍṭurra ghayra bāghin wa lā ʿādin fa-lā ithma ʿalayhi inna llāha ghafūrun raḥīm",
+                        "translation": "U sizga faqat o'lak, qon, cho'chqa go'shti va Allohdan boshqasi nomiga so'yilgan narsalarni haram qildi. Kim majburligi sababli, haddan oshmasdan va dushmanlık qilmasdan (yesa), unga gunoh yo'q. Albatta Alloh maghfurat qiluvchi va rahmlidir.",
+                        "tafsir": "Haram ovqatlar va zaruratda ruxsat berilishi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٤",
+                        "numberLatin": "174",
+                        "arabic": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَـٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًۭا قَلِيلًا ۙ أُو۟لَـٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+                        "transcription": "inna lladhīna yaktumūna mā anzala llāhu mina l-kitābi wa yashtarūna bihī thamanan qalīlan ulā'ika mā ya'kulūna fī buṭūnihim illā n-nāra wa lā yukallimuhumu llāhu yawma l-qiyāmati wa lā yuzakkīhim wa lahum ʿadhābun alīm",
+                        "translation": "Alloh nozil qilgan Kitobni yashirib, unga evaziga oz narsa sotib olganlar qorinlariga olovdan boshqa narsa yemaydilar. Alloh qiyomat kuni ular bilan gaplashmaydi va ularni poklamaydi. Ularga alamli azob bor.",
+                        "tafsir": "Ilmiy ma'lumotlarni yashirib, dunyoviy manfaat olishning oqibati.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٥",
+                        "numberLatin": "175",
+                        "arabic": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ",
+                        "transcription": "ulā'ika lladhīna shtaraw ḍ-ḍalālata bi-l-hudā wa l-ʿadhāba bi-l-maghfirati fa-mā aṣbarahum ʿalā n-nār",
+                        "translation": "Mana ular hidoyat evaziga adashlikni, mag'firat evaziga azobni sotib olganlar. Ular do'zaxga qanday chidaydilar!",
+                        "tafsir": "Hidoyatni rad etib, adashlikni tanlashning g'alatiligi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٦",
+                        "numberLatin": "176",
+                        "arabic": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَـٰبِ لَفِى شِقَاقٍۭ بَعِيدٍۢ",
+                        "transcription": "dhālika bi-anna llāha nazzala l-kitāba bi-l-ḥaqqi wa inna lladhīna khtalafū fī l-kitābi la-fī shiqāqin baʿīd",
+                        "translation": "Bu Alloh Kitobni haq bilan nozil qilgani uchundir. Kitob haqida ixtilof qiluvchilar uzoq muxolifatdadirlar.",
+                        "tafsir": "Allohning Kitobining haq ekanligi va ixtilof qiluvchilarning ahvoli.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٧",
+                        "numberLatin": "177",
+                        "arabic": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+                        "transcription": "laysa l-birra an tuwallū wujūhakum qibala l-mashriqi wa l-maghribi wa lākinna l-birra man āmana billāhi wa l-yawmi l-ākhiri wa l-malā'ikati wa l-kitābi wa n-nabiyyīna wa ātā l-māla ʿalā ḥubbihī dhawī l-qurbā wa l-yatāmā wa l-masākīna wa bna s-sabīli wa s-sā'ilīna wa fī r-riqābi wa aqāma ṣ-ṣalāta wa ātā z-zakāta wa l-mūfūna bi-ʿahdihim idhā ʿāhadū wa ṣ-ṣābirīna fī l-ba'sā'i wa ḍ-ḍarrā'i wa ḥīna l-ba'si ulā'ika lladhīna ṣadaqū wa ulā'ika humu l-muttaqūn",
+                        "translation": "Yaxshilik yuzlaringizni sharq va g'arbga burishingiz emas, balki yaxshilik Alloh, oxirat kuni, farishtalar, Kitob va payg'ambarlarga iymon keltirib, molni sevishiga qaramay qarindosh-urug'lar, yetimlar, miskinlar, yo'lovchilar, tilovchilar va qul ozod qilishga berish, namoz o'qish va zakot berishdir. Va ahd qilganda ahdlariga vafo qiluvchilar, balo-musibat va urush vaqtida sabr qiluvchilardir. Mana ular rostgo'ylardir va mana ular taqvodorlardir.",
+                        "tafsir": "Haqiqiy yaxshilik va taqvoning keng ta'rifi - iymon, amal va axloq.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٨",
+                        "numberLatin": "178",
+                        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌۭ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـٰنٍۢ ۗ ذَٰلِكَ تَخْفِيفٌۭ مِّن رَّبِّكُمْ وَرَحْمَةٌۭ ۗ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌۭ",
+                        "transcription": "yā ayyuhā lladhīna āmanū kutiba ʿalaykumu l-qiṣāṣu fī l-qatlā l-ḥurru bi-l-ḥurri wa l-ʿabdu bi-l-ʿabdi wa l-unthā bi-l-unthā fa-man ʿufiya lahū min akhīhi shay'un fa-ttibāʿun bi-l-maʿrūfi wa adā'un ilayhi bi-iḥsānin dhālika takhfīfun min rabbikum wa raḥmatun fa-mani ʿtadā baʿda dhālika fa-lahū ʿadhābun alīm",
+                        "translation": "Ey iymon keltirguvchilar! Sizga o'ldirilganlarda qisas yozildi: hur hurga, qul qulga, ayol ayolga. Kimga birodari tomonidan biroz kechrim qilinsa, yaxshilik bilan ergashish va unga go'zallik bilan to'lash kerak. Bu Robbingizdan yengillik va rahmdir. Bundan keyin kim haddan oshsa, unga alamli azob bor.",
+                        "tafsir": "Qisas qonuni va kechirish fazilati - adolat va rahm o'rtasidagi muvozanat.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٧٩",
+                        "numberLatin": "179",
+                        "arabic": "وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌۭ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تَتَّقُونَ",
+                        "transcription": "wa lakum fī l-qiṣāṣi ḥayātun yā ulī l-albābi laʿallakum tattaqūn",
+                        "translation": "Ey aql egalari! Sizga qisosda hayot bor, shoyad taqvo qilarsiz.",
+                        "tafsir": "Qisas qonunining jamiyatni qo'rish va jinoyatni oldini olishdagi ahamiyati.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٠",
+                        "numberLatin": "180",
+                        "arabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+                        "transcription": "kutiba ʿalaykum idhā ḥaḍara aḥadakumu l-mawtu in taraka khayran al-waṣiyyatu li-l-wālidayni wa l-aqrabīna bi-l-maʿrūfi ḥaqqan ʿalā l-muttaqīn",
+                        "translation": "Sizdan biringizga o'lim yetib, mol qoldirsa, ota-ona va yaqinlarga ma'ruf bilan vasiyat qilish yozildi. Bu taqvodorlar zimmasisda haqdir.",
+                        "tafsir": "Vasiyat qilishning shariy hukmi va taqvodorlarning burchи.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨١",
+                        "numberLatin": "181",
+                        "arabic": "فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+                        "transcription": "fa-man baddalahū baʿdamā samiʿahū fa-innamā ithmuhū ʿalā lladhīna yubaddilūnahū inna llāha samīʿun ʿalīm",
+                        "translation": "Kim eshitgandan keyin uni o'zgartirsa, uning gunoh uni o'zgartirguvchilar zimmasisda. Albatta Alloh eshituvchi va biluvchidir.",
+                        "tafsir": "Vasiyatni o'zgartirishning gunohи va Allohning hamma narsani bilishi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٢",
+                        "numberLatin": "182",
+                        "arabic": "فَمَنْ خَافَ مِن مُّوصٍۢ جَنَفًا أَوْ إِثْمًۭا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                        "transcription": "fa-man khāfa min mūṣin janafan aw ithman fa-aṣlaḥa baynahum fa-lā ithma ʿalayhi inna llāha ghafūrun raḥīm",
+                        "translation": "Kim vasiyat qiluvchidan qiyshiqlik yoki gunohdan qo'rqib, ularni isloh qilsa, unga gunoh yo'q. Albatta Alloh maghfuratli va rahmlidir.",
+                        "tafsir": "Vasiyatdagi xatoliklarni tuzatish va isloh qilishning joizligi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٣",
+                        "numberLatin": "183",
+                        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+                        "transcription": "yā ayyuhā lladhīna āmanū kutiba ʿalaykumu ṣ-ṣiyāmu kamā kutiba ʿalā lladhīna min qablikum laʿallakum tattaqūn",
+                        "translation": "Ey iymon keltirguvchilar! Sizdan oldingilar ustiga yozilgandek, sizga ham ro'za yozildi, shoyad taqvo qilarsiz.",
+                        "tafsir": "Ro'za farziyati va uning taqvo hosil qilishdagi ahamiyati.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٤",
+                        "numberLatin": "184",
+                        "arabic": "أَيَّامًۭا مَّعْدُودَٰتٍۢ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍۢ فَعِدَّةٌۭ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌۭ طَعَامُ مِسْكِينٍۢ ۖ فَمَن تَطَوَّعَ خَيْرًۭا فَهُوَ خَيْرٌۭ لَّهُۥ ۚ وَأَن تَصُومُوا۟ خَيْرٌۭ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+                        "transcription": "ayyāman maʿdūdātin fa-man kāna minkum marīḍan aw ʿalā safarin fa-ʿiddatun min ayyāmin ukhara wa ʿalā lladhīna yuṭīqūnahū fidyatun ṭaʿāmu miskīnin fa-man taṭawwaʿa khayran fa-huwa khayrun lahū wa an taṣūmū khayrun lakum in kuntum taʿlamūn",
+                        "translation": "Sanovi ma'lum kunlar. Kimki kasal yoki safarda bo'lsa, boshqa kunlardan sana. Ro'za tutishga qodir bo'lganlarga miskin taomı fidyasi. Kim ko'proq yaxshilik qilsa, o'zi uchun yaxshidir. Ro'za tutishingiz sizga yaxshiroqdir, agar bilsangiz.",
+                        "tafsir": "Ro'za kunlari va uzrli kishilarga ruxsat, fidya hukmi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٥",
+                        "numberLatin": "185",
+                        "arabic": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًۭى لِّلنَّاسِ وَبَيِّنَـٰتٍۢ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍۢ فَعِدَّةٌۭ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                        "transcription": "shahru ramaḍāna lladhī unzila fīhi l-qur'ānu hudan li-n-nāsi wa bayyinātin mina l-hudā wa l-furqāni fa-man shahida minkumu sh-shahra fa-l-yaṣumhu wa man kāna marīḍan aw ʿalā safarin fa-ʿiddatun min ayyāmin ukhara yurīdu llāhu bikumu l-yusra wa lā yurīdu bikumu l-ʿusra wa li-tukmilū l-ʿiddata wa li-tukabbirū llāha ʿalā mā hadākum wa laʿallakum tashkurūn",
+                        "translation": "Ramazon oyi - unda Qur'on odamlarga hidoyat, hidoyatdan ochiq dalillar va farqlovchi sifatida nozil qilingan oy. Sizdan kim bu oyni idrok etsa, uni ro'za tutsın. Kim kasal yoki safarda bo'lsa, boshqa kunlardan sana. Alloh sizga osonlikni xohlaydi, qiyinchılikni xohlamaydi. Sanani to'ldirishingiz, Alloh sizni hidoyat qilgaпi uchun Uni ulug'lashingiz va shukr qilishingiz uchun.",
+                        "tafsir": "Ramazon oyining fazilati, Qur'on nozil bo'lish oyi va osonlik prinsipi.",
+                        "copySymbol": "📋"
+                      },
+                      {
+                        "numberArabic": "١٨٦",
+                        "numberLatin": "186",
+                        "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+                        "transcription": "wa idhā sa'alaka ʿibādī ʿannī fa-innī qarībun ujību daʿwata d-dāʿi idhā daʿānī fa-l-yastajībū lī wa l-yu'minū bī laʿallahum yarshudūn",
+                        "translation": "Qullarim Meni so'raganda, albatta Men yaqinman. Duo qiluvchining duosiga javob beraman, qachon Meni chaqirsa. Bas, ular ham Menga javob bersinlar va Menga iymon keltirsinlar, shoyad to'g'ri yo'l toparlari.",
+                        "tafsir": "Allohning bandalariga yaqinligi va duoning qabul bo'lishi.",
+                        "copySymbol": "📋"
+                      },
+                        {
+                          "numberArabic": "١٨٦",
+                          "numberLatin": "186",
+                          "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+                          "transcription": "wa idhā sa'alaka ʿibādī ʿannī fa-innī qarībun ujību daʿwata d-dāʿi idhā daʿānī fa-l-yastajībū lī wa l-yu'minū bī laʿallahum yarshudūn",
+                          "translation": "Qullarim Meni so'raganda, albatta Men yaqinman. Duo qiluvchining duosiga javob beraman, qachon Meni chaqirsa. Bas, ular ham Menga javob bersinlar va Menga iymon keltirsinlar, shoyad to'g'ri yo'l toparlari.",
+                          "tafsir": "Allohning bandalariga yaqinligi va duoning qabul bo'lishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٨٧",
+                          "numberLatin": "187",
+                          "arabic": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٔـٰنَ بَـٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَـٰشِرُوهُنَّ وَأَنتُمْ عَـٰكِفُونَ فِى ٱلْمَسَـٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+                          "transcription": "uḥilla lakum laylata ṣ-ṣiyāmi r-rafathu ilā nisā'ikum hunna libāsun lakum wa antum libāsun lahunna ʿalima llāhu annakum kuntum takhtānūna anfusakum fa-tāba ʿalaykum wa ʿafā ʿankum fa-l-āna bāshirūhunna wa btaghū mā kataba llāhu lakum wa kulū wa shrabū ḥattā yatabayyana lakumu l-khayṭu l-abyaḍu mina l-khayṭi l-aswadi mina l-fajri thumma atimmū ṣ-ṣiyāma ilā l-layli wa lā tubāshirūhunna wa antum ʿākifūna fī l-masājidi tilka ḥudūdu llāhi fa-lā taqrabūhā kadhālika yubayyinu llāhu āyātihī li-n-nāsi laʿallahum yattaqūn",
+                          "translation": "Ro'za kechasida xotinlaringizga yaqinlashish sizga halol qilindi. Ular sizga libos, siz ham ularga libossiz. Alloh bildi-yu, siz o'zingizga xiyonat qilardingiz, bas sizning tavbangizni qabul qilib, sizni kechirdi. Endi ularga yaqinlashing va Alloh sizga yozgan narsani izlang. Subhdan oq ip qora ipdan ajralib ko'ringuncha yeng va iching. Keyin ro'zani kechagacha to'liq tuting. I'tikofda masjidlarda bo'lganingizda ularga yaqinlashmang. Bular Allohning chegaralari, ularga yaqinlashmang. Shunday qilib Alloh oyatlarini odamlarga bayonlaydi, shoyad taqvo qilarlari.",
+                          "tafsir": "Ro'za tutuvchilar uchun kechasi va kunduzi qoidalar, nikoh munosabatlari.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٨٨",
+                          "numberLatin": "188",
+                          "arabic": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًۭا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+                          "transcription": "wa lā ta'kulū amwālakum baynakum bi-l-bāṭili wa tudlū bihā ilā l-ḥukkāmi li-ta'kulū farīqan min amwāli n-nāsi bi-l-ithmi wa antum taʿlamūn",
+                          "translation": "Mollaringizni o'ralaringizda batil yo'l bilan yemang va odamlarning molidan bir qismini gunoh bilan yeyish uchun ularni hakamlar oldiga bermang, holbuki bilasiz.",
+                          "tafsir": "Molni haram yo'l bilan yeyish va sud yordamida boshqa molini olish harom.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٨٩",
+                          "numberLatin": "189",
+                          "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَـٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+                          "transcription": "yas'alūnaka ʿani l-ahillati qul hiya mawāqītu li-n-nāsi wa l-ḥajji wa laysa l-birru bi-an ta'tū l-buyūta min ẓuhūrihā wa lākinna l-birra mani ttaqā wa'tū l-buyūta min abwābihā wa ttaqū llāha laʿallakum tufliḥūn",
+                          "translation": "Sizdan hilollar haqida so'rashyapti. Ayting: 'Ular odamlar va haj uchun vaqtlardir.' Yaxshilik uylarni orqa tomondan kirishingiz emas, balki yaxshilik taqvo qilgandir. Uylarni eshiklaridan kiring va Allohdan qo'rqing, shoyad najot toparsiz.",
+                          "tafsir": "Hilollarning vaqt belgilash vazifasi va to'g'ri yo'lda harakat qilish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٠",
+                          "numberLatin": "190",
+                          "arabic": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+                          "transcription": "wa qātilū fī sabīli llāhi lladhīna yuqātilūnakum wa lā taʿtadū inna llāha lā yuḥibbu l-muʿtadīn",
+                          "translation": "Alloh yo'lida sizga qarshi jang qiluvchilar bilan jang qiling, lekin haddan oshmang. Albatta Alloh haddan oshuvchilarni sevmaydi.",
+                          "tafsir": "Jihod qoidalari - faqat hujum qiluvchilarga qarshi va haddan oshmaslik.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩١",
+                          "numberLatin": "191",
+                          "arabic": "وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ ۚ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ ۚ وَلَا تُقَـٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَـٰتِلُوكُمْ فِيهِ ۖ فَإِن قَـٰتَلُوكُمْ فَٱقْتُلُوهُمْ ۗ كَذَٰلِكَ جَزَآءُ ٱلْكَـٰفِرِينَ",
+                          "transcription": "wa qtulūhum ḥaythu thaqiftumūhum wa akhrijūhum min ḥaythu akhrajūkum wa l-fitnatu ashaddu mina l-qatli wa lā tuqātilūhum ʿinda l-masjidi l-ḥarāmi ḥattā yuqātilūkum fīhi fa-in qātalūkum fa-qtulūhum kadhālika jazā'u l-kāfirīn",
+                          "translation": "Ularni qayerda uchraganingizda o'ldiring va sizni qayerdan chiqargan bo'lsalar, o'sha yerdan chiqaring. Fitna qotillikdan ham qattigroqdir. Masjidil Harom yonida ular sizga qarshi jang qilmasalar, jang qilmang. Agar jang qilsalar, o'ldiring. Kafirlarning jazoси mana shundaydir.",
+                          "tafsir": "Jihod qoidalari va Haram masjid atrofidagi maxsus ahkol.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٢",
+                          "numberLatin": "192",
+                          "arabic": "فَإِنِ ٱنتَهَوْا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                          "transcription": "fa-ini ntahaw fa-inna llāha ghafūrun raḥīm",
+                          "translation": "Agar to'xtasalar, albatta Alloh maghfiratli va rahmlidir.",
+                          "tafsir": "Dushmanning taslim bo'lganda kechirish va rahm ko'rsatish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٣",
+                          "numberLatin": "193",
+                          "arabic": "وَقَـٰتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌۭ وَيَكُونَ ٱلدِّينُ لِلَّهِ ۖ فَإِنِ ٱنتَهَوْا۟ فَلَا عُدْوَٰنَ إِلَّا عَلَى ٱلظَّـٰلِمِينَ",
+                          "transcription": "wa qātilūhum ḥattā lā takūna fitnatun wa yakūna d-dīnu lillāhi fa-ini ntahaw fa-lā ʿudwāna illā ʿalā ẓ-ẓālimīn",
+                          "translation": "Fitna bo'lmaguncha va din Allohniki bo'lguncha ular bilan jang qiling. Agar to'xtasalar, zolimlardan boshqasiga tajovuz yo'q.",
+                          "tafsir": "Jihod maqsadi - fitna yo'q qilish va dinni o'rnatish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٤",
+                          "numberLatin": "194",
+                          "arabic": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَـٰتُ قِصَاصٌۭ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+                          "transcription": "ash-shahru l-ḥarāmu bi-sh-shahri l-ḥarāmi wa l-ḥurumātu qiṣāṣun fa-mani ʿtadā ʿalaykum fa-ʿtadū ʿalayhi bi-mithli mā ʿtadā ʿalaykum wa ttaqū llāha wa ʿlamū anna llāha maʿa l-muttaqīn",
+                          "translation": "Haram oy haram oyga, hurmatlar qisosdir. Kim sizga tajovuz qilsa, sizga qanday tajovuz qilgan bo'lsa, shunday qiling. Allohdan qo'rqing va bilingki, Alloh taqvodorlar bilandir.",
+                          "tafsir": "Qisosning tenglik prinsipi va taqvodorlar bilan Allohning birgaligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٥",
+                          "numberLatin": "195",
+                          "arabic": "وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+                          "transcription": "wa anfiqū fī sabīli llāhi wa lā tulqū bi-aydīkum ilā t-tahlukati wa aḥsinū inna llāha yuḥibbu l-muḥsinīn",
+                          "translation": "Alloh yo'lida infaq qiling va o'z qo'lingiz bilan halokotga tashlamang. Yaxshilik qiling, albatta Alloh yaxshilik qiluvchilarni sevadi.",
+                          "tafsir": "Alloh yo'lida infaq qilish va o'zini halokotga tashlamaslik.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٦",
+                          "numberLatin": "196",
+                          "arabic": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًۭى مِّن رَّأْسِهِۦ فَفِدْيَةٌۭ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍۢ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍۢ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌۭ كَامِلَةٌۭ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+                          "transcription": "wa atimmū l-ḥajja wa l-ʿumrata lillāhi fa-in uḥṣirtum fa-mā staysara mina l-hadyi wa lā taḥliqū ru'ūsakum ḥattā yablugha l-hadyu maḥillahū fa-man kāna minkum marīḍan aw bihī adhan min ra'sihī fa-fidyatun min ṣiyāmin aw ṣadaqatin aw nusukin fa-idhā amintum fa-man tamattaʿa bi-l-ʿumrati ilā l-ḥajji fa-mā staysara mina l-hadyi fa-man lam yajid fa-ṣiyāmu thalāthati ayyāmin fī l-ḥajji wa sabʿatin idhā rajaʿtum tilka ʿasharatun kāmilatun dhālika li-man lam yakun ahluhū ḥāḍirī l-masjidi l-ḥarāmi wa ttaqū llāha wa ʿlamū anna llāha shadīdu l-ʿiqāb",
+                          "translation": "Haj va umrani Alloh uchun to'liq qiling. Agar to'sib qo'yilsangiz, qurbonlik hayvonidan oson kelganini. Qurbonlik o'z o'rniga yetmagunicha boshlaringizni olmang. Sizdan kim kasal bo'lsa yoki boshidagi aziyat bo'lsa, ro'za yoki sadaqa yoki qurbonlik fidyasi. Xavfsiz bo'lganingizda kim umra bilan hajgacha foydalansa, qurbonlik hayvonidan oson kelganini. Topa olmasa, hajda uch kun, qaytganingizda yetti kun ro'za tuting. Bular to'liq o'n kun. Bu Masjidil Haram ahlı bo'lmagan kishi uchundir. Allohdan qo'rqing va bilingki, Alloh qattiq azob beruvchidir.",
+                          "tafsir": "Haj va umra qoidalari, to'siqlar, fidya va qurbonlik ahkomi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٧",
+                          "numberLatin": "197",
+                          "arabic": "ٱلْحَجُّ أَشْهُرٌۭ مَّعْلُومَـٰتٌۭ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ",
+                          "transcription": "al-ḥajju ashhurun maʿlūmātun fa-man faraḍa fīhinna l-ḥajja fa-lā rafatha wa lā fusūqa wa lā jidāla fī l-ḥajji wa mā tafʿalū min khayrin yaʿlamhu llāhu wa tazawwadū fa-inna khayra z-zādi t-taqwā wa ttaqūni yā ulī l-albāb",
+                          "translation": "Haj ma'lum oylardir. Kim o'sha oylarda hajni farz qilsa, hajda no rafas, no fusiq, no jidal. Qanday yaxshilik qilsangiz, Alloh biladi. Oziq-ovqat oling, eng yaxshi oziq taqvodir. Mendan qo'rqing, ey aql egalari!",
+                          "tafsir": "Haj oylari va haj paytidagi axloqiy qoidalar, taqvoning ahamiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٨",
+                          "numberLatin": "198",
+                          "arabic": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًۭا مِّن رَّبِّكُمْ ۚ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَـٰتٍۢ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ ۖ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+                          "transcription": "laysa ʿalaykum junāḥun an tabtaghū faḍlan min rabbikum fa-idhā afaḍtum min ʿarafātin fa-dhkurū llāha ʿinda l-mashʿari l-ḥarāmi wa dhkurūhu kamā hadākum wa in kuntum min qablihī la-mina ḍ-ḍāllīn",
+                          "translation": "Robbingizdan fazl izlashingizda gunoh yo'q. Arafotdan qaytganingizda Mash'aril Harom yonida Allohni eslab turing va Uni sizni hidoyat qilganidek eslab turing. Albatta siz bundan oldin adashguvchilardan edingiz.",
+                          "tafsir": "Haj paytida tijorat qilish joizligi va Arafotdan keyin zikr qilish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "١٩٩",
+                          "numberLatin": "199",
+                          "arabic": "ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                          "transcription": "thumma afīḍū min ḥaythu afāḍa n-nāsu wa staghfirū llāha inna llāha ghafūrun raḥīm",
+                          "translation": "Keyin odamlar qaytgan joydan qaytıng va Allohdan mag'firat so'rang. Albatta Alloh maghfiratli va rahmlidir.",
+                          "tafsir": "Haj marosimlaridan keyin istig'for qilish va Allohning kechirimi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٠",
+                          "numberLatin": "200",
+                          "arabic": "فَإِذَا قَضَيْتُم مَّنَـٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًۭا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍۢ",
+                          "transcription": "fa-idhā qaḍaytum manāsikakum fa-dhkurū llāha ka-dhikrikum ābā'akum aw ashadda dhikran fa-mina n-nāsi man yaqūlu rabbanā ātinā fī d-dunyā wa mā lahū fī l-ākhirati min khalāqin",
+                          "translation": "Haj marosimlaringizni tugatganingizdan keyin Allohni ota-bobalaringizni eslaganingizdan ham kuchliroq eslab turing. Odamlardan ba'zilari: 'Parvardigorimiz, bizga dunyoda ber' deydi va uning oxiratda hech ulushi yo'q.",
+                          "tafsir": "Haj tugagach zikr qilish va dunyoperast odamlarning ahvoli.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠١",
+                          "numberLatin": "201",
+                          "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ",
+                          "transcription": "wa minhum man yaqūlu rabbanā ātinā fī d-dunyā ḥasanatan wa fī l-ākhirati ḥasanatan wa qinā ʿadhāba n-nār",
+                          "translation": "Ulardan ba'zilari: 'Parvardigorimiz, bizga dunyoda yaxshilik va oxiratda yaxshilik ber va bizni do'zax azobidan qo'rgagin' deydilar.",
+                          "tafsir": "Eng mukammal dua - dunyoviy va oxiraviy sa'odat so'rash.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٢",
+                          "numberLatin": "202",
+                          "arabic": "أُو۟لَـٰٓئِكَ لَهُمْ نَصِيبٌۭ مِّمَّا كَسَبُوا۟ ۚ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+                          "transcription": "ulā'ika lahum naṣībun mimmā kasabū wa llāhu sarīʿu l-ḥisāb",
+                          "translation": "Mana ularga kasb qilganlaridan nasiba bor. Alloh tez hisob oluvchidir.",
+                          "tafsir": "Yaxshi duo qiluvchilarga mukofot va Allohning tez hisob olishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٣",
+                          "numberLatin": "203",
+                          "arabic": "وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍۢ مَّعْدُودَٰتٍۢ ۚ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ ۖ لِمَنِ ٱتَّقَىٰ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+                          "transcription": "wa dhkurū llāha fī ayyāmin maʿdūdātin fa-man taʿajjala fī yawmayni fa-lā ithma ʿalayhi wa man ta'akhkhara fa-lā ithma ʿalayhi li-mani ttaqā wa ttaqū llāha wa ʿlamū annakum ilayhi tuḥsharūn",
+                          "translation": "Sanovi ma'lum kunlarda Allohni eslab turing. Kim ikki kunda shoshsa gunoh yo'q, kim kechiktirsa ham gunoh yo'q - kimki taqvo qilgan bo'lsa. Allohdan qo'rqing va bilingki, sizlar Unga yig'ilasiz.",
+                          "tafsir": "Tashriq kunlarida zikr qilish va taqvo bilan harakat qilish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٤",
+                          "numberLatin": "204",
+                          "arabic": "وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ",
+                          "transcription": "wa mina n-nāsi man yuʿjibuka qawluhū fī l-ḥayāti d-dunyā wa yushhidu llāha ʿalā mā fī qalbihī wa huwa aladdu l-khiṣām",
+                          "translation": "Odamlardan ba'zilari bor ki, dunyo hayotida gapi sizni hayratga soladi va qalbidagi narsaga Allohni guvoh qiladi, holbuki u eng shiddatli munozarachıdir.",
+                          "tafsir": "Munofiqlarning yolg'on so'zlari va ularning haqiqiy tabiati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٥",
+                          "numberLatin": "205",
+                          "arabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
+                          "transcription": "wa idhā tawallā saʿā fī l-arḍi li-yufsida fīhā wa yuhlika l-ḥartha wa n-nasla wa llāhu lā yuḥibbu l-fasād",
+                          "translation": "Qachon ketsa, yerda fasod qilish uchun harakat qiladi, ekin va naslni halok qiladi. Alloh fasodni sevmaydi.",
+                          "tafsir": "Munofiqlarning zararli faoliyatlari va Allohning fasodni yomon ko'rishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٦",
+                          "numberLatin": "206",
+                          "arabic": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ",
+                          "transcription": "wa idhā qīla lahū ttaqi llāha akhadhathū l-ʿizzatu bi-l-ithmi fa-ḥasbuhū jahannamu wa la-bi'sa l-mihād",
+                          "translation": "Unga 'Allohdan qo'rq' deyilganda, takabburlik uni gunohga olib boradi. Unga jahannam kifoya. Qanday yomon qarar joy!",
+                          "tafsir": "Takabburlik va gunohda qolib ketishning oqibati - jahannam.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٧",
+                          "numberLatin": "207",
+                          "arabic": "وَمِنَ ٱلنَّاسِ مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+                          "transcription": "wa mina n-nāsi man yashrī nafsahū btighā'a marḍāti llāhi wa llāhu ra'ūfun bi-l-ʿibād",
+                          "translation": "Odamlardan ba'zilari Allohning rizosini izlab o'z jonini sotadi. Alloh bandalarga mehribondir.",
+                          "tafsir": "Alloh yo'lida fidokorlik qiluvchilar va Allohning mehribonligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٨",
+                          "numberLatin": "208",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱدْخُلُوا۟ فِى ٱلسِّلْمِ كَآفَّةًۭ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ",
+                          "transcription": "yā ayyuhā lladhīna āmanū dkhulū fī s-silmi kāffatan wa lā tattabiʿū khuṭuwāti sh-shayṭāni innahu lakum ʿaduwwun mubīn",
+                          "translation": "Ey iymon keltirguvchilar! Islomga to'liq kiring va shaytonning qadamlariga ergashmang. U sizga ochiq dushmandır.",
+                          "tafsir": "Islomga to'liq kirishning buyrug'i va shaytondan ehtiyot bo'lish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٠٩",
+                          "numberLatin": "209",
+                          "arabic": "فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَـٰتُ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ",
+                          "transcription": "fa-in zalaltum min baʿdi mā jā'atkumu l-bayyinātu fa-ʿlamū anna llāha ʿazīzun ḥakīm",
+                          "translation": "Agar sizga ochiq dalillar kelgandan keyin adashib qolsangiz, bilingki Alloh qudratli va hikmatlidir.",
+                          "tafsir": "Haqiqat aniq bo'lgandan keyin adashishning oqibati va Allohning sifatlari.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٠",
+                          "numberLatin": "210",
+                          "arabic": "هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍۢ مِّنَ ٱلْغَمَامِ وَٱلْمَلَـٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+                          "transcription": "hal yanẓurūna illā an ya'tiyahumu llāhu fī ẓulalin mina l-ghamāmi wa l-malā'ikatu wa quḍiya l-amru wa ilā llāhi turjaʿu l-umūr",
+                          "translation": "Ular faqat Alloh bulut soyalarida va farishtalar bilan kelib, ish tugallanishini kutmoqdalarmi? Barcha ishlar Allohga qaytariladi.",
+                          "tafsir": "Qiyomat kuni va barcha ishlarning Allohga qaytishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١١",
+                          "numberLatin": "211",
+                          "arabic": "سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ ءَاتَيْنَـٰهُم مِّنْ ءَايَةٍۭ بَيِّنَةٍۢ ۗ وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+                          "transcription": "sal banī isrā'īla kam ātaynāhum min āyatin bayyinatin wa man yubaddil niʿmata llāhi min baʿdi mā jā'athū fa-inna llāha shadīdu l-ʿiqāb",
+                          "translation": "Isroil banılaridan so'ra, ularga nechta ochiq oyat bergandik. Kim Allohning ne'matini o'ziga kelgandan keyin o'zgartirsa, albatta Alloh qattiq azob beruvchidir.",
+                          "tafsir": "Isroil banilarining ko'rgan mo'jizalari va ne'matni o'zgartirishning jazoси.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٢",
+                          "numberLatin": "212",
+                          "arabic": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍۢ",
+                          "transcription": "zuyyna lil-ladhīna kafarū l-ḥayātu d-dunyā wa yaskhūna mina lladhīna āmanū wa lladhīna ttaqaw fawqahum yawma l-qiyāmati wa llāhu yarzuqu man yashā'u bi-ghayri ḥisāb",
+                          "translation": "Kofirlar uchun dunyo hayoti bezatıldi va iymon keltirguvchilarni masxara qiladilar. Taqvo qilganlar qiyomat kuni ulardan yuqorida turadi. Alloh kimga xohlasa hisobsız rizq beradi.",
+                          "tafsir": "Kofirlarning dunyoga berilishi va taqvodorlarning oxiratdagi yuqori maqomi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٣",
+                          "numberLatin": "213",
+                          "arabic": "كَانَ ٱلنَّاسُ أُمَّةًۭ وَٰحِدَةًۭ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+                          "transcription": "kāna n-nāsu ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna mubashshirīna wa mundhirīna wa anzala maʿahumu l-kitāba bi-l-ḥaqqi li-yaḥkuma bayna n-nāsi fīmā khtalafū fīhi wa mā khtalaſa fīhi illā lladhīna ūtūhu min baʿdi mā jā'athumu l-bayyinātu baghyan baynahum fa-hadā llāhu lladhīna āmanū limā khtalafū fīhi mina l-ḥaqqi bi-idhinhī wa llāhu yahdī man yashā'u ilā ṣirāṭin mustaqīm",
+                          "translation": "Odamlar bir ummat edi. Alloh payg'ambarlarni xushxabar beruvchi va ogohlantiruvchi qılib yubordi va ular bilan haq Kitobni nozil qildi, ixtilof qilgan narsalarida odamlar orasida hukm qilish uchun. Unga faqat Kitob berilganlar ochiq dalillar kelgandan keyin o'zlari orasidagi zulm tufayli ixtilof qildilar. Alloh iymon keltirguvchilarni O'z iznı bilan ixtilof qilgan haqqa hidoyat qildi. Alloh kimni xohlasa to'g'ri yo'lga hidoyat qiladi.",
+                          "tafsir": "Payg'ambarlarning yuborilish sababi va kitobiy dinlar orasidagi ixtiloflar.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٤",
+                          "numberLatin": "214",
+                          "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ",
+                          "transcription": "am ḥasibtum an tadkhulū l-jannata wa lammā ya'tikum mathalu lladhīna khalaw min qablikum massat-humu l-ba'sā'u wa ḍ-ḍarrā'u wa zulzilū ḥattā yaqūla r-rasūlu wa lladhīna āmanū maʿahū matā naṣru llāhi alā inna naṣra llāhi qarīb",
+                          "translation": "Yoki jannatga kiramız deb o'yladingizmi, halbuki sizdan oldin o'tganlarning misoli sizga kelmadi? Ularga qattiq balo va zarar tegdi va siqildilar, hatto rasul va u bilan iymon keltirguvchilar: 'Allohning yordami qachon?' dedilar. Mana, Allohning yordami yaqındır!",
+                          "tafsir": "Jannatga kirish uchun sinovlardan o'tish zarur va Alloh yordamining yaqinligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٥",
+                          "numberLatin": "215",
+                          "arabic": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍۢ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ",
+                          "transcription": "yas'alūnaka mādhā yunfiqūna qul mā anfaqtum min khayrin fa-lil-wālidayni wa l-aqrabīna wa l-yatāmā wa l-masākīni wa bni s-sabīli wa mā tafʿalū min khayrin fa-inna llāha bihī ʿalīm",
+                          "translation": "Sizdan nima infaq qilishlarını so'rashyapti. Ayting: 'Qanday yaxshılik infaq qilsangiz, ota-ona, yaqinlar, yetimlar, miskinlar va yo'lovchilar uchun. Qanday yaxshilik qilsangiz, albatta Alloh uni biladi.'",
+                          "tafsir": "Infaq qilish tartıbi va Allohning barcha yaxshi amallarni bilishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٦",
+                          "numberLatin": "216",
+                          "arabic": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭٔا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+                          "transcription": "kutiba ʿalaykumu l-qitālu wa huwa kurhun lakum wa ʿasā an takrahū shay'an wa huwa khayrun lakum wa ʿasā an tuḥibbū shay'an wa huwa sharrun lakum wa llāhu yaʿlamu wa antum lā taʿlamūn",
+                          "translation": "Sizga qital yozildi, garchi u sizga yoqmasa ham. Shoyad bir narsani yomon ko'rasiz, halbuki u sizga yaxshidir. Shoyad bir narsani yaxshi ko'rasiz, halbuki u sizga yomondir. Alloh biladi, siz bilmazsiz.",
+                          "tafsir": "Jihod farziyati va Allohning bandalar uchun eng yaxshisini bilishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٧",
+                          "numberLatin": "217",
+                          "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍۢ فِيهِ ۖ قُلْ قِتَالٌۭ فِيهِ كَبِيرٌۭ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَـٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَـٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌۭ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+                          "transcription": "yas'alūnaka ʿani sh-shahri l-ḥarāmi qitālin fīhi qul qitālun fīhi kabīrun wa ṣaddun ʿan sabīli llāhi wa kufrun bihī wa l-masjidi l-ḥarāmi wa ikhrāju ahlihī minhu akbaru ʿinda llāhi wa l-fitnatu akbaru mina l-qatli wa lā yazālūna yuqātilūnakum ḥattā yaruddūkum ʿan dīnikum ini staṭāʿū wa man yartadid minkum ʿan dīnihī fa-yamut wa huwa kāfirun fa-ulā'ika ḥabiṭat aʿmāluhum fī d-dunyā wa l-ākhirati wa ulā'ika aṣḥābu n-nāri hum fīhā khālidūn",
+                          "translation": "Sizdan haram oyda jang qilish haqida so'rashyapti. Ayting: 'Unda jang qilish katta gunohdir. Lekin Alloh yo'lidan to'sish, Unga kufr qilish, Masjidil Haromdan to'sish va ahlini undan chiqarish Alloh nazarida bundan ham kattaroqdir. Fitna qotillikdan ham kattaroqdir. Ular sizni diningizdan qaytarguncha sizga qarshi jang qilishda davom etadilar, agar qodir bo'lsalar. Sizdan kim dinidan qaytib, kofir holda o'lsa, mana ularning amallari dunyoda ham oxiratda ham behuda bo'ldi. Mana ular do'zax ahlı, unda abadiy qolurlar.",
+                          "tafsir": "Haram oyda jang qilish masalasi va riddat (dindan qaytish) ning oqibati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٨",
+                          "numberLatin": "218",
+                          "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَـٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+                          "transcription": "inna lladhīna āmanū wa lladhīna hājarū wa jāhadū fī sabīli llāhi ulā'ika yarjūna raḥmata llāhi wa llāhu ghafūrun raḥīm",
+                          "translation": "Albatta iymon keltirib, hijrat qilib, Alloh yo'lida jihod qilganlar - mana ular Alloh rahmatini umid qiladilar. Alloh maghfiratli va rahmlidir.",
+                          "tafsir": "Mo'min, muhojir va mujohidlarning Alloh rahmatiga loyiq ekanligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢١٩",
+                          "numberLatin": "219",
+                          "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌۭ كَبِيرٌۭ وَمَنَـٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+                          "transcription": "yas'alūnaka ʿani l-khamri wa l-maysiri qul fīhimā ithmun kabīrun wa manāfiʿu li-n-nāsi wa ithmuhuman akbaru min nafʿihimā wa yas'alūnaka mādhā yunfiqūna quli l-ʿafwa kadhālika yubayyinu llāhu lakumu l-āyāti laʿallakum tatafakkarūn",
+                          "translation": "Sizdan sharab va qimor haqida so'rashyapti. Ayting: 'Ularda katta gunoh va odamlar uchun manfaatlar bor, lekin ularning gunohi manfaatidan kattaroqdir.' Sizdan nima infaq qilishlarini so'rashyapti. Ayting: 'Ortiqcha (bo'lgan) narsani.' Shunday qilib Alloh sizga oyatlarni bayonlaydi, shoyad fikr yuritarsiz.",
+                          "tafsir": "Sharab va qimorning haromligi va infaq qilishda mo'tadillik.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٠",
+                          "numberLatin": "220",
+                          "arabic": "فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَـٰمَىٰ ۖ قُلْ إِصْلَاحٌۭ لَّهُمْ خَيْرٌۭ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ",
+                          "transcription": "fī d-dunyā wa l-ākhirati wa yas'alūnaka ʿani l-yatāmā qul iṣlāḥun lahum khayrun wa in tukhāliṭūhum fa-ikhwānukum wa llāhu yaʿlamu l-mufsida mina l-muṣliḥi wa law shā'a llāhu la-aʿnatakum inna llāha ʿazīzun ḥakīm",
+                          "translation": "Dunyoda va oxiratda. Sizdan yetimlar haqida so'rashyapti. Ayting: 'Ularni isloh qilish yaxshidir. Agar ular bilan aralashsangiz, ular sizning birodarlatingiz. Alloh buzgunchini islohchidan ajratib biladi. Agar Alloh xohlasa, sizni qiynarga solyapti. Albatta Alloh qudratli va hikmatlidir.",
+                          "tafsir": "Yetimlar bilan muomala qilish va ularning manfaatini himoya qilish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢١",
+                          "numberLatin": "221",
+                          "arabic": "وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَـٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌۭ مُّؤْمِنَةٌ خَيْرٌۭ مِّن مُّشْرِكَةٍۢ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌۭ مُّؤْمِنٌ خَيْرٌۭ مِّن مُّشْرِكٍۢ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَـٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+                          "transcription": "wa lā tankiḥū l-mushrikāti ḥattā yu'minna wa la-amatun mu'minatun khayrun min mushrikatin wa law aʿjabatkum wa lā tunkirū l-mushrikīna ḥattā yu'minū wa la-ʿabdun mu'minun khayrun min mushrikin wa law aʿjabakum ulā'ika yadʿūna ilā n-nāri wa llāhu yadʿū ilā l-jannati wa l-maghfirati bi-idhinhī wa yubayyinu āyātihī li-n-nāsi laʿallahum yatadhakkarūn",
+                          "translation": "Mushrik ayollarni iymon keltirmagunga qadar nikohlamang. Mo'min kanız mushrik ayoldan yaxshiroqdir, garchi u sizni hayratga solsa ham. Mushrik erkaklar bilan nikohlamang, iymon keltirgungacha. Mo'min qul mushrik erkakdan yaxshiroqdir, garchi u sizni maftun etsa ham. Mana ular do'zaxga chaqiradilar. Alloh O'z iznı bilan jannat va mag'firatga chaqiradi. Oyatlarini odamlarga bayonlaydi, shoyad eslab olarlari.",
+                          "tafsir": "Mushriklar bilan nikoh haromligi va dinning ahamiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٢",
+                          "numberLatin": "222",
+                          "arabic": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+                          "transcription": "wa yas'alūnaka ʿani l-maḥīḍi qul huwa adhan fa-ʿtazilū n-nisā'a fī l-maḥīḍi wa lā taqrabūhunna ḥattā yaṭhurna fa-idhā taṭahharna fa-'tūhunna min ḥaythu amarakumu llāhu inna llāha yuḥibbu t-tawwābīna wa yuḥibbu l-mutaṭahhirīn",
+                          "translation": "Sizdan hayz haqida so'rashyapti. Ayting: 'U aziyatdir, shuning uchun hayz paytida ayollardan uzoqlashing. Poklanmagunga qadar ularga yaqinlashmang. Poklanganlarida Alloh sizga buyurgan joydan (ularga) yaqinlashing. Albatta Alloh ko'p tavba qiluvchilarni va poklanuvchilarni sevadi.",
+                          "tafsir": "Hayz ahkomi va poklanishning ahamiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٣",
+                          "numberLatin": "223",
+                          "arabic": "نِسَآؤُكُمْ حَرْثٌۭ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَـٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+                          "transcription": "nisā'ukum ḥarthun lakum fa-'tū ḥarthakum annā shi'tum wa qaddimū li-anfusikum wa ttaqū llāha wa ʿlamū annakum mulāqūhu wa bashshiri l-mu'minīn",
+                          "translation": "Ayollaringiz sizning ekiningizdır. Ekiningizga qayerdan xohlasangiz yaqinlashing. O'zingiz uchun (yaxshilik) oldinga suring. Allohdan qo'rqing va bilingki, siz Uni uchratasiz. Mo'minlarni xushxabar ber.",
+                          "tafsir": "Turmush o'rtoqlari bilan munosabat va oxiratga tayyorgarlik.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٤",
+                          "numberLatin": "224",
+                          "arabic": "وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةًۭ لِّأَيْمَـٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟ بَيْنَ ٱلنَّاسِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌۭ",
+                          "transcription": "wa lā tajʿalū llāha ʿurḍatan li-aymānikum an tabarrū wa tattaqū wa tuṣliḥū bayna n-nāsi wa llāhu samīʿun ʿalīm",
+                          "translation": "Allohni qasamlaringiz uchun to'siq qilmang, yaxshilik qilish, taqvo qilish va odamlar orasida isloh qilishdan. Alloh eshituvchi va biluvchidir.",
+                          "tafsir": "Qasam tufayli yaxshi amallardan to'xtashning noto'g'riligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٥",
+                          "numberLatin": "225",
+                          "arabic": "لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَـٰنِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَٱللَّهُ غَفُورٌ حَلِيمٌۭ",
+                          "transcription": "lā yu'ākhidhukumu llāhu bi-l-laghwi fī aymānikum wa lākin yu'ākhidhukum bimā kasabat qulūbukum wa llāhu ghafūrun ḥalīm",
+                          "translation": "Alloh sizni qasamlarıngizdagi behuda so'zlar tufayli tutmaydi, lekin qalblaringiz kasb qilgan narsa tufayli tutadi. Alloh maghfuratli va hilmlidir.",
+                          "tafsir": "Behuda qasam va qalbdan chiqqan qasam orasidagi farq.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٦",
+                          "numberLatin": "226",
+                          "arabic": "لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍۢ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                          "transcription": "lil-ladhīna yu'lūna min nisā'ihim tarabbuṣu arbaʿati ashhurin fa-in fā'ū fa-inna llāha ghafūrun raḥīm",
+                          "translation": "Ayollarından uzolashayım deb qasam ichganlarga to'rt oy kutish muddat. Agar qaytib kelsalar, albatta Alloh maghfuratli va rahmlidir.",
+                          "tafsir": "Ilo qasami va uning muddati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٧",
+                          "numberLatin": "227",
+                          "arabic": "وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+                          "transcription": "wa in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun ʿalīm",
+                          "translation": "Agar talaqqa qaror qilsalar, albatta Alloh eshituvchi va biluvchidir.",
+                          "tafsir": "Ilo qasamidan keyin talaq berish qaroriga keltirish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٨",
+                          "numberLatin": "228",
+                          "arabic": "وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍۢ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًۭا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌۭ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌۭ",
+                          "transcription": "wa l-muṭallaqātu yatarabbaṣna bi-anfusihinna thalāthata qurū'in wa lā yaḥillu lahunna an yaktumna mā khalaqa llāhu fī arḥāmihinna in kunna yu'minna billāhi wa l-yawmi l-ākhiri wa buʿūlatuhunna aḥaqqu bi-raddihinna fī dhālika in arādū iṣlāḥan wa lahunna mithlu lladhī ʿalayhinna bi-l-maʿrūfi wa lir-rijāli ʿalayhinna darajatun wa llāhu ʿazīzun ḥakīm",
+                          "translation": "Talaq berilgan ayollar o'zlari uchun uch hayz kutsinlar. Agar Alloh va oxirat kuniga iymon keltirgan bo'lsalar, qorinlarida Alloh yaratgan narsani yashirishlari ularga halol emas. Ularning erlari, agar isloh qilishni iroda qilsalar, o'sha (muddat)da ularni qaytarishga haqli. Ularga ma'ruf bilan ustlarida bo'lgan kabi haq bor. Erkaklar ustida ayollarga bir daraja bor. Alloh qudratli va hikmatlidir.",
+                          "tafsir": "Idda muddati, hamlni yashirish haromligi va er-xotinning huquqlari.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٢٩",
+                          "numberLatin": "229",
+                          "arabic": "ٱلطَّلَـٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍۢ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+                          "transcription": "aṭ-ṭalāqu marratāni fa-imsākun bi-maʿrūfin aw tasrīḥun bi-iḥsānin wa lā yaḥillu lakum an ta'khudhū mimmā ātaytumūhunna shay'an illā an yakhāfā allā yuqīmā ḥudūda llāhi fa-in khiftum allā yuqīmā ḥudūda llāhi fa-lā junāḥa ʿalayhimā fīmā ftadat bihī tilka ḥudūdu llāhi fa-lā taʿtadūhā wa man yataʿadda ḥudūda llāhi fa-ulā'ika humu ẓ-ẓālimūn",
+                          "translation": "Talaq ikki marotabadır. Keyin ma'ruf bilan ushlab qolish yoki go'zallik bilan qo'yib yuborish. Sizga ularga bergan narsangizdan biror narsani olish halol emas, magar ikkovi Allohning chegaralarını qoyim emasligidan qo'rqsalar. Agar Allohning chegaralarını qoyim emasligidan qo'rqsangiz, ayol o'zi bilan fidya qilgan narsada ikkisiga gunoh yo'q. Bular Allohning chegaralaridir, ulardan oshib ketmang. Allohning chegaralaridan oshib ketganlar - mana ular zolimlardir.",
+                          "tafsir": "Talaqning ikki marta bo'lishi va khula (ayolning fidya berishi) masalasi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٠",
+                          "numberLatin": "230",
+                          "arabic": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍۢ يَعْلَمُونَ",
+                          "transcription": "fa-in ṭallaqahā fa-lā taḥillu lahū min baʿdu ḥattā tankiḥa zawjan ghayrahū fa-in ṭallaqahā fa-lā junāḥa ʿalayhimā an yatarājaʿā in ẓannā an yuqīmā ḥudūda llāhi wa tilka ḥudūdu llāhi yubayyinuhā li-qawmin yaʿlamūn",
+                          "translation": "Agar uni (uchinchi marta) talaq qilsa, u bundan keyin unga halol bo'lmaydi, toki boshqa erga tuylanmagunga qadar. Agar u (ikkinchi er) ham uni talaq qilsa, ikkisi Allohning chegaralarini qoyimi deb o'ylasalar, bir-birlariga qaytishlarida gunoh yo'q. Bular Allohning chegaralari, Uni biluvchi qavmga bayonlaydi.",
+                          "tafsir": "Uchinchi talaqdan keyin muhallil nikoh masalasi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣١",
+                          "numberLatin": "231",
+                          "arabic": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍۢ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًۭا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+                          "transcription": "wa idhā ṭallaqtumu n-nisā'a fa-balaghna ajalahunna fa-amsikūhunna bi-maʿrūfin aw sarriḥūhunna bi-maʿrūfin wa lā tumsikūhunna ḍirāran li-taʿtadū wa man yafʿal dhālika fa-qad ẓalama nafsahū wa lā tattakhidhū āyāti llāhi huzuwan wa dhkurū niʿmata llāhi ʿalaykum wa mā anzala ʿalaykum mina l-kitābi wa l-ḥikmati yaʿiẓukum bihī wa ttaqū llāha wa ʿlamū anna llāha bi-kulli shay'in ʿalīm",
+                          "translation": "Ayollarni talaq qilsangiz va ular muddat-ajallariga yetsalar, ularni ma'ruf bilan ushlab qoling yoki ma'ruf bilan qo'yib yuboring. Haddan oshish uchun zarar yetkazib ushlab qolmang. Kim buni qilsa, o'ziga zulm qilgan bo'ladi. Allohning oyatlarini masxara qilmang. Ustingizdagi Alloh ne'matini va sizga Kitob va hikmatdan nozil qilganini eslab turing, u orqali va'z beradi. Allohdan qo'rqing va bilingki, Alloh har narsani biluvchidir.",
+                          "tafsir": "Idda tugagandan keyin to'g'ri munosabat va Allohning ne'matlarini esga solish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٢",
+                          "numberLatin": "232",
+                          "arabic": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+                          "transcription": "wa idhā ṭallaqtumu n-nisā'a fa-balaghna ajalahunna fa-lā taʿḍulūhunna an yankiḥna azwājahunna idhā tarāḍaw baynahum bi-l-maʿrūfi dhālika yūʿaẓu bihī man kāna minkum yu'minu billāhi wa l-yawmi l-ākhiri dhālikum azkā lakum wa aṭharu wa llāhu yaʿlamu wa antum lā taʿlamūn",
+                          "translation": "Ayollarni talaq qilsangiz va ular ajal-muddatlariga yetsalar, ular o'rtalarida ma'ruf bilan rozi bo'lganlarida, erlariga tuylashlariga to'sqinlik qilmang. Bu bilan sizlardan Alloh va oxirat kuniga iymon keltirganlarga va'z beriladi. Bu sizlar uchun pokroq va tozaroqdir. Alloh biladi, siz bilmazsiz.",
+                          "tafsir": "Ayollarning qayta turmush qurishiga to'sqinlik qilish haromligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٣",
+                          "numberLatin": "233",
+                          "arabic": "وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَـٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ ۚ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌۭ لَّهُۥ بِوَلَدِهِۦ ۚ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍۢ مِّنْهُمَا وَتَشَاوُرٍۢ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَـٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+                          "transcription": "wa l-wālidātu yurḍiʿna awlādahunna ḥawlayni kāmilayni li-man arāda an yutimma r-raḍāʿata wa ʿalā l-mawlūdi lahū rizquhunna wa kiswatuhunna bi-l-maʿrūfi lā tukallafu nafsun illā wusʿahā lā tuḍārra wālidatun bi-waladihā wa lā mawlūdun lahū bi-waladihī wa ʿalā l-wārithi mithlu dhālika fa-in arādā fiṣālan ʿan tarāḍin minhumā wa tashāwurin fa-lā junāḥa ʿalayhimā wa in aradtum an tastarḍiʿū awlādakum fa-lā junāḥa ʿalaykum idhā sallamtum mā ātaytum bi-l-maʿrūfi wa ttaqū llāha wa ʿlamū anna llāha bimā taʿmalūna baṣīr",
+                          "translation": "Onalar bolalarini ikki yil to'liq emizadilar - kim emizishni to'liq qilishni xohlasa. Bola egalari ularning yeyish-ichishi va kiyim-kechagini ma'ruf bilan berishi kerak. Hech kimga qudratidan oshiq taklif qilinmaydi. Ona bolasi tufayli zarar ko'rmasın, ota ham bolasi tufayli (onani) zararlantirmasın. Merosxo'r ustida ham shunday (majburiyat). Agar ikkovı o'z roziligi va maslahati bilan bolani emizishni to'xtatishni xohlasalar, ularda gunoh yo'q. Agar bolalaringizni (boshqalarga) emizishni xohlasangiz, bergan narsangizni ma'ruf bilan topshirsangiz, gunoh yo'q. Allohdan qo'rqing va bilingki, Alloh qilgan ishlaringizni ko'ruvchidir.",
+                          "tafsir": "Bola emizish, nafaqa va merosxo'rning majburiyatlari.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٤",
+                          "numberLatin": "234",
+                          "arabic": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍۢ وَعَشْرًۭا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+                          "transcription": "wa lladhīna yutawaffawna minkum wa yadharūna azwājan yatarabbaṣna bi-anfusihinna arbaʿata ashhurin wa ʿashran fa-idhā balaghna ajalahunna fa-lā junāḥa ʿalaykum fīmā faʿalna fī anfusihinna bi-l-maʿrūfi wa llāhu bimā taʿmalūna khabīr",
+                          "translation": "Sizlardan vafot etib, xotinlarni qoldirganlarga (xotinlari) o'zlari uchun to'rt oy o'n kun kutadilar. Ajallariga yetganda, o'zlari haqida ma'ruf bilan qilganlarida sizlarga gunoh yo'q. Alloh qilgan ishlaringizni xabar oluvchidir.",
+                          "tafsir": "Beva ayollarning idda muddati va undan keyingi holati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٥",
+                          "numberLatin": "235",
+                          "arabic": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ ۚ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَـٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًۭا مَّعْرُوفًۭا ۚ وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَـٰبُ أَجَلَهُۥ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ",
+                          "transcription": "wa lā junāḥa ʿalaykum fīmā ʿarraḍtum bihī min khiṭbati n-nisā'i aw aknantum fī anfusikum ʿalima llāhu annakum sa-tadhkurūnahunna wa lākin lā tuwāʿidūhunna sirran illā an taqūlū qawlan maʿrūfan wa lā taʿzimū ʿuqdata n-nikāḥi ḥattā yablugha l-kitābu ajalahū wa ʿlamū anna llāha yaʿlamu mā fī anfusikum fa-ḥdharūhu wa ʿlamū anna llāha ghafūrun ḥalīm",
+                          "translation": "Ayollarga turmush qurish haqida ishora qilganingiz yoki qalbingizda yashirganigizdagi gunoh yo'q. Alloh bildi-yu, siz ularni eslaydirsiz, lekin ma'ruf so'zdan boshqa maxfiy va'da bermang. Kitob (idda) ajaliga yetmagunga qadar nikoh bog'ichagini muhkamlamang. Bilingki, Alloh qalbingizdagi narsani biladi, Undan ehtiyot bo'ling. Bilingki, Alloh maghfiratli va hilmlidir.",
+                          "tafsir": "Idda davomida ayollarga xitob qilish va nikoh qilish qoidalari.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٦",
+                          "numberLatin": "236",
+                          "arabic": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةًۭ ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ",
+                          "transcription": "lā junāḥa ʿalaykum in ṭallaqtumu n-nisā'a mā lam tamassūhunna aw tafriḍū lahunna farīḍatan wa mattiʿūhunna ʿalā l-mūsiʿi qadaruhū wa ʿalā l-muqtiri qadaruhū matāʿan bi-l-maʿrūfi ḥaqqan ʿalā l-muḥsinīn",
+                          "translation": "Ayollarga tegmasdan yoki ularga mehrni belgilamasdan talaq bersangiz, gunoh yo'q. Boyga qudratiga qarab, kambag'alga qudratiga qarab ma'ruf bilan ularga mat'a bering. Bu yaxshilik qiluvchilar zimmasisda haqdir.",
+                          "tafsir": "Nikoh buzilishida mat'a berish majburiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٧",
+                          "numberLatin": "237",
+                          "arabic": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةًۭ فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+                          "transcription": "wa in ṭallaqtumūhunna min qabli an tamassūhunna wa qad faraḍtum lahunna farīḍatan fa-niṣfu mā faraḍtum illā an yaʿfūna aw yaʿfuwa lladhī bi-yadihī ʿuqdatu n-nikāḥi wa an taʿfū aqrabu li-t-taqwā wa lā tansuw l-faḍla baynakum inna llāha bimā taʿmalūna baṣīr",
+                          "translation": "Agar ularga tegmasdan va mehrni belgilab qo'yib talaq qilsangiz, belgilaganingizning yarmi (berish kerak), magar ayollar kechirsa yoki nikoh bog'ichasi qo'lida bo'lgan kishi kechirsa. Kechirganingiz taqvoga yaqinroqdir. O'rtangizdagi fazlni unutmang. Albatta Alloh qilgan ishlaringizni ko'ruvchidir.",
+                          "translation": "Teginmagan holda belgilangan mehr bilan talaq va kechirish fazilati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٨",
+                          "numberLatin": "238",
+                          "arabic": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+                          "transcription": "ḥāfiẓū ʿalā ṣ-ṣalawāti wa ṣ-ṣalāti l-wusṭā wa qūmū lillāhi qānitīn",
+                          "translation": "Namozlarni va o'rta namozni asrab-avaylab turing va Alloh uchun itoat bilan turib turing.",
+                          "tafsir": "Namozlarni muhofaza qilish, xususan asr namozinin ahamiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٣٩",
+                          "numberLatin": "239",
+                          "arabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًۭا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+                          "transcription": "fa-in khiftum fa-rijālan aw rukbānan fa-idhā amintum fa-dhkurū llāha kamā ʿallamakum mā lam takūnū taʿlamūn",
+                          "translation": "Agar qo'rqsangiz, piyoda yoki otli (namoz o'qing). Xavfsiz bo'lganingizda esa Allohni eslab turing, chunki U sizga bilmagan narsalaringizni o'rgatdi.",
+                          "tafsir": "Xavf holatida namoz o'qish tartibi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٠",
+                          "numberLatin": "240",
+                          "arabic": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا وَصِيَّةًۭ لِّأَزْوَٰجِهِم مَّتَـٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍۢ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍۢ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌۭ",
+                          "transcription": "wa lladhīna yutawaffawna minkum wa yadharūna azwājan waṣiyyatan li-azwājihim matāʿan ilā l-ḥawli ghayra ikhrājin fa-in kharajna fa-lā junāḥa ʿalaykum fī mā faʿalna fī anfusihinna min maʿrūfin wa llāhu ʿazīzun ḥakīm",
+                          "translation": "Sizlardan vafot etib, xotinlarni qoldiradıganlar xotinlari uchun bir yilgacha uydan chiqarilmasdan foydalanish vasiyat qilsinlar. Agar ular chiqsalar, o'zlari haqida ma'ruf bilan qilganlarida sizlarga gunoh yo'q. Alloh g'olib va hakimdir.",
+                          "tafsir": "Vafot etgan erning xotini uchun vasiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤١",
+                          "numberLatin": "241",
+                          "arabic": "وَلِلْمُطَلَّقَـٰتِ مَتَـٰعٌۢ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+                          "transcription": "wa li-l-muṭallaqāti matāʿun bi-l-maʿrūfi ḥaqqan ʿalā l-muttaqīn",
+                          "translation": "Talaq qilingan ayollarga ma'ruf bilan mat'a berish taqvodorlar zimmasisda haqdir.",
+                          "tafsir": "Talaq qilingan ayollarga mat'a berish majburiyati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٢",
+                          "numberLatin": "242",
+                          "arabic": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+                          "transcription": "kadhālika yubayyinu llāhu lakum āyātihī laʿallakum taʿqilūn",
+                          "translation": "Shunday qilib Alloh sizlarga O'z oyatlarini bayonlaydi, shoyad tushunarsiz.",
+                          "tafsir": "Allohning oyatlarini bayonlashi va aql bilan tushunishga da'vat.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٣",
+                          "numberLatin": "243",
+                          "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَـٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَـٰهُمْ ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+                          "transcription": "a-lam tara ilā lladhīna kharajū min diyārihim wa hum ulūfun ḥadhara l-mawti fa-qāla lahumu llāhu mūtū thumma aḥyāhum inna llāha la-dhū faḍlin ʿalā n-nāsi wa lākinna akthara n-nāsi lā yashkurūn",
+                          "translation": "O'limdan qo'rqib minglab bo'lib yurtlaridan chiqib ketganlarni ko'rmadingmi? Alloh ularga: «O'ling!» dedi, keyin ularni tiriltirdi. Albatta Alloh odamlarga fazl sohibidir, lekin odamlarning ko'pchiligi shukr qilmaydi.",
+                          "tafsir": "O'limdan qochib ketgan va keyin tiriltirilgan qavmning qissasi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٤",
+                          "numberLatin": "244",
+                          "arabic": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+                          "transcription": "wa qātilū fī sabīli llāhi wa ʿlamū anna llāha samīʿun ʿalīm",
+                          "translation": "Alloh yo'lida jang qiling va bilingki, Alloh eshituvchi va biluvchidir.",
+                          "tafsir": "Alloh yo'lida jihod qilishga buyruq.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٥",
+                          "numberLatin": "245",
+                          "arabic": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَـٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ",
+                          "transcription": "man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahū lahū aḍʿāfan kathīratan wa llāhu yaqbiḍu wa yabsuṭu wa ilayhi turjaʿūn",
+                          "translation": "Kimdir Allohga chiroyli qarz bersa, Alloh uni ko'p baravar oshirib beradi. Alloh toraytiradi va kengaytiradi. Va siz Unga qaytariilasiz.",
+                          "tafsir": "Alloh yo'lida infaq qilishning fazilati va mukofoti.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٦",
+                          "numberLatin": "246",
+                          "arabic": "أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّۢ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًۭا نُّقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَـٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَـٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَـٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًۭا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+                          "transcription": "a-lam tara ilā l-mala'i min banī isrā'īla min baʿdi mūsā idh qālū li-nabiyyin lahumu bʿath lanā malikan nuqātil fī sabīli llāhi qāla hal ʿasaytum in kutiba ʿalaykumu l-qitālu allā tuqātilū qālū wa mā lanā allā nuqātila fī sabīli llāhi wa qad ukhrijnā min diyārinā wa abnā'inā fa-lammā kutiba ʿalayhimu l-qitālu tawallaw illā qalīlan minhum wa llāhu ʿalīmun bi-ẓ-ẓālimīn",
+                          "translation": "Musodan keyingi Bani Isroilning ashroflarini ko'rmadingmi? Ular o'z payg'ambarlariga: «Bizga bir podshoh tayinla, Alloh yo'lida jang qilaylik», dedilar. U: «Agar sizlarga jang farz qilinsa, jang qilmasligingiz mumkinmi?» dedi. Ular: «Nima uchun Alloh yo'lida jang qilmaymiz? Holbuki, yurtlarimizdan va bolalarimizdan ajralganmiz», dedilar. Ularga jang farz qilinganda ozgina kishidan boshqalari yuz o'girdılar. Alloh zolimlarni biluvchidir.",
+                          "tafsir": "Bani Isroilning Tolut qissasi boshlanishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٧",
+                          "numberLatin": "247",
+                          "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+                          "transcription": "wa qāla lahum nabiyyuhum inna llāha qad baʿatha lakum ṭālūta malikan qālū annā yakūnu lahu l-mulku ʿalaynā wa naḥnu aḥaqqu bi-l-mulki minhu wa lam yu'ta saʿatan mina l-māli qāla inna llāha ṣṭafāhu ʿalaykum wa zādahū basṭatan fī l-ʿilmi wa l-jismi wa llāhu yu'tī mulkahū man yashā'u wa llāhu wāsiʿun ʿalīm",
+                          "translation": "Payg'ambarlari ularga: «Alloh sizlarga Tolutni podshoh qilib yubordi», dedi. Ular: «Qanday qilib u bizga podshoh bo'ladi? Biz undan ko'ra podshohlikka haqliroqmiz, unga mol-mulkdan kenglik berilmagan», dedilar. U: «Alloh uni sizlardan ustun tanlab oldi va unga ilm va jismoniy kuchdan ziyoda berdi. Alloh mulkini xohlagan kishiga beradi. Alloh keng (fazlli) va biluvchidir», dedi.",
+                          "tafsir": "Tolut podshoh tayinlanishi va Bani Isroilning e'tirozi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٨",
+                          "numberLatin": "248",
+                          "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+                          "transcription": "wa qāla lahum nabiyyuhum inna āyata mulkihī an ya'tiyakumu t-tābūtu fīhi sakīnatun min rabbikum wa baqiyyatun mimmā taraka ālu mūsā wa ālu hārūna taḥmiluhu l-malā'ikatu inna fī dhālika la-āyatan lakum in kuntum mu'minīn",
+                          "translation": "Payg'ambarlari ularga: «Uning podshohligi belgisi shuki, sizlarga tobut keladi, unda Rabbingizdan sakinat va Muso oilasi hamda Horun oilasi qoldirgan narsalardan qoldiq bor, uni farishtalar ko'tarib keladi. Agar mo'min bo'lsangiz, bunda siz uchun oyat bor», dedi.",
+                          "tafsir": "Ahd sandig'i - Tolutning podshohligi belgisi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٤٩",
+                          "numberLatin": "249",
+                          "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+                          "transcription": "fa-lammā faṣala ṭālūtu bi-l-junūdi qāla inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī wa man lam yaṭʿamhu fa-innahū minnī illā mani ghtarafa ghurfatan bi-yadihī fa-sharibū minhu illā qalīlan minhum fa-lammā jāwazahū huwa wa lladhīna āmanū maʿahū qālū lā ṭāqata lanā l-yawma bi-jālūta wa junūdihī qāla lladhīna yaẓunnūna annahum mulāqū llāhi kam min fi'atin qalīlatin ghalabat fi'atan kathīratan bi-idhni llāhi wa llāhu maʿa ṣ-ṣābirīn",
+                          "translation": "Tolut askarlar bilan yo'lga chiqqanda: «Alloh sizlarni bir daryo bilan sinaydi. Kim undan ichsa, mendan emas. Kim tatib ko'rmasa, u mendan. Faqat qo'li bilan bir hovuch olgan kishi bundan mustasno», dedi. Ozginadan boshqalari undan ichdilar. U va u bilan birga iymon keltirganlar daryodan o'tgandan keyin: «Bugun bizda Jolut va uning askarlariga qarshi kuch yo'q», dedilar. Allohga ro'baro' bo'lishlarini yaqin bilganlar: «Allohning izni bilan nechadan-necha oz guruh ko'p guruhni mag'lub etgan. Alloh sabrlilar bilandir», dedilar.",
+                          "tafsir": "Tolut askarlarining daryo sinovidan o'tishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٠",
+                          "numberLatin": "250",
+                          "arabic": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+                          "transcription": "wa lammā barazū li-jālūta wa junūdihī qālū rabbanā afrigh ʿalaynā ṣabran wa thabbit aqdāmanā wa nṣurnā ʿalā l-qawmi l-kāfirīn",
+                          "translation": "Jolut va uning askarlariga qarshi maydonga chiqqanlarida: «Ey Rabbimiz, ustimizga sabr to'k, oyoqlarimizni mahkam qil va bizni kofir qavmga qarshi g'olib qil», dedilar.",
+                          "tafsir": "Mo'minlarning jang oldidan qilgan duosi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥١",
+                          "numberLatin": "251",
+                          "arabic": "فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ",
+                          "transcription": "fa-hazamūhum bi-idhni llāhi wa qatala dāwūdu jālūta wa ātāhu llāhu l-mulka wa l-ḥikmata wa ʿallamahū mimmā yashā'u wa lawlā dafʿu llāhi n-nāsa baʿḍahum bi-baʿḍin la-fasadati l-arḍu wa lākinna llāha dhū faḍlin ʿalā l-ʿālamīn",
+                          "translation": "Allohning izni bilan ularni mag'lub etdilar. Dovud Jolutni o'ldirdi. Alloh unga mulk va hikmat berdi va xohlagan narsalaridan o'rgatdi. Agar Alloh odamlarning ba'zisini ba'zilari bilan daf' qilmasa, yer yuzida fasod bo'lar edi. Lekin Alloh olamlarga fazl sohibidir.",
+                          "tafsir": "Dovudning Jolutni o'ldirishi va Allohning hikmati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٢",
+                          "numberLatin": "252",
+                          "arabic": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+                          "transcription": "tilka āyātu llāhi natlūhā ʿalayka bi-l-ḥaqqi wa innaka la-mina l-mursalīn",
+                          "translation": "Bular Allohning oyatlari, ularni senga haq bilan tilovat qilamiz. Albatta sen payg'ambarlardan birisan.",
+                          "tafsir": "Payg'ambar alayhissalomning risalati tasdigi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٣",
+                          "numberLatin": "253",
+                          "arabic": "تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍۢ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍۢ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+                          "transcription": "tilka r-rusulu faḍḍalnā baʿḍahum ʿalā baʿḍin minhum man kallama llāhu wa rafaʿa baʿḍahum darajātin wa ātaynā ʿīsā bna maryama l-bayyināti wa ayyadnāhu bi-rūḥi l-qudusi wa law shā'a llāhu mā qtatala lladhīna min baʿdihim min baʿdi mā jā'athumu l-bayyinātu wa lākini khtalafū fa-minhum man āmana wa minhum man kafara wa law shā'a llāhu mā qtatalū wa lākinna llāha yafʿalu mā yurīd",
+                          "translation": "Mana o'sha payg'ambarlar, ularning ba'zilarini ba'zilaridan afzal qildik. Ulardan ba'zilari bilan Alloh gaplashdi, ba'zilarining darajalarini ko'tardi. Iso ibn Maryamga ochiq-oydin dalillar berdik va uni Ruhul Qudus bilan quvvatladik. Agar Alloh xohlasa, ulardan keyingilar ochiq dalillar kelganidan keyin o'zaro urushmas edilar. Lekin ixtilof qildilar, ulardan ba'zilari iymon keltirdi, ba'zilari kufr keltirdi. Agar Alloh xohlasa, ular urushmas edilar. Lekin Alloh xohlaganini qiladi.",
+                          "tafsir": "Payg'ambarlarning turli darajalari va ulardan keyingi ummatlarning ixtilof qilishi. Muso alayhissalom Alloh bilan bevosita gaplashgani, Iso alayhissalomga mo'jizalar berilgani zikr qilinadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٤",
+                          "numberLatin": "254",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِمَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا بَيْعٌۭ فِيهِ وَلَا خُلَّةٌۭ وَلَا شَفَـٰعَةٌۭ ۗ وَٱلْكَـٰفِرُونَ هُمُ ٱلظَّـٰلِمُونَ",
+                          "transcription": "yā ayyuhā lladhīna āmanū anfiqū mimmā razaqnākum min qabli an ya'tiya yawmun lā bayʿun fīhi wa lā khullatun wa lā shafāʿatun wa l-kāfirūna humu ẓ-ẓālimūn",
+                          "translation": "Ey iymon keltirganlar! Sizlarga rizq qilib bergan narsalarimizdan infaq qiling - na savdo, na do'stlik, na shafoat bo'lmaydigan kun kelishidan oldin. Kofirlar - mana ular zolimlardir.",
+                          "tafsir": "Qiyomat kuni kelishidan oldin infaq qilishga undash. O'sha kunda hech qanday moddiy vositalar, do'stlik yoki shafoat foyda bermaydi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٥",
+                          "numberLatin": "255",
+                          "arabic": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+                          "transcription": "allāhu lā ilāha illā huwa l-ḥayyu l-qayyūmu lā ta'khudhuhū sinatun wa lā nawmun lahū mā fī s-samāwāti wa mā fī l-arḍi man dhā lladhī yashfaʿu ʿindahū illā bi-idhnihi yaʿlamu mā bayna aydīhim wa mā khalfahum wa lā yuḥīṭūna bi-shay'in min ʿilmihī illā bimā shā'a wasiʿa kursiyyuhu s-samāwāti wa l-arḍa wa lā ya'ūduhū ḥifẓuhumā wa huwa l-ʿaliyyu l-ʿaẓīm",
+                          "translation": "Alloh - Undan o'zga iloh yo'q, U tirik va qayum (barcha narsani ushlab turuvchi)dir. Uni na mudroq, na uyqu olmaydi. Osmonlardagi va yerdagi hamma narsa Unikidir. Kim Uning huzurida Uning iznisiz shafoat qila oladi? U ularning oldidagi va orqasidagi narsalarni biladi. Ular Uning ilmidan hech narsani ihota qila olmaydilar, faqat U xohlagan narsanigina. Uning kursiysi osmonlar va yerni qamrab olgan. Ularni asrab-avaylash Uni toliqtirmaydi. U oliy va ulug'dir.",
+                          "tafsir": "Oyatul Kursi - Qur'ondagi eng ulug' oyatlardan biri. Allohning yagonaligi, tirik va qayyumligi, osmon va yerdagi barcha narsaning Unga tegishli ekanligi, Uning cheksiz ilmi va qudrati bayon qilinadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٦",
+                          "numberLatin": "256",
+                          "arabic": "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+                          "transcription": "lā ikrāha fī d-dīni qad tabayyana r-rushdu mina l-ghayyi fa-man yakfur bi-ṭ-ṭāghūti wa yu'min billāhi fa-qadi stamsaka bi-l-ʿurwati l-wuthqā lā nfiṣāma lahā wa llāhu samīʿun ʿalīm",
+                          "translation": "Dinda zo'rlash yo'q. To'g'ri yo'l adashudan aniq ajralib chiqdi. Kim tog'utni inkor etib, Allohga iymon keltirsa, u uzilmas mustahkam bog'ichni ushlab olgan bo'ladi. Alloh eshituvchi va biluvchidir.",
+                          "tafsir": "Diniy e'tiqodda majburlash yo'qligi, haq va botilning oydin farq qilishi, tog'utni inkor etib Allohga iymon keltirganlarning mustahkam poydevorga ega bo'lishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٧",
+                          "numberLatin": "257",
+                          "arabic": "ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّـٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَـٰتِ ۗ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+                          "transcription": "allāhu waliyyu lladhīna āmanū yukhrijuhum mina ẓ-ẓulumāti ilā n-nūri wa lladhīna kafarū awliyā'uhumu ṭ-ṭāghūtu yukhrijūnahum mina n-nūri ilā ẓ-ẓulumāti ulā'ika aṣḥābu n-nāri hum fīhā khālidūn",
+                          "translation": "Alloh iymon keltirganlarning do'stidir, ularni zulmatlardan nurga chiqaradi. Kofirlarning do'stlari esa tog'utlardir, ular ularni nurdan zulmatlarga chiqaradi. Mana ular do'zax ahlidir, ular unda abadiy qoluvchilardir.",
+                          "tafsir": "Allohning mo'minlarga do'stligi va ularni hidoyatga yetaklashi, kofirlarning esa tog'utlar tomonidan zalolatga olib borilishi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٨",
+                          "numberLatin": "258",
+                          "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+                          "transcription": "a-lam tara ilā lladhī ḥājja ibrāhīma fī rabbihī an ātāhu llāhu l-mulka idh qāla ibrāhīmu rabbiya lladhī yuḥyī wa yumītu qāla anā uḥyī wa umītu qāla ibrāhīmu fa-inna llāha ya'tī bi-sh-shamsi mina l-mashriqi fa'ti bihā mina l-maghribi fa-buhita lladhī kafara wa llāhu lā yahdī l-qawma ẓ-ẓālimīn",
+                          "translation": "Alloh unga mulk berganı uchun Ibrohim bilan Rabbi haqida tortishgan kishini ko'rmadingmi? Ibrohim: «Mening Rabbim tiriltiradi va o'ldiradi», deganda, u: «Men ham tiriltiraman va o'ldiraman», dedi. Ibrohim: «Alloh quyoshni sharqdan keltiradi, sen uni g'arbdan keltir-chi», dedi. Shunda kofir mat bo'ldi. Alloh zolim qavmni hidoyat qilmaydi.",
+                          "tafsir": "Ibrohim alayhissalomning Namrud bilan munozarasi. Namrud o'zini xudo deb da'vo qilganda, Ibrohim alayhissalom uni ilzom qilib mat qildi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٥٩",
+                          "numberLatin": "259",
+                          "arabic": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍۢ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَـٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍۢ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍۢ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةًۭ لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًۭا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+                          "transcription": "aw ka-lladhī marra ʿalā qaryatin wa hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā fa-amātahu llāhu mi'ata ʿāmin thumma baʿathahū qāla kam labithta qāla labithtu yawman aw baʿḍa yawmin qāla bal labithta mi'ata ʿāmin fa-nẓur ilā ṭaʿāmika wa sharābika lam yatasannah wa nẓur ilā ḥimārika wa li-najʿalaka āyatan li-n-nāsi wa nẓur ilā l-ʿiẓāmi kayfa nunshizuhā thumma naksūhā laḥman fa-lammā tabayyana lahū qāla aʿlamu anna llāha ʿalā kulli shay'in qadīr",
+                          "translation": "Yoki tomlari ustiga qulab tushgan qishloqdan o'tgan kishiga o'xshash (bo'lmadingmi)? U: «Alloh buni o'limidan keyin qanday tiriltiradi?» dedi. Alloh uni yuz yil o'ldirdi, keyin tiriltirdi. «Qancha turdıng?» dedi. U: «Bir kun yoki bir kunning bir qismini turdim», dedi. «Yo'q, yuz yil turding. Taom va ichimligingga qara, buzilmagan. Eshagingga qara. Seni odamlarga oyat qilish uchun (shunday qildik). Suyaklarga qara, ularni qanday yig'ib, keyin go'sht bilan qoplaymiz», dedi. Unga oydin bo'lgach: «Bildimki, Alloh har narsaga qodirdir», dedi.",
+                          "tafsir": "Uzayr alayhissalomning qissasi. Alloh uni yuz yil o'ldirib, keyin tiriltirdi. Bu voqea qayta tirilish haqiqatini ko'rsatadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٠",
+                          "numberLatin": "260",
+                          "arabic": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةًۭ مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍۢ مِّنْهُنَّ جُزْءًۭا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًۭا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ",
+                          "transcription": "wa idh qāla ibrāhīmu rabbi arinī kayfa tuḥyi l-mawtā qāla a-wa-lam tu'min qāla balā wa lākin li-yaṭma'inna qalbī qāla fa-khudh arbaʿatan mina ṭ-ṭayri fa-ṣurhunna ilayka thumma jʿal ʿalā kulli jabalin minhunna juz'an thumma dʿuhunna ya'tīnaka saʿyan wa ʿlam anna llāha ʿazīzun ḥakīm",
+                          "translation": "Ibrohim: «Ey Rabbim, o'liklarni qanday tiriltirishingni menga ko'rsat», deganda, (Alloh): «Iymon keltirmadingmi?» dedi. U: «Ha, lekin qalbim xotirjam bo'lishi uchun», dedi. (Alloh): «To'rtta qush ol, ularni o'zingga torт, keyin har bir tog'ga ulardan bir bo'lakdan qo'y, keyin ularni chaqir, senga yugurib keladi. Bil-ki, Alloh g'olib va hakimdir», dedi.",
+                          "tafsir": "Ibrohim alayhissalomning o'liklarni tiriltirish mo'jizasini ko'rish istagi. Bu iymonni kuchaytirish va yaqinni ko'z bilan ko'rish istagi edi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦١",
+                          "numberLatin": "261",
+                          "arabic": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍۢ مِّا۟ئَةُ حَبَّةٍۢ ۗ وَٱللَّهُ يُضَـٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+                          "transcription": "mathalu lladhīna yunfiqūna amwālahum fī sabīli llāhi ka-mathali ḥabbatin anbatat sabʿa sanābila fī kulli sunbulatin mi'atu ḥabbatin wa llāhu yuḍāʿifu li-man yashā'u wa llāhu wāsiʿun ʿalīm",
+                          "translation": "Alloh yo'lida mollarini sarflaganlarning misoli yetti boshoq undirib, har bir boshoqda yuz dona bo'lgan bir donaga o'xshaydi. Alloh kimga xohlasa, ko'paytirib beradi. Alloh keng (fazlli) va biluvchidir.",
+                          "tafsir": "Alloh yo'lida infaq qilishning ajri 700 barobar va undan ham ko'proq bo'lishi mumkinligi bayon qilinadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٢",
+                          "numberLatin": "262",
+                          "arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّۭا وَلَآ أَذًۭى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+                          "transcription": "alladhīna yunfiqūna amwālahum fī sabīli llāhi thumma lā yutbiʿūna mā anfaqū mannan wa lā adhan lahum ajruhum ʿinda rabbihim wa lā khawfun ʿalayhim wa lā hum yaḥzanūn",
+                          "translation": "Alloh yo'lida mollarini sarflab, keyin sarflaganlariga minnat qo'ymagan va ozor bermagan kishilar - ularning ajri Rabblari huzurida. Ularga xavf yo'q va ular g'amgin bo'lmaydilar.",
+                          "tafsir": "Sadaqadan keyin minnat qilmaslik va ozor bermaslikning ahamiyati. Bu amalning mukofoti qiyomatda beriladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٣",
+                          "numberLatin": "263",
+                          "arabic": "قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ",
+                          "transcription": "qawlun maʿrūfun wa maghfiratun khayrun min ṣadaqatin yatbaʿuhā adhan wa llāhu ghaniyyun ḥalīm",
+                          "translation": "Yaxshi so'z va kechirish ortidan ozor keladigan sadaqadan yaxshiroqdir. Alloh boy (hech kimga muhtoj emas) va hilmlidir.",
+                          "tafsir": "Sadaqa berib keyin minnat qilish yoki ozor berishdan ko'ra, yaxshi so'z aytish afzalroq ekanligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٤",
+                          "numberLatin": "264",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌۭ فَأَصَابَهُۥ وَابِلٌۭ فَتَرَكَهُۥ صَلْدًۭا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+                          "transcription": "yā ayyuhā lladhīna āmanū lā tubṭilū ṣadaqātikum bi-l-manni wa l-adhā ka-lladhī yunfiqu mālahū ri'ā'a n-nāsi wa lā yu'minu billāhi wa l-yawmi l-ākhiri fa-mathaluhū ka-mathali ṣafwānin ʿalayhi turābun fa-aṣābahū wābilun fa-tarakahū ṣaldan lā yaqdirūna ʿalā shay'in mimmā kasabū wa llāhu lā yahdī l-qawma l-kāfirīn",
+                          "translation": "Ey iymon keltirganlar! Sadaqalaringizni minnat va ozor bilan bekor qilmang - xuddi molini odamlarga ko'rsatish uchun sarflab, Allohga va oxirat kuniga iymon keltirmagan kishi kabi. Uning misoli ustida tuproq bo'lgan silliq toshga o'xshaydi, unga kuchli yomg'ir tegib, uni yalong'och qoldiradi. Ular kasb qilgan narsalaridan hech narsaga qodir emas. Alloh kofir qavmni hidoyat qilmaydi.",
+                          "tafsir": "Riyo va minnat bilan berilgan sadaqaning befoyda ekanligi. Bu xuddi yomg'ir tushganda tuproqni yuvib ketkazadigan silliq toshga o'xshatiladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٥",
+                          "numberLatin": "265",
+                          "arabic": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًۭا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌۭ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌۭ فَطَلٌّۭ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+                          "transcription": "wa mathalu lladhīna yunfiqūna amwālahumu btighā'a marḍāti llāhi wa tathbītan min anfusihim ka-mathali jannatin bi-rabwatin aṣābahā wābilun fa-ātat ukulahā ḍiʿfayni fa-in lam yuṣibhā wābilun fa-ṭallun wa llāhu bimā taʿmalūna baṣīr",
+                          "translation": "Allohning roziligi uchun va o'zlarini mustahkamlash uchun mollarini sarflaganlarning misoli baland joyda joylashgan bog'ga o'xshaydi, unga kuchli yomg'ir yog'ib, ikki baravar hosil beradi. Agar kuchli yomg'ir tegmasa, mayda yomg'ir ham kifoya. Alloh qilgan ishlaringizni ko'ruvchidir.",
+                          "tafsir": "Ixlos bilan berilgan sadaqaning misoli. Serhosillik va baraka har qanday sharoitda ham bo'ladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٦",
+                          "numberLatin": "266",
+                          "arabic": "أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌۭ مِّن نَّخِيلٍۢ وَأَعْنَابٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌۭ ضُعَفَآءُ فَأَصَابَهَآ إِعْصَارٌۭ فِيهِ نَارٌۭ فَٱحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+                          "transcription": "a-yawaddu aḥadukum an takūna lahū jannatun min nakhīlin wa aʿnābin tajrī min taḥtihā l-anhāru lahū fīhā min kulli th-thamarāti wa aṣābahu l-kibaru wa lahū dhurriyyatun ḍuʿafā'u fa-aṣābahā iʿṣārun fīhi nārun fa-ḥtaraqat kadhālika yubayyinu llāhu lakumu l-āyāti laʿallakum tatafakkarūn",
+                          "translation": "Sizlardan biringiz xurmo va uzum bog'i bo'lib, tagidan daryolar oqib, unda har xil mevalar bo'lsa, o'zi qariyib, ojiz farzandlari bor paytda o't bo'lgan bo'ron kelib, bog'ni kuydirib yuborsa, hohlarmidi? Shunday qilib Alloh sizlarga oyatlarni bayonlaydi, shoyad tafakkur qilarsiz.",
+                          "tafsir": "Riyo bilan qilingan amallarning oxiratda yo'qqa chiqishi. Eng muhtoj paytda hech narsa qolmasligi haqida ogohlantirish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٧",
+                          "numberLatin": "267",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِن طَيِّبَـٰتِ مَا كَسَبْتُمْ وَمِمَّآ أَخْرَجْنَا لَكُم مِّنَ ٱلْأَرْضِ ۖ وَلَا تَيَمَّمُوا۟ ٱلْخَبِيثَ مِنْهُ تُنفِقُونَ وَلَسْتُم بِـَٔاخِذِيهِ إِلَّآ أَن تُغْمِضُوا۟ فِيهِ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+                          "transcription": "yā ayyuhā lladhīna āmanū anfiqū min ṭayyibāti mā kasabtum wa mimmā akhrajnā lakum mina l-arḍi wa lā tayammamū l-khabītha minhu tunfiqūna wa lastum bi-ākhidhīhi illā an tughmiḍū fīhi wa ʿlamū anna llāha ghaniyyun ḥamīd",
+                          "translation": "Ey iymon keltirganlar! Kasb qilgan narsalaringizning poklaridan va yer ichidan siz uchun chiqargan narsalarimizdan infaq qiling. Ko'z yummasangiz o'zingiz ham olmaydigan yomonni sadaqa qilish uchun tanlamang. Bilingki, Alloh boy va maqtovlidir.",
+                          "tafsir": "Halol va pok kasb qilingan narsalardan sadaqa berish, yomon va yaroqsiz narsalarni bermaslik buyuriladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٨",
+                          "numberLatin": "268",
+                          "arabic": "ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةًۭ مِّنْهُ وَفَضْلًۭا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+                          "transcription": "ash-shayṭānu yaʿidukumu l-faqra wa ya'murukum bi-l-faḥshā'i wa llāhu yaʿidukum maghfiratan minhu wa faḍlan wa llāhu wāsiʿun ʿalīm",
+                          "translation": "Shayton sizga kambag'allikni va'da qiladi va fahsh ishlarni buyuradi. Alloh esa sizga O'zidan mag'firat va fazl va'da qiladi. Alloh keng (fazlli) va biluvchidir.",
+                          "tafsir": "Shayton infaq qilishdan to'sib, kambag'al bo'lib qolishdan qo'rqitadi. Alloh esa mag'firat va rizq ziyodaligini va'da qiladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٦٩",
+                          "numberLatin": "269",
+                          "arabic": "يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًۭا كَثِيرًۭا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+                          "transcription": "yu'tī l-ḥikmata man yashā'u wa man yu'ta l-ḥikmata fa-qad ūtiya khayran kathīran wa mā yadhdhakkaru illā ulū l-albāb",
+                          "translation": "U xohlagan kishiga hikmat beradi. Kimga hikmat berilsa, unga ko'p yaxshilik berilgan bo'ladi. Faqat aql egalari eslab turadi.",
+                          "tafsir": "Hikmat - ilm, tushuncha va to'g'ri hukm chiqarish qobiliyati. Bu eng ulug' ne'matlardan biri.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٠",
+                          "numberLatin": "270",
+                          "arabic": "وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍۢ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ ۗ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍۢ",
+                          "transcription": "wa mā anfaqtum min nafaqatin aw nadhartum min nadhrin fa-inna llāha yaʿlamuhū wa mā li-ẓ-ẓālimīna min anṣār",
+                          "translation": "Qanday nafaqa qilsangiz yoki qanday nazr qilsangiz, Alloh uni biladi. Zolimlar uchun yordamchilar yo'qdir.",
+                          "tafsir": "Barcha infaq va nazrlar Allohga ma'lum. Zolimlar qiyomatda hech qanday yordamchiga ega bo'lmaydi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧١",
+                          "numberLatin": "271",
+                          "arabic": "إِن تُبْدُوا۟ ٱلصَّدَقَـٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌۭ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+                          "transcription": "in tubdū ṣ-ṣadaqāti fa-niʿimmā hiya wa in tukhfūhā wa tu'tūhā l-fuqarā'a fa-huwa khayrun lakum wa yukaffiru ʿankum min sayyi'ātikum wa llāhu bimā taʿmalūna khabīr",
+                          "translation": "Agar sadaqalarni oshkor qilsangiz, u naqadar yaxshi! Agar uni yashirib, faqirlarga bersangiz, bu siz uchun yaxshiroq. U sizdagi gunohlardan kafarot qiladi. Alloh qilgan ishlaringizni xabar oluvchidir.",
+                          "tafsir": "Farz sadaqalarni oshkor, nafl sadaqalarni yashirin berish afzal. Sadaqa gunohlarning kafforati bo'ladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٢",
+                          "numberLatin": "272",
+                          "arabic": "لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+                          "transcription": "laysa ʿalayka hudāhum wa lākinna llāha yahdī man yashā'u wa mā tunfiqū min khayrin fa-li-anfusikum wa mā tunfiqūna illā btighā'a wajhi llāhi wa mā tunfiqū min khayrin yuwaffa ilaykum wa antum lā tuẓlamūn",
+                          "translation": "Ularning hidoyati sening zimmangda emas, lekin Alloh xohlagan kishini hidoyat qiladi. Qanday yaxshilik infaq qilsangiz, o'zingiz uchun. Siz faqat Allohning yuzini istab infaq qilasiz. Qanday yaxshilik infaq qilsangiz, sizga to'liq qaytariladi va siz zulm qilinmaysiz.",
+                          "tafsir": "Payg'ambar zimmaisda faqat tabligh, hidoyat esa Alloh qo'lida. Infaqning foydasai infaq qiluvchining o'ziga qaytadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٣",
+                          "numberLatin": "273",
+                          "arabic": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًۭا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًۭا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ",
+                          "transcription": "li-l-fuqarā'i lladhīna uḥṣirū fī sabīli llāhi lā yastaṭīʿūna ḍarban fī l-arḍi yaḥsabuhumu l-jāhilu aghniyā'a mina t-taʿaffufi taʿrifuhum bi-sīmāhum lā yas'alūna n-nāsa ilḥāfan wa mā tunfiqū min khayrin fa-inna llāha bihī ʿalīm",
+                          "translation": "(Sadaqa) Alloh yo'lida band bo'lib, yer yuzida yura olmaydigan faqirlarga. Iffatlari tufayli johil ularni boy deb o'ylaydi. Sen ularni siymolaridan tanıysan. Ular odamlardan ısrarlab so'ramaydilar. Qanday yaxshilik infaq qilsangiz, Alloh uni biluvchidir.",
+                          "tafsir": "Alloh yo'lida band bo'lib, tijorat yoki kasb qila olmaydigan, o'z iffatlari tufayli tilanmaydigan faqirlarning fazilati.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٤",
+                          "numberLatin": "274",
+                          "arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+                          "transcription": "alladhīna yunfiqūna amwālahum bi-l-layli wa n-nahāri sirran wa ʿalāniyatan fa-lahum ajruhum ʿinda rabbihim wa lā khawfun ʿalayhim wa lā hum yaḥzanūn",
+                          "translation": "Kecha-kunduz, yashirin va oshkora mollarini sarflaydiganlar - ularning ajri Rabblari huzurida. Ularga xavf yo'q va ular g'amgin bo'lmaydilar.",
+                          "tafsir": "Har qanday vaqtda va holatda infaq qiluvchilarning mukofoti. Ular qiyomatda xavf-xatarsiz bo'ladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٥",
+                          "numberLatin": "275",
+                          "arabic": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌۭ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+                          "transcription": "alladhīna ya'kulūna r-ribā lā yaqūmūna illā kamā yaqūmu lladhī yatakhabbaṭuhu sh-shayṭānu mina l-massi dhālika bi-annahum qālū innamā l-bayʿu mithlu r-ribā wa aḥalla llāhu l-bayʿa wa ḥarrama r-ribā fa-man jā'ahū mawʿiẓatun min rabbihī fa-ntahā fa-lahū mā salafa wa amruhū ilā llāhi wa man ʿāda fa-ulā'ika aṣḥābu n-nāri hum fīhā khālidūn",
+                          "translation": "Ribo yeydiganlar qiyomatda faqat shayton teginishidan jinni bo'lgan kishi turganidek turadi. Bu ular: «Savdo ham xuddi ribo kabidir», deganlari uchun. Holbuki, Alloh savdoni halol, riboni harom qildi. Kimga Rabbidan va'z-nasihat kelsa va to'xtasa, o'tgan (gunoh)lari uniki, ishi Allohga havola. Kim qaytsa, ular do'zax ahli, ular unda abadiy qoluvchilar.",
+                          "tafsir": "Riboning haromligi va ribxo'rlarning qiyomatdagi ahvoli. Savdo va ribo orasidagi farq oydinlashtiriladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٦",
+                          "numberLatin": "276",
+                          "arabic": "يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَـٰتِ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍۢ",
+                          "transcription": "yamḥaqu llāhu r-ribā wa yurbī ṣ-ṣadaqāti wa llāhu lā yuḥibbu kulla kaffārin athīm",
+                          "translation": "Alloh riboni yo'q qiladi va sadaqalarni o'stiradi. Alloh har bir kufr keltirib, gunohkor bo'lgan kishini sevmaydi.",
+                          "tafsir": "Ribo molni ko'paytirgandek tuyulsa ham, aslida uni yo'q qiladi. Sadaqa esa kamaytirgandek tuyulsa ham, barakasini oshiradi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٧",
+                          "numberLatin": "277",
+                          "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+                          "transcription": "inna lladhīna āmanū wa ʿamilū ṣ-ṣāliḥāti wa aqāmū ṣ-ṣalāta wa ātaw z-zakāta lahum ajruhum ʿinda rabbihim wa lā khawfun ʿalayhim wa lā hum yaḥzanūn",
+                          "translation": "Albatta iymon keltirib, solih amallar qilgan, namozni to'kis ado etgan va zakot berganlar - ularning ajri Rabblari huzurida. Ularga xavf yo'q va ular g'amgin bo'lmaydilar.",
+                          "tafsir": "Iymon, solih amal, namoz va zakotning mukammalligi. Bu to'rt asos mo'minlarni qiyomat xavfidan xalos qiladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٨",
+                          "numberLatin": "278",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+                          "transcription": "yā ayyuhā lladhīna āmanū ttaqū llāha wa dharū mā baqiya mina r-ribā in kuntum mu'minīn",
+                          "translation": "Ey iymon keltirganlar! Allohdan qo'rqing va agar mo'min bo'lsangiz, ribodan qolgan narsani tark eting.",
+                          "tafsir": "Mo'minlarga riboni butunlay tark etish buyrug'i. Haqiqiy iymonning belgisi ribo muomalasini to'liq to'xtatishdir.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٧٩",
+                          "numberLatin": "279",
+                          "arabic": "فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍۢ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+                          "transcription": "fa-in lam tafʿalū fa'dhanū bi-ḥarbin mina llāhi wa rasūlihī wa in tubtum fa-lakum ru'ūsu amwālikum lā taẓlimūna wa lā tuẓlamūn",
+                          "translation": "Agar qilmasangiz, Alloh va Uning Rasulidan urush bo'lishini bilib qo'ying. Agar tavba qilsangiz, asosiy mollaringiz sizniki. Na zulm qilasiz, na zulm qilinasiz.",
+                          "tafsir": "Ribodan voz kechmaganlar Alloh va Rasuli bilan urushayotgani e'lon qilinadi. Tavba qilganlarga asosiy moli qaytariladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٠",
+                          "numberLatin": "280",
+                          "arabic": "وَإِن كَانَ ذُو عُسْرَةٍۢ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍۢ ۚ وَأَن تَصَدَّقُوا۟ خَيْرٌۭ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+                          "transcription": "wa in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin wa an taṣaddaqū khayrun lakum in kuntum taʿlamūn",
+                          "translation": "Agar (qarzdor) qiynalgan bo'lsa, kengchilik topgunga qadar muhlatdir. Agar bilsangiz, sadaqa qilganingiz siz uchun yaxshiroqdir.",
+                          "tafsir": "Qarzga qiynalgan kishiga muhlat berish vojib, qarzni kechirish esa afzal ekanligı bayon qilinadi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨١",
+                          "numberLatin": "281",
+                          "arabic": "وَٱتَّقُوا۟ يَوْمًۭا تُرْجَعُونَ فِيهِ إِلَى ٱللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+                          "transcription": "wa ttaqū yawman turjaʿūna fīhi ilā llāhi thumma tuwaffā kullu nafsin mā kasabat wa hum lā yuẓlamūn",
+                          "translation": "Allohga qaytariladigan kundan qo'rqing. Keyin har bir jon kasb qilganini to'liq oladi va ularga zulm qilinmaydi.",
+                          "tafsir": "Qiyomat kunidan ogohlantirish. Har kim qilgan amalining mukofot yoki jazosini adolat bilan oladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٢",
+                          "numberLatin": "282",
+                          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى فَٱكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا ۚ فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ ۚ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ ۖ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌۭ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ ۚ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ ۚ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ۚ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَـٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ ۖ إِلَّآ أَن تَكُونَ تِجَـٰرَةً حَاضِرَةًۭ تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَآرَّ كَاتِبٌۭ وَلَا شَهِيدٌۭ ۚ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ ۖ وَيُعَلِّمُكُمُ ٱللَّهُ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+                          "transcription": "yā ayyuhā lladhīna āmanū idhā tadāyantum bi-daynin ilā ajalin musamman fa-ktubūhu wa l-yaktub baynakum kātibun bi-l-ʿadli wa lā ya'ba kātibun an yaktuba kamā ʿallamahu llāhu fa-l-yaktub wa l-yumlili lladhī ʿalayhi l-ḥaqqu wa l-yattaqi llāha rabbahū wa lā yabkhas minhu shay'an fa-in kāna lladhī ʿalayhi l-ḥaqqu safīhan aw ḍaʿīfan aw lā yastaṭīʿu an yumilla huwa fa-l-yumlil waliyyuhū bi-l-ʿadli wa stashhidū shahīdayni min rijālikum fa-in lam yakūnā rajulayni fa-rajulun wa mra'atāni mimman tarḍawna mina sh-shuhadā'i an taḍilla iḥdāhumā fa-tudhakkira iḥdāhumā l-ukhrā wa lā ya'ba sh-shuhadā'u idhā mā duʿū wa lā tas'amū an taktubūhu ṣaghīran aw kabīran ilā ajalihī dhālikum aqsaṭu ʿinda llāhi wa aqwamu li-sh-shahādati wa adnā allā tartābū illā an takūna tijāratan ḥāḍiratan tudīrūnahā baynakum fa-laysa ʿalaykum junāḥun allā taktubūhā wa ashhidū idhā tabāyaʿtum wa lā yuḍārra kātibun wa lā shahīdun wa in tafʿalū fa-innahū fusūqun bikum wa ttaqū llāha wa yuʿallimukumu llāhu wa llāhu bi-kulli shay'in ʿalīm",
+                          "translation": "Ey iymon keltirganlar! Muayyan muddatgacha qarz oldi-berdi qilsangiz, uni yozib qo'ying. O'rtangizda kotib adolat bilan yozsin. Kotib Alloh o'rgatganidek yozishdan bosh tortmasin. U yozsin, haq zimmasida bo'lgan kishi aytib bersin va Rabbi Allohdan qo'rqib, undan hech narsani kamaytirmasin. Agar haq zimmasida bo'lgan kishi aqlsiz, ojiz yoki o'zi aytib bera olmasa, uning valiysi adolat bilan aytib bersin. Erkaklaringizdan ikki guvoh tutting. Agar ikki erkak bo'lmasa, guvohlardan rozi bo'lganlaringizdan bir erkak va ikki ayol - ulardan biri adashsa, ikkinchisi eslatadi. Guvohlar chaqirilganda bosh tortmasinlar. Kichik-katta qarz bo'lishidan qat'iy nazar, muddatigacha yozib qo'yishdan zerikmanлар. Bu Alloh huzurida adolatliroq, guvohlik uchun mustahkamroq va shubhalanmasligingizga yaqinroqdir. Faqat o'rtangizda aylantiradigan naqd savdo bo'lsa, uni yozmasangiz gunoh yo'q. Savdo qilganingizda guvoh tutting. Kotib va guvohga zarar yetkazilmasin. Agar shunday qilsangiz, bu sizning fosiqligingizdir. Allohdan qo'rqing, Alloh sizga o'rgatadi. Alloh har narsani biluvchidir.",
+                          "tafsir": "Qarz muomalalarini yozib qo'yish, guvoh tutish qoidalari. Bu eng uzun oyat bo'lib, moliyaviy muomalalarning shaffofligini ta'minlaydi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٣",
+                          "numberLatin": "283",
+                          "arabic": "وَإِن كُنتُمْ عَلَىٰ سَفَرٍۢ وَلَمْ تَجِدُوا۟ كَاتِبًۭا فَرِهَـٰنٌۭ مَّقْبُوضَةٌۭ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًۭا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَـٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَـٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌۭ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ",
+                          "transcription": "wa in kuntum ʿalā safarin wa lam tajidū kātiban fa-rihānun maqbūḍatun fa-in amina baʿḍukum baʿḍan fa-l-yu'addi lladhī 'tumina amānatahū wa l-yattaqi llāha rabbahū wa lā taktumū sh-shahādata wa man yaktumhā fa-innahū āthimun qalbuhū wa llāhu bimā taʿmalūna ʿalīm",
+                          "translation": "Agar safarda bo'lib, kotib topolmasangiz, qo'lga olingan garov. Agar ba'zingiz ba'zingizga ishonsa, ishonch bildirilgan kishi omonatini ado etsin va Rabbi Allohdan qo'rqsin. Guvohlikni yashirmang. Kim uni yashirsa, uning qalbi gunohkor. Alloh qilgan ishlaringizni biluvchidir.",
+                          "tafsir": "Safarda kotib topilmasa, garov olish mumkinligi. Guvohlikni yashirish katta gunoh ekanligi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٤",
+                          "numberLatin": "284",
+                          "arabic": "لِّلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ۖ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+                          "transcription": "lillāhi mā fī s-samāwāti wa mā fī l-arḍi wa in tubdū mā fī anfusikum aw tukhfūhu yuḥāsibkum bihi llāhu fa-yaghfiru li-man yashā'u wa yuʿadhdhibu man yashā'u wa llāhu ʿalā kulli shay'in qadīr",
+                          "translation": "Osmonlardagi va yerdagi narsalar Allohniki. Qalbingizdagi narsani oshkor qilsangiz yoki yashirsangiz, Alloh siz bilan hisoblaşadi. Keyin xohlagan kishini kechiradi, xohlagan kishini azoblaydi. Alloh har narsaga qodirdir.",
+                          "tafsir": "Allohning mutlaq mulki va ilmi. U zahir va botin barcha narsalarni biladi va hisob qiladi.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٥",
+                          "numberLatin": "285",
+                          "arabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+                          "transcription": "āmana r-rasūlu bimā unzila ilayhi min rabbihī wa l-mu'minūna kullun āmana billāhi wa malā'ikatihī wa kutubihī wa rusulihī lā nufarriqu bayna aḥadin min rusulihī wa qālū samiʿnā wa aṭaʿnā ghufrānaka rabbanā wa ilayka l-maṣīr",
+                          "translation": "Rasul o'ziga Rabbidan nozil qilingan narsaga iymon keltirdi, mo'minlar ham. Barchasi Allohga, Uning farishtalariga, kitoblariga va rasullariga iymon keltirdi. «Uning rasullaridan hech birining orasını farq qilmaymiz», dedilar. Va: «Eshitdik va itoat qildik. Kechiring, ey Rabbimiz! Qaytish Sengadir», dedilar.",
+                          "tafsir": "Payg'ambar va mo'minlarning mukammal iymoni. Barcha payg'ambarlarga teng iymon keltirish, eshitish va itoat qilish.",
+                          "copySymbol": "📋"
+                        },
+                        {
+                          "numberArabic": "٢٨٦",
+                          "numberLatin": "286",
+                          "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+                          "transcription": "lā yukallifu llāhu nafsan illā wusʿahā lahā mā kasabat wa ʿalayhā mā ktasabat rabbanā lā tu'ākhidhnā in nasīnā aw akhṭa'nā rabbanā wa lā taḥmil ʿalaynā iṣran kamā ḥamaltahū ʿalā lladhīna min qablinā rabbanā wa lā tuḥammilnā mā lā ṭāqata lanā bihī wa ʿfu ʿannā wa ghfir lanā wa rḥamnā anta mawlānā fa-nṣurnā ʿalā l-qawmi l-kāfirīn",
+                          "translation": "Alloh hech bir jonga qudratidan oshiq taklif qilmaydi. Unga qilgan yaxshiligi, ustiga qilgan yomonligi. «Ey Rabbimiz, agar unutsak yoki xato qilsak, bizni tutma. Ey Rabbimiz, bizdan oldingilarga yuklagan og'ir yukni bizga yuklama. Ey Rabbimiz, tоqatimiz yetmagan narsani bizga yuklama. Bizni avf et, bizni kechir va bizga rahm qil. Sen bizning Mawlomizsan, bizni kofir qavmga qarshi g'olib qil».",
+                          "tafsir": "Allohning rahmat-shafqati, takat darajasida taklif qilishi. Mo'minlarning duosi - unutish va xatolardan kechirish, og'ir yukdan xalos bo'lish va kofırlarga qarshi yordam so'rash. Bu duoni Payg'ambar alayhissalom kechalari o'qir edilar.",
+                          "copySymbol": "📋"
+
         }
     ]
   },
@@ -1750,7 +3740,1355 @@ const surahs = [
         "copySymbol": "📋"
     },
     {
-
+      "numberArabic": "٥١",
+      "numberLatin": "51",
+      "arabic": "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+      "transcription": "inna llāha rabbī wa rabbukum fa-ʿbudūhu hādhā ṣirāṭun mustaqīm",
+      "translation": "Albatta Alloh mening ham, sizning ham Rabbingizdir. Bas, Unga ibodat qiling. Mana bu to'g'ri yo'ldir.",
+      "tafsir": "Iso alayhissalomning Bani Isroilga Allohga ibodat qilishga da'vati. Tavhidning to'g'ri yo'l ekanligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٢",
+      "numberLatin": "52",
+      "arabic": "فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ",
+      "transcription": "fa-lammā aḥassa ʿīsā minhumu l-kufra qāla man anṣārī ilā llāhi qāla l-ḥawāriyyūna naḥnu anṣāru llāhi āmannā billāhi wa shhad bi-annā muslimūn",
+      "translation": "Iso ulardan kufrni sezgach: «Alloh yo'lida menga yordamchilarim kimlar?» dedi. Havariylar: «Biz Allohning yordamchilarimiz. Allohga iymon keltirdik va biz musulmonligimizga guvoh bo'l», dedilar.",
+      "tafsir": "Iso alayhissalom qavmining kufri oldida havariylarni yordamga chaqirishi. Havariylarning sadoqati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٣",
+      "numberLatin": "53",
+      "arabic": "رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ",
+      "transcription": "rabbanā āmannā bimā anzalta wa ttabaʿnā r-rasūla fa-ktubnā maʿa sh-shāhidīn",
+      "translation": "«Ey Rabbimiz! Nozil qilgan narsangga iymon keltirdik va Rasulga ergashdik. Bas, bizni guvohlar qatoriga yoz».",
+      "tafsir": "Havariylarning duosi. Ular haq guvohlar safida bo'lishni so'raydilar.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٤",
+      "numberLatin": "54",
+      "arabic": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ",
+      "transcription": "wa makarū wa makara llāhu wa llāhu khayru l-mākirīn",
+      "translation": "Ular (kofirlar) makr qildilar, Alloh ham makr qildi. Alloh makr qiluvchilarning eng yaxshisidir.",
+      "tafsir": "Kofirlarning Iso alayhissalomga qarshi makri va Allohning uni himoya qilishi. Allohning hikmati g'olib keladi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٥",
+      "numberLatin": "55",
+      "arabic": "إِذْ قَالَ ٱللَّهُ يَـٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "transcription": "idh qāla llāhu yā ʿīsā innī mutawaffīka wa rāfiʿuka ilayya wa muṭahhiruka mina lladhīna kafarū wa jāʿilu lladhīna ttabaʿūka fawqa lladhīna kafarū ilā yawmi l-qiyāmati thumma ilayya marjiʿukum fa-aḥkumu baynakum fīmā kuntum fīhi takhtalifūn",
+      "translation": "Alloh: «Ey Iso! Men seni vafot ettiraman, O'zimga ko'taraman va seni kofirlardan poklayman. Sanga ergashganlarni qiyomat kunigacha kofirlardan ustun qilaman. So'ngra qaytishingiz Mengadir. Ixtilof qilgan narsalaringizda o'rtangizda hukm qilaman», deganda.",
+      "tafsir": "Iso alayhissalomning osmonga ko'tarilishi va unga ergashganlarning ustunligi haqida.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٦",
+      "numberLatin": "56",
+      "arabic": "فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+      "transcription": "fa-ammā lladhīna kafarū fa-uʿadhdhibuhum ʿadhāban shadīdan fī d-dunyā wa l-ākhirati wa mā lahum min nāṣirīn",
+      "translation": "Kofirlarni dunyo va oxiratda qattiq azob bilan azoblayman. Ularning yordamchilari yo'q.",
+      "tafsir": "Iso alayhissalomni inkor etganlarning dunyoviy va uxroviy jazosi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٧",
+      "numberLatin": "57",
+      "arabic": "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "transcription": "wa ammā lladhīna āmanū wa ʿamilū ṣ-ṣāliḥāti fa-yuwaffīhim ujūrahum wa llāhu lā yuḥibbu ẓ-ẓālimīn",
+      "translation": "Iymon keltirib, solih amallar qilganlarga ajrlarini to'liq beradi. Alloh zolimlarni sevmaydi.",
+      "tafsir": "Mo'minlarning mukofoti va Allohning adolati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٨",
+      "numberLatin": "58",
+      "arabic": "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْـَٔايَـٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ",
+      "transcription": "dhālika natlūhu ʿalayka mina l-āyāti wa dh-dhikri l-ḥakīm",
+      "translation": "Bu senga tilovat qilayotgan narsamiz oyatlardan va hikmatli zikrdan (Qur'ondan)dir.",
+      "tafsir": "Iso alayhissalom qissasining Qur'ondagi hikmati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٥٩",
+      "numberLatin": "59",
+      "arabic": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+      "transcription": "inna mathala ʿīsā ʿinda llāhi ka-mathali ādama khalaqahū min turābin thumma qāla lahū kun fa-yakūn",
+      "translation": "Alloh huzurida Isoning misoli xuddi Odam Atoning misolidir. Uni tuproqdan yaratdi, so'ngra unga: «Bo'l!» dedi, u bo'lib qoldi.",
+      "tafsir": "Iso alayhissalomning otasiz tug'ilishi mo'jiza emas, chunki Odam Ato ota-onasiz yaratilgan.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٠",
+      "numberLatin": "60",
+      "arabic": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+      "transcription": "al-ḥaqqu min rabbika fa-lā takun mina l-mumtarīn",
+      "translation": "Haq Rabbingdandir. Bas, shubhalanuvchilardan bo'lma.",
+      "tafsir": "Iso alayhissalom haqidagi haqiqat Allohdan kelgan vahiydir.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦١",
+      "numberLatin": "61",
+      "arabic": "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ",
+      "transcription": "fa-man ḥājjaka fīhi min baʿdi mā jā'aka mina l-ʿilmi fa-qul taʿālaw nadʿu abnā'anā wa abnā'akum wa nisā'anā wa nisā'akum wa anfusanā wa anfusakum thumma nabtahil fa-najʿal laʿnata llāhi ʿalā l-kādhibīn",
+      "translation": "Senga ilm kelganidan keyin kim sen bilan bu haqda tortishsa, de: «Keling, o'g'illarimizni va o'g'illaringizni, ayollarimizni va ayollaringizni, o'zimizni va o'zingizni chaqiraylik, so'ngra mubohalaga chiqib, yolg'onchilarga Allohning la'natini so'raylik».",
+      "tafsir": "Mubohala oyati. Najron nasroniylariga qarshi chiqish taklifi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٢",
+      "numberLatin": "62",
+      "arabic": "إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "transcription": "inna hādhā la-huwa l-qaṣaṣu l-ḥaqqu wa mā min ilāhin illā llāhu wa inna llāha la-huwa l-ʿazīzu l-ḥakīm",
+      "translation": "Albatta bu haq qissadir. Allohdan o'zga iloh yo'q. Albatta Alloh - O'zi g'olib va hikmatlidir.",
+      "tafsir": "Iso alayhissalom qissasining haqiqati va Allohning yagonaligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٣",
+      "numberLatin": "63",
+      "arabic": "فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ",
+      "transcription": "fa-in tawallaw fa-inna llāha ʿalīmun bi-l-mufsidīn",
+      "translation": "Agar yuz o'girsalar, albatta Alloh buzg'unchilarni biluvchidir.",
+      "tafsir": "Haqdan yuz o'girganlar buzg'unchilardir va Alloh ularni biladi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٤",
+      "numberLatin": "64",
+      "arabic": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+      "transcription": "qul yā ahla l-kitābi taʿālaw ilā kalimatin sawā'in baynanā wa baynakum allā naʿbuda illā llāha wa lā nushrika bihī shay'an wa lā yattakhidha baʿḍunā baʿḍan arbāban min dūni llāhi fa-in tawallaw fa-qūlū shhadū bi-annā muslimūn",
+      "translation": "De: «Ey Ahli kitob! Biz bilan sizning o'rtamizda teng bo'lgan kalimaga keling: Allohdan o'zgaga ibodat qilmaymiz, Unga hech narsani sherik qilmaymiz va ba'zimiz ba'zimizni Allohdan o'zga rab tutmaymiz». Agar yuz o'girsalar: «Biz musulmon ekanligimizga guvoh bo'linglar», deng.",
+      "tafsir": "Ahli kitobni umumiy asosga - tavhidga da'vat. Bu oyat dinlararo muloqotning asosi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٥",
+      "numberLatin": "65",
+      "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ",
+      "transcription": "yā ahla l-kitābi lima tuḥājjūna fī ibrāhīma wa mā unzilati t-tawrātu wa l-injīlu illā min baʿdihī a-fa-lā taʿqilūn",
+      "translation": "Ey Ahli kitob! Nega Ibrohim haqida tortishasizlar? Holbuki Tavrot va Injil faqat undan keyin nozil qilingan. Aql ishlatmaysizlarmi?",
+      "tafsir": "Yahudiy va nasroniylarning Ibrohim alayhissalomni o'zlariga nisbat berish da'volarini rad etish.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٦",
+      "numberLatin": "66",
+      "arabic": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌۭ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "transcription": "hā antum hā'ulā'i ḥājajtum fīmā lakum bihī ʿilmun fa-lima tuḥājjūna fīmā laysa lakum bihī ʿilmun wa llāhu yaʿlamu wa antum lā taʿlamūn",
+      "translation": "Mana siz o'zingizga ma'lum bo'lgan narsa haqida tortishgansizlar. Nega o'zingizga ma'lum bo'lmagan narsa haqida tortishasizlar? Alloh biladi, siz esa bilmaysizlar.",
+      "tafsir": "Ilmsiz tortishishning befoydaligi va Allohning mutlaq ilmi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٧",
+      "numberLatin": "67",
+      "arabic": "مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّۭا وَلَا نَصْرَانِيًّۭا وَلَـٰكِن كَانَ حَنِيفًۭا مُّسْلِمًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "transcription": "mā kāna ibrāhīmu yahūdiyyan wa lā naṣrāniyyan wa lākin kāna ḥanīfan musliman wa mā kāna mina l-mushrikīn",
+      "translation": "Ibrohim na yahudiy, na nasroniy edi. Balki u hanif - musulmon edi va mushriklardan emas edi.",
+      "tafsir": "Ibrohim alayhissalomning haqiqiy dini - Islom. U barcha botildan yuz o'girib, yagona Allohga bo'ysungan.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٨",
+      "numberLatin": "68",
+      "arabic": "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ",
+      "transcription": "inna awlā n-nāsi bi-ibrāhīma la-lladhīna ttabaʿūhu wa hādhā n-nabiyyu wa lladhīna āmanū wa llāhu waliyyu l-mu'minīn",
+      "translation": "Albatta odamlarning Ibrohimga eng yaqini unga ergashganlar, mana bu Nabiy va iymon keltirganlardır. Alloh mo'minlarning do'stidir.",
+      "tafsir": "Ibrohim alayhissalomga haqiqiy voris Muhammad alayhissalom va musulmonlardir.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٦٩",
+      "numberLatin": "69",
+      "arabic": "وَدَّت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "transcription": "waddat ṭā'ifatun min ahli l-kitābi law yuḍillūnakum wa mā yuḍillūna illā anfusahum wa mā yashʿurūn",
+      "translation": "Ahli kitobdan bir toifa sizlarni azdirmoqni xohlaydi. Ular faqat o'zlarini azdirmoqda, lekin sezishmaydi.",
+      "tafsir": "Ahli kitobning bir qismining musulmonlarni yo'ldan urish urinishlari o'zlariga zarar.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٠",
+      "numberLatin": "70",
+      "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ",
+      "transcription": "yā ahla l-kitābi lima takfurūna bi-āyāti llāhi wa antum tashhadūn",
+      "translation": "Ey Ahli kitob! Nega Allohning oyatlarini inkor qilasizlar, holbuki o'zingiz guvohlik berasiz?",
+      "tafsir": "Ahli kitob o'z kitoblarida Muhammad alayhissalom haqidagi bashoratlarni bilishlariga qaramay inkor qilmoqda.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧١",
+      "numberLatin": "71",
+      "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ",
+      "transcription": "yā ahla l-kitābi lima talbisūna l-ḥaqqa bi-l-bāṭili wa taktumūna l-ḥaqqa wa antum taʿlamūn",
+      "translation": "Ey Ahli kitob! Nega haqni botil bilan aralashtirasizlar va haqni yashirasizlar, holbuki o'zingiz bilasiz?",
+      "tafsir": "Ahli kitobning haqiqatni bila turib yashirishi va buzib ko'rsatishi qoralanadi.",
+      "copySymbol": "📋"
+    },
+      {
+        "numberArabic": "٧٢",
+        "numberLatin": "72",
+        "arabic": "وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ",
+        "transcription": "wa qālat ṭā'ifatun min ahli l-kitābi āminū bi-lladhī unzila ʿalā lladhīna āmanū wajha n-nahāri wa kfurū ākhirahū laʿallahum yarjiʿūn",
+        "translation": "Ahli kitobdan bir toifa: «Iymon keltirganlarga nozil qilingan narsaga kunning boshida iymon keltiring, oxirida esa inkor qiling, shoyad ular (dinlaridan) qaytarlar», dedi.",
+        "tafsir": "Ahli kitobning musulmonlarni shubhaga solish uchun soxta iymon ko'rsatib, keyin inkor qilish makri.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٣",
+        "numberLatin": "73",
+        "arabic": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+        "transcription": "wa lā tu'minū illā li-man tabiʿa dīnakum qul inna l-hudā hudā llāhi an yu'tā aḥadun mithla mā ūtītum aw yuḥājjūkum ʿinda rabbikum qul inna l-faḍla bi-yadi llāhi yu'tīhi man yashā'u wa llāhu wāsiʿun ʿalīm",
+        "translation": "«Faqat diningizga ergashganlarga ishoning». De: «Hidoyat Allohning hidoyatidir. Sizga berilganiga o'xshash biror kishiga berilishi yoki Rabbingiz huzurida siz bilan hujjatlashishlari (mumkin)». De: «Fazl Allohning qo'lida, uni xohlagan kishiga beradi. Alloh keng (fazlli) va biluvchidir».",
+        "tafsir": "Ahli kitobning hasadi va Allohning fazli kimga xohlasa berishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٤",
+        "numberLatin": "74",
+        "arabic": "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+        "transcription": "yakhtaṣṣu bi-raḥmatihī man yashā'u wa llāhu dhū l-faḍli l-ʿaẓīm",
+        "translation": "U O'z rahmati bilan xohlagan kishini xoslaydi. Alloh ulug' fazl sohibidir.",
+        "tafsir": "Allohning rahmati va payg'ambarlik xohlagan kishiga beriladi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٥",
+        "numberLatin": "75",
+        "arabic": "وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+        "transcription": "wa min ahli l-kitābi man in ta'manhu bi-qinṭārin yu'addihī ilayka wa minhum man in ta'manhu bi-dīnārin lā yu'addihī ilayka illā mā dumta ʿalayhi qā'iman dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna sabīlun wa yaqūlūna ʿalā llāhi l-kadhiba wa hum yaʿlamūn",
+        "translation": "Ahli kitobdan shundaylari borki, agar unga bir qintor ishonib topshirsang, senga qaytarib beradi. Ulardan shundaylari ham borki, agar bir dinor ishonib topshirsang, sen doim uning ustida turmasang, senga qaytarib bermaydi. Bu ular: «Ummiylar (arablar) borasida bizga gunoh yo'q», deganlari uchun. Ular bila turib Allohga yolg'on to'qiydilar.",
+        "tafsir": "Ahli kitobning bir qismi omonatdor, boshqalari esa arablarning molini yeyish halol deb o'ylaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٦",
+        "numberLatin": "76",
+        "arabic": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+        "transcription": "balā man awfā bi-ʿahdihī wa ttaqā fa-inna llāha yuḥibbu l-muttaqīn",
+        "translation": "Yo'q! Kim ahdiga vafo qilib, taqvo qilsa, albatta Alloh taqvodorlarni sevadi.",
+        "tafsir": "Ahd-paymonga vafodorlik va taqvo Alloh sevadigan xislatlardir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٧",
+        "numberLatin": "77",
+        "arabic": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+        "transcription": "inna lladhīna yashtarūna bi-ʿahdi llāhi wa aymānihim thamanan qalīlan ulā'ika lā khalāqa lahum fī l-ākhirati wa lā yukallimuhumu llāhu wa lā yanẓuru ilayhim yawma l-qiyāmati wa lā yuzakkīhim wa lahum ʿadhābun alīm",
+        "translation": "Allohning ahdi va o'z qasanlari evaziga oz bahoni sotib olganlar - ularning oxiratda nasibasi yo'q. Alloh ular bilan gaplashmaydi, qiyomat kuni ularga qaramaydi va ularni poklamaydi. Ularga alamli azob bor.",
+        "tafsir": "Yolg'on qasam ichib, Allohning ahdini buzganlarning qiyomatdagi dahshatli ahvoli.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٨",
+        "numberLatin": "78",
+        "arabic": "وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَـٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَـٰبِ وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+        "transcription": "wa inna minhum la-farīqan yalwūna alsinatahum bi-l-kitābi li-taḥsabūhu mina l-kitābi wa mā huwa mina l-kitābi wa yaqūlūna huwa min ʿindi llāhi wa mā huwa min ʿindi llāhi wa yaqūlūna ʿalā llāhi l-kadhiba wa hum yaʿlamūn",
+        "translation": "Ulardan bir guruh kitobni o'qishda tillarini burishtirib, siz uni kitobdan deb o'ylashingiz uchun (shunday qiladi). Holbuki u kitobdan emas. Ular: «U Alloh huzuridan», deydilar. Holbuki u Alloh huzuridan emas. Ular bila turib Allohga yolg'on to'qiydilar.",
+        "tafsir": "Ahli kitobning muqaddas kitoblarni tahriflaganligi va yolg'on narsalarni Allohga nisbat berganligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٩",
+        "numberLatin": "79",
+        "arabic": "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ",
+        "transcription": "mā kāna li-basharin an yu'tiyahu llāhu l-kitāba wa l-ḥukma wa n-nubuwwata thumma yaqūla li-n-nāsi kūnū ʿibādan lī min dūni llāhi wa lākin kūnū rabbāniyyīna bimā kuntum tuʿallimūna l-kitāba wa bimā kuntum tadrusūn",
+        "translation": "Alloh kitob, hukm va payg'ambarlik bergan biror bashar uchun odamlarga: «Allohni qo'yib, menga qul bo'linglar», deyish yarashmaydi. Balki: «Kitobni o'rgatganlaringiz va o'rganganlaringiz sababli rabboniy (Allohga xos) bo'linglar», (deydi).",
+        "tafsir": "Hech bir payg'ambar o'ziga ibodat qilishga chaqirmagan. Ular faqat Allohga bo'ysunishga da'vat qilgan.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٠",
+        "numberLatin": "80",
+        "arabic": "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ",
+        "transcription": "wa lā ya'murakum an tattakhidhū l-malā'ikata wa n-nabiyyīna arbāban a-ya'murukum bi-l-kufri baʿda idh antum muslimūn",
+        "translation": "U sizga farishtalar va payg'ambarlarni rab tutishni buyurmaydi. Musulmon bo'lganingizdan keyin sizga kufrni buyuradimi?!",
+        "tafsir": "Payg'ambarlar hech qachon farishtalar yoki o'zlariga sig'inishga chaqirmagan.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨١",
+        "numberLatin": "81",
+        "arabic": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ",
+        "transcription": "wa idh akhadha llāhu mīthāqa n-nabiyyīna la-mā ātaytukum min kitābin wa ḥikmatin thumma jā'akum rasūlun muṣaddiqun limā maʿakum la-tu'minunna bihī wa la-tanṣurunnahū qāla a-aqrartum wa akhadhtum ʿalā dhālikum iṣrī qālū aqrarnā qāla fa-shhadū wa anā maʿakum mina sh-shāhidīn",
+        "translation": "Alloh payg'ambarlardan ahd olganda: «Sizga kitob va hikmat berganimdan keyin sizda bo'lgan narsani tasdiqlagan rasul kelsa, albatta unga iymon keltirasizlar va albatta unga yordam berasizlar», (dedi). «Iqror bo'ldingizlarmi va bu borada Mening og'ir ahdimni oldingizlarmi?» dedi. «Iqror bo'ldik», dedilar. «Guvoh bo'linglar, Men ham siz bilan birgalikda guvohlarmanman», dedi.",
+        "tafsir": "Barcha payg'ambarlardan Muhammad alayhissalomga iymon keltirish va yordam berish ahdi olingani.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٢",
+        "numberLatin": "82",
+        "arabic": "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+        "transcription": "fa-man tawallā baʿda dhālika fa-ulā'ika humu l-fāsiqūn",
+        "translation": "Bundan keyin kim yuz o'girsa, mana ular fosiqlardir.",
+        "tafsir": "Payg'ambarlar ahdidan yuz o'girganlar fosiq - itaatdan chiquvchilardir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٣",
+        "numberLatin": "83",
+        "arabic": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ",
+        "transcription": "a-fa-ghayra dīni llāhi yabghūna wa lahū aslama man fī s-samāwāti wa l-arḍi ṭawʿan wa karhan wa ilayhi yurjaʿūn",
+        "translation": "Allohning dinidan boshqasini istaydilarmi? Holbuki osmonlar va yerdagi kimsa xoh-noxoh Unga bo'ysungan. Va Ungagina qaytarilishadi.",
+        "tafsir": "Butun koinot Allohga bo'ysungan, faqat Uning dinigina haqdir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٤",
+        "numberLatin": "84",
+        "arabic": "قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+        "transcription": "qul āmannā billāhi wa mā unzila ʿalaynā wa mā unzila ʿalā ibrāhīma wa ismāʿīla wa isḥāqa wa yaʿqūba wa l-asbāṭi wa mā ūtiya mūsā wa ʿīsā wa n-nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wa naḥnu lahū muslimūn",
+        "translation": "De: «Allohga, bizga nozil qilinganga, Ibrohim, Ismoil, Ishoq, Ya'qub va asbotlarga nozil qilinganga, Muso, Iso va payg'ambarlarga Rablaridan berilganga iymon keltirdik. Ulardan hech birining orasini farq qilmaymiz va biz Unga bo'ysunuvchilarmiz».",
+        "tafsir": "Musulmonlarning barcha payg'ambarlarga teng iymon keltirishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٥",
+        "numberLatin": "85",
+        "arabic": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+        "transcription": "wa man yabtaghi ghayra l-islāmi dīnan fa-lan yuqbala minhu wa huwa fī l-ākhirati mina l-khāsirīn",
+        "translation": "Kim Islomdan o'zga dinni istasa, undan hargiz qabul qilinmaydi va u oxiratda zarar ko'ruvchilardan bo'ladi.",
+        "tafsir": "Islom yagona haq din. Boshqa dinlar qabul qilinmaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٦",
+        "numberLatin": "86",
+        "arabic": "كَيْفَ يَهْدِى ٱللَّهُ قَوْمًۭا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّۭ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+        "transcription": "kayfa yahdī llāhu qawman kafarū baʿda īmānihim wa shahidū anna r-rasūla ḥaqqun wa jā'ahumu l-bayyinātu wa llāhu lā yahdī l-qawma ẓ-ẓālimīn",
+        "translation": "Alloh qanday qilib iymon keltirgandan keyin kofir bo'lgan, Rasul haq ekanligiga guvohlik bergan va ularga ochiq dalillar kelgan qavmni hidoyat qilsin?! Alloh zolim qavmni hidoyat qilmaydi.",
+        "tafsir": "Iymondan keyin kufr keltirganlarga hidoyat yo'qligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٧",
+        "numberLatin": "87",
+        "arabic": "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+        "transcription": "ulā'ika jazā'uhum anna ʿalayhim laʿnata llāhi wa l-malā'ikati wa n-nāsi ajmaʿīn",
+        "translation": "Ularning jazosi shuki, ularga Alloh, farishtalar va barcha odamlarning la'nati bo'ladi.",
+        "tafsir": "Murtadlarning jazosi - barcha maxluqotning la'nati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٨",
+        "numberLatin": "88",
+        "arabic": "خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+        "transcription": "khālidīna fīhā lā yukhaffafu ʿanhumu l-ʿadhābu wa lā hum yunẓarūn",
+        "translation": "Unda abadiy qoluvchilar. Ulardan azob yengillashtirilmaydi va ularga muhhat berilmaydi.",
+        "tafsir": "Murtadlarning do'zaxdagi abadiy azoblari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٩",
+        "numberLatin": "89",
+        "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+        "transcription": "illā lladhīna tābū min baʿdi dhālika wa aṣlaḥū fa-inna llāha ghafūrun raḥīm",
+        "translation": "Magar bundan keyin tavba qilib, isloh qilganlar bundan mustasno. Albatta Alloh maghfiratli va rahmlidir.",
+        "tafsir": "Murtadlar ham tavba qilsa, Alloh ularni kechiradi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٠",
+        "numberLatin": "90",
+        "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+        "transcription": "inna lladhīna kafarū baʿda īmānihim thumma zdādū kufran lan tuqbala tawbatuhum wa ulā'ika humu ḍ-ḍāllūn",
+        "translation": "Albatta iymon keltirgandan keyin kofir bo'lib, so'ngra kufrlarini oshirganlar - ularning tavbalari hargiz qabul qilinmaydi. Mana ular adashganlardir.",
+        "tafsir": "Iymondan keyin kufr keltirib, unda davom etganlarning tavbasi qabul bo'lmaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩١",
+        "numberLatin": "91",
+        "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌۭ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًۭا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+        "transcription": "inna lladhīna kafarū wa mātū wa hum kuffārun fa-lan yuqbala min aḥadihim mil'u l-arḍi dhahaban wa lawi ftadā bihī ulā'ika lahum ʿadhābun alīmun wa mā lahum min nāṣirīn",
+        "translation": "Kofir bo'lib, kofir holda o'lganlar - ulardan hech biridan yer to'la oltin fidya qilsa ham qabul qilinmaydi. Ularga alamli azob bor va ularning yordamchilari yo'q.",
+        "tafsir": "Kufr ustida o'lganlarning qiyomatdagi dahshatli ahvoli. Hech qanday fidya foyda bermaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٢",
+        "numberLatin": "92",
+        "arabic": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ",
+        "transcription": "lan tanālū l-birra ḥattā tunfiqū mimmā tuḥibbūn wa mā tunfiqū min shay'in fa-inna llāha bihī ʿalīm",
+        "translation": "Sevgan narsalaringizdan infaq qilmaguningizcha yaxshilikka erisha olmaysizlar. Qanday narsa infaq qilsangiz, albatta Alloh uni biluvchidir.",
+        "tafsir": "Haqiqiy yaxshilikka erishish uchun eng sevimli narsalardan infaq qilish kerak.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٣",
+        "numberLatin": "93",
+        "arabic": "كُلُّ ٱلطَّعَامِ كَانَ حِلًّۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+        "transcription": "kullu ṭ-ṭaʿāmi kāna ḥillan li-banī isrā'īla illā mā ḥarrama isrā'īlu ʿalā nafsihī min qabli an tunazzala t-tawrātu qul fa'tū bi-t-tawrāti fa-tlūhā in kuntum ṣādiqīn",
+        "translation": "Tavrot nozil bo'lishidan oldin barcha taom Bani Isroilga halol edi, faqat Isroil (Ya'qub) o'ziga harom qilgan narsa bundan mustasno. De: «Agar rost gapirayotgan bo'lsangiz, Tavrotni keltiring va uni o'qing».",
+        "tafsir": "Yahudiylarning ba'zi taomlar haromligi haqidagi da'volarini rad etish.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٤",
+        "numberLatin": "94",
+        "arabic": "فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+        "transcription": "fa-mani ftarā ʿalā llāhi l-kadhiba min baʿdi dhālika fa-ulā'ika humu ẓ-ẓālimūn",
+        "translation": "Bundan keyin kim Allohga yolg'on to'qisa, mana ular zolimlardir.",
+        "tafsir": "Haqiqat oydin bo'lgandan keyin ham yolg'on to'qiganlar zolimlardir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٥",
+        "numberLatin": "95",
+        "arabic": "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+        "transcription": "qul ṣadaqa llāhu fa-ttabiʿū millata ibrāhīma ḥanīfan wa mā kāna mina l-mushrikīn",
+        "translation": "De: «Alloh rost aytdi. Bas, hanif Ibrohimning millatiga ergashing. U mushriklardan emas edi».",
+        "tafsir": "Ibrohim alayhissalomning haq millati - haniflik, ya'ni barcha botildan yuz o'girib, faqat Allohga bo'ysunish.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٦",
+        "numberLatin": "96",
+        "arabic": "إِنَّ أَوَّلَ بَيْتٍۢ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًۭا وَهُدًۭى لِّلْعَـٰلَمِينَ",
+        "transcription": "inna awwala baytin wuḍiʿa li-n-nāsi la-lladhī bi-bakkata mubārakan wa hudan li-l-ʿālamīn",
+        "translation": "Albatta odamlar uchun qo'yilgan birinchi uy Makkadagi (Ka'ba)dir - muborak va olamlar uchun hidoyat.",
+        "tafsir": "Ka'ba - yerdagi birinchi ibodat uyi va barcha insoniyat uchun hidoyat markazi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٧",
+        "numberLatin": "97",
+        "arabic": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
+        "transcription": "fīhi āyātun bayyinātun maqāmu ibrāhīma wa man dakhalahū kāna āminan wa lillāhi ʿalā n-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlan wa man kafara fa-inna llāha ghaniyyun ʿani l-ʿālamīn",
+        "translation": "Unda ochiq oyatlar - Ibrohimning maqomi bor. Kim unga kirsa, xavfsiz bo'ladi. Yo'lga qodir bo'lgan odamlar uchun uyni haj qilish Allohning haqqidir. Kim inkor qilsa, albatta Alloh olamlardan behojatdir.",
+        "tafsir": "Ka'badagi mo'jizalar, Haramning xavfsizligi va hajning farziyligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٨",
+        "numberLatin": "98",
+        "arabic": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ",
+        "transcription": "qul yā ahla l-kitābi lima takfurūna bi-āyāti llāhi wa llāhu shahīdun ʿalā mā taʿmalūn",
+        "translation": "De: «Ey Ahli kitob! Nega Allohning oyatlarini inkor qilasizlar? Holbuki Alloh qilayotgan ishlaringizga guvohdir».",
+        "tafsir": "Ahli kitobning Alloh oyatlarini inkor qilishi qoralanadi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٩٩",
+        "numberLatin": "99",
+        "arabic": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًۭا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+        "transcription": "qul yā ahla l-kitābi lima taṣuddūna ʿan sabīli llāhi man āmana tabghūnahā ʿiwajan wa antum shuhadā'u wa mā llāhu bi-ghāfilin ʿammā taʿmalūn",
+        "translation": "De: «Ey Ahli kitob! Nega iymon keltirganlarni Alloh yo'lidan to'sib, uni qiyshiq ko'rsatmoqchisizlar? Holbuki o'zingiz guvohsizlar. Alloh qilayotgan ishlaringizdan g'ofil emas».",
+        "tafsir": "Ahli kitobning musulmonlarni yo'ldan urish urinishlari va Allohning ulardan xabardorligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٠",
+        "numberLatin": "100",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًۭا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ",
+        "transcription": "yā ayyuhā lladhīna āmanū in tuṭīʿū farīqan mina lladhīna ūtū l-kitāba yaruddūkum baʿda īmānikum kāfirīn",
+        "translation": "Ey iymon keltirganlar! Agar kitob berilganlardan bir guruhga itoat qilsangiz, ular sizni iymoningizdan keyin kofir qilib qaytaradi.",
+        "tafsir": "Mo'minlarga Ahli kitobga ergashmaslik haqida ogohlantirish.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠١",
+        "numberLatin": "101",
+        "arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+        "transcription": "wa kayfa takfurūna wa antum tutlā ʿalaykum āyātu llāhi wa fīkum rasūluhū wa man yaʿtaṣim billāhi fa-qad hudiya ilā ṣirāṭin mustaqīm",
+        "translation": "Sizlarga Allohning oyatlari tilovat qilinib, orangizdа Uning Rasuli turgan holda qanday qilib kofir bo'lasizlar? Kim Allohni mahkam tutsa, albatta to'g'ri yo'lga hidoyat qilingan bo'ladi.",
+        "tafsir": "Qur'on va Payg'ambar bor ekan, kufr keltirishning imkoni yo'q.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٢",
+        "numberLatin": "102",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+        "transcription": "yā ayyuhā lladhīna āmanū ttaqū llāha ḥaqqa tuqātihī wa lā tamūtunna illā wa antum muslimūn",
+        "translation": "Ey iymon keltirganlar! Allohdan haqiqiy taqvo bilan qo'rqing va faqat musulmon holda o'ling.",
+        "tafsir": "Allohdan haq taqvo bilan qo'rqish va Islom ustida vafot etish buyrug'i.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٣",
+        "numberLatin": "103",
+        "arabic": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍۢ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
+        "transcription": "wa ʿtaṣimū bi-ḥabli llāhi jamīʿan wa lā tafarraqū wa dhkurū niʿmata llāhi ʿalaykum idh kuntum aʿdā'an fa-allafa bayna qulūbikum fa-aṣbaḥtum bi-niʿmatihī ikhwānan wa kuntum ʿalā shafā ḥufratin mina n-nāri fa-anqadhakum minhā kadhālika yubayyinu llāhu lakum āyātihī laʿallakum tahtadūn",
+        "translation": "Allohning ipini (Qur'onni) barchaligingiz mahkam tuting va tarqalmang. Allohning ustingizdagi ne'matini eslab turing: siz dushman edingiz, U qalblaringizni birlashtirdi, Uning ne'mati bilan birodarlar bo'ldingiz. Siz do'zax chuquri yoqasida edingiz, U sizni undan qutqardi. Shunday qilib Alloh sizlarga oyatlarini bayonlaydi, shoyad hidoyat toparsiz.",
+        "tafsir": "Musulmonlar birligi, Islomdan oldingi dushmanlik va Allohning birlashtirgani.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٤",
+        "numberLatin": "104",
+        "arabic": "وَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+        "transcription": "wa l-takun minkum ummatun yadʿūna ilā l-khayri wa ya'murūna bi-l-maʿrūfi wa yanhawna ʿani l-munkari wa ulā'ika humu l-mufliḥūn",
+        "translation": "Sizlardan yaxshilikka da'vat qiladigan, ma'rufga buyurib, munkardan qaytaradigan bir ummat bo'lsin. Mana ular najot topguvchilardir.",
+        "tafsir": "Amru bil-ma'ruf va nahyi anil-munkarning farziyligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٥",
+        "numberLatin": "105",
+        "arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌۭ",
+        "transcription": "wa lā takūnū ka-lladhīna tafarraqū wa khtalafū min baʿdi mā jā'ahumu l-bayyinātu wa ulā'ika lahum ʿadhābun ʿaẓīm",
+        "translation": "Ochiq dalillar kelganidan keyin tarqalib, ixtilof qilganlar kabi bo'lmang. Ularga ulug' azob bor.",
+        "tafsir": "Oldingi ummatlar kabi tarqalish va ixtilofdan ogohlantirish.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٦",
+        "numberLatin": "106",
+        "arabic": "يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+        "transcription": "yawma tabyaḍḍu wujūhun wa taswaddu wujūhun fa-ammā lladhīna swaddat wujūhuhum a-kafartum baʿda īmānikum fa-dhūqū l-ʿadhāba bimā kuntum takfurūn",
+        "translation": "Ba'zi yuzlar oqarib, ba'zi yuzlar qoraygan kunda. Yuzlari qorayganlar: «Iymoningizdan keyin kofir bo'ldingizlarmi? Bas, kufr keltirayotganlaringiz uchun azobni toting», (deyiladi).",
+        "tafsir": "Qiyomat kunidagi mo'minlar va kofirlarning ahvoli.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٧",
+        "numberLatin": "107",
+        "arabic": "وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ",
+        "transcription": "wa ammā lladhīna byaḍḍat wujūhuhum fa-fī raḥmati llāhi hum fīhā khālidūn",
+        "translation": "Yuzlari oqarganlar esa Allohning rahmatida, ular unda abadiy qoluvchilardir.",
+        "tafsir": "Mo'minlarning jannatdagi abadiy saodati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٨",
+        "numberLatin": "108",
+        "arabic": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۗ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًۭا لِّلْعَـٰلَمِينَ",
+        "transcription": "tilka āyātu llāhi natlūhā ʿalayka bi-l-ḥaqqi wa mā llāhu yurīdu ẓulman li-l-ʿālamīn",
+        "translation": "Bular Allohning oyatlari, ularni senga haq bilan tilovat qilamiz. Alloh olamlarga zulm istamaydı.",
+        "tafsir": "Qur'on oyatlarining haqligi va Allohning adolati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٠٩",
+        "numberLatin": "109",
+        "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+        "transcription": "wa lillāhi mā fī s-samāwāti wa mā fī l-arḍi wa ilā llāhi turjaʿu l-umūr",
+        "translation": "Osmonlar va yerdagi narsalar Allohniki. Barcha ishlar Allohga qaytariladi.",
+        "tafsir": "Allohning mutlaq mulki va barcha ishlarning Unga qaytishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٠",
+        "numberLatin": "110",
+        "arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًۭا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ",
+        "transcription": "kuntum khayra ummatin ukhrijat li-n-nāsi ta'murūna bi-l-maʿrūfi wa tanhawna ʿani l-munkari wa tu'minūna billāhi wa law āmana ahlu l-kitābi la-kāna khayran lahum minhumu l-mu'minūna wa aktharuhumu l-fāsiqūn",
+        "translation": "Siz odamlar uchun chiqarilgan eng yaxshi ummat bo'ldingiz. Ma'rufga buyurib, munkardan qaytarasizlar va Allohga iymon keltirasizlar. Agar Ahli kitob iymon keltirsa, o'zlari uchun yaxshi bo'lar edi. Ulardan mo'minlar bor, lekin ko'pchiligi fosiqlardir.",
+        "tafsir": "Musulmon ummatning eng yaxshi ummat ekanligi, chunki ular amru bil-ma'ruf va nahyi anil-munkar qiladi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١١",
+        "numberLatin": "111",
+        "arabic": "لَن يَضُرُّوكُمْ إِلَّآ أَذًۭى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ",
+        "transcription": "lan yaḍurrūkum illā adhan wa in yuqātilūkum yuwallūkumu l-adbāra thumma lā yunṣarūn",
+        "translation": "Ular sizga ozgina ozordan boshqa zarar yetkaza olmaydilar. Agar siz bilan urushsalar, sizga orqa berib qochadilar, keyin yordam topolmaydilar.",
+        "tafsir": "Ahli kitobning musulmonlarga faqat ozgina zarar yetkaza olishi, jangda mag'lub bo'lishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٢",
+        "numberLatin": "112",
+        "arabic": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍۢ مِّنَ ٱللَّهِ وَحَبْلٍۢ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+        "transcription": "ḍuribat ʿalayhimu dh-dhillatu ayna mā thuqifū illā bi-ḥablin mina llāhi wa ḥablin mina n-nāsi wa bā'ū bi-ghaḍabin mina llāhi wa ḍuribat ʿalayhimu l-maskanatu dhālika bi-annahum kānū yakfurūna bi-āyāti llāhi wa yaqtulūna l-anbiyā'a bi-ghayri ḥaqqin dhālika bimā ʿaṣaw wa kānū yaʿtadūn",
+        "translation": "Qayerda bo'lsalar ham, ularga xorlik muhri urilgan, faqat Allohdan ip (ahd) yoki odamlardan ip (himoya) bo'lsa bundan mustasno. Ular Allohning g'azabiga uchradilar va ularga miskinlik muhri urildi. Bu ular Allohning oyatlarini inkor qilganlari va payg'ambarlarni nohaq o'ldirganlari uchun. Bu isyon qilganlari va haddan oshganlari uchun.",
+        "tafsir": "Yahudiylarning xorlikka mahkum etilishi, chunki ular Alloh oyatlarini inkor qilib, payg'ambarlarni o'ldirgan.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٣",
+        "numberLatin": "113",
+        "arabic": "لَيْسُوا۟ سَوَآءًۭ ۗ مِّنْ أَهْلِ ٱلْكِتَـٰبِ أُمَّةٌۭ قَآئِمَةٌۭ يَتْلُونَ ءَايَـٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+        "transcription": "laysū sawā'an min ahli l-kitābi ummatun qā'imatun yatlūna āyāti llāhi ānā'a l-layli wa hum yasjudūn",
+        "translation": "Ular bir xil emaslar. Ahli kitobdan tik turgan bir ummat bor, ular kecha vaqtlarida Allohning oyatlarini tilovat qiladilar va sajda qiladilar.",
+        "tafsir": "Ahli kitobning hammasi yomon emas, ulardan solih kishilar ham bor.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٤",
+        "numberLatin": "114",
+        "arabic": "يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَـٰٓئِكَ مِنَ ٱلصَّـٰلِحِينَ",
+        "transcription": "yu'minūna billāhi wa l-yawmi l-ākhiri wa ya'murūna bi-l-maʿrūfi wa yanhawna ʿani l-munkari wa yusāriʿūna fī l-khayrāti wa ulā'ika mina ṣ-ṣāliḥīn",
+        "translation": "Ular Allohga va oxirat kuniga iymon keltiradi, ma'rufga buyurib, munkardan qaytaradi va yaxshi ishlarga shoshiladi. Mana ular solihlardan.",
+        "tafsir": "Ahli kitobdan bo'lgan solih mo'minlarning sifatlari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٥",
+        "numberLatin": "115",
+        "arabic": "وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍۢ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+        "transcription": "wa mā yafʿalū min khayrin fa-lan yukfarūhu wa llāhu ʿalīmun bi-l-muttaqīn",
+        "translation": "Ular qanday yaxshilik qilsalar, u hargiz inkor qilinmaydi. Alloh taqvodorlarni biluvchidir.",
+        "tafsir": "Yaxshi amalni kim qilsa qilsin, Alloh uni inkor qilmaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٦",
+        "numberLatin": "116",
+        "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭا ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَـٰلِدُونَ",
+        "transcription": "inna lladhīna kafarū lan tughniya ʿanhum amwāluhum wa lā awlāduhum mina llāhi shay'an wa ulā'ika aṣḥābu n-nāri hum fīhā khālidūn",
+        "translation": "Kofir bo'lganlarning mollari ham, bolalari ham Allohdan (keladigan azobdan) hech narsa foyda bermaydi. Ular do'zax ahli, ular unda abadiy qoluvchilardir.",
+        "tafsir": "Kofirlarning mol-mulki va farzandlari qiyomatda foyda bermaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٧",
+        "numberLatin": "117",
+        "arabic": "مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍۢ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ",
+        "transcription": "mathalu mā yunfiqūna fī hādhihi l-ḥayāti d-dunyā ka-mathali rīḥin fīhā ṣirrun aṣābat ḥartha qawmin ẓalamū anfusahum fa-ahlakathu wa mā ẓalamahumu llāhu wa lākin anfusahum yaẓlimūn",
+        "translation": "Ularning bu dunyo hayotida sarflaganlarining misoli o'zlariga zulm qilgan qavmning ekıniga tegib, uni halok qilgan sovuq shamolga o'xshaydi. Alloh ularga zulm qilmadi, lekin ular o'zlariga zulm qilmoqda.",
+        "tafsir": "Kofirlarning dunyo uchun qilgan sarflari muzli shamol urib ketgan ekinga o'xshaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٨",
+        "numberLatin": "118",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ",
+        "transcription": "yā ayyuhā lladhīna āmanū lā tattakhidhū biṭānatan min dūnikum lā ya'lūnakum khabālan waddū mā ʿanittum qad badati l-baghḍā'u min afwāhihim wa mā tukhfī ṣudūruhum akbaru qad bayyannā lakumu l-āyāti in kuntum taʿqilūn",
+        "translation": "Ey iymon keltirganlar! O'zingizdan boshqalarni ichki do'st tutmang. Ular sizga buzg'unchililikdan qisqartmaydilar, qiynalishingizni xohlaydilar. Dushmanlik og'izlaridan chiqib qoldi, ko'ksilarida yashirgan narsa yanada kattaroq. Agar aql ishlatsangiz, Biz sizlarga oyatlarni bayonlab berdik.",
+        "tafsir": "Musulmonlarga kofirlarni sir mahramı qilmaslik haqida ogohlantirish.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١١٩",
+        "numberLatin": "119",
+        "arabic": "هَـٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَـٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+        "transcription": "hā antum ulā'i tuḥibbūnahum wa lā yuḥibbūnakum wa tu'minūna bi-l-kitābi kullihī wa idhā laqūkum qālū āmannā wa idhā khalaw ʿaḍḍū ʿalaykumu l-anāmila mina l-ghayẓi qul mūtū bi-ghayẓikum inna llāha ʿalīmun bi-dhāti ṣ-ṣudūr",
+        "translation": "Mana siz ularni sevasizlar, ular sizni sevmaydilar. Siz butun kitobga iymon keltirasizlar. Ular sizni uchratganda: «Iymon keltirdik», deydilar. Yolg'iz qolganda esa sizga g'azabdan barmoqlarini tishlaydilar. De: «G'azabingizdan o'linglar!» Albatta Alloh ko'ksidagi narsalarni biluvchidir.",
+        "tafsir": "Munofiqlarning ikkiyuzlamaligi va musulmonlarga bo'lgan yashirin dushmanligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٠",
+        "numberLatin": "120",
+        "arabic": "إِن تَمْسَسْكُمْ حَسَنَةٌۭ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌۭ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌۭ",
+        "transcription": "in tamsaskum ḥasanatun tasu'hum wa in tuṣibkum sayyi'atun yafraḥū bihā wa in taṣbirū wa tattaqū lā yaḍurrukum kayduhum shay'an inna llāha bimā yaʿmalūna muḥīṭ",
+        "translation": "Sizga yaxshilik tegsa, ularni xafa qiladi. Sizga yomonlik yetsa, undan xursand bo'ladilar. Agar sabr qilib, taqvo qilsangiz, ularning makri sizga hech zarar yetkazmaydi. Albatta Alloh ular qilayotgan narsalarni ihota qiluvchidir.",
+        "tafsir": "Munofiqlarning musulmonlarning yaxshiligidan xafa bo'lib, yomonligidan xursand bo'lishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢١",
+        "numberLatin": "121",
+        "arabic": "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ ٱلْمُؤْمِنِينَ مَقَـٰعِدَ لِلْقِتَالِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+        "transcription": "wa idh ghadawta min ahlika tubawwi'u l-mu'minīna maqāʿida li-l-qitāli wa llāhu samīʿun ʿalīm",
+        "translation": "O'shanda sen ahlingdan erta chiqib, mo'minlarni jang uchun o'rinlarga joylashtirgan eding. Alloh eshituvchi va biluvchidir.",
+        "tafsir": "Uhud jangi kuni Payg'ambar alayhissalomning mo'minlarni jangga tayyorlashi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٢",
+        "numberLatin": "122",
+        "arabic": "إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+        "transcription": "idh hammat ṭā'ifatāni minkum an tafshalā wa llāhu waliyyuhumā wa ʿalā llāhi fa-l-yatawakkali l-mu'minūn",
+        "translation": "O'shanda sizlardan ikki toifa (jangdan) qo'rqmoqchi bo'lgan edi. Alloh ularning do'sti edi. Mo'minlar Allohgagina tavakkul qilsinlar.",
+        "tafsir": "Uhud jangida ikki guruhning qo'rquvi va Allohning ularni qo'llab-quvvatlashi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٣",
+        "numberLatin": "123",
+        "arabic": "وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍۢ وَأَنتُمْ أَذِلَّةٌۭ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ",
+        "transcription": "wa la-qad naṣarakumu llāhu bi-badrin wa antum adhillatun fa-ttaqū llāha laʿallakum tashkurūn",
+        "translation": "Badrda siz zaif bo'lganingizda ham Alloh sizlarga yordam bergan edi. Bas, Allohdan qo'rqing, shoyad shukr qilarsiz.",
+        "tafsir": "Badr jangidagi g'alabani eslash va Allohga shukr qilishga undash.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٤",
+        "numberLatin": "124",
+        "arabic": "إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَـٰثَةِ ءَالَـٰفٍۢ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُنزَلِينَ",
+        "transcription": "idh taqūlu li-l-mu'minīna a-lan yakfiyakum an yumiddakum rabbukum bi-thalāthati ālāfin mina l-malā'ikati munzalīn",
+        "translation": "O'shanda sen mo'minlarga: «Rabbingiz sizlarga tushirilgan uch ming farishta bilan yordam berishi sizlarga kifoya qilmaydimi?» degan eding.",
+        "tafsir": "Badr jangida farishtalar bilan yordam va'dasi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٥",
+        "numberLatin": "125",
+        "arabic": "بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍۢ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ",
+        "transcription": "balā in taṣbirū wa tattaqū wa ya'tūkum min fawrihim hādhā yumdidkum rabbukum bi-khamsati ālāfin mina l-malā'ikati musawwimīn",
+        "translation": "Ha! Agar sabr qilib, taqvo qilsangiz va ular sizlarga shu zahotiyoq kelsalar, Rabbingiz sizlarga belgilangan besh ming farishta bilan yordam beradi.",
+        "tafsir": "Sabr va taqvo sharti bilan besh ming farishta bilan yordam va'dasi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٦",
+        "numberLatin": "126",
+        "arabic": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+        "transcription": "wa mā jaʿalahu llāhu illā bushrā lakum wa li-taṭma'inna qulūbukum bihī wa mā n-naṣru illā min ʿindi llāhi l-ʿazīzi l-ḥakīm",
+        "translation": "Alloh buni faqat sizlarga xushxabar va qalblaringiz xotirjam bo'lishi uchun qildi. Nusrat faqat g'olib va hakim Alloh huzuridandir.",
+        "tafsir": "Farishtalar bilan yordam xushxabar va qalblarni xotirjam qilish uchun. Haqiqiy nusrat Allohdandir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٢٧",
+        "numberLatin": "127",
+        "arabic": "لِيَقْطَعَ طَرَفًۭا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ",
+        "transcription": "li-yaqṭaʿa ṭarafan mina lladhīna kafarū aw yakbitahum fa-yanqalibū khā'ibīn",
+        "translation": "(Bu) kofirlardan bir guruhni kesib tashlash yoki ularni xor qilib, umidsiz qaytarish uchun.",
+        "tafsir": "Allohning yordami kofirlarni mag'lub etish va umidsiz qaytarish uchun.",
+        "copySymbol": "📋"
+      },
+      {
+        
+      "numberArabic": "١٢٨",
+      "numberLatin": "128",
+      "arabic": "لَّيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَـٰلِمُونَ",
+      "transcription": "Laysa laka mina l-amri shay'un aw yatuba 'alayhim aw yu'adhibahum fa-innahum zalimun",
+      "translation": "(Ey Muhammad), ishning hukmi Senga tegishli emas. Alloh ularga tavba nasib etishi yoki ularni azoblashi mumkin, chunki ular zolimlardir.",
+      "tafsir": "Payg'ambar hukm chiqarishga majbur emas. Hukm faqat Allohga xos.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٢٩",
+      "numberLatin": "129",
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+      "transcription": "Wa li-llahi ma fi s-samawati wa ma fi l-ard. Yaghfiru li-man yasha'u wa yu'adhibu man yasha'. Wa llahu ghafurun rahim",
+      "translation": "Osmonlar va yerdagi hamma narsa Allohga tegishli. U xohlagan kishini mag'firat qiladi va xohlaganini azoblaydi. Alloh mag'firat qiluvchi va rahmli Zotdir.",
+      "tafsir": "Allohning mutlaq hukmdorligi va rahmati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٠",
+      "numberLatin": "130",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَـٰفًۭا مُّضَـٰعَفَةًۭ ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "transcription": "Ya ayyuha lladhina amanu la ta'kulu r-riba ad'afan mudda'afatan wa ttaqu llaha la'allakum tuflihun",
+      "translation": "Ey imonli kishilar! Qat'iy ravishda qo'shib beriladigan ribo (foiz) yemanglar va Allohdan qo'rqinglar, shunda najot topsangiz.",
+      "tafsir": "Riboning qat'iy man etilishi va taqvo.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣١",
+      "numberLatin": "131",
+      "arabic": "وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَـٰفِرِينَ",
+      "transcription": "Wa ttaqu n-nara llati u'iddat li-l-kafirin",
+      "translation": "Kofirlar uchun tayyorlangan do'zaxdan saqlaning.",
+      "tafsir": "Do'zaxdan ogohlantirish.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٢",
+      "numberLatin": "132",
+      "arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "transcription": "Wa ati'u llaha wa r-rasula la'allakum turhamun",
+      "translation": "Alloh va Rasulga itoat qiling, shu bilan rahmatga muyassar bo'lasiz.",
+      "tafsir": "Itoat va rahmat munosabati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٣",
+      "numberLatin": "133",
+      "arabic": "وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ",
+      "transcription": "Wa sāri'ū ilā maghfiratin min rabbikum wa jannatin 'arḍuhā s-samāwātu wa l-arḍu u'iddat li-l-muttaqīn",
+      "translation": "Robbingizning mag'firatiga va kengligi osmonlar va yer kabi bo'lgan jannatga shoshiling. U taqvolilar uchun tayyorlangan.",
+      "tafsir": "Mag'firat va jannatga intilish.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٤",
+      "numberLatin": "134",
+      "arabic": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transcription": "Alladhīna yunfiqūna fi s-sarrā'i wa ḍ-ḍarrā'i wa l-kāẓimīna l-ghayẓa wa l-'āfīna 'ani n-nās. Wa llāhu yuḥibbu l-muḥsinīn",
+      "translation": "Ular farovonlikda va qiyinchilikda (Alloh yo'lida) infoq qiladilar, g'azabni yutadilar va odamlarni afv etadilar. Alloh yaxshilik qiluvchilarni sevar.",
+      "tafsir": "Taqvolarning fazilatlari.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٥",
+      "numberLatin": "135",
+      "arabic": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَاسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+      "transcription": "Wa lladhīna idhā fa'alū fāḥishatan aw ẓalamū anfusahum dhakarū llāha fa-staghfarū li-dhunūbihim wa man yaghfiru dh-dhunūba illā llāh. Wa lam yuṣirrū 'alā mā fa'alū wa hum ya'lamūn",
+      "translation": "Agar ular yomon ish qilsalar yoki o'zlariga zulm qilsalar, Allohni eslab, gunohlari uchun istig'for qiladilar. Gunohlarni Allohdan boshqi kim kechira oladi? Ular qasddan yomonlikda isrorm qilmaydilar.",
+      "tafsir": "Tavba va istig'forning ahamiyati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٦",
+      "numberLatin": "136",
+      "arabic": "أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌۭ مِّن رَّبِّهِمْ وَجَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ",
+      "transcription": "Ulā'ika jazā'uhum maghfiratun min rabbihim wa jannātun tajrī min taḥtihā l-anhāru khālidīna fīhā. Wa ni'ma ajru l-'āmilīn",
+      "translation": "Bunday kishilarning mukofoti Robbilarining mag'firati va ostidan daryolar oqadigan jannatlardir. Ular u yerda abadiy qoladilar. Qanday ajoyib mukofotdir ish qiluvchilar uchun!",
+      "tafsir": "Taqvolarning mukofoti.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٧",
+      "numberLatin": "137",
+      "arabic": "قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌۭ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَـٰنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "transcription": "Qad khalat min qablikum sunanun fa-sīrū fi l-arḍi fa-nẓurū kayfa kāna 'āqibatu l-mukadhdhibīn",
+      "translation": "Sizdan oldingi ummatlarda ham (Allohning) qonunlari bo'lgan. Yer yuzida sayohat qilib, yolg'onchilarning oqibatini ko'ring.",
+      "tafsir": "Tarixdan saboq olish.",
+      "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٣٨",
+      "numberLatin": "138",
+      "arabic": "هَـٰذَا بَيَانٌۭ لِّلنَّاسِ وَهُدًۭى وَمَوْعِظَةٌۭ لِّلْمُتَّقِينَ",
+      "transcription": "Hādhā bayānun li-n-nāsi wa hudan wa maw'iẓatun li-l-muttaqīn",
+      "translation": "Bu (Qurʼon) insonlar uchun bayon, hidoyat va taqvodorlar uchang pand-nasihatdir.",
+      "tafsir": "Qurʼonning umumiy hidoyat sifatidagi ahamiyati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٣٩",
+      "numberLatin": "139",
+      "arabic": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "transcription": "Wa lā tahinū wa lā taḥzanū wa antumu l-aʿlawna in kuntum mu'minīn",
+      "translation": "Zaiflik koʻrsatmang va qaygʻurmagin. Agar momin boʻlsangiz, siz ustun boʻlasiz.",
+      "tafsir": "Mominlarni ruhiy jihatdan mustahkamlash.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٠",
+      "numberLatin": "140",
+      "arabic": "إِن يَمْسَسْكُمْ قَرْحٌۭ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌۭ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ ۗ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "transcription": "In yamsaskum qarḥun fa-qad massa l-qawma qarḥun mithluh. Wa tilka l-ayyāmu nudāwiluhā bayna n-nās. Wa li-yaʿlama llāhu lladhīna āmanū wa yattakhidha minkum shuhadā'. Wa llāhu lā yuḥibbu ẓ-ẓālimīn",
+      "translation": "Agar sizga bir yaralar teggan boʻlsa, (dushman) qavm ham shunday yaralangan. Biz kunlarni odamlar orasida aylantiramiz. (Bu) Alloh imonlilarni bilishi va sizdan shahidlarni olishi uchundir. Alloh zolimlarni sevmaydi.",
+      "tafsir": "Jangdagi sinovlar va Allohning hikmati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤١",
+      "numberLatin": "141",
+      "arabic": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ",
+      "transcription": "Wa li-yumaḥḥiṣa llāhu lladhīna āmanū wa yamḥaqa l-kāfirīn",
+      "translation": "(Bu) Alloh imonlilarni tozalashi va kofirlarni yoʻq qilishi uchundir.",
+      "tafsir": "Imon sinovlari va kufrning yoʻq qilinishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٢",
+      "numberLatin": "142",
+      "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّـٰبِرِينَ",
+      "transcription": "Am ḥasibtum an tadkhulū l-jannata wa lammā yaʿlami llāhu lladhīna jāhadū minkum wa yaʿlama ṣ-ṣābirīn",
+      "translation": "Yoki sizlar jihod qilganlaringiz va sabr qilganlaringizni Alloh bilmasdan jannatga kirishni oʻyladingizmi?",
+      "tafsir": "Jannatga kirish uchun jihod va sabr talabi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٣",
+      "numberLatin": "143",
+      "arabic": "وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ",
+      "transcription": "Wa la-qad kuntum tamannawna l-mawta min qabli an talqawhu fa-qad ra'aytumūhu wa antum tanẓurūn",
+      "translation": "Sizlar (jangga) duch kelishdan oldin oʻlimni tilab yurdingiz. Endi uni koʻrib turibsiz.",
+      "tafsir": "Uhud jangidan oldingi holat.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٤",
+      "numberLatin": "144",
+      "arabic": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًۭٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ",
+      "transcription": "Wa mā Muḥammadun illā rasūlun qad khalat min qablihi r-rusul. Afa-in māta aw qutila nqalabtum ʿalā aʿqābikum. Wa man yanqalib ʿalā ʿaqibayhi fa-lan yaḍurra llāha shay'an. Wa sa-yajzī llāhu sh-shākirīn",
+      "translation": "Muhammad faqat bir elchidir. Undan oldin ham elchilar oʻtib ketgan. Agar u vafot etsa yoki oʻldirilsa, orqangizga qayturasizmi? Kim orqaga qaytsa, Allohga hech qanday zarar yetkaza olmaydi. Alloh shukr qiluvchilarni mukofotlaydi.",
+      "tafsir": "Paygʻambarning oʻlimi va ummatning vazifasi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٥",
+      "numberLatin": "145",
+      "arabic": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًۭا مُّؤَجَّلًۭا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا ۖ وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+      "transcription": "Wa mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban mu'ajjalan. Wa man yurid thawāba d-dunyā nu'tihi minhā. Wa man yurid thawāba l-ākhirati nu'tihi minhā. Wa sa-najzī sh-shākirīn",
+      "translation": "Hech bir jon Allohning iznisiz oʻlmaydi (bu) belgilangan muddatdir. Kim dunyo mukofotini istasa, undan beramiz. Kim oxirat mukofotini istasa, undan beramiz. Biz shukr qiluvchilarni mukofotlaymiz.",
+      "tafsir": "Oʻlim va mukofotlarning Alloh qoʻlida boʻlishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٦",
+      "numberLatin": "146",
+      "arabic": "وَكَأَيِّن مِّن نَّبِىٍّۢ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+      "transcription": "Wa ka-ayyin min nabiyyin qātala maʿahu ribbiyyūna kathīrun fa-mā wahanū li-mā aṣābahum fī sabīli llāhi wa mā ḍaʿufū wa mā stakānū. Wa llāhu yuḥibbu ṣ-ṣābirīn",
+      "translation": "Qancha paygʻambarlar bilan birga koʻp dindoslari jang qilgan. Alloh yoʻlida ularga biror musibat yetganida zaiflik koʻrsatmagan, darmon qoldirmagan va boʻysunmagan. Alloh sabrlilarni sevar.",
+      "tafsir": "Oldingi paygʻambarlar va ularning jangchilari misoli.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٧",
+      "numberLatin": "147",
+      "arabic": "وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+      "transcription": "Wa mā kāna qawlahum illā an qālū rabbanā ghfir lanā dhunūbanā wa isrāfanā fī amrinā wa thabbit aqdāmanā wa nṣurnā ʿalā l-qawmi l-kāfirīn",
+      "translation": "Ularning soʻzlari faqat shu edi: \"Robbimiz, gunohlarimizni va ishimizdagi ortiqchiliklarni kechgin. Qadamlarimizni mustahkam qilgin va kofir qavm ustiga gʻalaba bergin\".",
+      "tafsir": "Mominlarning jangdagi duosi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٤٨",
+      "numberLatin": "148",
+      "arabic": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transcription": "Fa-ātāhumu llāhu thawāba d-dunyā wa ḥusna thawābi l-ākhirati. Wa llāhu yuḥibbu l-muḥsinīn",
+      "translation": "Alloh ularga dunyo mukofotini va oxiratdagi goʻzal mukofotni berdi. Alloh yaxshilik qiluvchilarni sevar.",
+      "tafsir": "Ihson qiluvchilarning ikki dunyo mukofoti.",
+      "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٤٩",
+      "numberLatin": "149",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+      "transcription": "Yā ayyuhā alladhīna āmanū in tuṭīʿū alladhīna kafarū yaruddūkum ʿalā aʿqābikum fa-tanqalibū khāsirīn",
+      "translation": "Ey imonlilar! Agar kofirlarga itoat qilsangiz, ular sizni orqangizga qaytaradilar, shunda ziyon koʻruvchilarga aylanib qolasiz.",
+      "tafsir": "Kofirlarga boʻysunishning xatarligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٠",
+      "numberLatin": "150",
+      "arabic": "بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّـٰصِرِينَ",
+      "transcription": "Bali Allāhu mawlākum wa huwa khayru n-nāṣirīn",
+      "translation": "Balki Alloh sizning himoyagingizdir va U yordam beruvchilarning eng yaxshisidir.",
+      "tafsir": "Allohning himoyasi yetarli.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥١",
+      "numberLatin": "151",
+      "arabic": "سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًۭا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ",
+      "transcription": "Sanulqī fī qulūbi alladhīna kafarū r-ruʿba bimā ashrakū bi-llāhi mā lam yunazzil bihi sulṭānan wa maʾwāhumu n-nār, wa biʾsa mathwā ẓ-ẓālimīn",
+      "translation": "Tez orada kofirlarning qalblariga qoʻrqu solamiz, chunki ular Allohga shirk keltirdilar, buning uchun U hech qanday hujjat yubormagan. Ularning qaytadigan joyi doʻzaxdir. Zolimlar uchun qanchalik yomon makondir!",
+      "tafsir": "Kofirlarga qoʻrquv va ularning yomon oqibati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٢",
+      "numberLatin": "152",
+      "arabic": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "transcription": "Wa laqad ṣadaqakumu Allāhu waʿdahū idh taḥussūnahum bi-idhnih, ḥattā idhā fashiltum wa tanāzaʿtum fī l-amri wa ʿaṣaytum min baʿdi mā arākum mā tuḥibbūn, minkum man yurīdu d-dunyā wa minkum man yurīdu l-ākhirah, thumma ṣarafakum ʿanhum li-yabtaliyakum, wa laqad ʿafā ʿankum, wa Allāhu dhū faḍlin ʿalā l-muʾminīn",
+      "translation": "Alloh oʻz vaʼdasini sizga rost qildi, chunki siz Uning izni bilan (dushmanlarni) qirib yurdingiz. To siz zaiflik koʻrsatdingiz, ishda tortishdingiz va (Paygʻambar) sizga sevgan narsangizni koʻrsatganidan keyin itoatsizlik qildingiz. Baʼzilariz dunyoni, baʼzilariz oxiratni xohladilar. Keyin U sizni sinash uchun ular ustidan chetlatdi. Lekin U sizni kechirdi. Alloh moʻminlarga fazl qiluvchidir.",
+      "tafsir": "Uhud jangidagi voqealar va saboqlar.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٣",
+      "numberLatin": "153",
+      "arabic": "إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَابَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "transcription": "Idh tuṣʿidūna wa lā talwūna ʿalā aḥadin wa r-rasūlu yadʿūkum fī ukhraykum fa-athābakum ghaman bi-ghamin li-kaylā taḥzanū ʿalā mā fātakum wa lā mā aṣābakum, wa Allāhu khabīrun bimā taʿmalūn",
+      "translation": "Oʻsha paytda siz tepalikka qarab qochib chiqayotgan edingiz, hech kimga qaramay, Paygʻambar esa orqangizdan sizni chaqirardi. Shunda Alloh sizni gʻam ustiga gʻam bilan jazoladi, shunda yoʻqotgan narsangiz va yetgan musibatlaringiz uchun qaygʻurmasligingiz uchun. Alloh qilayotgan ishlaringizdan xabardordir.",
+      "tafsir": "Jangda qochishning oqibatlari.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٤",
+      "numberLatin": "154",
+      "arabic": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةًۭ نُّعَاسًۭا يَغْشَىٰ طَآئِفَةًۭ مِّنكُمْ ۖ وَطَآئِفَةٌۭ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَـٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍۢ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۖ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌۭ مَّا قُتِلْنَا هَـٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "transcription": "Thumma anzala ʿalaykum min baʿdi l-ghammi amanatan nuʿāsan yaghshā ṭāʾifatan minkum, wa ṭāʾifatun qad ahammat-hum anfusuhum yaẓunnūna bi-llāhi ghayra l-ḥaqqi ẓanna l-jāhiliyyati, yaqūlūna hal lanā mina l-amri min shayʾ, qul inna l-amra kullahū li-llāh, yukhfūna fī anfusihim mā lā yubdūna laka, yaqūlūna law kāna lanā mina l-amri shayʾun mā qutilnā hāhunā, qul law kuntum fī buyūtikum la-baraza alladhīna kutiba ʿalayhimu l-qatlu ilā maḍājiʿihim, wa li-yabtaliya Allāhu mā fī ṣudūrikum wa li-yumaḥḥiṣa mā fī qulūbikum, wa Allāhu ʿalīmun bi-dhāti ṣ-ṣudūr",
+      "translation": "Keyin Alloh gʻamdan keyin sizga xotirjamlik va uyqu yubordi, u sizlarning bir guruhingizni qopladi. Boshqa bir guruh esa faqat oʻzlarini oʻylardi. Ular Alloh haqida notoʻgʻri, johiliya zanniga ega boʻlishdi. \"Bu ishda bizga biror narsa tegishlimi?\" deyishardi. Ayting: \"Ish butunlay Alloh qoʻlidadir\". Ular sizga aytmaydigan narsalarni yashirishadi. \"Agar bu ishda biror narsa bizga tegishli boʻlganida, bu yerda oʻldirilmas edik\", deyishadi. Ayting: \"Agar uylaringizda boʻlganingizda ham, oʻldirilishi yozilganlar oʻz oʻrinlariga chiqib ketgan boʻlur edi\". (Bu) Alloh koʻzingizdagi narsalarni sinashi va qalblaringizdagi narsalarni tozalashi uchundir. Alloh koʻkslardagi narsalarni biluvchidir.",
+      "tafsir": "Jangdan keyingi holat va moʻminlarning sinovi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٥",
+      "numberLatin": "155",
+      "arabic": "إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَـٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ",
+      "transcription": "Inna alladhīna tawallaw minkum yawma ltaqā l-jamʿāni innamā stazallahumu sh-shayṭānu bi-baʿḍi mā kasabū, wa laqad ʿafā Allāhu ʿanhum, inna Allāha ghafūrun ḥalīm",
+      "translation": "Ikkala toʻpning (Uhudda) toʻqnashgan kuni orqangizga qaytganlaringizni shayton qilgan ishlaringiz sababli adashtirgan edi. Alloh ularni kechirdi. Albatta, Alloh kechiruvchi va halimdir.",
+      "tafsir": "Adashganlarning kechirilishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٦",
+      "numberLatin": "156",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْيِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "transcription": "Yā ayyuhā alladhīna āmanū lā takūnū ka-alladhīna kafarū wa qālū li-ikhwānihim idhā ḍarabū fī l-arḍi aw kānū ghuzzan law kānū ʿindanā mā mātū wa mā qutilū, li-yajʿala Allāhu dhālika ḥasratan fī qulūbihim, wa Allāhu yuḥyī wa yumīt, wa Allāhu bimā taʿmalūn baṣīr",
+      "translation": "Ey imonlilar! Kofirlarga oʻxshamang, ular oʻz birodarlari safarda yoki jangda boʻlganlarida: \"Agar biz bilan boʻlganida, oʻlmas va oʻldirilmas edilar\", deyishadi. Alloh buni ularning qalbiga hasrat qilish uchun qoʻyadi. Alloh tiriltiradi va oʻldiradi. Alloh qilayotgan ishlaringizni koʻruvchidir.",
+      "tafsir": "Oʻlim haqida notoʻgʻri qarashlar.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٧",
+      "numberLatin": "157",
+      "arabic": "وَلَئِن قُتِلْتُمْ فِى سَبِيلِ ٱللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌۭ مِّنَ ٱللَّهِ وَرَحْمَةٌ خَيْرٌۭ مِّمَّا يَجْمَعُونَ",
+      "transcription": "Wa la-in qutiltum fī sabīli Allāhi aw muttum la-maghfiratun mina Allāhi wa raḥmatun khayrun mimmā yajmaʿūn",
+      "translation": "Agar Alloh yoʻlida oʻldirilsangiz yoki oʻlsangiz, Allohning magʻfirati va rahmati ular toʻplagan narsalardan yaxshiroqdir.",
+      "tafsir": "Shahidlik va Allohning rahmati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٨",
+      "numberLatin": "158",
+      "arabic": "وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى ٱللَّهِ تُحْشَرُونَ",
+      "transcription": "Wa la-in muttum aw qutiltum la-ilā Allāhi tuḥsharūn",
+      "translation": "Agar oʻlsangiz yoki oʻldirilsangiz, albatta, Alloh huzuriga toʻplanasiz.",
+      "tafsir": "Oxiratga qaytish haqiqati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٥٩",
+      "numberLatin": "159",
+      "arabic": "فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّۭا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+      "transcription": "Fa-bi-mā raḥmatin mina Allāhi linta lahum, wa law kunta faẓẓan ghalīẓa l-qalbi lanfaḍḍū min ḥawlik, fa-ʿfu ʿanhum wa staghfir lahum wa shāwirhum fī l-amr, fa-idhā ʿazamta fa-tawakkal ʿalā Allāh, inna Allāha yuḥibbu l-mutawakkilīn",
+      "translation": "Allohning rahmati tufayli siz ularga yumshoq boʻldingiz. Agar qoʻpol va qattiq qalbli boʻlganingizda, ular atrofigizdan tarqab ketgan boʻlur edi. Ularni kechir, ular uchun istigʻfor qil va ishda ular bilan maslahatlash. Qatʼiy qarorga kelganingda esa, Allohga tavakkal qil. Albatta, Alloh tavakkal qiluvchilarni sevar.",
+      "tafsir": "Paygʻambarning yumshoqligi va maslahat ahamiyati.",
+      "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٦٠",
+      "numberLatin": "160",
+      "arabic": "إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "transcription": "In yanṣurkumu llāhu falā ghāliba lakum, wa in yakhdhulkum fa-man dhā lladhī yanṣurukum min baʿdih, wa ʿalā llāhi fa-l-yatawakkali l-muʾminūn",
+      "translation": "Agar Alloh sizga yordam bersa, hech kim sizga gʻolib kelolmaydi. Agar sizni tark etsa, Undan keyin sizga kim yordam beradi? Moʻminlar faqat Allohga tavakkal qilishlari kerak.",
+      "tafsir": "Allohning yordami va tavakkalning ahamiyati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦١",
+      "numberLatin": "161",
+      "arabic": "وَمَا كَانَ لِنَبِىٍّ أَن يَغُلَّ ۚ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ ٱلْقِيَـٰمَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "transcription": "Wa mā kāna li-nabiyyin an yaghulla, wa man yaghlul yaʾti bimā ghalla yawma l-qiyāmah, thumma tuwaffā kullu nafsin mā kasabat wa hum lā yuẓlamūn",
+      "translation": "Hech bir paygʻambar xiyonat qilish mumkin emas. Kim xiyonat qilsa, qiyomat kuni xiyonat qilgan narsasi bilan keladi. Keyin har bir jon qilgan amalining javobini toʻliq oladi va ularga zulm qilinmaydi.",
+      "tafsir": "Xiyonatning qoralanishi va hisob-kitob.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٢",
+      "numberLatin": "162",
+      "arabic": "أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَن بَآءَ بِسَخَطٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ",
+      "transcription": "A-fa-mani ttabaʿa riḍwāna llāhi ka-man bāʾa bi-sakhaṭin mina llāhi wa maʾwāhu jahannam, wa biʾsa l-maṣīr",
+      "translation": "Allohning rizosi izidan boruvchi kishi, Allohning gʻazabiga duchor boʻlib, makoni doʻzax boʻlgan kishiga teng boʻladimi? Doʻzax qanchalik yomon qaytish joyidir!",
+      "tafsir": "Alloh rizosi va gʻazabining taqqoslanishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٣",
+      "numberLatin": "163",
+      "arabic": "هُمْ دَرَجَـٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+      "transcription": "Hum darajātun ʿinda llāh, wa llāhu baṣīrun bimā yaʿmalūn",
+      "translation": "Ular (moʻmin va kofir) Alloh huzurida turli darajalardadirlar. Alloh ularning qilayotgan ishlarini koʻruvchidir.",
+      "tafsir": "Darajalarning Alloh qoʻlida boʻlishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٤",
+      "numberLatin": "164",
+      "arabic": "لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+      "transcription": "La-qad manna llāhu ʿalā l-muʾminīna idh baʿatha fīhim rasūlan min anfusihim yatlū ʿalayhim āyātihī wa yuzakkīhim wa yuʿallimuhumu l-kitāba wa l-ḥikmata wa in kānū min qablu la-fī ḍalālin mubīn",
+      "translation": "Alloh moʻminlarga katta inʼom qildi, chunki ular orasidan oʻzlari kabi bir elchi yubordi. U ularga Oʻz oyatlarini tilovat qiladi, ularni poklaydi va ularga Kitob va hikmatni oʻrgatadi. Albatta, ular bundan oldin aniq zololatda edilar.",
+      "tafsir": "Paygʻambar yuborilishining neʼmati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٥",
+      "numberLatin": "165",
+      "arabic": "أَوَلَمَّآ أَصَـٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَـٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "transcription": "A-wa-lammā aṣābatkum muṣībatun qad aṣabtum mithlayhā qultum annā hādhā, qul huwa min ʿindi anfusikum, inna llāha ʿalā kulli shayʾin qadīr",
+      "translation": "(Uhudda) sizga bir musibat yetganda, siz bundan ikki barobar koʻp musibat yetkazgan edingiz. \"Bu qanday boʻldi?\" dedingiz. Ayting: \"Bu oʻz ishingiz natijasidir\". Albatta, Alloh har bir narsaga qodirdir.",
+      "tafsir": "Musibatlarning sabablari va Allohning qudrati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٦",
+      "numberLatin": "166",
+      "arabic": "وَمَآ أَصَـٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ",
+      "transcription": "Wa mā aṣābakum yawma ltaqā l-jamʿāni fa-bi-idhni llāhi wa li-yaʿlama l-muʾminīn",
+      "translation": "Ikkala toʻpning (Uhudda) toʻqnashgan kuni sizga yetgan musibat Allohning izni bilan boʻldi va (bu) moʻminlarni bilishi uchun edi.",
+      "tafsir": "Musibatlardagi Alloh irodasi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٧",
+      "numberLatin": "167",
+      "arabic": "وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَـٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَـٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ",
+      "transcription": "Wa li-yaʿlama lladhīna nāfaqū, wa qīla lahum taʿālaw qātilū fī sabīli llāhi awi dfaʿū, qālū law naʿlamu qitālan la-ttabaʿnākum, hum li-l-kufri yawmaʾidhin aqrabu minhum li-l-īmān, yaqūlūna bi-afwāhihim mā laysa fī qulūbihim, wa llāhu aʿlamu bimā yaktumūn",
+      "translation": "(Bu) munofiqlarni bilishi uchun edi. Ularga: \"Kelinglar, Alloh yoʻlida jang qiling yoki (dushmandan) himoya qiling\", deyilganda, ular: \"Agar jang boʻlishini bilganimizda, albatta sizga ergashgan boʻlardik\", dedilar. Ular oʻsha kuni imondan koʻra kufrga yaqin edilar. Ular ogʻizlari bilan qalblarida boʻlmagan narsalarni aytishadi. Alloh ular yashirgan narsalarni yaxshi biluvchidir.",
+      "tafsir": "Munofiqlarning ikkiyuzlamachiligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٨",
+      "numberLatin": "168",
+      "arabic": "ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ ۗ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْيِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+      "transcription": "Alladhīna qālū li-ikhwānihim wa qaʿadū law kānū ʿindanā mā mātū wa mā qutilū, li-yajʿala llāhu dhālika ḥasratan fī qulūbihim, wa llāhu yuḥyī wa yumīt, wa llāhu bimā taʿmalūn baṣīr",
+      "translation": "Ular oʻz birodarlariga (Uhudda halok boʻlganlarga) aytdilar va oʻzlari uyda qoldilar: \"Agar biz bilan boʻlganida, oʻlmas va oʻldirilmas edilar\". (Bu) Alloh ularning qalbiga hasrat solishi uchundir. Alloh tiriltiradi va oʻldiradi. Alloh qilayotgan ishlaringizni koʻruvchidir.",
+      "tafsir": "Munofiqlarning notoʻgʻri qarashlari.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٦٩",
+      "numberLatin": "169",
+      "arabic": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+      "transcription": "Wa lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātā, bal aḥyāʾun ʿinda rabbihim yurzaqūn",
+      "translation": "Alloh yoʻlida oʻldirilganlarni oʻlik deb oʻylama! Balki ular Robbilarining huzurida tirikdir va rizq beriladilar.",
+      "tafsir": "Shahidlarning haqiqiy holati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٧٠",
+      "numberLatin": "170",
+      "arabic": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "transcription": "Fariḥīna bimā ātāhumu llāhu min faḍlihī wa yastabshirūna bi-lladhīna lam yalḥaqū bihim min khalfihim allā khawfun ʿalayhim wa lā hum yaḥzanūn",
+      "translation": "Ular Alloh oʻz fazli bilan ato etgan narsalardan xursand boʻlishadi va oʻzlaridan keyin kelayotgan, hali ularga qoʻshilmagan birodarlari haqida xushxabar oladilar. Ularga hech qanday qoʻrquv va gʻam yoʻq.",
+      "tafsir": "Shahidlarning farah va xushxabarlari.",
+      "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧١",
+        "numberLatin": "171",
+        "arabic": "يَسْتَبْشِرُونَ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+        "transcription": "Yastabshirūna biniʿmatin mina llāhi wa faḍlin wa anna llāha lā yuḍīʿu ajra l-muʾminīn",
+        "translation": "Ular Allohning ne'mati va fazli bilan xushxabar oladilar. Albatta, Alloh mo'minlarning ajrini zoye qoʻymaydi.",
+        "tafsir": "Mo'minlarning mukofoti va Allohning va'dasi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٢",
+        "numberLatin": "172",
+        "arabic": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+        "transcription": "Alladhīna stajābū li-llāhi wa r-rasūli min baʿdi mā aṣābahumu l-qarḥ, li-lladhīna aḥsanū minhum wa ttaqaw ajrun ʿaẓīm",
+        "translation": "Jarohat yetkazilganidan keyin ham Alloh va Rasulning chaqirigʻiga javob berganlar - ularning ichida yaxshilik qilgan va taqvo qilganlar uchun ulkan mukofot bor.",
+        "tafsir": "Musibatdan keyingi itoat va mukofot.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٣",
+        "numberLatin": "173",
+        "arabic": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+        "transcription": "Alladhīna qāla lahumu n-nāsu inna n-nāsa qad jamʿū lakum fa-khshawhum fa-zādahum īmānan wa qālū ḥasbunā llāhu wa niʿma l-wakīl",
+        "translation": "Odamlar ularga: \"Odamlar sizga qarshi toʻplanishdi, shuning uchun ulardan qoʻrqing\", deganlarida, bu ularning imonini oshirdi va ular: \"Alloh bizga yetarli va U ne'matli Vakildir\", dedilar.",
+        "tafsir": "Tavakkal va Allohga ishonch.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٤",
+        "numberLatin": "174",
+        "arabic": "فَٱنقَلَبُوا۟ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ لَّمْ يَمْسَسْهُمْ سُوٓءٌۭ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+        "transcription": "Fanqalabū biniʿmatin mina llāhi wa faḍlin lam yamsas-hum sūʾun wa ttabaʿū riḍwāna llāhi, wa llāhu dhū faḍlin ʿaẓīm",
+        "translation": "Shunday qilib, ular Allohning ne'mati va fazli bilan qaytishdi, ularga hech qanday yomonlik tegmaydi. Ular Allohning rizosini izladilar. Alloh ulkan fazl egasidir.",
+        "tafsir": "Alloh ne'matlari va rizosi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٥",
+        "numberLatin": "175",
+        "arabic": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+        "transcription": "Innamā dhālikumu sh-shayṭānu yukhawwifu awliyāʾahū falā takhāfūhum wa khāfūn in kuntum muʾminīn",
+        "translation": "Bu faqat shaytonki, oʻz doʻstlarini qoʻrqitadi. Agar mo'min boʻlsangiz, ulardan qoʻrqmang, Mening qoʻrquvimga tushing.",
+        "tafsir": "Shaytonning qoʻrqitish taktikalari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٦",
+        "numberLatin": "176",
+        "arabic": "وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَـٰرِعُونَ فِى ٱلْكُفْرِ ۚ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا ۗ يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّۭا فِى ٱلْـَٔاخِرَةِ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+        "transcription": "Wa lā yaḥzunka lladhīna yusāriʿūna fī l-kufr, innahum lan yaḍurrū llāha shayʾā, yurīdu llāhu allā yajʿala lahum ḥaẓẓan fī l-ākhirati wa lahum ʿadhābun ʿaẓīm",
+        "translation": "Kufrga shoshganlar sizni qaygʻurtirmasin. Ular Allohga hech qanday zarar yetkaza olmaydilar. Alloh ular uchun oxiratda hech qanday nasiba qoʻymoqchi emas. Ularga ulkan azob bor.",
+        "tafsir": "Kofirlarning oqibati haqida tasalli.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٧",
+        "numberLatin": "177",
+        "arabic": "إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "transcription": "Inna lladhīna shtarawu l-kufra bi-l-īmāni lan yaḍurrū llāha shayʾā wa lahum ʿadhābun alīm",
+        "translation": "Imonni kufrga sotib olganlar Allohga hech qanday zarar yetkaza olmaydilar. Ularga alamli azob bor.",
+        "tafsir": "Imonni kufrga almashtirganlarning holati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٨",
+        "numberLatin": "178",
+        "arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌۭ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًۭا ۖ وَلَهُمْ عَذَابٌۭ مُّهِينٌ",
+        "transcription": "Wa lā yaḥsabanna lladhīna kafarū annamā numlī lahum khayrun li-anfusihim, innamā numlī lahum li-yazdādū ithman wa lahum ʿadhābun muhīn",
+        "translation": "Kofirlar ularga bergan muhlatimiz oʻzlari uchun yaxshilik deb oʻylamasinlar. Biz ularga faqat gunohlarini koʻpaytirishlari uchun muhlat beramiz. Ularga xorlovchi azob bor.",
+        "tafsir": "Kofirlarga berilgan muhlatning haqiqati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٧٩",
+        "numberLatin": "179",
+        "arabic": "مَا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَـٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+        "transcription": "Mā kāna llāhu li-yadhara l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina ṭ-ṭayyib, wa mā kāna llāhu li-yuṭliʿakum ʿalā l-ghaybi wa lākinna llāha yajtabī min rusulihī man yashāʾ, fa-āminū bi-llāhi wa rusulih, wa in tuʾminū wa tattaqū fa-lakum ajrun ʿaẓīm",
+        "translation": "Alloh mo'minlarni siz hozir turgan holatingizda qoldirmaydi, toki yomonni yaxshidan ajratmaguncha. Alloh sizga gʻaybni bildirmoqchi emas. Lekin Alloh oʻz elchilaridan xohlaganini tanlaydi. Shunday qilib, Allohga va Uning elchilariga ishoning. Agar ishonib, taqvo qilsangiz, siz uchun ulkan mukofot bor.",
+        "tafsir": "Imon sinovlari va gʻayb bilimi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٨٠",
+        "numberLatin": "180",
+        "arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًۭا لَّهُم ۖ بَلْ هُوَ شَرٌّۭ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+        "transcription": "Wa lā yaḥsabanna lladhīna yabkhalūna bimā ātāhumu llāhu min faḍlihī huwa khayran lahum, bal huwa shar-run lahum, sa-yuṭawwaqūna mā bakhilū bihī yawma l-qiyāmah, wa li-llāhi mīrāthu s-samāwāti wa l-arḍ, wa llāhu bimā taʿmalūn khabīr",
+        "translation": "Alloh oʻz fazli bilan ato etgan narsalarda xasislik qilganlar, bu oʻzlari uchun yaxshilik deb oʻylamasinlar. Balki bu ular uchun yomonlikdir. Qiyomat kuni ular xasislik qilgan narsalar bilan qoʻlqop kabi bogʻlanadilar. Osmonlar va yerdagi meros Allohga tegishlidir. Alloh qilayotgan ishlaringizdan xabardordir.",
+        "tafsir": "Xasislikning oqibati va Allohning mulki.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٨١",
+        "numberLatin": "181",
+        "arabic": "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+        "transcription": "La-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun wa naḥnu aghniyāʾ, sa-naktubu mā qālū wa qatlahumu l-anbiyāʾa bi-ghayri ḥaqqin wa naqūlu dhūqū ʿadhāba l-ḥarīq",
+        "translation": "Alloh: \"Alloh kambagʻal, biz esa boymiz\", deganlarning soʻzini eshitdi. Biz ularning aytgan soʻzlarini va paygʻambarlarni nohaq oʻldirishlarini yozamiz va: \"Yonuvchi azobni toting\", deymiz.",
+        "tafsir": "Alloh haqida notoʻgʻri aytganlarning jazolanishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٨٢",
+      "numberLatin": "182",
+      "arabic": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍۢ لِّلْعَبِيدِ",
+      "transcription": "Dhālika bimā qaddamat aydīkum wa anna llāha laysa biẓallāmin li-l-ʿabīd",
+      "translation": "Bu sizning qo'llaringiz bilan oldindan yuborgan amallaringiz sababidir. Albatta, Alloh bandalariga zulm qiluvchi emas.",
+      "tafsir": "Jazolar amallarning natijasidir. Alloh adolatli.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٣",
+      "numberLatin": "183",
+      "arabic": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَا أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍۢ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌۭ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+      "transcription": "Alladhīna qālū inna llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nār, qul qad jāʾakum rusulun min qablī bi-l-bayyināti wa bi-lladhī qultum fa-lim qataltumūhum in kuntum ṣādiqīn",
+      "translation": "Ular: \"Alloh bizga payg'ambar kelganida, olov yeb yuboradigan qurbonlik keltirmaguncha unga ishonmaslik haqida ahd berdi\", dedilar. Ayting: \"Mendan oldin ham sizga aniq dalillar va aytganingiz (qurbonlik) bilan elchilar kelgan. Agar rostgo'ylardan bo'lsangiz, nega ularni o'ldirdingiz?\"",
+      "tafsir": "Ahli kitobning noto'g'ri talablari va ularning payg'ambarlarni o'ldirishlari.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٤",
+      "numberLatin": "184",
+      "arabic": "فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌۭ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+      "transcription": "Fa-in kadhabūka fa-qad kudhiba rusulun min qablika jāʾū bi-l-bayyināti wa z-zuburi wa l-kitābi l-munīr",
+      "translation": "Agar seni yolg'onchi deb qo'ysalar, sendan oldin ham aniq dalillar, zaburlar va nurli kitob bilan kelgan elchilar yolg'onchi deb qo'yilgan edi.",
+      "tafsir": "Payg'ambarlarning umumiy taqdiri.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٥",
+      "numberLatin": "185",
+      "arabic": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ",
+      "transcription": "Kullu nafsin dhāʾiqatu l-mawt, wa innamā tuwaffawna ujūrakum yawma l-qiyāmah, fa-man zuḥziḥa ʿani n-nāri wa udkhila l-jannata fa-qad fāz, wa mā l-ḥayātu d-dunyā illā matāʿu l-ghurūr",
+      "translation": "Har bir jon o'limni tatadi. Qiyomat kuni sizga mukofotlaringiz to'liq beriladi. Kim do'zaxdan uzoqlashtirilib, jannatga kiritilsa, u najot topdi. Dunyo hayoti faqat aldovchi ne'matdir.",
+      "tafsir": "O'limning universal qonuni va oxirat muvaffaqiyati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٦",
+      "numberLatin": "186",
+      "arabic": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًۭى كَثِيرًۭا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "transcription": "La-tublawunna fī amwālikum wa anfusikum wa la-tasmaʿunna mina lladhīna ūtū l-kitāba min qablikum wa mina lladhīna ashrakū adhan kathīrā, wa in tasbirū wa tattaqū fa-inna dhālika min ʿazmi l-umūr",
+      "translation": "Sizlar mol-dunyongiz va joningiz bilan sinovdan o'tkazilasiz. Sizlar albatta, sizdan oldin kitob berilganlardan va musriklardan ko'p ranjituvchi so'zlar eshitasiz. Agar sabr qilsangiz va taqvo qilsangiz, bu azmli ishlardandir.",
+      "tafsir": "Mo'minlarning sinovi va sabrning ahamiyati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٧",
+      "numberLatin": "187",
+      "arabic": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+      "transcription": "Wa idh akhadha llāhu mīthāqa lladhīna ūtū l-kitāba la-tubayyinunnahu li-n-nāsi wa lā taktumūnah, fa-nabadhūhu warāʾa ẓuhūrihim wa shtaraw bihī thamanan qalīlā, fa-biʾsa mā yashtarūn",
+      "translation": "Alloh kitob berilganlardan: \"Siz uni odamlarga aniq bayon qilasiz va yashirmaysiz\", degan ahd olgandi. Lekin ular bu ahdni orqalariga tashlab, uni ozgina narxga sotishdi. Ular qanday yomon savdo qilishdi!",
+      "tafsir": "Ahli kitobning kitobni yashirishi va sotishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٨",
+      "numberLatin": "188",
+      "arabic": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوْا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍۢ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "transcription": "Lā taḥsabanna lladhīna yafraḥūna bimā ataw wa yuḥibbūna an yuḥmadū bimā lam yafʿalū falā taḥsabannahum bi-mafāzatin mina l-ʿadhāb, wa lahum ʿadhābun alīm",
+      "translation": "Qilgan ishlari bilan shodlanadigan va qilmagan ishlari uchun maqtalishni yoqtirganlarni azobdan xalos bo'lgan deb o'ylama! Ularga alamli azob bor.",
+      "tafsir": "Riyokorlikning qoralanishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٨٩",
+      "numberLatin": "189",
+      "arabic": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "transcription": "Wa li-llāhi mulku s-samāwāti wa l-arḍ, wa llāhu ʿalā kulli shayʾin qadīr",
+      "translation": "Osmonlar va yerning mulki Allohga tegishlidir. Alloh har bir narsaga qodirdir.",
+      "tafsir": "Allohning mutlaq hukmdorligi va qudrati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٩٠",
+      "numberLatin": "190",
+      "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+      "transcription": "Inna fī khalqi s-samāwāti wa l-arḍi wa khtilāfi l-layli wa n-nahāri la-āyātin li-ulī l-albāb",
+      "translation": "Albatta, osmonlar va yerning yaratilishida, kecha va kunduzning almashinishida aql egasi uchun oyatlar (ibratlar) bor.",
+      "tafsir": "Tabiatdagi Allohning oyatlarini tafakkur qilish.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٩١",
+      "numberLatin": "191",
+      "arabic": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًۭا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "transcription": "Alladhīna yadhkurūna llāha qiyāman wa quʿūdan wa ʿalā junūbihim wa yatafakkarūna fī khalqi s-samāwāti wa l-arḍ, rabbanā mā khalaqta hādhā bāṭilā subḥānaka fa-qinā ʿadhāba n-nār",
+      "translation": "Ular Allohni turgan, o'tirgan va yonboshlagan holda zikr qiladilar va osmonlar bilan yerni yaratilishini tafakkur qiladilar: \"Robbimiz! Sen buni behuda yaratmading. Sen poksan, bizni do'zax azobidan saqla\".",
+      "tafsir": "Aql egasi zikr va tafakkur qiladi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٩٢",
+      "numberLatin": "192",
+      "arabic": "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍۢ",
+      "transcription": "Rabbanā innaka man tudkhili n-nāra fa-qad akhzaytah, wa mā li-ẓ-ẓālimīna min anṣār",
+      "translation": "Robbimiz! Kimni do'zaxga kiritgan bo'lsang, uni xor qilding. Zolimlar uchun hech qanday yordamchilar yo'q.",
+      "tafsir": "Do'zaxga tushganlarning xorligi.",
+      "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٣",
+        "numberLatin": "193",
+        "arabic": "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ",
+        "transcription": "Rabbanā innanā samiʿnā munādiyan yunādī li-l-īmāni an āminū bi-rabbikum fa-āmannā, rabbanā fa-ghfir lanā dhunūbanā wa kaffir ʿannā sayyiʾātinā wa tawaffanā maʿa l-abrār",
+        "translation": "Robbimiz! Biz imonga chaqiruvchini eshitdik: \"Robbingizga ish qiling\", dedi, biz ham ishonadik. Robbimiz! Gunohlarimizni kechgin, yomonliklarimizni yuvgin va bizni solihlar bilan birga vafot ettirgin.",
+        "tafsir": "Mo'minlarning duo va istig'fori.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٤",
+        "numberLatin": "194",
+        "arabic": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ",
+        "transcription": "Rabbanā wa ātinā mā waʿattanā ʿalā rusulika wa lā tukhzinā yawma l-qiyāmah, innaka lā tukhlifu l-mīʿād",
+        "translation": "Robbimiz! Elchilaring orqali bizga va'da qilgan narsalarni ato qilgin va qiyomat kuni bizni xor qilma! Albatta, Sen va'dangga xilof qilmaysan.",
+        "tafsir": "Allohning va'dasiga ishonch.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٥",
+        "numberLatin": "195",
+        "arabic": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+        "transcription": "Fa-stajāba lahum rabbuhum annī lā uḍīʿu ʿamala ʿāmilin minkum min dhakarin aw unthā, baʿḍukum min baʿḍ, fa-lladhīna hājarū wa ukhrijū min diyārihim wa ūdhū fī sabīlī wa qātalū wa qutilū la-ukaffiranna ʿanhum sayyiʾātihim wa la-udkhilannahum jannātin tajrī min taḥtihā l-anhār, thawāban min ʿindi llāh, wa llāhu ʿindahu ḥusnu th-thawāb",
+        "translation": "Shunda Robbilar ularning duoiga javob berdi: \"Men sizlardan hech bir amal qiluvchining - erkak yoki ayolning amalini zoye qoʻymayman. Sizlar bir-biringizdansiz. Kimlar hijrat qilib, oʻz diyorlaridan chiqarilib, Mening yoʻlimda azob koʻrib, jang qilib, oʻldirilgan boʻlsa, albatta, Men ularning yomonliklarini kechiraman va ularni ostidan daryolar oqadigan jannatlarga kiritaman. Bu Alloh huzuridagi mukofotdir. Allohning huzuridagi mukofot yaxshiroqdir\".",
+        "tafsir": "Allohning ijobati va mo'minlar uchun va'dalari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٦",
+        "numberLatin": "196",
+        "arabic": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ",
+        "transcription": "Lā yaghurrannaka taqallubu lladhīna kafarū fī l-bilād",
+        "translation": "Kofirlarning mamlakatlarda aylanishi seni aldamasin.",
+        "tafsir": "Dunyoviy muvaffaqiyatni ko'rib aldanmaslik.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٧",
+        "numberLatin": "197",
+        "arabic": "مَتَـٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+        "transcription": "Matāʿun qalīlun thumma maʾwāhum jahannam, wa biʾsa l-mihād",
+        "translation": "Bu ozgina foydadir, keyin ularning qaytadigan joyi doʻzaxdir. U qanchalik yomon makondir!",
+        "tafsir": "Kofirlarning vaqtinchalik ne'matlari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٨",
+        "numberLatin": "198",
+        "arabic": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ لِّلْأَبْرَارِ",
+        "transcription": "Lākini lladhīna ttaqaw rabbahum lahum jannātun tajrī min taḥtihā l-anhār khālidīna fīhā nuzulan min ʿindi llāh, wa mā ʿinda llāhi khayrun li-l-abrār",
+        "translation": "Ammo Robbilaridan qoʻrqqanlar uchun ostidan daryolar oqadigan jannatlar bor. Ular u yerda Alloh huzuridagi mehmon sifatida abadiy qoladilar. Alloh yonidagi (mukofot) yaxshilik qiluvchilar uchun yaxshiroqdir.",
+        "tafsir": "Taqvolarning abadiy mukofoti.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "١٩٩",
+        "numberLatin": "199",
+        "arabic": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+        "transcription": "Wa inna min ahli l-kitābi la-man yuʾminu bi-llāhi wa mā unzila ilaykum wa mā unzila ilayhim khāshiʿīna li-llāhi lā yashtarūna bi-āyāti llāhi thamanan qalīlā, ulāʾika lahum ajruhum ʿinda rabbihim, inna llāha sarīʿu l-ḥisāb",
+        "translation": "Albatta, ahli kitobdan baʼzilari Allohga, sizga nozil qilingan (Qurʼonga) va ularga nozil qilingan (Tavrot/Injilga) Alloh oldida xushuʻ bilan ishonadilar. Ular Alloh oyatlari ozgina narxga sotmaydilar. Ularning mukofoti Robbilarining huzuridadir. Albatta, Alloh hisob-kitobni tez oluvchidir.",
+        "tafsir": "Ahli kitobdagi adolatli kishilar.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٢٠٠",
+        "numberLatin": "200",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+        "transcription": "Yā ayyuhā lladhīna āmanu ṣbirū wa ṣābirū wa rābiṭū wa ttaqū llāha laʿallakum tufliḥūn",
+        "translation": "Ey imonli kishilar! Sabr qiling, (dushmanga qarshi) mustahkam turing, (Alloh yoʻlida) bogʻlanib turing va Allohdan qoʻrqing, shunda najot topsangiz.",
+        "tafsir": "Imon, sabr va birlikga chaqiriq.",
+        "copySymbol": "📋"
       }
     ]
   },
@@ -2221,312 +5559,562 @@ const surahs = [
     ]
   },
   {
-    id: 5,
-    name: "Al-Maida",
-    arabicName: "المائدة",
-    meaning: "Dasturxon",
-    ayahCount: 120,
-    place: "Madina",
-    prelude: {
-      bismillah: {
-        arabic: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-        transcription: "Bismillahir-Rahmanir-Rahiim",
-        translation: "Mehribon va rahmli Alloh nomi bilan",
-        tafsir: "Barcha yaxshi ishlarni Alloh nomi bilan boshlash kerakligini o‘rgatadi.",
-        copySymbol: "📋"
-      }
-    },
-    ayahs: [
+    "id": 5,
+    "name": "Al-Ma'ida",
+    "arabicName": "المائدة",
+    "meaning": "Dasturxon 🍽️",
+    "ayahCount": 120,
+    "place": "Madina 🌟",
+    "ayahs": [
       {
-        numberArabic: "١",
-        numberLatin: "1",
-        arabic: "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ",
-        transcription: "Yaa ayyuha alladhiina aamanuu awfu bil-‘uquud",
-        translation: "Ey iymon keltirganlar, shartnomalaringizga rioya qiling",
-        tafsir: "Shartnomalarga sodiq bo‘lish muhimligi ta’kidlanadi.",
-        copySymbol: "📋"
+        "numberArabic": "١",
+        "numberLatin": "1",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+        "transcription": "yā ayyuhā lladhīna āmanū awfū bi-l-ʿuqūdi uḥillat lakum bahīmatu l-anʿāmi illā mā yutlā ʿalaykum ghayra muḥillī ṣ-ṣaydi wa antum ḥurumun inna llāha yaḥkumu mā yurīd",
+        "translation": "Ey iymon keltirguvchilar! Shartnomalarni bajarib bering. Sizga chorva hayvonlari halol qilindi - sizga o'qilib turilganlardan tashqari. Ihromda bo'lgan paytda ovni halol ko'rmang. Albatta Alloh xohlaganini hukm qiladi.",
+        "tafsir": "Shartnomalarni bajarish va halol haramni bilish haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٢",
-        numberLatin: "2",
-        arabic: "أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ",
-        transcription: "Uhilla lakum bahiimat ul-an‘aami illaa maa yutlaa ‘alaykum",
-        translation: "Sizlarga chorva hayvonlari halol qilindi, faqat sizga o‘qib berilganlar bundan mustasno",
-        tafsir: "Halol va harom oziq-ovqatlar haqida ko‘rsatma beriladi.",
-        copySymbol: "📋"
+        "numberArabic": "٢",
+        "numberLatin": "2",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَا ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًۭا مِّن رَّبِّهِمْ وَرِضْوَٰنًۭا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+        "transcription": "yā ayyuhā lladhīna āmanū lā tuḥillū shaʿā'ira llāhi wa lā sh-shahra l-ḥarāma wa lā l-hadya wa lā l-qalā'ida wa lā āmmīna l-bayta l-ḥarāma yabtaghūna faḍlan min rabbihim wa riḍwānan wa idhā ḥalaltum fa-ṣṭādū wa lā yajrimannakum shana'ānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū wa taʿāwanū ʿalā l-birri wa t-taqwā wa lā taʿāwanū ʿalā l-ithmi wa l-ʿudwāni wa ttaqū llāha inna llāha shadīdu l-ʿiqāb",
+        "translation": "Ey iymon keltirguvchilar! Allohning belgilarini, haram oyni, qurbonlik mollarni, bog'langan (nishonli) larni va Robbisidan fazl va rizo izlab haram uyga keluvchilarni halol ko'rmang. Ihromdan chiqqaningizda ov qiling. Sizni Masjidi Haromdan to'sgan qavmga bo'lgan g'azabingiz sizni haddan oshishga olib bormasin. Yaxshilik va taqvoda yordamlashing va gunoh va dushmanchılikda yordamlaşmang. Allohdan qo'rqing. Albatta Alloh qattiq jazolash beruvchidir.",
+        "tafsir": "Haram oy va haj ahkomları, adolat va hamkorlik haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٣",
-        numberLatin: "3",
-        arabic: "وَلَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ",
-        transcription: "Walaa tuharrimuu tayyibaati maa ahalla Allahu lakum",
-        translation: "Alloh sizlarga halol qilgan pok narsalarni harom qilmang",
-        tafsir: "Alloh ruxsat bergan narsalarni o‘z-o‘zidan taqiqlash man etiladi.",
-        copySymbol: "📋"
+        "numberArabic": "٣",
+        "numberLatin": "3",
+        "arabic": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+        "transcription": "ḥurrimat ʿalaykumu l-maytatu wa d-damu wa laḥmu l-khinzīri wa mā uhilla li-ghayri llāhi bihi wa l-munkhaniqatu wa l-mawqūdhatu wa l-mutaraddiyatu wa n-naṭīḥatu wa mā akala s-sabuʿu illā mā dhakkaytum wa mā dhubiḥa ʿalā n-nuṣubi wa an tastaqsimū bi-l-azlāmi dhālikum fisqun al-yawma ya'isa lladhīna kafarū min dīnikum fa-lā takhshawhum wa khshawnī al-yawma akmaltu lakum dīnakum wa atmamtu ʿalaykum niʿmatī wa raḍītu lakumu l-islāma dīnan fa-mani ḍṭurra fī makhmaṣatin ghayra mutajānifin li-ithmin fa-inna llāha ghafūrun raḥīm",
+        "translation": "Sizga o'lik, qon, cho'chqa go'shti, Allohdan boshqasining nomi bilan so'yilgan, bo'g'ilib o'lgan, urilib o'lgan, balanddan qulab o'lgan, shoxlashtirib o'lgan va yirtqich yegan - tiri chog'ida so'yilganlardan tashqari - va but ustida so'yilganlar haram qilindi. Taqsim o'qlari bilan fol ochish ham (haram). Bu fosiqlıkdir. Bugun kofirlar sizning diningizdan umidini uzdilar. Ulardan qo'rqmang, Mendan qo'rqing. Bugun Men sizning diningiznı kamol qildim, sizga ne'matimni to'ldirdim va sizga din sifatida Islomni rozi bo'ldim. Kim majburiyatda (haram narsani) gunohga moyil bo'lmasdan ochlikda (yesa), albatta Alloh mag'firachi va rahmli Zotdir.",
+        "tafsir": "Haram ovqatlar ro'yxati va dinning kamol topishi haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٤",
-        numberLatin: "4",
-        arabic: "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا",
-        transcription: "Wakuluu mimmaa razaqakumu Allahu halaalan tayyiban",
-        translation: "Alloh sizlarga rizq qilib bergan narsalardan halol va pok bo‘lganini yeng",
-        tafsir: "Halol rizqdan foydalanish buyuriladi.",
-        copySymbol: "📋"
+        "numberArabic": "٤",
+        "numberLatin": "4",
+        "arabic": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+        "transcription": "yas'alūnaka mādhā uḥilla lahum qul uḥilla lakumu ṭ-ṭayyibātu wa mā ʿallamtum mina l-jawāriḥi mukallibīna tuʿallimūnahunna mimmā ʿallamakumu llāhu fa-kulū mimmā amsakna ʿalaykum wa dhkurū sma llāhi ʿalayhi wa ttaqū llāha inna llāha sarīʿu l-ḥisāb",
+        "translation": "Ularga nima halol qilinganini so'raydilar. De: 'Sizga pokiza narsalar va o'rgatilgan yirtqichlardan - it kabi o'rgatib, ularga Alloh sizga o'rgatganından o'rgatgan narsalaringiz halol qilindi. Ular sizga tutib kelganlaridan yeng va uning ustida Allohning nomini ayting. Allohdan qo'rqing. Albatta Alloh tez hisob oluvchidir.'",
+        "tafsir": "Halol ovqatlar va o'rgatilgan hayvonlar bilan ov qilish haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٥",
-        numberLatin: "5",
-        arabic: "وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
-        transcription: "Wattaqu Allaha alladhii antum bihi mu’minuun",
-        translation: "Allohdan qo‘rqing, Unga iymon keltirgan bo‘lsangiz",
-        tafsir: "Iymonning talabi sifatida Allohdan qo‘rqish buyuriladi.",
-        copySymbol: "📋"
+        "numberArabic": "٥",
+        "numberLatin": "5",
+        "arabic": "ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حِلٌّۭ لَّكُمْ وَطَعَامُكُمْ حِلٌّۭ لَّهُمْ ۖ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍۢ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَـٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+        "transcription": "al-yawma uḥilla lakumu ṭ-ṭayyibātu wa ṭaʿāmu lladhīna ūtū l-kitāba ḥillun lakum wa ṭaʿāmukum ḥillun lahum wa l-muḥṣanātu mina l-mu'mināti wa l-muḥṣanātu mina lladhīna ūtū l-kitāba min qablikum idhā ātaytumūhunna ujūrahunna muḥṣinīna ghayra musāfiḥīna wa lā muttakhidhī akhdānin wa man yakfur bi-l-īmāni fa-qad ḥabiṭa ʿamalahu wa huwa fī l-ākhirati mina l-khāsirīn",
+        "translation": "Bugun sizga pokiza narsalar halol qilindi. Kitob berilganlarning taomi sizga halol va sizning taomingiz ularga halol. Mo'mina pokiza ayollar va sizdan oldin Kitob berilganlarning pokiza ayollari sizga (halol) - agar ularga mehrlarini berib, poklanuvchi bo'lib, buzuqlik qilmasdan va yashirin do'st tutmasdan (nikoh qilsangiz). Kim iymonni inkor qilsa, uning amali barbod bo'ladi va oxiratda ziyonkorlardan bo'ladi.",
+        "tafsir": "Ahl-kitob taomi va ayollari bilan nikoh haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٦",
-        numberLatin: "6",
-        arabic: "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ",
-        transcription: "Yaa ayyuha alladhiina aamanuu idhaa qumtum ila as-salaati fagsiluu wujuuhakum",
-        translation: "Ey iymon keltirganlar, namozga tursangiz yuzlaringizni yuvng",
-        tafsir: "Namoz oldidan tahorat qilishning muhimligi va qoidalari.",
-        copySymbol: "📋"
+        "numberArabic": "٦",
+        "numberLatin": "6",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+        "transcription": "yā ayyuhā lladhīna āmanū idhā qumtum ilā ṣ-ṣalāti fa-ghsilū wujūhakum wa aydiyakum ilā l-marāfiqi wa msaḥū bi-ru'ūsikum wa arjulakum ilā l-kaʿbayni wa in kuntum junuban fa-ṭṭahharū wa in kuntum marḍā aw ʿalā safarin aw jā'a aḥadun minkum mina l-ghā'iṭi aw lāmastumu n-nisā'a fa-lam tajidū mā'an fa-tayammamū ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum wa aydīkum minhu mā yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin wa lākin yurīdu li-yuṭahhirakum wa li-yutimma niʿmatahu ʿalaykum laʿallakum tashkurūn",
+        "translation": "Ey iymon keltirguvchilar! Namozga turganda yuzlaringizni, qo'llaringizni tirsakkacha yuving, boshlaringizni va oyoqlaringizni oshiqlarıgacha (mash qiling). Agar junub bo'lsangiz, poklanib oling. Agar kasal bo'lsangiz yoki safardasangiz yoki biringiz hojatxonadan kelsa yoki ayollar bilan yaqinlashsangiz va suv topmasa, pok tuproq bilan tayammum qiling: undan yuzingizga va qo'llaringizga surting. Alloh sizga qiyinchilik qilishni xohlamaydi, lekin sizni poklamoqchi va sizga ne'matini to'ldirmoqchi, shukr qilishingiz uchun.",
+        "tafsir": "Tahorat va tayammum qoidalarining batafsil bayoni.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٧",
-        numberLatin: "7",
-        arabic: "وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ",
-        transcription: "Wa aydiyakum ilal-maraafiqi wamsahuu biru’uusikum",
-        translation: "Va qo‘llaringizni tirsaklargacha va boshlaringizga masx torting",
-        tafsir: "Tahoratning davomi, qo‘l va boshga masx tortish haqida.",
-        copySymbol: "📋"
+        "numberArabic": "٧",
+        "numberLatin": "7",
+        "arabic": "وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَـٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+        "transcription": "wa dhkurū niʿmata llāhi ʿalaykum wa mīthāqahu lladhī wāthaqakum bihi idh qultum samiʿnā wa aṭaʿnā wa ttaqū llāha inna llāha ʿalīmun bi-dhāti ṣ-ṣudūr",
+        "translation": "Allohning sizga qilgan ne'matini va siz 'Eshitdik va itoat qildik' deganingizda sizdan olgan ahdini eslab turing. Allohdan qo'rqing. Albatta Alloh ko'kslardagi narsalarni biluvchidir.",
+        "tafsir": "Alloh ne'mati va ahdni eslab turishning ahamiyati.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٨",
-        numberLatin: "8",
-        arabic: "وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ إِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟",
-        transcription: "Wa arjulakum ilal-ka‘bayni, in kuntum junuban fattahharuu",
-        translation: "Va oyoqlaringizni to‘piqlargacha yuvng, agar junub bo‘lsangiz, to‘liq tahorat qiling",
-        tafsir: "Tahorat va g‘uslning qoidalari haqida ko‘rsatma.",
-        copySymbol: "📋"
+        "numberArabic": "٨",
+        "numberLatin": "8",
+        "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+        "transcription": "yā ayyuhā lladhīna āmanū kūnū qawwāmīna lillāhi shuhadā'a bi-l-qisṭi wa lā yajrimannakum shana'ānu qawmin ʿalā allā taʿdilū iʿdilū huwa aqrabu li-t-taqwā wa ttaqū llāha inna llāha khabīrun bimā taʿmalūn",
+        "translation": "Ey iymon keltirguvchilar! Alloh uchun adolat bilan guvohlik beruvchi turuvchilar bo'ling. Bir qavmga bo'lgan g'azabingiz sizni adolat qilmaslikka olib bormasin. Adolat qiling, bu taqvoga yaqinroqdir. Allohdan qo'rqing. Albatta Alloh qilayotgan ishlaringizdan xabardordir.",
+        "tafsir": "Adalat va guvohlikning ahamiyati, g'azab paytida ham adolatli bo'lish.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٩",
-        numberLatin: "9",
-        arabic: "وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ",
-        transcription: "Wa in kuntum mardaa aw ‘alaa safarin aw jaa’a ahadun minkum mina al-ghaa’iti",
-        translation: "Agar kasal bo‘lsangiz yoki safarda bo‘lsangiz yoki birortangiz hojatxonadan kelgan bo‘lsa",
-        tafsir: "Tahorat o‘rniga tayammum qilish shartlari haqida.",
-        copySymbol: "📋"
+        "numberArabic": "٩",
+        "numberLatin": "9",
+        "arabic": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌۭ",
+        "transcription": "waʿada llāhu lladhīna āmanū wa ʿamilū ṣ-ṣāliḥāti lahum maghfiratun wa ajrun ʿaẓīm",
+        "translation": "Alloh iymon keltirib solih amallar qilganlarga mag'firat va ulkan ajr va'da qildi.",
+        "tafsir": "Mo'minlar uchun Allohning ulkan va'dasi.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "١٠",
-        numberLatin: "10",
-        arabic: "أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا",
-        transcription: "Aw laamastumu an-nisaa’a falam tajiduu maa’an fatayammamuu sa‘iidan tayyiban",
-        translation: "Yoki ayollar bilan yaqin bo‘lib, suv topa olmagan bo‘lsangiz, pok tuproq bilan tayammum qiling",
-        tafsir: "Tayammumning qoidalari va holatlari haqida.",
-        copySymbol: "📋"
+        "numberArabic": "١٠",
+        "numberLatin": "10",
+        "arabic": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+        "transcription": "wa lladhīna kafarū wa kadhdhabū bi-āyātinā ulā'ika aṣḥābu l-jaḥīm",
+        "translation": "Kufr qilib oyatlarimizni yolg'onladigan kishilar esa do'zax ahlıdırlar.",
+        "tafsir": "Kofirlarning oqibati - abadiy do'zax azobı.",
+        "copySymbol": "📋"
       },
       {
-      },
-        {
-          numberArabic: "١١",
-          numberLatin: "11",
-          arabic: "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا ٱذْكُرُوا نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوآ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا ٱللَّهَ ۚ وَعَلَىٰ ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
-          transcription: "Yaa ayyuhaa alladhiina aamanuu udhkuruu ni‘mata allaahi ‘alaykum idh hamma qawmun an yabsutuu ilaykum aydiyahum fakaffa aydiyahum ‘ankum wattaquu allaaha wa ‘alaa allaahi falyatawakkali al-mu’minuuna",
-          translation: "Ey iymon keltirganlar! Allohning sizlarga bo‘lgan ne’matini eslang: bir qavm sizlarga qarshi qo‘l ko‘tarmoqchi bo‘lganida, Alloh ularning qo‘llarini sizlardan ushlab qoldi. Allohdan qo‘rqing va mo‘minlar faqat Allohga tavakkal qilsinlar",
-          tafsir: "Allohning mo‘minlarni himoya qilishi va tavakkal qilish haqida.",
-          copySymbol: "📋"
+          "numberArabic": "١١",
+          "numberLatin": "11",
+          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+          "transcription": "yā ayyuhā lladhīna āmanū dhkurū niʿmata llāhi ʿalaykum idh hamma qawmun an yabsuṭū ilaykum aydiyahum fa-kaffa aydiyahum ʿankum wa ttaqū llāha wa ʿalā llāhi fa-l-yatawakkali l-mu'minūn",
+          "translation": "Ey iymon keltirguvchilar! Bir qawm sizga qo'llarini uzatmoqchi bo'lganida Alloh ularning qo'llarini sizdan qaytarganini eslang. Allohdan qo'rqing. Mo'minlar Allohgagina tavakkul qilsinlar.",
+          "tafsir": "Allohning dushmanlardagi himoyasi va Unga tavakkul qilish.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٢",
-          numberLatin: "12",
-          arabic: "وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
-          transcription: "Walaqad akhadha allaahu miithaaqa banii israa’iila wa ba‘athnaa minhum ithnay ‘ashara naqiiban wa qaala allaahu innii ma‘akum la’in aqamtumu as-salaata wa aataytumu az-zakaata wa aaminuu birusulii wa ‘azzartumuuhum wa aqradtumu allaaha qardan hasanan la’ukaffiranna ‘ankum sayyi’aatiikum wa la’udkhilannakum jannaatin tajrii min tahtihaa al-anhaaru faman kafara ba‘da dhaalika minkum faqad dalla sawaa’a as-sabiili",
-          translation: "Alloh Bani Isroildan ahd oldi va ulardan o‘n ikki naqib (rahbar) tayinladi. Alloh dedi: 'Men sizlar bilanman. Agar namozni to‘kis ado qilsangiz, zakot bersangiz, rasullarimga iymon keltirsangiz, ularga yordam bersangiz va Allohga yaxshi qarz bersangiz, gunohlaringizni albatta kechiraman va sizlarni ostidan daryolar oqadigan jannatlarga kiritaman. Kim bundan keyin kofir bo‘lsa, to‘g‘ri yo‘ldan adashgan bo‘ladi'",
-          tafsir: "Bani Isroilning Alloh bilan ahdi va itoatning mukofotlari.",
-          copySymbol: "📋"
+          "numberArabic": "١٢",
+          "numberLatin": "12",
+          "arabic": "وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًۭا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًۭا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+          "transcription": "wa la-qad akhadha llāhu mīthāqa banī isrā'īla wa baʿathnā minhumu thnay ʿashara naqīban wa qāla llāhu innī maʿakum la-in aqamtumu ṣ-ṣalāta wa ātaytumu z-zakāta wa āmantum bi-rusulī wa ʿazzartumūhum wa aqraḍtumu llāha qarḍan ḥasanan la-ukaffiranna ʿankum sayyi'ātikum wa la-udkhilannakum jannātin tajrī min taḥtihā l-anhāru fa-man kafara baʿda dhālika minkum fa-qad ḍalla sawā'a s-sabīl",
+          "translation": "Alloh Bani Isroildan ahd oldi va ulardan o'n ikki naqib yubordi. Alloh: 'Men sizlar bilanman. Agar namozni qoim qilsangiz, zakatni bersangiz, rasullarimga iymon keltirsangiz, ularga yordam bersangiz va Allohga yaxshi qarz bersangiz, albatta yomon ishlaringizni sizdan kechiraman va sizni ostidan daryolar oqib turgan jannatlarni kiritaman. Sizlardan bundan keyin kim kufr qilsa, to'g'ri yo'ldan adashgan bo'ladi.'",
+          "tafsir": "Bani Isroil bilan qilingan ahd va uning shartlari.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٣",
-          numberLatin: "13",
-          arabic: "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا حَظًّۭا مِّمَّا ذُكِّرُوا بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
-          transcription: "Fabimaa naqdihim miithaaqahum la‘annaahum wa ja‘alnaa quluubahum qaasiyatan yuharrifuuna al-kalima ‘an mawaadi‘ihi wanasuu hazzan mimmaa dhukkiruu bihi walaa tazaalu tattali‘u ‘alaa khaa’inatin minhum illaa qaliilan minhum fa‘fu ‘anhum wasfah inna allaaha yuhibbu al-muhsiniina",
-          translation: "Ularning ahdni buzganliklari sababli Biz ularni la’natladik va qalblarini qattiq qildik. Ular so‘zlarni o‘z o‘rnidan burib yuboradilar va o‘zlariga eslatilgan narsadan bir ulushni unutdilar. Ularning ozgina qismidan tashqari, doimo xiyonatlarini ko‘rasan. Ularni kechir va e’tibor berma. Albatta, Alloh yaxshilik qiluvchilarni yaxshi ko‘radi",
-          tafsir: "Bani Isroilning ahdni buzishi va Allohning ularni jazolashi.",
-          copySymbol: "📋"
+          "numberArabic": "١٣",
+          "numberLatin": "13",
+          "arabic": "فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ لَعَنَّـٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَـٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+          "transcription": "fa-bi-mā naqḍihim mīthāqahum laʿannāhum wa jaʿalnā qulūbahum qāsiyatan yuḥarrifūna l-kalima ʿan mawāḍiʿihi wa nasū ḥaẓẓan mimmā dhukkirū bihi wa lā tazālu taṭṭaliʿu ʿalā khā'inatin minhum illā qalīlan minhum fa-ʿfu ʿanhum wa ṣfaḥ inna llāha yuḥibbu l-muḥsinīn",
+          "translation": "Ahdlarini buzganliklari sababli ularni la'natladik va qalblarini qattiqqo'l qildik. Ular so'zlarni o'z joylaridan burmalashtiradilar va ularga eslatilgan narsaning bir qismini unutdilar. Ulardan ozginasidan boshqa doimo xiyonatkorligini ko'rib turasan. Ularni kechir va e'tiborsiz qoldır. Albatta Alloh yaxshilik qiluvchilarni sevadi.",
+          "tafsir": "Bani Isroilning ahd buzishi va uning oqibatlari.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٤",
-          numberLatin: "14",
-          arabic: "وَمِنَ ٱلَّذِينَ قَالُوٓا إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا حَظًّۭا مِّمَّا ذُكِّرُوا بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا يَصْنَعُونَ",
-          transcription: "Wamina alladhiina qaaluu innaa nasaaraa akhadhnaa miithaaqahum fanasuu hazzan mimmaa dhukkiruu bihi fa’aghraynaa baynahumu al-‘adaawata wal-baghdaa’a ilaa yawmi al-qiyaamati wa sawfa yunabbi’uhumu allaahu bimaa kaanuu yasna‘uuna",
-          translation: "Biz 'Biz nasroniymiz', deganlardan ahd oldik, lekin ular o‘zlariga eslatilgan narsadan bir ulushni unutdilar. Shuning uchun Biz ular orasiga qiyomatgacha dushmanlik va nafrat solib qo‘ydik. Alloh ularni qilgan amallaridan xabardor qiladi",
-          tafsir: "Nasroniylarning ahdni buzishi va oqibatlari.",
-          copySymbol: "📋"
+          "numberArabic": "١٤",
+          "numberLatin": "14",
+          "arabic": "وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰٓ أَخَذْنَا مِيثَـٰقَهُمْ فَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ",
+          "transcription": "wa mina lladhīna qālū innā naṣārā akhadhnā mīthāqahum fa-nasū ḥaẓẓan mimmā dhukkirū bihi fa-aghraynā baynahumu l-ʿadāwata wa l-baghḍā'a ilā yawmi l-qiyāmati wa sawfa yunabbi'uhumu llāhu bimā kānū yaṣnaʿūn",
+          "translation": "'Biz nasroniylar' deyuvchilardan ham ahd oldik, ular ham ularga eslatilgan narsaning bir qismini unutdilar. Shuning uchun ularning orasiga qiyomat kunigacha dushmanchlik va adovat saldık. Alloh ularni qilayotgan ishlaridan xabardor qiladi.",
+          "tafsir": "Nasroniylarning ahd buzishi va ular orasidagi nizolar.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٥",
-          numberLatin: "15",
-          arabic: "يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًۭا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُو عَن كَثِيرٍۢ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَٰبٌۭ مُّبِينٌۭ",
-          transcription: "Yaa ahla al-kitaabi qad jaa’akum rasuulunaa yubayyinu lakum kathiiran mimmaa kuntum tukhfuuna mina al-kitaabi wa ya‘fuu ‘an kathiirin qad jaa’akum mina allaahi nuurun wa kitaabun mubiinun",
-          translation: "Ey kitob ahli! Rasulimiz sizlarga kitobdan yashirgan ko‘p narsalarni bayon qiladi va ko‘pdan kechadi. Sizlarga Allohdan nur va aniq kitob keldi",
-          tafsir: "Payg‘ambar Muhammadning haq ekanligi va Qur‘onning nur ekanligi.",
-          copySymbol: "📋"
+          "numberArabic": "١٥",
+          "numberLatin": "15",
+          "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًۭا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَـٰبِ وَيَعْفُو عَن كَثِيرٍۢ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَـٰبٌۭ مُّبِينٌۭ",
+          "transcription": "yā ahla l-kitābi qad jā'akum rasūlunā yubayyinu lakum kathīran mimmā kuntum tukhfūna mina l-kitābi wa yaʿfū ʿan kathīrin qad jā'akum mina llāhi nūrun wa kitābun mubīn",
+          "translation": "Ey Ahl-kitob! Sizga Rasulimiz keldi, sizning Kitobdan yashirayotgan ko'p narsalaringizni bayon qiladi va ko'p narsalarni kechiradi. Sizga Allohdan nur va ochiq-oydin kitob keldi.",
+          "tafsir": "Payg'ambarning Ahl-kitobga kelishi va Qur'onning nuri.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٦",
-          numberLatin: "16",
-          arabic: "يَهْدِى بِهِ ٱللَّٰلُلَّذِينَ ٱلصَبَّعَوْا لِرِضْوَٰنِهِۦ سُبُلَ ٱلسلَّمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَىٰلنُّورِ بِإِذْنِهِ ۙ وَيَهْدِيهِمْ إِلَىٰٰرَاطٍ مُّسْتَقِيمٍ",
-          transcription: "Yahdii bihi allaahu alladhiina is-taba‘uu al-ridwaanihi subula as-salaami wa yukhrijuhum mina az-zulumaati ilaa an-nuuri bi’idhnihi wa yahdeehim ilaa siraatin mustaqiim",
-          translation: "Alloh u (kitob) bilan rozi bo‘lishini istaganlarni tinchlik yo‘llariga hidoyat qiladi, ularni O‘z izni bilan zulmatlardan nurga chiqaradi va to‘g‘ri yo‘lga yo‘naltiradi",
-          tafsir: "Qur‘onning hidoyat yo‘li va nur sifatida tasviri.",
-          copySymbol: "📋"
+          "numberArabic": "١٦",
+          "numberLatin": "16",
+          "arabic": "يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَـٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+          "transcription": "yahdī bihi llāhu mani ttabaʿa riḍwānahu subula s-salāmi wa yukhrijuhum mina ẓ-ẓulumāti ilā n-nūri bi-idhnihi wa yahdīhim ilā ṣirāṭin mustaqīm",
+          "translation": "Alloh u bilan O'z rizoligiga ergashganlarni salomatlik yo'llariga hidoyat qiladi va ularni O'z izni bilan zulmatlardan nurga chiqaradi hamda to'g'ri yo'lga hidoyat qiladi.",
+          "tafsir": "Qur'onning hidoyat beruvchi xususiyati.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٧",
-          numberLatin: "17",
-          arabic: "لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًا إِنْ أَرَادَ أَن يُهْلْكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأَمُمْهُ وَمَن فِى ٱلْأَرْضِ جَمِيعًا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌٍ",
-          transcription: "Laqad kafara alladhiina qaaluu inna allaaha huwa al-masiihu ibnu maryama qul faaman yamliku mina allaahi shayan in araada an yuhlika al-masiiha ibna maryama wa ummahu wa man fii al-ardi jamii’an wa lillaahi mulku as-samawaati wal-ardi wa maa baynahumaa yakhluqu maa yashaa’u wa allaahu ‘alaa kulli shay’in qadiirun",
-          translation: "Alloh Masih ibn Maryamdir, deganlar kofir bo‘ldilar. Ayting: 'Agar Alloh Masih ibn Maryamni, uning onasini va yer yuzidagilarning hammasini yo‘q qilmoqchi bo‘lsa, kim Uni‘ga to‘s‘qil qila oladi?' Osmonlar, yer va ular orasidagi hamma narsa Allohnikidir. U xohlaganini yaratadi. Alloh har narsaga qodirdir",
-          tafsir: "Masihning iloh emas, balki Allohning bandasi ekanligi va Allohning qudrati.",
-          copySymbol: "📋"
+          "numberArabic": "١٧",
+          "numberLatin": "17",
+          "arabic": "لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًۭٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+          "transcription": "la-qad kafara lladhīna qālū inna llāha huwa l-masīḥu bnu maryama qul fa-man yamliku mina llāhi shay'an in arāda an yuhlika l-masīḥa bna maryama wa ummahu wa man fī l-arḍi jamīʿan wa lillāhi mulku s-samāwāti wa l-arḍi wa mā baynahumā yakhluqu mā yashā'u wa llāhu ʿalā kulli shay'in qadīr",
+          "translation": "'Alloh Masih ibn Maryamdir' deyuvchilar kufr qildilar. De: 'Agar Alloh Masih ibn Maryamni, onasini va yerdagi barcha narsalarni halok qilmoqchi bo'lsa, kimning Allohdan (uni to'sishga) qudrati bor?' Osmonlar, yer va ular orasidagilarning mulki Allohniki. U xohlaganini yaratadi. Alloh har narsaga qodirdir.",
+          "tafsir": "Iso Alayhissalomni Alloh deb e'tiqod qilishning kufr ekanligi.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٨",
-          numberLatin: "18",
-          arabic: "وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَٰى نَحْنُ أَبْنَٰٓءُ ٱ�للَّهِ وَأَحِبَّٰٓبُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
-          transcription: "Waqalati al-yahuudu wan-nasaaraa nahnu abnaa’u allaahi wa ahibbaa’uhu qul falima yu‘adhdhibukum bidhunuubikum bal antum basharun mimman khalaqa yaghfiru liman yashaa’u wa yu‘adhdhibu man yashaa’u wa lillaahi mulku as-samawaati wal-ardi wa maa baynahumaa wa ilayhi al-masiiru",
-          translation: "Yahudiylar va nasroniylar: 'Biz Allohning farzandlari va sevimlilarimiz', dedilar. Ayting: 'Unday bo‘lsa, nega U sizlarni gunohlaringiz uchun jazolaydi? Yo‘q, sizlar U yaratgan odamlardansiz'. U xohlaganiga mag‘firat qiladi va xohlaganini jazolaydi. Osmonlar, yer va ular orasidagi hamma narsa Allohnikidir va qaytish Unaga bo‘ladi",
-          tafsir: "Yahudiy va nasroniylarning noto‘g‘ri da’volari rad etiladi.",
-          copySymbol: "📋"
+          "numberArabic": "١٨",
+          "numberLatin": "18",
+          "arabic": "وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَـٰرَىٰ نَحْنُ أَبْنَـٰٓؤُا۟ ٱللَّهِ وَأَحِبَّـٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌۭ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+          "transcription": "wa qālati l-yahūdu wa n-naṣārā naḥnu abnā'u llāhi wa aḥibbā'uhu qul fa-lima yuʿadhdhubukum bi-dhunūbikum bal antum basharun mimman khalaqa yaghfiru li-man yashā'u wa yuʿadhdhbu man yashā'u wa lillāhi mulku s-samāwāti wa l-arḍi wa mā baynahumā wa ilayhi l-maṣīr",
+          "translation": "Yahudiylar va nasroniylar: 'Biz Allohning o'g'illari va sevimlilarimiz' dedilar. De: 'Unda nega sizni gunohlaringiz uchun azoblaydi? Yo'q, siz U yaratganlardan boshqa emas. U xohlaganini kechiradi va xohlaganini azoblaydi. Osmonlar, yer va ular orasidagilarning mulki Allohniki. Qaytish Ungadir.'",
+          "tafsir": "Yahudiy va nasroniylarning o'zlarini Allohning sevimli farzandlari deb hisoblash xatosi.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "١٩",
-          numberLatin: "19",
-          arabic: "يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ قَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌ ۗ ۚ وَٱللَّهُ عَلَىٰكُلِّ شَىْءٍۢ قَدِيرٌٌ",
-          transcription: "Yaa ahla al-kitaabi qad jaa’akum rasoolunaa yubayyinu lakum ‘alaa fatratin mina ar-rusuli an taquuluu maa jaa’anaa min bashiirin raa wala naniirhin qad jaa’akum bashiirun wa nahiirun wa allaahu ‘alaa kulli shay’in qadiiirun",
-          translation: "Ey kitob ahli! Rasullar orasida foyda bo‘lganidan so‘ng, 'Bizga xushxabar yoki ogohlantiruvchi kelmadi', demasliklizingiz uchun ‘ ‘ Rasulimiz sizlarga keldi. Sizlarga xushxabar beruvchi va ogohlantiruvchi keldi. Alloh har narsaga qodirdir",
-          tafsir: "Payg‘ambar Muhammadning haq ekanligi va uning vazifasi.",
-          copySymbol: "📋"
+          "numberArabic": "١٩",
+          "numberLatin": "19",
+          "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+          "transcription": "yā ahla l-kitābi qad jā'akum rasūlunā yubayyinu lakum ʿalā fatratin mina r-rusuli an taqūlū mā jā'anā min bashīrin wa lā nadhīrin fa-qad jā'akum bashīrun wa nadhīrun wa llāhu ʿalā kulli shay'in qadīr",
+          "translation": "Ey Ahl-kitob! Payg'ambarlar kelmaganlik davri o'tgach, 'Bizga hech bashirotchi va ogohlik beruvchi kelmadi' demaslıgıngız uchun sizga Rasulimiz kelib bayonot bermoqda. Endi sizga bashirotchi va ogohlik beruvchi keldi. Alloh har narsaga qodirdir.",
+          "tafsir": "Payg'ambarlar silsilasining davom etishi va hujjat tamom bo'lishi.",
+          "copySymbol": "📋"
         },
         {
-          numberArabic: "٢٠",
-          numberLatin: "20",
-          arabic: "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَٰلَمِينَ",
-          transcription: "Wa idh qaala muusaa liqawmihi yaa qawmi idhkuruu ni‘mata allaahi ‘alaykum idh ja‘ala fiikum anbiyaa’a wa ja‘alakum muluukan wa aataakum maa lam yu’ti ahadan mina al-‘aalamiina",
-          translation: "Muso o‘z qavmiga dedi: 'Ey qavmim! Allohning sizlarga bergan ne’matini eslang: U sizlar orasida payg‘ambarlar qildi, sizlarni shohlar qildi va’ sizlarga olamlardan hech kimga berilmagan narsalarni berdi.",
-          tafsir: "Muso payg‘ambarning qavmiga Allohning ne’matlarini eslatishi.",
-          copySymbol: "📋"
+          "numberArabic": "٢٠",
+          "numberLatin": "20",
+          "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًۭا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًۭا مِّنَ ٱلْعَـٰلَمِينَ",
+          "transcription": "wa idh qāla mūsā li-qawmihi yā qawmi dhkurū niʿmata llāhi ʿalaykum idh jaʿala fīkum anbiyā'a wa jaʿalakum mulūkan wa ātākum mā lam yu'ti aḥadan mina l-ʿālamīn",
+          "translation": "Muso qavmiga: 'Ey qavmim! Allohning sizga qilgan ne'matini eslang. U orangizdda payg'ambarlar qildi, sizni podshohlar qildi va sizga olamlardan hech kimga bermagan narsani berdi' deganini (esla).",
+          "tafsir": "Muso Alayhissalomning qavmiga Alloh ne'matlarini eslatishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢١",
+          "numberLatin": "21",
+          "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+          "transcription": "yā qawmi dkhulū l-arḍa l-muqaddasata llatī kataba llāhu lakum wa lā tartaddū ʿalā adbārikum fa-tanqalibū khāsirīn",
+          "translation": "Ey qavmim! Alloh sizga yozgan muqaddas yerga kiring va orqangizga qaytmang, aks holda ziyonkor bo'lib qaytasiz.",
+          "tafsir": "Muqaddas yerga kirishga da'vat va orqaga qaytmaslik tavsiyasi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٢",
+          "numberLatin": "22",
+          "arabic": "قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًۭا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ",
+          "transcription": "qālū yā mūsā inna fīhā qawman jabbārīna wa innā lan nadkhulahā ḥattā yakhrujū minhā fa-in yakhrujū minhā fa-innā dākhilūn",
+          "translation": "Dedılar: 'Ey Muso! Unda jabbor qawm bor. Biz u yerga ular chiqıb ketgunicha kirmaymiz. Agar ular chiqib ketsalar, biz kiramiz.'",
+          "tafsir": "Bani Isroilning qo'rqoqlık bılan bahona qılıshı.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٣",
+          "numberLatin": "23",
+          "arabic": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+          "transcription": "qāla rajulāni mina lladhīna yakhāfūna anʿama llāhu ʿalayhimā dkhulū ʿalayhimu l-bāba fa-idhā dakhaltumūhu fa-innakum ghālibūna wa ʿalā llāhi fa-tawakkalū in kuntum mu'minīn",
+          "translation": "Alloh ne'mat bergan qo'rquvchilardan ikki kishi: 'Ularning ustından darvozaga kiring. Agar kirsangiz, g'olib bo'lasiz. Agar mo'min bo'lsangiz, Allohga tavakkul qiling' dedilar.",
+          "tafsir": "Jasur mo'minlarning to'g'ri maslahat berishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٤",
+          "numberLatin": "24",
+          "arabic": "قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًۭا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَـٰتِلَآ إِنَّا هَـٰهُنَا قَـٰعِدُونَ",
+          "transcription": "qālū yā mūsā innā lan nadkhulahā abadan mā dāmū fīhā fa-dhab anta wa rabbuka fa-qātilā innā hāhunā qāʿidūn",
+          "translation": "Dedilar: 'Ey Muso! Ular u yerda ekan, biz hech qachon kirmaymiz. Sen va Robbing borib jang qiling, biz mana shu yerda o'tiramiz.'",
+          "tafsir": "Bani Isroilning Muso Alayhissalomga nisbatan hatta qolik qilishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٥",
+          "numberLatin": "25",
+          "arabic": "قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+          "transcription": "qāla rabbi innī lā amliku illā nafsī wa akhī fa-fruq baynanā wa bayna l-qawmi l-fāsiqīn",
+          "translation": "(Muso) dedi: 'Robbim! Men faqat o'zim va akamdan boshqasiga qodir emasman. Bizni fosiq qawm bilan ajrat.'",
+          "tafsir": "Muso Alayhissalomning Allohga shikoyati va ajratish so'rashi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٦",
+          "numberLatin": "26",
+          "arabic": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةًۭ ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+          "transcription": "qāla fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī l-arḍi fa-lā ta'sa ʿalā l-qawmi l-fāsiqīn",
+          "translation": "(Alloh) dedi: 'U yer ularga qırq yıl haram qılındı. Ular yerde adashıb yurishadi. Fosiq qawm uchun qayg'urma.'",
+          "tafsir": "Bani Isroilga qırq yıl sahroda adashısh jazosi berilishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٧",
+          "numberLatin": "27",
+          "arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+          "transcription": "wa tlu ʿalayhim naba'a bnay ādama bi-l-ḥaqqi idh qarrabā qurbānan fa-tuqubbila min aḥadihimā wa lam yutaqabbal mina l-ākheri qāla la-aqtulannaka qāla innamā yataqabbalu llāhu mina l-muttaqīn",
+          "translation": "Ularga Odam o'g'illarining haqiqiy xabarini o'qi. Ular qurbonlik qilganlarida, birining (qurbonligi) qabul qilindi, ikkinchisiniki qabul qilinmadi. (Qabul qilinmagani): 'Albatta seni o'ldiraman' dedi. (Biri): 'Alloh faqat taqvodorlardan qabul qiladi' dedi.",
+          "tafsir": "Qobil va Hobilning hikoyasi - birinchi qotillik.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٨",
+          "numberLatin": "28",
+          "arabic": "لَئِن بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+          "transcription": "la-in basaṭta ilayya yadaka li-taqtulanī mā anā bi-bāsiṭin yadiya ilayka li-aqtulaka innī akhāfu llāha rabba l-ʿālamīn",
+          "translation": "Agar meni o'ldirish uchun qo'lingni menga uzatsang ham, men seni o'ldirish uchun qo'limni senga uzatmayman. Men olamlar Rabbi Allohdan qo'rqaman.",
+          "tafsir": "Hobilning poklik va taqvodorlik namunasi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٢٩",
+          "numberLatin": "29",
+          "arabic": "إِنِّىٓ أُرِيدُ أَن تَبُوٓءَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَـٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+          "transcription": "innī urīdu an tabū'a bi-ithmī wa ithmika fa-takūna min aṣḥābi n-nāri wa dhālika jazā'u ẓ-ẓālimīn",
+          "translation": "Men senning mening gunohim va o'z gunohingni yüklənib, do'zax ahlından bo'lishingni istəyman. Bu zalimlarning jazosıdır.",
+          "tafsir": "Hobilning akasını qotillikdan to'xtatish urinishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٠",
+          "numberLatin": "30",
+          "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+          "transcription": "fa-ṭawwaʿat lahu nafsuhu qatla akhīhi fa-qatalahu fa-aṣbaḥa mina l-khāsirīn",
+          "translation": "Nəfsi ona akasını o'ldirishni yengillashtirdi va uni o'ldirdi. Shunday qilib ziyonkorlardan bo'ldi.",
+          "tafsir": "Qobilning akasını o'ldirishi va ziyonkor bo'lishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣١",
+          "numberLatin": "31",
+          "arabic": "فَبَعَثَ ٱللَّهُ غُرَابًۭا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَـٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَـٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّـٰدِمِينَ",
+          "transcription": "fa-baʿatha llāhu ghurāban yabḥathu fī l-arḍi li-yuriyahu kayfa yuwārī saw'ata akhīhi qāla yā waylatā a-ʿajaztu an akūna mithla hādhā l-ghurābi fa-uwāriya saw'ata akhī fa-aṣbaḥa mina n-nādimīn",
+          "translation": "Alloh unga akasining avratini qanday yashirishni ko'rsatish uchun yerdə qazib yurgan qarg'a yubordi. (Qobil): 'Voy holimga! Men bu qarg'a kabi bo'lib, akamning avratini yashira olmasmidim?' dedi va pushaymon bo'luvchilardan bo'ldi.",
+          "tafsir": "Qobilga dafn qilishni o'rgatuvchi qarg'a va uning pushaymonligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٢",
+          "numberLatin": "32",
+          "arabic": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍۢ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًۭا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًۭا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًۭا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+          "transcription": "min ajli dhālika katabnā ʿalā banī isrā'īla annahu man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala n-nāsa jamīʿan wa man aḥyāhā fa-ka-annamā aḥyā n-nāsa jamīʿan wa la-qad jā'athum rusulunā bi-l-bayyināti thumma inna kathīran minhum baʿda dhālika fī l-arḍi la-musrifūn",
+          "translation": "Shu sababdan Bani Isroilga yozdık: Kim biror jonni - boshqa jon yoki yerdagi fasodga qarshi bo'lmasdan - o'ldirsa, go'yo barcha odamlarni o'ldirgandek. Kim uni tirik qoldirsa, go'yo barcha odamlarni tirik qoldırgandek. Ularga rasullarimiz ochiq-oydin dalillar bilan keldi. So'ng ularning ko'pi yerda isrofgardir.",
+          "tafsir": "Bir insonni o'ldirish butun insoniyatni o'ldirish kabi ekanligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٣",
+          "numberLatin": "33",
+          "arabic": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌۭ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+          "transcription": "innamā jazā'u lladhīna yuḥāribūna llāha wa rasūlahu wa yasʿawna fī l-arḍi fasādan an yuqattalū aw yuṣallabū aw tuqaṭṭaʿa aydīhim wa arjuluhum min khilāfin aw yunfaw mina l-arḍi dhālika lahum khizyun fī d-dunyā wa lahum fī l-ākhirati ʿadhābun ʿaẓīm",
+          "translation": "Alloh va Rasulına qarshi urushıb, yerdə fasod qılish uchun harakat qıluvchilarning jazosi faqat shuki: o'ldirilsinlar yoki osılsinlar yoki qo'l va oyoqları navbat bilan kesilsin yoki yerdan surgun qılınsınlar. Bu ularning dunyodagi sharmandaligidir. Oxiratda ularga azim azob bor.",
+          "tafsir": "Hirobachılar va fasodchilar uchun qattiq jazolar.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٤",
+          "numberLatin": "34",
+          "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+          "transcription": "illā lladhīna tābū min qabli an taqdirū ʿalayhim fa-ʿlamū anna llāha ghafūrun raḥīm",
+          "translation": "Magar sizning qo'lingizga tushishdan oldin tavba qılganlar bundan mustasno. Bilingki, Alloh mag'firachi va rahmli Zotdir.",
+          "tafsir": "Tavbaning jazoni bekor qılish kuchi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٥",
+          "numberLatin": "35",
+          "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَٱبْتَغُوا۟ إِلَيْهِ ٱلْوَسِيلَةَ وَجَـٰهِدُوا۟ فِى سَبِيلِهِۦ لَعَلَّكُمْ تُفْلِحُونَ",
+          "transcription": "yā ayyuhā lladhīna āmanū ttaqū llāha wa btaghū ilayhi l-wasīlata wa jāhidū fī sabīlihi laʿallakum tufliḥūn",
+          "translation": "Ey iymon keltirguvchilar! Allohdan qo'rqing, Unga yaqınlaşish vositasını izlang va Uning yo'lida jihod qiling, muvaffaq bo'lishingiz uchun.",
+          "tafsir": "Taqvo, vasila izlash va jihod qılishning ahamiyati.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٦",
+          "numberLatin": "36",
+          "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًۭا وَمِثْلَهُۥ مَعَهُۥ لِيَفْتَدُوا۟ بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَـٰمَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+          "transcription": "inna lladhīna kafarū law anna lahum mā fī l-arḍi jamīʿan wa mithlahu maʿahu li-yaftadū bihi min ʿadhābi yawmi l-qiyāmati mā tuqubbila minhum wa lahum ʿadhābun alīm",
+          "translation": "Kofır bo'lganlarga yerdagi barcha narsa va uning misli ham bo'lsa, qıyomat kuni azobidan qutulish uchun fidya berishsa, ulardan qabul qılınmaydi. Ularga alamli azob bor.",
+          "tafsir": "Kofirlarning qıyomat kunida fidya berishlarının befoydaligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٧",
+          "numberLatin": "37",
+          "arabic": "يُرِيدُونَ أَن يَخْرُجُوا۟ مِنَ ٱلنَّارِ وَمَا هُم بِخَـٰرِجِينَ مِنْهَا ۖ وَلَهُمْ عَذَابٌۭ مُّقِيمٌۭ",
+          "transcription": "yurīdūna an yakhrujū mina n-nāri wa mā hum bi-khārijīna minhā wa lahum ʿadhābun muqīm",
+          "translation": "Ular do'zaxdan chiqmoqchi bo'lishadi, lekin undan chıqa olmaydılar. Ularga doimiy azob bor.",
+          "tafsir": "Do'zax azobining abadiy va chiqısh yo'li yo'qligı.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٨",
+          "numberLatin": "38",
+          "arabic": "وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَـٰلًۭا مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌۭ",
+          "transcription": "wa s-sāriqu wa s-sāriqatu fa-qṭaʿū aydiyahumā jazā'an bimā kasabā nakālan mina llāhi wa llāhu ʿazīzun ḥakīm",
+          "translation": "O'g'ri erkak va ayolning qo'llarını kesing - bu ular qılgan ishının jazosi, Allohdan ogohlantirish. Alloh qudratli va hikmatli Zotdir.",
+          "tafsir": "O'g'rilik uchun qo'l kesish jazoși.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٣٩",
+          "numberLatin": "39",
+          "arabic": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+          "transcription": "fa-man tāba min baʿdi ẓulmihi wa aṣlaḥa fa-inna llāha yatūbu ʿalayhi inna llāha ghafūrun raḥīm",
+          "translation": "Kim zulmından keyin tavba qılıb isloh bo'lsa, albatta Alloh uning tavbasını qabul qıladi. Alloh mag'firachi va rahmli Zotdir.",
+          "tafsir": "Gunohdan keyin tavba va isloh qılishning fazilati.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "٤٠",
+          "numberLatin": "40",
+          "arabic": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+          "transcription": "a-lam taʿlam anna llāha lahu mulku s-samāwāti wa l-arḍi yuʿadhdhbu man yashā'u wa yaghfiru li-man yashā'u wa llāhu ʿalā kulli shay'in qadīr",
+          "translation": "Bilmadingmi, osmonlar va yerning mulki Allohnikıdir? U xohlaganını azoblaydi va xohlaganını kechiradi. Alloh har narsaga qodirdir.",
+          "tafsir": "Allohning mutlaq hokimiyati va qudrati.",
+          "copySymbol": "📋"
+        },
+        {
+                "numberArabic": "٤١",
+                "numberLatin": "41",
+                "arabic": "يَـٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَـٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ ٱلَّذِينَ هَادُوا۟ ۛ سَمَّـٰعُونَ لِلْكَذِبِ سَمَّـٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَـٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ ۚ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًۭٔا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ",
+                "transcription": "yā ayyuhā r-rasūlu lā yaḥzunka lladhīna yusāriʿūna fī l-kufri mina lladhīna qālū āmannā bi-afwāhihim wa lam tu'min qulūbuhum wa mina lladhīna hādū sammāʿūna li-l-kadhibi sammāʿūna li-qawmin ākharīna lam ya'tūka yuḥarrifūna l-kalima min baʿdi mawāḍiʿihi yaqūlūna in ūtītum hādhā fa-khudhūhu wa in lam tu'tawhu fa-ḥdharū wa man yuridi llāhu fitnatahu fa-lan tamlika lahu mina llāhi shay'an ulā'ika lladhīna lam yuridi llāhu an yuṭahhira qulūbahum lahum fī d-dunyā khizyun wa lahum fī l-ākhirati ʿadhābun ʿaẓīm",
+                "translation": "Ey Rasul! Og'zi bilan 'Iymon keltirdik' deyib qalbi iymon keltirmaganlar va yahudiylardan kufrda shoshilib yuradigan kishilar seni xafa qilmasin. Ular yolg'onni tinglaydilar, sening oldingga kelmaydigan boshqa qavmning so'zini tinglaydilar. So'zlarni o'z joylaridan burmalashtiradilar. 'Agar sizga shunday berilsa, oling, agar berilmasa, ehtiyot bo'ling' deydilar. Alloh kimning fitna tortishini xohlasa, sen uning uchun Allohdan hech narsani qila olmassan. Mana shular qalblarini poklashni Alloh xohlamagan kishilardir. Ularga dunyoda sharmandlik va oxiratda azim azob bor.",
+                "tafsir": "Munofiq va yahudiylarning xiyonatkarligi va ularning jazosi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٢",
+                "numberLatin": "42",
+                "arabic": "سَمَّـٰعُونَ لِلْكَذِبِ أَكَّـٰلُونَ لِلسُّحْتِ ۚ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًۭٔا ۖ وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+                "transcription": "sammāʿūna li-l-kadhibi akkālūna li-s-suḥti fa-in jā'ūka fa-ḥkum baynahum aw aʿriḍ ʿanhum wa in tuʿriḍ ʿanhum fa-lan yaḍurrūka shay'an wa in ḥakamta fa-ḥkum baynahum bi-l-qisṭi inna llāha yuḥibbu l-muqsiṭīn",
+                "translation": "Ular yolg'onni tinglaydilar, haromni yeydilar. Agar sening oldingga kelsalar, ular orasida hukm qil yoki ulardan yuz o'gir. Agar ulardan yuz o'girsang, seni hech zarar qila olmaydlar. Agar hukm qilsang, ular orasida adolat bilan hukm qil. Albatta Alloh adolat qiluvchilarni sevadi.",
+                "tafsir": "Ahl-kitob bilan munosabat va adolat bilan hukm qilish.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٣",
+                "numberLatin": "43",
+                "arabic": "وَكَيْفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوْرَىٰةُ فِيهَا حُكْمُ ٱللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ",
+                "transcription": "wa kayfa yuḥakkimūnaka wa ʿindahumu t-tawrātu fīhā ḥukmu llāhi thumma yatawallawna min baʿdi dhālika wa mā ulā'ika bi-l-mu'minīn",
+                "translation": "Qanday qilib seni hakam qiladilar? Holbuki ularda Tavrot bor, unda Allohning hukmi bor. So'ng bundan keyin yuz o'giradilar. Ular mo'min emaslar.",
+                "tafsir": "Yahudiylarning o'z kitobidagi hukmlarga amal qilmasligi.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٤",
+                "numberLatin": "44",
+                "arabic": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًۭى وَنُورٌۭ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ ۚ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًۭا قَلِيلًۭا ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ",
+                "transcription": "innā anzalnā t-tawrāta fīhā hudal wa nūrun yaḥkumu bihā n-nabiyyūna lladhīna aslamū li-lladhīna hādū wa r-rabbāniyyūna wa l-aḥbāru bimā stuḥfiẓū min kitābi llāhi wa kānū ʿalayhi shuhadā'a fa-lā takhshaw n-nāsa wa khshawnī wa lā tashtarū bi-āyātī thamanan qalīlan wa man lam yaḥkum bimā anzala llāhu fa-ulā'ika humu l-kāfirūn",
+                "translation": "Biz Tavrotni nozil qildik, unda hidoyat va nur bor. Taslim bo'lgan payg'ambarlar u bilan yahudiylar uchun, rabboniylar va ahborlar Allohning kitobidan saqlashga buyurilgan narsa bilan va ular unga guvoh bo'lganlar bilan hukm qiladilar. Odamlardan qo'rqmang, Mendan qo'rqing va Mening oyatlarimni oz bahoga sotmang. Kim Alloh nozil qilgani bilan hukm qilmasa, mana ular kofirlardır.",
+                "tafsir": "Tavrotning fazilati va Alloh nozil qilgani bilan hukm qilish majburiyati.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٥",
+                "numberLatin": "45",
+                "arabic": "وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌۭ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌۭ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+                "transcription": "wa katabnā ʿalayhim fīhā anna n-nafsa bi-n-nafsi wa l-ʿayna bi-l-ʿayni wa l-anfa bi-l-anfi wa l-udhuna bi-l-udhuni wa s-sinna bi-s-sinni wa l-jurūḥa qiṣāṣun fa-man taṣaddaqa bihi fa-huwa kaffāratun lahu wa man lam yaḥkum bimā anzala llāhu fa-ulā'ika humu ẓ-ẓālimūn",
+                "translation": "Biz ularga unda yozdik: Jon jonga, ko'z ko'zga, burun burnga, quloq quloqqa, tish tishga va jarohatlarga qisosdir. Kim uni sadaqa qilsa (afv etsa), u uning uchun kafforatdir. Kim Alloh nozil qilgani bilan hukm qilmasa, mana ular zolimlardir.",
+                "tafsir": "Qisas qonuni va afv etishning fazilati.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٦",
+                "numberLatin": "46",
+                "arabic": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِعِيسَى ٱبْنِ مَرْيَمَ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ ۖ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ فِيهِ هُدًۭى وَنُورٌۭ وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ وَهُدًۭى وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ",
+                "transcription": "wa qaffaynā ʿalā āthārihim bi-ʿīsā bni maryama muṣaddiqan li-mā bayna yadayhi mina t-tawrāti wa ātaynāhu l-injīla fīhi hudal wa nūrun wa muṣaddiqan li-mā bayna yadayhi mina t-tawrāti wa hudal wa mawʿiẓatan li-l-muttaqīn",
+                "translation": "Ularning izlarida Iso ibn Maryamni Tavrotdan o'zidan oldingilarni tasdiq qiluvchi qilib yubordik va unga Injilni berdik - unda hidoyat va nur bor va Tavrotdan o'zidan oldingilarni tasdiq qiluvchi, taqvodorlar uchun hidoyat va nasihatdir.",
+                "tafsir": "Iso Alayhissalomning yuborilishi va Injilning fazilati.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٧",
+                "numberLatin": "47",
+                "arabic": "وَلْيَحْكُمْ أَهْلُ ٱلْإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+                "transcription": "wa l-yaḥkum ahlu l-injīli bimā anzala llāhu fīhi wa man lam yaḥkum bimā anzala llāhu fa-ulā'ika humu l-fāsiqūn",
+                "translation": "Injil ahli Alloh unda nozil qilgani bilan hukm qilsinlar. Kim Alloh nozil qilgani bilan hukm qilmasa, mana ular fosiqlardir.",
+                "tafsir": "Injil ahlining o'z kitoblari bilan hukm qilish majburiyati.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٨",
+                "numberLatin": "48",
+                "arabic": "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ ۚ لِكُلٍّۢ جَعَلْنَا مِنكُمْ شِرْعَةًۭ وَمِنْهَـٰجًۭا ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَلَـٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+                "transcription": "wa anzalnā ilayka l-kitāba bi-l-ḥaqqi muṣaddiqan li-mā bayna yadayhi mina l-kitābi wa muhayminan ʿalayhi fa-ḥkum baynahum bimā anzala llāhu wa lā tattabiʿ ahwā'ahum ʿammā jā'aka mina l-ḥaqqi li-kullin jaʿalnā minkum shirʿatan wa minhājan wa law shā'a llāhu la-jaʿalakum ummatan wāḥidatan wa lākin li-yabluwakum fī mā ātākum fa-stabiqū l-khayrāti ilā llāhi marjiʿukum jamīʿan fa-yunabbi'ukum bimā kuntum fīhi takhtalifūn",
+                "translation": "Senga Kitobni haq bilan, o'zidan oldingi Kitobni tasdiq qiluvchi va ustidan qarovchi qilib nozil qildik. Ular orasida Alloh nozil qilgani bilan hukm qil va senga kelgan haqdan ularning xohishlariga ergashma. Har biringiz uchun shariat va yo'l qildik. Agar Alloh xohlasa, sizni bir ummat qilardi, lekin sizga berganlarida sinash uchun (turlicha qildi). Yaxshiliklarda peshqadam bo'ling. Barchaningiz qaytishingiz Allohgadir va U sizga ixtilof qilgan narsalaringizni xabar beradi.",
+                "tafsir": "Qur'onning oldingi kitoblarni tasdiq va nazorat qilishi, turli shariatlar va yaxshilikda peshqadamlik.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٤٩",
+                "numberLatin": "49",
+                "arabic": "وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ",
+                "transcription": "wa ani ḥkum baynahum bimā anzala llāhu wa lā tattabiʿ ahwā'ahum wa ḥdharhum an yaftinūka ʿan baʿḍi mā anzala llāhu ilayka fa-in tawallaw fa-ʿlam annamā yurīdu llāhu an yuṣībahum bi-baʿḍi dhunūbihim wa inna kathīran mina n-nāsi la-fāsiqūn",
+                "translation": "Ular orasida Alloh nozil qilgani bilan hukm qil, ularning xohishlariga ergashma va ularning senga nozil qilinganlarning bir qismidan chalg'itishlaridan ehtiyot bo'l. Agar yuz o'girishsa, bil ki, Alloh ularni ba'zi gunohlariga sabab tutib jazolashni xohlaydi. Odamlarning ko'pi fosiqdir.",
+                "tafsir": "Alloh hukmi bilan hukm qilish va xohishlarga ergashmaslik.",
+                "copySymbol": "📋"
+              },
+              {
+                "numberArabic": "٥٠",
+                "numberLatin": "50",
+                "arabic": "أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًۭا لِّقَوْمٍۢ يُوقِنُونَ",
+                "transcription": "a-fa-ḥukma l-jāhiliyyati yabghūna wa man aḥsanu mina llāhi ḥukman li-qawmin yūqinūn",
+                "translation": "Ular johillik hukmini istaydilarmi? Yakkin qiluvchi qawm uchun kim Allohdan yaxshiroq hukm qiluvchi bor?",
+                "tafsir": "Alloh hukmining barcha hukmlardan ustunligi va johillik hukmini rad etish.",
+                "copySymbol": "📋"
       }
     ]
   },
   {
-    id: 6,
-    name: "Al-An'am",
-    arabicName: "الأنعام",
-    meaning: "Chorvalar",
-    ayahCount: 165,
-    place: "Makka",
-    prelude: {
-      bismillah: {
-        arabic: "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-        transcription: "Bismillahir-Rahmanir-Rahiim",
-        translation: "Mehribon va rahmli Alloh nomi bilan",
-        tafsir: "Barcha yaxshi ishlarni Alloh nomi bilan boshlash kerakligini o‘rgatadi.",
-        copySymbol: "📋"
-      }
-    },
-    ayahs: [
+    "id": 6,
+    "name": "Al-An'am",
+    "arabicName": "الأنعام",
+    "meaning": "Chorva hayvonlari 🐄",
+    "ayahCount": 165,
+    "place": "Makka 🌙",
+    "ayahs": [
       {
-        numberArabic: "١",
-        numberLatin: "1",
-        arabic: "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ",
-        transcription: "Alhamdu lillahi alladhii khalaqa as-samaawaati wal-ard",
-        translation: "Barcha maqtovlar osmonlar va yerni yaratgan Allohga xosdir",
-        tafsir: "Allohning yaratuvchilik qudrati ulug‘lanadi.",
-        copySymbol: "📋"
+        "numberArabic": "١",
+        "numberLatin": "1",
+        "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+        "transcription": "Al-ḥamdu lillāhi lladhī khalaqa s-samāwāti wa l-arḍa wa jaʿala ẓ-ẓulumāti wa n-nūr, thumma lladhīna kafarū birabbihim yaʿdilūn",
+        "translation": "Hamd osmondlar va yerni yaratgan, zulmat va nurni qilgan Allohga xosdir. Ammo kofirlar Robblariga teng qo'shadilar.",
+        "tafsir": "Allohning yagona yaratuvchi ekanligi va kofirlarning shirk qilishi haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٢",
-        numberLatin: "2",
-        arabic: "وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
-        transcription: "Wa ja‘ala az-zulumaati wan-nuur, thumma alladhiina kafaruu birabbihim ya‘diluun",
-        translation: "U zulmatlar va nur yaratdi, so‘ngra kofirlar Robblariga tenglashtiradilar",
-        tafsir: "Allohning yagona yaratuvchi ekanligi va shirkdan ogohlantirish.",
-        copySymbol: "📋"
+        "numberArabic": "٢",
+        "numberLatin": "2",
+        "arabic": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍۢ ثُمَّ قَضَىٰٓ أَجَلًۭا ۖ وَأَجَلٌۭ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+        "transcription": "Huwa lladhī khalaqakum min ṭīnin thumma qaḍā ajalan, wa ajalun musammā ʿindahu, thumma antum tamtarūn",
+        "translation": "U sizni loydan yaratgan, so'nga (dunyoda) muddat belgilagan va (qiyomat uchun) unda yana bir muddat bor. Shunday bo'lganda ham siz shubha qilasiz!",
+        "tafsir": "Insonning yaratilishi va Allohning hikmati haqida.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٣",
-        numberLatin: "3",
-        arabic: "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا",
-        transcription: "Huwa alladhii khalaqakum min tiinin thumma qadaa ajalan",
-        translation: "U sizlarni loydan yaratdi, so‘ngra (umr) muddatini belgiladi",
-        tafsir: "Insonning loydan yaratilishi va umrining belgilanganligi haqida.",
-        copySymbol: "📋"
+        "numberArabic": "٣",
+        "numberLatin": "3",
+        "arabic": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِ� ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+        "transcription": "Wa huwa llāhu fī s-samāwāti wa fī l-arḍi, yaʿlamu sirrakum wa jahrakum wa yaʿlamu mā taksibūn",
+        "translation": "Osmonlarda ham, yerdaham yagonadir. Sizning sirringiz ham, oshkoringiz ham, qilgan amallaringiz ham Uning ilmidadir.",
+        "tafsir": "Allohning hamma narsani bilishi va hozir bo'lishi.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٤",
-        numberLatin: "4",
-        arabic: "وَأَجَلٌ مُّسَمًّى عِندَهُ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
-        transcription: "Wa ajalun musamman ‘indahu, thumma antum tamtaruun",
-        translation: "Va Uning huzurida belgilangan muddat bor, lekin sizlar shubhalanasiz",
-        tafsir: "Allohning belgilagan taqdiriga shubha qilish noto‘g‘ri ekanligi aytiladi.",
-        copySymbol: "📋"
+        "numberArabic": "٤",
+        "numberLatin": "4",
+        "arabic": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍۢ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+        "transcription": "Wa mā ta'tīhim min āyatin min āyāti rabbihim illā kānū ʿanhā muʿriḍīn",
+        "translation": "Ularga Robblarining har qanday oyati kelganda, undan yuz o'girar edilar.",
+        "tafsir": "Kofirlarning oyatlardan yuz o'girishi.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٥",
-        numberLatin: "5",
-        arabic: "وَهُوَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَفِى ٱلْأَرْضِ",
-        transcription: "Wa huwa Allahu fis-samaawaati wa fil-ard",
-        translation: "U osmonlarda va yerda Allohdir",
-        tafsir: "Allohning hamma joyda hukmron ekanligi ta’kidlanadi.",
-        copySymbol: "📋"
+        "numberArabic": "٥",
+        "numberLatin": "5",
+        "arabic": "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+        "transcription": "Faqad kadhdhabū bi-l-ḥaqqi lammā jā'ahum, fa-sawfa ya'tīhim anbā'u mā kānū bihi yastahzi'ūn",
+        "translation": "Ularga haq (Qur'on) kelganda, uni yolg'on deb qo'ydilar. Shuning uchun ular masxara qilgan narsalarning (azob) xabari ularga yetib keladi.",
+        "tafsir": "Haqni inkor qilishning oqibati.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٦",
-        numberLatin: "6",
-        arabic: "يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
-        transcription: "Ya‘lamu sirrakum wa jahrakum wa ya‘lamu maa taksibuun",
-        translation: "U sizning sir va oshkorangizni biladi va nimalar qilayotganingizni biladi",
-        tafsir: "Allohning hamma narsani biluvchi ekanligi ta’kidlanadi.",
-        copySymbol: "📋"
+        "numberArabic": "٦",
+        "numberLatin": "6",
+        "arabic": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍۢ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًۭا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+        "transcription": "A-lam yaraw kam ahlaknā min qablihim min qarnin makkannāhum fī l-arḍi mā lam numakkin lakum wa arsalnā s-samā'a ʿalayhim midrāran wa jaʿalnā l-anhāra tajrī min taḥtihim fa-ahlaknāhum bi-dhunūbihim wa ansha'nā min baʿdihim qarnan ākharīn",
+        "translation": "Ular ko'rmadilarmi, biz ulardan oldin qancha avlodni - ularga sizga bermaganimizdagina qudrat berib, osmondan yog'ingarchilik yog'dirib, ularning ostidan daryolar oqizganimiz halok qildik. Gunohlari sababli ularni yo'q qildik va ularning o'rniga yangi avlod paydo qildik.",
+        "tafsir": "Oldingi millatlarning azobga duchor bo'lishi ibrat.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٧",
-        numberLatin: "7",
-        arabic: "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
-        transcription: "Wamaa ta’tiihim min aayatin min aayaati rabbihim illaa kaanuu ‘anhaa mu‘ridiin",
-        translation: "Ularga Robblarining oyatlaridan bironta kelsa, undan yuz o‘giradilar",
-        tafsir: "Kofirlarning Allohning oyatlariga e’tiborsizligi haqida.",
-        copySymbol: "📋"
+        "numberArabic": "٧",
+        "numberLatin": "7",
+        "arabic": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَـٰبًۭا فِى قِرْطَاسٍۢ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ",
+        "transcription": "Wa law nazzalnā ʿalayka kitāban fī qirṭāsin fa-lamasūhu bi-aydīhim la-qāla lladhīna kafarū in hādhā illā siḥrun mubīn",
+        "translation": "Agar biz senga qog'ozdagi kitobni tushirganimizda, ular uni qo'llari bilan his qilsalar ham, kofirlar albatta: \"Bu ochiq-oydin sehr\" deyishar edi.",
+        "tafsir": "Kofirlarning Qur'on haqidagi noto'g'ri fikrlari.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٨",
-        numberLatin: "8",
-        arabic: "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَآءُ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
-        transcription: "Faqad kadhdhabuu bil-haqqi lammaa jaa’ahum, fasawfa ya’tiihim anbaa’u maa kaanuu bihi yastahzi’uun",
-        translation: "Ular haq keldi-da, uni yolg‘on dedilar, endi ular masxara qilgan narsalarning xabari ularga keladi",
-        tafsir: "Haqni inkor qilganlarning oqibati haqida ogohlantirish.",
-        copySymbol: "📋"
+        "numberArabic": "٨",
+        "numberLatin": "8",
+        "arabic": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌۭ ۖ وَلَوْ أَنزَلْنَا مَلَكًۭا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+        "transcription": "Wa qālū lawlā unzila ʿalayhi malakun, wa law anzalnā malakan la-quḍiya l-amru thumma lā yunẓarūn",
+        "translation": "Ular: \"Nega unga (Muhammadga) farishta tushirilmadi?\" deyishadi. Agar farishta tushirsak, ish bitar edi (qiyomat kelib qolar edi), so'ng ularga muhlat berilmas edi.",
+        "tafsir": "Kofirlarning payg'ambar haqidagi noto'g'ri talablari.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "٩",
-        numberLatin: "9",
-        arabic: "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ",
-        transcription: "Alam yaraw kam ahlaknaa min qablihim min qarnin",
-        translation: "Ular o‘zlaridan oldingi qancha avlodlarni halok qilganimizni ko‘rmadilarmi?",
-        tafsir: "Oldingi xalqlarning halokati haqida eslatma.",
-        copySymbol: "📋"
+        "numberArabic": "٩",
+        "numberLatin": "9",
+        "arabic": "وَلَوْ جَعَلْنَـٰهُ مَلَكًۭا لَّجَعَلْنَـٰهُ رَجُلًۭا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
+        "transcription": "Wa law jaʿalnāhu malakan la-jaʿalnāhu rajulan wa la-labasnā ʿalayhim mā yalbisūn",
+        "translation": "Agar Biz uni (payg'ambarni) farishta qilsak edik, uni odam qilib yuborar edik va ular shubhalanadigan narsaga ularni shubhalantirar edik.",
+        "tafsir": "Payg'ambarning inson shaklida bo'lishi hikmati.",
+        "copySymbol": "📋"
       },
       {
-        numberArabic: "١٠",
-        numberLatin: "10",
-        arabic: "مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ",
-        transcription: "Makkannaahum fil-ardi maa lam numakkin lakum",
-        translation: "Biz ularni yer yuzida sizlarga bermagan imkoniyatlar bilan mustahkamladik",
-        tafir: "Oldingi xalqlarga berilgan ne’matlar va ularning halokati haqida.",
-        copySymbol: "📋"
+        "numberArabic": "١٠",
+        "numberLatin": "10",
+        "arabic": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+        "transcription": "Wa la-qadi stuḥzi'a bi-rusulin min qablika fa-ḥāqa bi-lladhīna sakhirū minhum mā kānū bihi yastahzi'ūn",
+        "translation": "Sizdan oldingi payg'ambarlar ham masxara qilingan edi. Natijada ular masxara qilgan narsalar (azob) ularni o'rab oldi.",
+        "tafsir": "Oldingi payg'ambarlarga ham istehza qilinganligi.",
+        "copySymbol": "📋"
       },
         {
           numberArabic: "١١",
@@ -2616,6 +6204,1474 @@ const surahs = [
           translation: "Biz kitob berganlar uni o‘z farzandlarini bilganidek biladilar. O‘zanna yo‘qotganlar iymon keltirmaydilar",
           tafsir: "Kitob ehli Payg‘ambarni tanishi va iymonsizlikning oqibati.",
           copySymbol: "📋"
+        },
+          {
+            "numberArabic": "٢١",
+            "numberLatin": "21",
+            "arabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+            "transcription": "Wa man aẓlamu mimmani iftarā 'alallāhi każiban aw każżaba bi'āyātih, innahū lā yufliḥuẓ-ẓālimūn",
+            "translation": "Allohga nisbatan yolg'on uydirgan yoki O'ning oyatlarini yolg'on deb aytgan kishidan ko'ra zolimroq kishi bormi? Albatta, zolimlar najot topmaydi.",
+            "tafsir": "Allohga yolg'on nisbat berish eng katta zulmdir.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٢",
+            "numberLatin": "22",
+            "arabic": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+            "transcription": "Wa yauma naḥshuruhum jamī'an thumma naqūlu lillażīna ashrakū ayna shurakā'ukumullażīna kuntum taz'umūn",
+            "translation": "Qiyomat kuni ularni hammasini to'playmiz, so'ng mushriklarga: \"Ixtiyor qilgan sheriklaringiz qayerda?\" deymiz.",
+            "tafsir": "Qiyomatda mushriklarning holati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٣",
+            "numberLatin": "23",
+            "arabic": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+            "transcription": "Thumma lam takun fitnatuhum illā an qālū wallāhi rabbinā mā kunnā mushrikīn",
+            "translation": "Ular hech qanday bahona topa olmay: \"Vallohi, ey Robbimiz, biz mushrik bo'lmagan edik\" deyishdan boshqa iloj topolmaydilar.",
+            "tafsir": "Mushriklarning qiyomatdagi bahonalari.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٤",
+            "numberLatin": "24",
+            "arabic": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ ۚ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+            "transcription": "Unẓur kaifa każabū 'alā anfusihim wa ḍalla 'anhum mā kānū yaftarūn",
+            "translation": "Qarang, ular o'zlariga qanday yolg'on gapirdilar! Uydirgan butlari esa ularni tark etdi.",
+            "tafsir": "Mushriklarning o'zlarini aldashlari.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٥",
+            "numberLatin": "25",
+            "arabic": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِنْ يَرَوْا كُلَّ آيَةٍ لَا يُؤْمِنُوا بِهَا ۚ حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+            "transcription": "Wa minhum may yastami'u ilaik, wa ja'alnā 'alā qulūbihim akinnatan ay yafqahūhu wa fī āżānihim waqra, wa iy yaraw kulla āyatin lā yu'minū bihā, ḥattā iżā jā'ūka yujādilūnaka yaqūlullażīna kafarū in hāżā illā asāṭīrul-awwalīn",
+            "translation": "Ulardan seni tinglaydiganlar ham bor. Ammo Biz ularning qalblariga parda, quloqlariga og'irlik qo'ydik. Barcha oyatlarni ko'rsang ham, imon keltirmaydi. Nihoyat, senga kelib bahslashganda: \"Bu faqat avvalgilarning ertaklari\" deyishadi.",
+            "tafsir": "Kofirlarning qalbi qattiqligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٦",
+            "numberLatin": "26",
+            "arabic": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ ۖ وَإِنْ يُهْلِكُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+            "transcription": "Wa hum yanhawna 'anhu wa yan'awna 'anhu wa iy yuhlikūna illā anfusahum wa mā yash'urūn",
+            "translation": "Ular (boshqalarni) undan (Qur'ondan) qaytaradilar va o'zlari ham undan uzoqlashadilar. Ular faqat o'zlarini halok qiladilar, lekin buni sezmaydilar.",
+            "tafsir": "Kofirlarning o'zlariga ziyon yetkazishlari.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٧",
+            "numberLatin": "27",
+            "arabic": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+            "transcription": "Wa law tarā iż wuqifū 'alan-nāri faqālū yā laitana nuraddu wa lā nukażżiba bi'āyāti rabbinā wa nakūna minal-mu'minīn",
+            "translation": "Agar ko'rsang, ular olov oldida turgan paytlarida: \"Kashki biz qaytarilgan bo'lsak-da, Robbimizning oyatlarini yolg'on demagan va mo'minlardan bo'lgan bo'lsak\" deyishlarini.",
+            "tafsir": "Do'zaxdagi kofirlarning pushaymonligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٨",
+            "numberLatin": "28",
+            "arabic": "بَلْ بَدَا لَهُمْ مَا كَانُوا يُخْفُونَ مِنْ قَبْلُ ۖ وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+            "transcription": "Bal badā lahum mā kānū yukhfūna min qabl, wa law ruddū la'ādū limā nuhū 'anhu wa innahum lakażibūn",
+            "translation": "Yo'q, oldin yashirgan narsalari ularga oshkor bo'ldi. Agar qaytarilsalar ham, qaytadan qaytarilgan narsaga qaytishardi. Ular, albatta, yolg'onchidirlar.",
+            "tafsir": "Kofirlarning qalbining qattiqligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٢٩",
+            "numberLatin": "29",
+            "arabic": "وَقَالُوا إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+            "transcription": "Wa qālū in hiya illā ḥayātunad-dunyā wa mā naḥnu bimab'ūthīn",
+            "translation": "Ular: \"Dunyoviy hayotimizdan boshqa hayot yo'q va biz qayta tirilmaymiz\" dedilar.",
+            "tafsir": "Kofirlarning oxiratni inkori.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٠",
+            "numberLatin": "30",
+            "arabic": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِالْحَقِّ ۚ قَالُوا بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+            "transcription": "Wa law tarā iż wuqifū 'alā rabbihim, qāla a laysa hāżā bil-ḥaqq, qālū balā wa rabbinā, qāla fażūqul-'ażāba bimā kuntum takfurūn",
+            "translation": "Agar ko'rsang, ular Robbilarining oldida turgan paytlarida (Alloh): \"Bu haq emasmi?\" deganida, ular: \"Ha, Robbimizga qasamki, haq\" deyishlarini. (Alloh): \"Kufringiz uchun azobni toting\" deydi.",
+            "tafsir": "Qiyomatda kofirlarning tan olishi va azobi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣١",
+            "numberLatin": "31",
+            "arabic": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+            "transcription": "Qad khasira alladhīna kadhabū biliqā'i llāhi ḥattā idhā jā'athumu s-sā'atu baghtatan qālū yā ḥasratanā 'alā mā farraṭnā fīhā wa hum yaḥmilūna awzārahum 'alā ẓuhūrihim alā sā'a mā yazirūn",
+            "translation": "Allohga qayta qo'yilishni yolg'on deb hisoblaganlar, albatta, ziyon ko'rdilar. Qiyomat ularga to'satdan kelganda, ular: \"Eh, afsuski, biz unda (dunyoda) qilgan ishlarimizdan pushaymon bo'ldik\" deyishadi. Ular gunohlarini orqalarida ko'tarib yurishadi. Ko'tarayotgan yuklari qanday yomon!",
+            "tafsir": "Qiyomatni inkor etganlarning pushaymonligi va gunoh yuklari.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٢",
+            "numberLatin": "32",
+            "arabic": "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌۭ وَلَهْوٌۭ ۖ وَلَلدَّارُ ٱلْءَاخِرَةُ خَيْرٌۭ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+            "transcription": "Wa mā l-ḥayātu d-dunyā illā la'ibun wa lahwun wa la-d-dāru l-ākhiratu khayrun lilladhīna yattaqūn afalā ta'qilūn",
+            "translation": "Dunyoviy hayot shunchaki o'yin-kulgi. Albatta, oxirat uyi taqvodorlar uchun yaxshiroqdir. Aqlingizni ishlatmayapsizlarmi?",
+            "tafsir": "Dunyoviy hayotning vaqtinchaligi va oxiratning ahamiyati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٣",
+            "numberLatin": "33",
+            "arabic": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَـٰكِنَّ ٱلظَّـٰلِمِينَ بِـَٔايَـٰتِ ٱللَّهِ يَجْحَدُونَ",
+            "transcription": "Qad na'lamu innahū layaḥzunuka alladhī yaqūlūn fa-innahum lā yukadhibūnaka wa lākinna ẓ-ẓālimīna bi-āyāti llāhi yaḥjadūn",
+            "translation": "Biz bilamizki, ularning aytganlari seni qayg'uga soladi. Chunki ular seni yolg'onchiga chiqarmaydilar, lekin zolimlar Allohning oyatlarini inkor etishadi.",
+            "tafsir": "Payg'ambarning qayg'usi va kofirlarning haqiqatni inkori.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٤",
+            "numberLatin": "34",
+            "arabic": "وَلَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+            "transcription": "Wa laqad kudhibat rusulun min qablika fa-ṣabarū 'alā mā kudhibū wa ūdhū ḥattā atāhum naṣrunā wa lā mubaddila likalimāti llāhi wa laqad jā'aka min naba'i l-mursalīn",
+            "translation": "Sizdan oldingi payg'ambarlar ham yolg'onchiga chiqarildi. Ular yolg'onchiga chiqarilganliklari va azob berilganliklariga sabr qilishdi, toki ularga Bizning yordamimiz kelguncha. Allohning so'zlarini o'zgartiruvchi yo'q. Albatta, sizga payg'ambarlar haqidagi xabarlardan bir qismi yetib keldi.",
+            "tafsir": "Oldingi payg'ambarlarning sabri va Allohning va'dasining haqiqati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٥",
+            "numberLatin": "35",
+            "arabic": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًۭا فِى ٱلْأَرْضِ أَوْ سُلَّمًۭا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍۢ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَـٰهِلِينَ",
+            "transcription": "Wa in kāna kabura 'alayka i'rāḍuhum fa-ini staṭa'ta an tabtaghiya nafaqan fī l-arḍi aw sullaman fī s-samā'i fa-ta'tiyahum bi-āyatin wa law shā'a llāhu lajama'ahum 'alā l-hudā fa-lā takūnanna mina l-jāhilīn",
+            "translation": "Agar ularning yuz o'girishi senga og'ir bo'lsa, yerda tunnel qazishga yoki osmonga narvon qo'yishga qodir bo'lsang va ularga biror mo'jiza keltirsang (yana ham yuz o'girishardi). Agar Alloh xohlasa, ularni hidoyatga to'plar edi. Shuning uchun nodonlardan bo'lma!",
+            "tafsir": "Payg'ambarning vazifasi va hidoyat faqat Alloh irodasidadir.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٦",
+            "numberLatin": "36",
+            "arabic": "إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "transcription": "Innamā yastajību alladhīna yasma'ūn wa l-mawtā yab'athuhumu llāhu thumma ilayhi yurja'ūn",
+            "translation": "Faqat eshituvchilar (haqqni) qabul qiladilar. O'liklarni esa Alloh tiriltiradi, so'ngra Uning huzuriga qaytariladilar.",
+            "tafsir": "Haqqni qabul qilish va qiyomat haqiqati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٧",
+            "numberLatin": "37",
+            "arabic": "وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌۭ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةًۭ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "transcription": "Wa qālū lawlā nuzzila 'alayhi āyatun min rabbihi qul inna llāha qādirun 'alā an yunazzila āyatan wa lākinna aktharahum lā ya'lamūn",
+            "translation": "Ular: \"Nega unga (Muhammadga) Rabbidan biror mo'jiza tushirilmadi?\" deyishadi. Ayting: \"Albatta, Alloh mo'jiza tushirishga qodirdir, lekin ularning ko'pchiligi bilmaydilar\".",
+            "tafsir": "Kofirlarning mo'jiza talabi va Allohning qudrati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٨",
+            "numberLatin": "38",
+            "arabic": "وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ وَلَا طَـٰٓئِرٍۢ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم ۚ مَّا فَرَّطْنَا فِى ٱلْكِتَـٰبِ مِن شَىْءٍۢ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+            "transcription": "Wa mā min dābbatin fī l-arḍi wa lā ṭā'irin yaṭīru bijanāḥayhi illā umamun amthālukum mā farraṭnā fī l-kitābi min shay'in thumma ilā rabbihim yuḥsharūn",
+            "translation": "Yerdagi har bir jonivor va qanotlari bilan uchadigan har bir qush sizlarga o'xshash ummatlardir. Biz kitobda hech narsani qoldirmadik. So'ngra ular Robbilarining huzuriga to'planadilar.",
+            "tafsir": "Mavjudotlarning har biri Allohning hikmati bilan yaratilgan.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٣٩",
+            "numberLatin": "39",
+            "arabic": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَـٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "transcription": "Wa alladhīna kadhabū bi-āyātinā ṣummun wa bukmun fī ẓ-ẓulumāti man yasha'i llāhu yuḍlilhu wa man yasha' yaj'alhu 'alā ṣirāṭin mustaqīm",
+            "translation": "Oyatlarimizni yolg'on deb hisoblaganlar quloqlari kar, tillari lal va zulmatlardadirlar. Alloh xohlagan kishini adashgan qiladi va xohlaganini to'g'ri yo'lga qo'yadi.",
+            "tafsir": "Hidoyat va adashish Allohning irodasidadir.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٠",
+            "numberLatin": "40",
+            "arabic": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَـٰدِقِينَ",
+            "transcription": "Qul a-ra'aytakum in atākum 'adhābu llāhi aw atatkumu s-sā'atu a-ghayra llāhi tad'ūna in kuntum ṣādiqīn",
+            "translation": "Ayting: \"Agar Allohning azobi yoki qiyomat sizga kelsa, Allohdan boshqasiga duo qilar edingizmi, agar chin so'zchi bo'lsangiz?\"",
+            "tafsir": "Azob paytida butlarga ibodatning foydasizligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤١",
+            "numberLatin": "41",
+            "arabic": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+            "transcription": "Bal iyyāhu tadʿūna fayakshifu mā tadʿūna ilayhi in shāa wa tansawna mā tush'rikūn",
+            "translation": "Yoʻq, siz faqat Unga duo qilasiz. U xohlasa, duo qilgan narsangizni (balam) olib tashlaydi va siz sherik qilgan narsalaringizni unutasiz.",
+            "tafsir": "Haqiqiy duo faqat Allohgadir, butlar foydasizdir.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٢",
+            "numberLatin": "42",
+            "arabic": "وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَاهُم بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+            "transcription": "Walaqad arsalnā ilā umamin min qablika faakhadhnāhum bil-ba'sā'i waḍ-ḍarrāi laʿallahum yataḍarraʿūn",
+            "translation": "Sizdan oldin ham biz boshqa ummatlarga paygʻambarlar yubordik. Ular itoat qilishlari uchun ularni qiyinchiliklar va musibatlar bilan ushladik.",
+            "tafsir": "Oldingi ummatlarning azoblari ibrat uchun.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٣",
+            "numberLatin": "43",
+            "arabic": "فَلَوْلَا إِذْ جَاءَهُم بَأْسُنَا تَضَرَّعُوا وَلَٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ",
+            "transcription": "Falawlā idh jā'ahum ba'sunā taḍarraʿū walākin qasat qulūbuhum wa zayyana lahumu sh-shayṭānu mā kānū yaʿmalūn",
+            "translation": "Nega ularga azobimiz kelganda iltijo qilishdi? Lekin ularning qalblati qotib ketdi va shayton ularga qilayotgan ishlarini goʻzal koʻrsatdi.",
+            "tafsir": "Qalblarning qotishi va shaytonning aldashi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٤",
+            "numberLatin": "44",
+            "arabic": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+            "transcription": "Falammā nasū mā dhukkirū bihi fataḥnā ʿalayhim abwāba kulli shay'in ḥattā idhā fariḥū bimā ūtū akhadhnāhum baghtatan fa-idhā hum mublisūn",
+            "translation": "Ular eslatilgan narsalarni unutgach, Biz ularga hamma narsaning eshiklarini ochdik. Nihoyat, berilgan narsalar bilan shodlanayotganlarida, toʻsatdan ularni ushladik va ular umidsizlikka tushishdi.",
+            "tafsir": "Allohning ne'matlari va toʻsatdan azobi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٥",
+            "numberLatin": "45",
+            "arabic": "فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+            "transcription": "Faqutiʿa dābiru l-qawmi alladhīna ẓalamū wal-ḥamdu lillāhi rabbi l-ʿālamīn",
+            "translation": "Shunday qilib, zolim qavmning ildizi kesildi. Hamd olamlar rabbi Allohga boʻlsin.",
+            "tafsir": "Zolimlarning halokati va Allohga hamd.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٦",
+            "numberLatin": "46",
+            "arabic": "قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللَّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُم بِهِ انظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ",
+            "transcription": "Qul ara'aytum in akhadha llāhu samʿakum wa abṣārakum wa khatama ʿalā qulūbikum man ilāhun ghayru llāhi ya'tīkum bihi unẓur kayfa nusarrifu l-āyāti thumma hum yaṣdifūn",
+            "translation": "Ayting: \"Agar Alloh sizning eshituv va koʻruv qobiliyatingizni olib qoʻysa va qalblaringizga muhur bosib qoʻysa, Allohdan boshqa qanday iloh uni sizga qaytarib beradi?\" Qarang, Biz oyatlarimizni qanday tushuntiramiz, keyin ular yuz oʻgirishadi.",
+            "tafsir": "Allohning qudrati va kofirlarning qattiq qalbliligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٧",
+            "numberLatin": "47",
+            "arabic": "قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا الْقَوْمُ الظَّالِمُونَ",
+            "transcription": "Qul ara'aytakum in atākum ʿadhābu llāhi baghtatan aw jahratan hal yuhlaku illā l-qawmu ẓ-ẓālimūn",
+            "translation": "Ayting: \"Agar Allohning azobi toʻsatdan yoki ochiq-oshkor sizga kelsa, zolim qavmdan boshqasi halok boʻladimi?\"",
+            "tafsir": "Azob faqat zolimlarga tegishli.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٨",
+            "numberLatin": "48",
+            "arabic": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "transcription": "Wa mā nursilu l-mursalīna illā mubashshirīna wa mundhirīna fa-man āmana wa aṣlaḥa falā khawfun ʿalayhim wa lā hum yaḥzanūn",
+            "translation": "Biz paygʻambarlarni faqat xushxabar beruvchi va ogohlantiruvchi sifatida yuboramiz. Kim imon keltirib, solih amal qilsa, ularga qoʻrquv yoʻq va ular qaygʻu chekmaslar.",
+            "tafsir": "Paygʻambarlarning vazifasi va moʻminlarning mukofoti.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٤٩",
+            "numberLatin": "49",
+            "arabic": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ",
+            "transcription": "Wa alladhīna kadhabū bi'āyātinā yamassuhumu l-ʿadhābu bimā kānū yafsuqūn",
+            "translation": "Oyatlarimizni yolgʻon deb hisoblaganlarga esa, fosiqlik qilganliklari uchun azob tegadi.",
+            "tafsir": "Kofirlarning azobi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٠",
+            "numberLatin": "50",
+            "arabic": "قُل لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ أَفَلَا تَتَفَكَّرُونَ",
+            "transcription": "Qul lā aqūlu lakum ʿindī khazā'inullāhi wa lā aʿlamu l-ghayba wa lā aqūlu lakum innī malakun in attabiʿu illā mā yūḥā ilayya qul hal yastawī l-aʿmā wal-baṣīr afalā tatafakkarūn",
+            "translation": "Ayting: \"Men sizga Allohning xazinalari menga tegishli deymanmi yoki men gʻaybni bilaman deymanmi yoki men farishtaman deymanmi?\" Men faqat vahiy qilinayotgan narsaga ergashaman. Ayting: \"Koʻr bilan koʻruvchi teng boʻladimi? Oʻylamaysizlarmi?\"",
+            "tafsir": "Paygʻambarning vazifasi va aql-idrokning ahamiyati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥١",
+            "numberLatin": "51",
+            "arabic": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّۭ وَلَا شَفِيعٌۭ لَّعَلَّهُمْ يَتَّقُونَ",
+            "transcription": "Wa andhir bihi alladhīna yakhāfūna an yuḥsharū ilā rabbihim laysa lahum min dūnihī waliyyun wa lā shafīʿun laʿallahum yattaqūn",
+            "translation": "Ushbu (Qur'on) bilan shunday kishilarni ogohlantirki, ular Robblarining huzuriga to'planishidan qo'rqadilar. Ularning Udan (Allohdan) tashqari hech bir himoyachisi va shafoat qiluvchisi yo'q. Balki ular taqvo qiladilar.",
+            "tafsir": "Qiyomatdagi holat va taqvoning ahamiyati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٢",
+            "numberLatin": "52",
+            "arabic": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍۢ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+            "transcription": "Wa lā taṭrudi alladhīna yadʿūna rabbahum bil-ghadāti wal-ʿashiyyi yurīdūna wajhahū mā ʿalayka min ḥisābihim min shay'in wa mā min ḥisābika ʿalayhim min shay'in fa-taṭrudahum fa-takūna minaẓ-ẓālimīn",
+            "translation": "Robblariga ertalab va kechqurun duo qilib, faqat Uning rizosini istagan kishilarni haydab yuborma. Ularning hisobi sizga, sizning hisobingiz esa ularga tegishli emas. Agar ularni haydab yuborsangiz, zolimlardan bo'lib qolasiz.",
+            "tafsir": "Kambag'allarga mehribonlik qilish haqida.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٣",
+            "numberLatin": "53",
+            "arabic": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍۢ لِّيَقُولُوٓا۟ أَهَـٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّـٰكِرِينَ",
+            "transcription": "Wa kadhalika fatannā baʿḍahum bibaʿḍin li-yaqūlū ahā'ulā'i manna llāhu ʿalayhim min bayninā a-laysa llāhu bi-aʿlama bish-shākirīn",
+            "translation": "Shunday qilib, Biz ba'zilarini boshqalari bilan sinadik, shunda: \"Alloh o'z ne'matlarini aynan shularga beradimi?\" deyishadi. Alloh shukr qiluvchilarni yaxshiroq bilish emasmi?",
+            "tafsir": "Ibtilo va shukrning ahamiyati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٤",
+            "numberLatin": "54",
+            "arabic": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍۢ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌۭ رَّحِيمٌۭ",
+            "transcription": "Wa idhā jā'aka alladhīna yu'minūna bi'āyātinā fa-qul salāmun ʿalaykum kataba rabbukum ʿalā nafsihi r-raḥmata annahū man ʿamila minkum sū'an bijahālatin thumma tāba min baʿdihī wa aṣlaḥa fa-annahū ghafūrun raḥīm",
+            "translation": "Oyatlarimizga imon keltirganlar senga kelganda: \"Sizga salom bo'lsin! Robbingiz O'ziga rahmatni yozib qo'yganki, agar biror kishi johillik bilan yomon ish qilsa, so'ng tavba qilib, o'zini tuzatsa, albatta Alloh mag'firat qiluvchi va rahm qiluvchidir\", deb ayt.",
+            "tafsir": "Mo'minlarga salom va Allohning rahmati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٥",
+            "numberLatin": "55",
+            "arabic": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ",
+            "transcription": "Wa kadhalika nufaṣṣilu l-āyāti wa li-tastabīna sabīlu l-mujrimīn",
+            "translation": "Shunday qilib Biz oyatlarimizni batafsil bayon qilamizki, jinoyatchilarning yo'li aniq bo'lib qolsin.",
+            "tafsir": "Oyatlarning tushunarli bayoni.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٦",
+            "numberLatin": "56",
+            "arabic": "قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًۭا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ",
+            "transcription": "Qul innī nuhītu an aʿbuda alladhīna tadʿūna min dūni llāh qul lā attabiʿu ahwā'akum qad ḍalaltu idhan wa mā anā mina l-muhtadīn",
+            "translation": "Ayting: \"Menga Allohdan boshqa ibodat qilayotganlaringizga ibodat qilish man etilgan\". Ayting: \"Men sizning nafsining istaklariga ergashmayman, aks holda adashgan va hidoyat topganlardan bo'lmagan bo'lardim\".",
+            "tafsir": "Shirkdan qochish va haqq yo'lga ergashish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٧",
+            "numberLatin": "57",
+            "arabic": "قُلْ إِنِّى عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَـٰصِلِينَ",
+            "transcription": "Qul innī ʿalā bayyinatin min rabbī wa kadhdhabtum bihī mā ʿindī mā tastaʿjilūna bihī inil-ḥukmu illā lillāh yaquṣṣu l-ḥaqqa wa huwa khayru l-fāṣilīn",
+            "translation": "Ayting: \"Men Robbimdan kelgan aniq dalil ustidaman, sizlar esa uni yolg'on deb qo'ydingiz. Siz shoshilib so'rayotgan narsa (azob) mening qo'limda emas. Hukm faqat Allohga xosdir. U haqiqatni bayon qiladi va U eng yaxshi hukm qiluvchidir\".",
+            "tafsir": "Haqiqat va hukm faqat Allohga tegishli.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٨",
+            "numberLatin": "58",
+            "arabic": "قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّـٰلِمِينَ",
+            "transcription": "Qul law anna ʿindī mā tastaʿjilūna bihī la-quḍiya l-amru baynī wa baynakum wa llāhu aʿlamu biẓ-ẓālimīn",
+            "translation": "Ayting: \"Agar siz shoshilib so'rayotgan narsa (azob) mening qo'limda bo'lsa, ish o'rtamizda hal bo'lib bo'lgan bo'lardi\". Alloh zolimlarni yaxshi biladi.",
+            "tafsir": "Azobning vaqti Alloh qo'lidadir.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٥٩",
+            "numberLatin": "59",
+            "arabic": "وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+            "transcription": "Wa ʿindahū mafātīḥu l-ghaybi lā yaʿlamuhā illā hū wa yaʿlamu mā fī l-barri wa l-baḥr wa mā tasquṭu min waraqatin illā yaʿlamuhā wa lā ḥabbatin fī ẓulumāti l-arḍi wa lā raṭbin wa lā yābisin illā fī kitābin mubīn",
+            "translation": "G'aybning kalitlari faqat Uning huzuridadir. U yerdagi va dengizdagi har bir narsani biladi. Hech bir barg tushmaydi, yerning qorong'u qatlamlaridagi hech bir don, hech bir ho'l va quruq narsa yo'qki, aniq kitobda (Lavhul Mahfuzda) bo'lmasin.",
+            "tafsir": "Allohning ilmi va hikmati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٠",
+            "numberLatin": "60",
+            "arabic": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌۭ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "transcription": "Wa huwa alladhī yatawaffākum bi-l-layli wa yaʿlamu mā jaraḥtum bi-n-nahāri thumma yabʿathukum fīhi li-yuḍā ajalun musammā thumma ilayhi marjiʿukum thumma yunabbi'ukum bimā kuntum taʿmalūn",
+            "translation": "U kishi sizlarni kechasi (uyqu paytida) o'lib qolgandek qilib oladi, kunduzi qilgan ishlaringizni biladi. So'ng sizni kunduzi tiriltiradi, shunda belgilangan muddat tugaydi. So'ngra Uning huzuriga qaytarilasiz va U sizga qilgan ishlaringiz haqida xabar beradi.",
+            "tafsir": "Allohning qudrati va inson hayoti.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦١",
+            "numberLatin": "61",
+            "arabic": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً ۖ حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+            "transcription": "Wa huwa l-qāhiru fawqa ʿibādihī wa yursilu ʿalaykum ḥafaẓatan ḥattā idhā jā'a aḥadakumu l-mawtu tawaffathu rusulunā wa hum lā yufarriṭūn",
+            "translation": "U bandalarining ustidan mutlaq hukmdordir. U sizlarga qo'riqchilar (farishtalar) yuboradi. Nihoyat, biror kishingizga o'lim kelganda, elchilarimiz (farishtalar) uning jonini oladilar va ular hech qanday kamchilik qilmaydilar.",
+            "tafsir": "Allohning qudrati va o'lim haqiqati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٢",
+            "numberLatin": "62",
+            "arabic": "ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَـٰسِبِينَ",
+            "transcription": "Thumma ruddū ilā llāhi mawlāhumu l-ḥaqqi alā lahu l-ḥukmu wa huwa asraʿu l-ḥāsibīn",
+            "translation": "So'ngra ular haqiqiy Homiy - Allohga qaytariladilar. Ogoh bo'ling! Hukm faqat Unga xosdir va U hisob-kitobni eng tez oluvchidir.",
+            "tafsir": "Qaytarilish joyi va Allohning adolati.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٣",
+            "numberLatin": "63",
+            "arabic": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًۭا وَخُفْيَةًۭ لَّئِنْ أَنجَىٰنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+            "transcription": "Qul man yunajjīkum min ẓulumāti l-barri wa l-baḥri tadʿūnahu taḍarruʿan wa khufyatan la'in anjānā min hādhihī la-nakūnanna mina sh-shākirīn",
+            "translation": "Ayting: \"Qorong'u quruqlik va dengizdagi ofatlardan sizni kim qutqaradi? Siz Unga ochiq-ochiq va yashirin duo qilib: \"Agar bizni bu ofatdan qutqarsa, albatta shukronalardan bo'lamiz\", deysiz\".",
+            "tafsir": "Insonning nochorligi va Allohga sig'inish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٤",
+            "numberLatin": "64",
+            "arabic": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍۢ ثُمَّ أَنتُمْ تُشْرِكُونَ",
+            "transcription": "Quli llāhu yunajjīkum minhā wa min kulli karbin thumma antum tushrikūn",
+            "translation": "Ayting: \"Alloh sizni undan va har bir qiyinchilikdan qutqaradi. So'ngra siz shirk qilasiz\".",
+            "tafsir": "Allohning qutqaruvchi qudrati va shirkning ahmoqligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٥",
+            "numberLatin": "65",
+            "arabic": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًۭا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًۭا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+            "transcription": "Qul huwa l-qādiru ʿalā an yabʿatha ʿalaykum ʿadhāban min fawqikum aw min taḥti arjulikum aw yalbisakum shiyaʿan wa yudhīqa baʿḍakum ba'sa baʿḍin unẓur kayfa nuṣarrifu l-āyāti laʿallahum yafqahūn",
+            "translation": "Ayting: \"U sizga ustingizdan yoki oyoqlaringiz ostidan azob yuborishga yoki sizni guruhlarga bo'lib, bir-biringizga zo'rliki bilan totib berishga qodirdir\". Qarang, Biz oyatlarimizni qanday tushuntiramiz, shoyad ular tushunsalar.",
+            "tafsir": "Allohning qudrati va turli azoblar.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٦",
+            "numberLatin": "66",
+            "arabic": "وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍ",
+            "transcription": "Wa kadhdhaba bihī qawmuka wa huwa l-ḥaqqu qul lastu ʿalaykum biwakīl",
+            "translation": "Sening qavming (Qur'on)ni yolg'on deb qo'ydi, holbuki u haqdir. Ayting: \"Men sizga vakil emasman\".",
+            "tafsir": "Qavmning inkori va payg'ambarning vazifasi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٧",
+            "numberLatin": "67",
+            "arabic": "لِّكُلِّ نَبَإٍۢ مَّسْتَقَرٌّۭ ۚ وَسَوْفَ تَعْلَمُونَ",
+            "transcription": "Likulli naba'in mustaqarrun wa sawfa taʿlamūn",
+            "translation": "Har bir xabar uchun belgilangan vaqt bor va siz tez orada bilasiz.",
+            "tafsir": "Haqiqatning paydo bo'lish vaqti.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٨",
+            "numberLatin": "68",
+            "arabic": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "transcription": "Wa idhā ra'ayta alladhīna yakhūḍūna fī āyātinā fa-aʿriḍ ʿanhum ḥattā yakhūḍū fī ḥadīthin ghayrihī wa immā yunsiyannaka sh-shayṭānu falā taqʿud baʿda dh-dhikrā maʿa l-qawmi ẓ-ẓālimīn",
+            "translation": "Oyatlarimiz haqida behuda gapiruvchilarni ko'rsang, ular boshqa mavzuga o'tgunlarigacha ulardan yuz o'gir. Agar shayton senga unutdirsa, eslangandan keyin zolimlar bilan birga o'tirma.",
+            "tafsir": "Batil gaplardan uzoqlashish.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٦٩",
+            "numberLatin": "69",
+            "arabic": "وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍۢ وَلَـٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+            "transcription": "Wa mā ʿalā alladhīna yattaqūna min ḥisābihim min shay'in wa lākin dhikrā laʿallahum yattaqūn",
+            "translation": "Taqvodorlar uchun ularning hisob-kitobi (yomonliklari)dan hech narsa yo'q. Lekin (ularni ogohlantirish) ibrat olishlari uchundir.",
+            "tafsir": "Taqvodorlarning mas'uliyatsizligi.",
+            "copySymbol": "📋"
+          },
+          {
+            "numberArabic": "٧٠",
+            "numberLatin": "70",
+            "arabic": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًۭا وَلَهْوًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّۭ وَلَا شَفِيعٌۭ وَإِن تَعْدِلْ كُلَّ عَدْلٍۢ لَّا يُؤْخَذْ مِنْهَا ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+            "transcription": "Wa dhari alladhīna ittakhadhū dīnahum laʿiban wa lahwān wa gharathumu l-ḥayātu d-dunyā wa dhakkir bihī an tubsala nafsun bimā kasabat laysa lahā min dūni llāhi waliyyun wa lā shafīʿun wa in taʿdil kulla ʿadlin lā yu'khadh minhā ulā'ika alladhīna ubsilū bimā kasabū lahum sharābun min ḥamīmin wa ʿadhābun alīmun bimā kānū yakfurūn",
+            "translation": "Dinlarini o'yin-kulgiga aylantirgan va dunyo hayoti ularni aldagan kishilarni tashlab qo'y. (Odamlarni) shu (Qur'on) bilan ogohlantirki, hech bir jon o'z kazosi (gunohi) uchun ushlanib qolmasin. Undan tashqari uning uchun Allohdan boshqa hech bir himoyachi va shafoatchi bo'lmaydi. Agar u butun dunyoni fidyaga bersa ham, undan qabul qilinmaydi. Ana o'shalar o'z kazolari uchun ushlanib qolganlardir. Ular uchun qaynoq ichimlik va kufrlari tufayli alamli azob bo'ladi.",
+            "tafsir": "Dinni o'yin-kulgiga aylantirganlarning aqibati.",
+            "copySymbol": "📋"
+          },
+
+      {
+      "numberArabic": "٧١",
+      "numberLatin": "71",
+      "arabic": "قُلْ أَنَدْعُو مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌۭ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "transcription": "Qul a-nadʿū min dūni llāhi mā lā yanfaʿunā wa lā yaḍurrunā wa nuraddu ʿalā aʿqābinā baʿda idh hadānā llāhu ka-lladhī stahwathu sh-shayāṭīnu fī l-arḍi ḥayrāna lahū aṣḥābun yadʿūnahū ilā l-hudā i'tinā qul inna hudā llāhi huwa l-hudā wa umirnā li-nuslima li-rabbi l-ʿālamīn",
+      "translation": "Ayting: \"Allohdan boshqa foyda ham, zarar ham keltirmaydigan narsalarga duo qilaylikmi? Alloh bizni hidoyat qilganidan keyin orqamizga qaytaylikmi? Shunday kishi kabi bo'lib qolamizki, shaytonlar uni yer yuzida adashtirib, do'stlari uni to'g'ri yo'lga chaqirishsa ham, \"Bizga kel\" deydi\". Ayting: \"Albatta, Allohning hidoyati - asl hidoyatdir. Bizga olamlar Rabbiga bo'ysunish buyurilgan\".",
+      "tafsir": "Shirkning ahmoqligi va haqiqiy hidoyat Allohdan ekanligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٢",
+      "numberLatin": "72",
+      "arabic": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "transcription": "Wa an aqīmū ṣ-ṣalāta wa ttaqūh wa huwa lladhī ilayhi tuḥsharūn",
+      "translation": "\"Namozni to'kis ado eting va Undan qo'rqing. Siz Uning huzuriga to'planasiz\" (degan buyruq berilgan).",
+      "tafsir": "Namoz va taqvo haqida.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٣",
+      "numberLatin": "73",
+      "arabic": "وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "transcription": "Wa huwa lladhī khalaqa s-samāwāti wa l-arḍa bi-l-ḥaqqi wa yauma yaqūlu kun fa-yakūnu qawluhu l-ḥaqqu wa lahu l-mulku yauma yunfakhu fī ṣ-ṣūri ʿālimu l-ghaybi wa sh-shahādati wa huwa l-ḥakīmu l-khabīr",
+      "translation": "U osmonlar va yerni haq bilan yaratgan Zotdir. U bir narsaga \"Bo'l\" degan kuni, u darhol bo'ladi. Uning so'zi haqdir. Sur chalinadigan kuni hukmronlik Unga xosdir. U yashirin va oshkora narsalarni biluvchi, dono va xabardor Zotdir.",
+      "tafsir": "Allohning yaratish qudrati va hukmdorligi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٤",
+      "numberLatin": "74",
+      "arabic": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+      "transcription": "Wa idh qāla ibrāhīmu li-abīhi āzara a-tattakhidhu aṣnāman ālihatan innī arāka wa qawmaka fī ḍalālin mubīn",
+      "translation": "Ibrohim o'z otasi Ozarga: \"Sen butlarni iloh tutasizmi? Albatta, men seni va qavmingni ochiq-oydin adashgan holda ko'ryapman\", degan edi.",
+      "tafsir": "Ibrohim payg'ambarning otasini ogohlantirishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٥",
+      "numberLatin": "75",
+      "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+      "transcription": "Wa kadhalika nurī ibrāhīma malakūta s-samāwāti wa l-arḍi wa li-yakūna mina l-mūqinīn",
+      "translation": "Shunday qilib, Biz Ibrohimga osmonlar va yerning hukmdorligini ko'rsatdik, shu bilan u ishonchli kishilardan bo'lsin.",
+      "tafsir": "Ibrohimga Allohning qudratini ko'rsatish.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٦",
+      "numberLatin": "76",
+      "arabic": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْـَٔافِلِينَ",
+      "transcription": "Falammā janna ʿalayhi l-laylu ra'ā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīn",
+      "translation": "Tun unga qoplaganida bir yulduzni ko'rib: \"Bu mening Robbim\", dedi. U botgach esa: \"Men botuvchilarni yoqtirmayman\", dedi.",
+      "tafsir": "Ibrohimning yulduzga sig'inishdan voz kechishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٧",
+      "numberLatin": "77",
+      "arabic": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًۭا قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ",
+      "transcription": "Falammā ra'ā l-qamara bāzighan qāla hādhā rabbī fa-lammā afala qāla la'in lam yahdinī rabbī la-akūnanna mina l-qawmi ḍ-ḍāllīn",
+      "translation": "Oy chiqayotganini ko'rib: \"Bu mening Robbim\", dedi. U botgach esa: \"Agar Robbim menga hidoyat qilmasa, albatta adashganlardan bo'lib qolarman\", dedi.",
+      "tafsir": "Ibrohimning oyga sig'inishdan voz kechishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٨",
+      "numberLatin": "78",
+      "arabic": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةًۭ قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌۭ مِّمَّا تُشْرِكُونَ",
+      "transcription": "Falammā ra'ā sh-shamsa bāzighatan qāla hādhā rabbī hādhā akbaru fa-lammā afalat qāla yā-qawmi innī barī'un mimmā tushrikūn",
+      "translation": "Quyosh chiqayotganini ko'rib: \"Bu mening Robbim, bu kattaroq\", dedi. U botgach esa: \"Ey qavmim, men sizlar sherik qilayotgan narsalardan uzoqdaman\", dedi.",
+      "tafsir": "Ibrohimning quyoshga sig'inishdan voz kechishi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٩",
+      "numberLatin": "79",
+      "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "transcription": "Innī wajjahtu wajhiya li-lladhī faṭara s-samāwāti wa l-arḍa ḥanīfan wa mā anā mina l-mushrikīn",
+      "translation": "\"Men yuzimni osmonlar va yerni yaratgan Zotga qaratdim. Hanif (to'g'ri yo'lda) bo'lib, mushriklardan emasman\".",
+      "tafsir": "Ibrohimning tovhidga da'vati.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٠",
+      "numberLatin": "80",
+      "arabic": "وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَـٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًۭٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+      "transcription": "Wa ḥājjahū qawmuh qāla a-tuḥājjūnī fī llāhi wa qad hadānī wa lā akhāfu mā tushrikūna bihī illā an yashā'a rabbī shay'an wasiʿa rabbī kulla shay'in ʿilman a-falā tata dhakkarūn",
+      "translation": "Qavmi unga bahslashdi. U: \"Alloh haqida menga bahslashasizlarmi? Holbuki U menga hidoyat qilgan. Men sizlar sherik qilayotgan narsalardan qo'rqmayman. Faqat Robbim biror narsani xohlasa (bo'ladi). Robbimning ilmi har bir narsani qamrab oladi. Ogohlana olmaysizlarmi?\" dedi.",
+      "tafsir": "Ibrohimning qavmi bilan munozarasi.",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨١",
+      "numberLatin": "81",
+      "arabic": "وَكَيْفَ أَخَافُ مَا أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَـٰنًۭا ۖ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+      "transcription": "Wa kayfa akhāfu mā ashraktum wa lā takhāfūna annakum ashraktum billāhi mā lam yunazzil bihi ʿalaykum sulṭānan fa-ayyu l-farīqayni aḥaqqu bi-l-amni in kuntum taʿlamūn",
+      "translation": "Siz sherik qoʻshgan narsalardan qanday qoʻrqayman? Siz esa Allohga hech qanday dalil tushirmagan narsalarni sherik qoʻshganingizdan qoʻrqmayapsizlar. Agar biladigan boʻlsangiz, ikki guruhdan qaysi biri xavfsizlikka loyiq?",
+      "tafsir": "Shirkning asossizligi va tovhidning ustunligi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٢",
+      "numberLatin": "82",
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+      "transcription": "Alladhīna āmanū wa lam yalbisū īmānahum biẓulmin ulā'ika lahumu l-amnu wa hum muhtadūn",
+      "translation": "Iymon keltirib, imonlarini zulm (shirk) bilan bulgʻamaganlar - aynan ular xavfsizlikda boʻladilar va ular toʻgʻri yoʻldadirlar.",
+      "tafsir": "Halol imon va uning mukofoti",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٣",
+      "numberLatin": "83",
+      "arabic": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍۢ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ",
+      "transcription": "Wa tilka ḥujjatunā ātaynāhā ibrāhīma ʿalā qawmihī narfaʿu darajātin man nashā'u inna rabbaka ḥakīmun ʿalīm",
+      "translation": "Bu - Ibrohimga qavmi ustidan bergan dalilimizdir. Biz xohlagan kishilarni darajalarga koʻtaramiz. Albatta, Robbing hikmatli va biluvchi Zotdir.",
+      "tafsir": "Ibrohimning hujjati va Allohning hikmati",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٤",
+      "numberLatin": "84",
+      "arabic": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّۭا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "transcription": "Wa wahabnā lahu is'ḥāqa wa yaʿqūb kullan hadaynā wa nūḥan hadaynā min qablu wa min dhurriyyatihī dāwūda wa sulaymāna wa ayyūba wa yūsufa wa mūsā wa hārūn wa kadhalika najzī l-muḥsinīn",
+      "translation": "Biz unga Ishoq va Ya'qubni ato qildik. Barchasini hidoyat qildik. Bundan oldin Nuhni ham hidoyat qilgan edik. Uning avlodlaridan Dovud, Sulaymon, Ayub, Yusuf, Muso va Horunni ham (hidoyat qildik). Biz yaxshilik qiluvchilarni shunday mukofotlaymiz.",
+      "tafsir": "Paygʻambarlarning nasli va Allohning in'omi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٥",
+      "numberLatin": "85",
+      "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+      "transcription": "Wa zakariyyā wa yaḥyā wa ʿīsā wa ilyās kullun mina ṣ-ṣāliḥīn",
+      "translation": "Zakariyo, Yahyo, Iso va Ilyosni ham (hidoyat qildik). Barchasi solih kishilardan edilar.",
+      "tafsir": "Solih paygʻambarlar",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٦",
+      "numberLatin": "86",
+      "arabic": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًۭا ۚ وَكُلًّۭا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+      "transcription": "Wa is'māʿīla wa l-yasaʿa wa yūnusa wa lūṭan wa kullan faḍḍalnā ʿalā l-ʿālamīn",
+      "translation": "Ismoil, Alyasa', Yunus va Lutni ham (hidoyat qildik). Barchasini olamlar ustiga afzal qildik.",
+      "tafsir": "Paygʻambarlarning fazilatlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٧",
+      "numberLatin": "87",
+      "arabic": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+      "transcription": "Wa min ābā'ihim wa dhurriyyātihim wa ikhwānihim wa jtabaynāhum wa hadaynāhum ilā ṣirāṭin mustaqīm",
+      "translation": "Ularning otalari, avlodlari va birodarlaridan ham (hidoyat qildik). Biz ularni tanlab, toʻgʻri yoʻlga hidoyat qildik.",
+      "tafsir": "Paygʻambarlarning nasl-nasabi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٨",
+      "numberLatin": "88",
+      "arabic": "ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ",
+      "transcription": "Dhālika hudā llāhi yahdī bihī man yashā'u min ʿibādihī wa law ashrakū laḥabiṭa ʿanhum mā kānū yaʿmalūn",
+      "translation": "Bu Allohning hidoyatidir. U oʻz bandalaridan xohlaganini unga hidoyat qiladi. Agar ular sherik qoʻshgan boʻlsalar, qilgan amallari barbod boʻlgan boʻlardi.",
+      "tafsir": "Hidoyat Alloh qoʻlida",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٨٩",
+      "numberLatin": "89",
+      "arabic": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًۭا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+      "transcription": "Ulā'ika alladhīna ātaynāhumu l-kitāba wa l-ḥukma wa n-nubuwwata fa-in yakfur bihā hā'ulā'i fa-qad wakkalnā bihā qawman laysū bihā bikāfirīn",
+      "translation": "Ana o'shalarga Biz kitob, hikmat va paygʻambarlik ato qildik. Agar bu kishilar (Makka mushriklari) ularga kufr qilsalar, albatta, Biz ularni (haqiqatni) inkor etmaydigan qavmga topshiramiz.",
+      "tafsir": "Paygʻambarlarga ato etilgan ne'matlar",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٠",
+      "numberLatin": "90",
+      "arabic": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+      "transcription": "Ulā'ika alladhīna hadā llāhu fa-bihudāhumu qtadih qul lā as'alukum ʿalayhi ajran in huwa illā dhikrā li-l-ʿālamīn",
+      "translation": "Ana o'shalar Alloh hidoyat qilganlardir. Bas, ularning hidoyatiga ergashing. Ayting: \"Men buning uchun sizlardan hech qanday haq soʻramayman. Bu butun olamlar uchungina eslatmadir\".",
+      "tafsir": "Paygʻambarlarga ergashish va risolatning maqsadi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩١",
+      "numberLatin": "91",
+      "arabic": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍۢ مِّن شَىْءٍۢ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًۭا وَهُدًۭى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًۭا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "transcription": "Wa mā qadarū llāha ḥaqqa qadrihī idh qālū mā anzala llāhu ʿalā basharin min shay'in qul man anzala l-kitāba lladhī jā'a bihī mūsā nūran wa hudan li-n-nāsi tajʿalūnahu qarāṭīsa tubdūnahā wa tukhfūna kathīran wa ʿullimtum mā lam taʿlamū antum wa lā ābā'ukum quli llāhu thumma dharhum fī khawḍihim yalʿabūn",
+      "translation": "Ular Allohni uning qadr-qimmatiga loyiq qadrlamadilar. Chunki ular: \"Alloh hech bir insonga hech narsa tushirmagan\" dedilar. Ayting: \"Muso olib kelgan kitobni kim tushirdi? U insonlar uchun nur va hidoyatdir. Siz uni qogʻozlarga yozib, ayrimlarini koʻrsatib, koʻpini yashirasiz. Siz va otalaringiz bilmagan narsalarni oʻrgandingiz\". Ayting: \"Alloh (tushirgan)\". Soʻngra ularni behuda gap va ishlarida qoldiring.",
+      "tafsir": "Tavrotning haqiqati va yahudiylarning unga nisbatan munosabati",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٢",
+      "numberLatin": "92",
+      "arabic": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌۭ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "transcription": "Wa hādhā kitābun anzalnāhu mubārakun muṣaddiqu lladhī bayna yadayhi wa li-tundhira umma l-qurā wa man ḥawlahā wa lladhīna yu'minūna bi-l-ākhirati yu'minūna bihī wa hum ʿalā ṣalātihim yuḥāfiẓūn",
+      "translation": "Bu (Qurʼon) Biz tushirgan muborak kitobdir. U oʻzidan oldingi (kitob)larni tasdiqlovchidir. Shuningdek, Makka va uning atrofidagilarni ogohlatishing uchundir. Oxiratga imon keltirganlar unga (Qurʼonga) ham imon keltiradilar va ular namozlarini doimiy ado etadilar.",
+      "tafsir": "Qurʼonning fazilatlari va moʻminlarning xususiyatlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٣",
+      "numberLatin": "93",
+      "arabic": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌۭ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ",
+      "transcription": "Wa man aẓlamu mimmani ftarā ʿalā llāhi kaḏiban aw qāla ūḥiya ilayya wa lam yūḥa ilayhi shay'un wa man qāla sa-unzilu mithla mā anzala llāhu wa law tarā idhiẓ-ẓālimūna fī ghamarāti l-mawti wa l-malā'ikatu bāsiṭū aydīhim akhrijū anfusakumu l-yawma tujzawna ʿadhāba l-hūni bimā kuntum taqūlūna ʿalā llāhi ghayra l-ḥaqqi wa kuntum ʿan āyātihi tastakbirūn",
+      "translation": "Allohga nisbatan yolgʻon uydirgan yoki \"Menga vahiy kelgan\" degan kishidan ham, \"Alloh tushirgan kabi men ham tushiraman\" degan kishidan ham zolimroq kishi bormi? Agar zolimlarning oʻlim azoblaridagi holatini koʻrsang, farishtalar qoʻllarini choʻzib: \"Jonlaringizni chiqaring! Bugun Allohga nisbatan notoʻgʻri gapirganingiz va Uning oyatlaridan magʻrurlik qilganingiz uchun xorlovchi azob bilan jazolanursiz\", deganlarini koʻrgan boʻlardingiz.",
+      "tafsir": "Yolgʻon daʼvolar va ularning jazosi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٤",
+      "numberLatin": "94",
+      "arabic": "وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍۢ وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَـٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ",
+      "transcription": "Wa laqad ji'tumūnā furādā kamā khalaqnākum awwala marratin wa taraktum mā khawwalanākum warā'a ẓuhūrikum wa mā narā maʿakum shufaʿā'akumu lladhīna zaʿamtum annahum fīkum shurakā'u laqad taqaṭṭaʿa baynakum wa ḍalla ʿankum mā kuntum tazʿumūn",
+      "translation": "Sizlar Birinchi marta yaratganimizdagina yolgʻiz holda Bizning huzurimizga keldingiz. Sizlarga ato etgan neʼmatlaringizni orqangizda qoldirdingiz. Sizlar oʻz sheriklaringiz deb oʻylagan shafoatçılarınızni ham siz bilan birga koʻrmayapmiz. Endi oranızdagi aloqalar uzildi va daʼvo qilgan narsalaringiz sizlardan gʻoyib boʻldi.",
+      "tafsir": "Qiyomat kuni insonning holati",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٥",
+      "numberLatin": "95",
+      "arabic": "إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۖ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "transcription": "Inna llāha fāliqu l-ḥabbi wa n-nawā yukhriju l-ḥayya mina l-mayyiti wa mukhriju l-mayyiti mina l-ḥayyi dhālikumu llāhu fa-annā tu'fakūn",
+      "translation": "Albatta, Alloh don va urugʻlarni yoruvchidir. Tirikni oʻlikdan, oʻlikni tirikdan chiqaruvchidir. Ana shu Allohdir. Qanday qilib (haqiqatdan) burilipsizlar?",
+      "tafsir": "Allohning qudrati va yaratish sirlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٦",
+      "numberLatin": "96",
+      "arabic": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًۭا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "transcription": "Fāliqu l-iṣbāḥi wa jaʿala l-layla sakanan wa sh-shamsa wa l-qamara ḥusbānan dhālika taqdīru l-ʿazīzi l-ʿalīm",
+      "translation": "U tongni yoruvchi, tunni dam olish vaqti, quyosh va oyni hisob-kitob uchun qilgan Zotdir. Bu qudratli va biluvchi Zotning taqdiridir.",
+      "tafsir": "Tabiat qonunlari va Allohning hikmati",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٧",
+      "numberLatin": "97",
+      "arabic": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ",
+      "transcription": "Wa huwa lladhī jaʿala lakumu n-nujūma li-tahtadū bihā fī ẓulumāti l-barri wa l-baḥri qad faṣṣalnā l-āyāti li-qawmin yaʿlamūn",
+      "translation": "U sizlar uchun yulduzlarni yaratdi, shunda quruqlik va dengizdagi zulmatlarda ular bilan yoʻl topsangiz. Biz biladigan qavm uchun oyatlarimizni batafsil bayon qildik.",
+      "tafsir": "Yulduzlarning hikmati va ilohiy oyatlar",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٨",
+      "numberLatin": "98",
+      "arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ فَمُسْتَقَرٌّۭ وَمُسْتَوْدَعٌۭ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَفْقَهُونَ",
+      "transcription": "Wa huwa lladhī ansha'akum min nafsin wāḥidatin fa-mustaqarrun wa mustawdaʿun qad faṣṣalnā l-āyāti li-qawmin yafqahūn",
+      "translation": "U sizlarni bir jon (Odam)dan yaratgan Zotdir. (Sizlar uchun) qarorgoh (boshi) va vaqtincha saqlanish joyi (qabriston) bor. Biz tushunadigan qavm uchun oyatlarimizni batafsil bayon qildik.",
+      "tafsir": "Insoniyatning kelib chiqishi va hayot manzillari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٩٩",
+      "numberLatin": "99",
+      "arabic": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍۢ فَأَخْرَجْنَا مِنْهُ خَضِرًۭا نُّخْرِجُ مِنْهُ حَبًّۭا مُّتَرَاكِبًۭا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌۭ دَانِيَةٌۭ وَجَنَّـٰتٍۢ مِّنْ أَعْنَابٍۢ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًۭا وَغَيْرَ مُتَشَـٰبِهٍ ۗ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ ۚ إِنَّ فِى ذَٰلِكُمْ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+      "transcription": "Wa huwa lladhī anzala mina s-samā'i mā'an fa-akhrajnā bihī nabāta kulli shay'in fa-akhrajnā minhu khaḍiran nukhriju minhu ḥabban mutarākiban wa mina n-nakhli min ṭalʿihā qinwānun dāniyatun wa jannātin min aʿnābin wa z-zaytūna wa r-rummāna mushtabihan wa ghayra mutashābihin unẓurū ilā thamarihī idhā athmara wa yanʿihī inna fī dhālikum la'āyātin li-qawmin yu'minūn",
+      "translation": "U osmondan suv tushirgan Zotdir. Biz uning bilan har bir narsaning oʻsimligini chiqardik. Undan yashil narsalarni chiqardik, undan ustma-ust tushadigon donlar chiqardik. Xurmozorlardan shoxlariga osilib turgan dastalarni, uzum bogʻlarini, zaytun va anorni - bir-biriga oʻxshash va oʻxshamagan mevalarni chiqardik. Meva bergan va yetilgan paytlariga qarang! Albatta, bunda imon keltiradigan qavm uchun oyatlar bor.",
+      "tafsir": "Allohning tabiatdagi qudrati va neʼmatlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٠",
+      "numberLatin": "100",
+      "arabic": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍۢ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ",
+      "transcription": "Wa jaʿalū li-llāhi shurakā'a l-jinna wa khalaqahum wa kharaqū lahu banīna wa banātin bi-ghayri ʿilmin subḥānahu wa taʿālā ʿammā yaṣifūn",
+      "translation": "Ular jinlarni Allohga sherik qilib qoʻyishdi, holbuki ularni ham Alloh yaratgan. Bilmasdan Unga oʻgʻil va qizlar toʻqishdi. U ularning sifatlari yuqoridadir.",
+      "tafsir": "Shirkning asossizligi va Allohning pokligi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠١",
+      "numberLatin": "101",
+      "arabic": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌۭ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌۭ ۖ وَخَلَقَ كُلَّ شَىْءٍۢ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+      "transcription": "Badīʿu s-samāwāti wa l-arḍi annā yakūnu lahu waladun wa lam takun lahu ṣāḥibatun wa khalaqa kulla shay'in wa huwa bikulli shay'in ʿalīm",
+      "translation": "U osmonlar va yerni yoʻqdan bor qilgan Zotdir. Uning xotini boʻlmagan holda, uning farzandi qanday boʻlishi mumkin? U har bir narsani yaratgan va har bir narsani biluvchi Zotdir.",
+      "tafsir": "Allohning yagona yaratuvchi ekanligi va farzandlik daʼvosining asossizligi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٢",
+      "numberLatin": "102",
+      "arabic": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ خَـٰلِقُ كُلِّ شَىْءٍۢ فَٱعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
+      "transcription": "Dhālikumu llāhu rabbukum lā ilāha illā huwa khāliqu kulli shay'in faʿbudūhu wa huwa ʿalā kulli shay'in wakīl",
+      "translation": "Ana shu Alloh - Robbingizdir. Undan boshqa iloh yoʻq. U har bir narsaning yaratuvchisidir. Bas, Unga ibodat qiling. U har bir narsaga kafolat beruvchi Zotdir.",
+      "tafsir": "Tovhid va ibodatning asoslari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٣",
+      "numberLatin": "103",
+      "arabic": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+      "transcription": "Lā tudrikuhu l-abṣāru wa huwa yudriku l-abṣāra wa huwa l-laṭīfu l-khabīr",
+      "translation": "Koʻzlar Uni koʻrolmaydi, U esa koʻzlarni koʻradi. U nozik va xabardor Zotdir.",
+      "tafsir": "Allohning mohiyati va fazilatlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٤",
+      "numberLatin": "104",
+      "arabic": "قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍۢ",
+      "transcription": "Qad jā'akum baṣā'iru min rabbikum fa-man abṣara fa-li-nafsihī wa man ʿamiya fa-ʿalayhā wa mā anā ʿalaykum biḥafīẓ",
+      "translation": "Robbingizdan sizga aniq dalillar keldi. Kim koʻrsa (haqni qabul qilsa), oʻz foydasiga. Kim koʻr boʻlsa (haqdan yuz oʻgirsayam), oʻz zarariga. Men sizlarning ustozi emasman.",
+      "tafsir": "Hidoyat va adashishning oqibatlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٥",
+      "numberLatin": "105",
+      "arabic": "وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍۢ يَعْلَمُونَ",
+      "transcription": "Wa kadhalika nuṣarrifu l-āyāti wa li-yaqūlū darasta wa li-nubayyinahu li-qawmin yaʿlamūn",
+      "translation": "Biz oyatlarimizni shunday tushuntiramizki, ular \"Siz oʻrgangan boʻlsangiz kerak\" desinlar va biladigan qavm uchun uni aniq bayon qilamiz.",
+      "tafsir": "Qurʼon oyatlarining mohiyati",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٦",
+      "numberLatin": "106",
+      "arabic": "ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+      "transcription": "Ittabiʿ mā ūḥiya ilayka min rabbika lā ilāha illā huwa wa aʿriḍ ʿani l-mushrikīn",
+      "translation": "Robbingdan senga vahiy qilingan narsaga ergash. Undan boshqa iloh yoʻq. Mushriklardan yuz oʻgir.",
+      "tafsir": "Paygʻambarning vazifasi va mushriklarga munosabat",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٧",
+      "numberLatin": "107",
+      "arabic": "وَلَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكُوا۟ ۗ وَمَا جَعَلْنَـٰكَ عَلَيْهِمْ حَفِيظًۭا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍۢ",
+      "transcription": "Wa law shā'a llāhu mā ashrakū wa mā jaʿalnāka ʿalayhim ḥafīẓan wa mā anta ʿalayhim biwakīl",
+      "translation": "Agar Alloh xohlasa, ular sherik qoʻshmas edilar. Biz seni ularning ustozi qilmaganmiz va sen ularning vakili emassan.",
+      "tafsir": "Inson irodasi va Allohning irodasi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٨",
+      "numberLatin": "108",
+      "arabic": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوَۢا بِغَيْرِ عِلْمٍۢ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "transcription": "Wa lā tasubbū alladhīna yadʿūna min dūni llāhi fa-yasubbū llāha ʿadwan bi-ghayri ʿilmin kadhalika zayyannā li-kulli ummatin ʿamalahum thumma ilā rabbihim marjiʿuhum fa-yunabbi'uhum bimā kānū yaʿmalūn",
+      "translation": "Allohdan boshqa ibodat qilayotganlarni haqorat qilmang, yoki ular bilmasdan Allohni haqorat qilishadi. Biz har bir ummatga oʻz amallarini yaxshi koʻrinish qilib qoʻyganmiz. Soʻngra ular Robbilariga qaytariladilar va U ularga qilgan amallarini xabar beradi.",
+      "tafsir": "Munozarada adab va turli ummatlarning eʼtiqodlari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٠٩",
+      "numberLatin": "109",
+      "arabic": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+      "transcription": "Wa aqsamū bi-llāhi jahda aymānihim la'in jā'at-hum āyatun la-yu'minunna bihā qul innamā l-āyātu ʿinda llāhi wa mā yushʿirukum annahā idhā jā'at lā yu'minūn",
+      "translation": "Ular qasam ichib aytishadi: \"Agar ularga biror moʻjiza kelsa, albatta unga ishonadilar\". Ayting: \"Moʻjizalar faqat Alloh qoʻlidadir\". (Lekin) nima bilasizki, moʻjiza kelsa ham, ular ishonmaydi?",
+      "tafsir": "Kofirlarning moʻjiza talabi va ularning inqirozi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٠",
+      "numberLatin": "110",
+      "arabic": "وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍۢ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "transcription": "Wa nuqallibu af'idatahum wa abṣārahum kamā lam yu'minū bihī awwala marratin wa nadharuhum fī ṭughyānihim yaʿmahūn",
+      "translation": "Biz ularning qalblari va koʻzlarini aylantiramiz, chunki ular birinchi marta unga ishonmagan edilar. Biz ularni toʻgʻri yoʻldan ozgan holda, adashib yurishlariga qoʻyib beramiz.",
+      "tafsir": "Qalblarning qotishi va adashishning sabablari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١١",
+      "numberLatin": "111",
+      "arabic": "وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَـٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍۢ قُبُلًۭا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَـٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+      "transcription": "Wa law annanā nazzalnā ilayhimu l-malā'ikata wa kallamahumu l-mawtā wa ḥasharnā ʿalayhim kulla shay'in qubulan mā kānū li-yu'minū illā an yashā'a llāhu wa lākinna aktharahum yajhalūn",
+      "translation": "Agar Biz ularga farishtalarni tushirsak, oʻliklar ular bilan gaplashsa va hamma narsani ular oldiga toʻplasak ham, Alloh xohlamaguncha ishonmaydilar. Lekin ularning koʻpchiligi nodonlik qiladi.",
+      "tafsir": "Kofirlarning qattiq qalbliligi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٢",
+      "numberLatin": "112",
+      "arabic": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍۢ زُخْرُفَ ٱلْقَوْلِ غُرُورًۭا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "transcription": "Wa kadhalika jaʿalnā li-kulli nabiyyin ʿaduwwan shayāṭīna l-insi wa l-jinni yūḥī baʿḍuhum ilā baʿḍin zukhrufa l-qawli ghurūran wa law shā'a rabbuka mā faʿalūhu fa-dharhum wa mā yaftarūn",
+      "translation": "Shunday qilib, Biz har bir paygʻambarga ins va jin shaytonlaridan dushman qildik. Ular bir-birlariga yolgʻon va yaxshi koʻrinadigan soʻzlar vahiy qiladi. Agar Robbing xohlasa, ular bunday qilmas edilar. Bas, ularni va uydirgan yolgʻonlarini tashlab qoʻy.",
+      "tafsir": "Paygʻambarlarga qarshi kurash usullari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٣",
+      "numberLatin": "113",
+      "arabic": "وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ",
+      "transcription": "Wa li-taṣghā ilayhi af'idatu alladhīna lā yu'minūna bi-l-ākhirati wa li-yarḍawhu wa li-yaqtarifū mā hum muqtarifūn",
+      "translation": "(Bu) oxiratga ishonmaydiganlarning qalblari unga (yolgʻonga) moyil boʻlishi, undan rozi boʻlishi va qilayotgan gunohlarini qilishlari uchundir.",
+      "tafsir": "Yolgʻon eʼtiqodlarning jalb qilish usullari",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٤",
+      "numberLatin": "114",
+      "arabic": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًۭا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَـٰبَ مُفَصَّلًۭا ۚ وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌۭ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "transcription": "A-fa-ghayra llāhi abtaghī ḥakaman wa huwa lladhī anzala ilaykumu l-kitāba mufaṣṣalan wa alladhīna ātaynāhumu l-kitāba yaʿlamūna annahū munazzalun min rabbika bi-l-ḥaqqi fa-lā takūnanna mina l-mumtarīn",
+      "translation": "Allohdan boshqa hukm chiqaruvchini qidiraymanmi? Holbuki, U sizlarga tushirgan kitobni batafsil bayon qilgan. Kitob berilganlar biladiki, u Robbing tomonidan haq bilan tushirilgan. Shuning uchun shubhalanuvchilardan boʻlma!",
+      "tafsir": "Qurʼonning haqiqiy manbai",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٥",
+      "numberLatin": "115",
+      "arabic": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًۭا وَعَدْلًۭا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transcription": "Wa tammat kalimatu rabbika ṣidqan wa ʿadlan lā mubaddila li-kalimātihī wa huwa s-samīʿu l-ʿalīm",
+      "translation": "Robbingning soʻzlari haqiqat va adolat bilan toʻla. Uning soʻzlarini oʻzgartiruvchi yoʻq. U eshituvchi va biluvchi Zotdir.",
+      "tafsir": "Allohning soʻzlarining mukammalligi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٦",
+      "numberLatin": "116",
+      "arabic": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "transcription": "Wa in tuṭiʿ akthara man fī l-arḍi yuḍillūka ʿan sabīli llāhi in yattabiʿūna illā ẓ-ẓanna wa in hum illā yakhruṣūn",
+      "translation": "Agar yer yuzidagi koʻpchilikka itoat qilsang, ular seni Alloh yoʻlidan adashtirishadi. Ular faqat taxminga ergashadilar va faqat yolgʻon gapirishadilar.",
+      "tafsir": "Koʻpchilikning yoʻldan ozishi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٧",
+      "numberLatin": "117",
+      "arabic": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "transcription": "Inna rabbaka huwa aʿlamu man yaḍillu ʿan sabīlihī wa huwa aʿlamu bi-l-muhtadīn",
+      "translation": "Albatta, Robbing kim yoʻldan ozganini yaxshi biladi. U hidoyat topganlarni ham yaxshi biladi.",
+      "tafsir": "Allohning ilmi va hidoyat",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٨",
+      "numberLatin": "118",
+      "arabic": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+      "transcription": "Fa-kulū mimmā dhukira smu llāhi ʿalayhi in kuntum bi-āyātihī mu'minīn",
+      "translation": "Agar siz Allohning oyatlariga ishongan boʻlsangiz, ustida Allohning nomi zikr qilingan narsalardan yeng.",
+      "tafsir": "Halol ovqatlarning asosi",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١١٩",
+      "numberLatin": "119",
+      "arabic": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًۭا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍۢ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+      "transcription": "Wa mā lakum allā ta'kulū mimmā dhukira smu llāhi ʿalayhi wa qad faṣṣala lakum mā ḥarrama ʿalaykum illā mā ḍṭurirtum ilayhi wa inna kathīran la-yuḍillūna bi-ahwā'ihim bi-ghayri ʿilmin inna rabbaka huwa aʿlamu bi-l-muʿtadīn",
+      "translation": "Nega ustida Allohning nomi zikr qilingan narsalardan yemaysiz? Holbuki, U sizlar uchun haram qilingan narsalarni batafsil bayon qilgan. Faqat majburiyatda qolganingizdan mustasno. Koʻpchilik bilimsizlik bilan nafsining istaklariga ergashib, (odamlarni) adashtirishadi. Albatta, Robbing haddan oshuvchilarni yaxshi biladi.",
+      "tafsir": "Halol va haram haqida tafsilot",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "١٢٠",
+      "numberLatin": "120",
+      "arabic": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "transcription": "Wa dharū ẓāhira l-ithmi wa bāṭinahū inna alladhīna yaksibūna l-ithma sayujzawna bimā kānū yaqtarifūn",
+      "translation": "Gunohning zahiri va botinini tark eting. Albatta, gunoh qiluvchilar qilgan ishlari uchun jazolanadilar.",
+      "tafsir": "Gunohning har turidan saqlanish",
+      "copySymbol": "📋"
+    },
+    {
+      "numberArabic": "٧٢",
+        "numberLatin": "72",
+        "arabic": "وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ",
+        "transcription": "wa qālat ṭā'ifatun min ahli l-kitābi āminū bi-lladhī unzila ʿalā lladhīna āmanū wajha n-nahāri wa kfurū ākhirahū laʿallahum yarjiʿūn",
+        "translation": "Ahli kitobdan bir toifa: «Iymon keltirganlarga nozil qilingan narsaga kunning boshida iymon keltiring, oxirida esa inkor qiling, shoyad ular (dinlaridan) qaytarlar», dedi.",
+        "tafsir": "Ahli kitobning musulmonlarni shubhaga solish uchun soxta iymon ko'rsatib, keyin inkor qilish makri.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٣",
+        "numberLatin": "73",
+        "arabic": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+        "transcription": "wa lā tu'minū illā li-man tabiʿa dīnakum qul inna l-hudā hudā llāhi an yu'tā aḥadun mithla mā ūtītum aw yuḥājjūkum ʿinda rabbikum qul inna l-faḍla bi-yadi llāhi yu'tīhi man yashā'u wa llāhu wāsiʿun ʿalīm",
+        "translation": "«Faqat diningizga ergashganlarga ishoning». De: «Hidoyat Allohning hidoyatidir. Sizga berilganiga o'xshash biror kishiga berilishi yoki Rabbingiz huzurida siz bilan hujjatlashishlari (mumkin)». De: «Fazl Allohning qo'lida, uni xohlagan kishiga beradi. Alloh keng (fazlli) va biluvchidir».",
+        "tafsir": "Ahli kitobning hasadi va Allohning fazli kimga xohlasa berishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٤",
+        "numberLatin": "74",
+        "arabic": "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+        "transcription": "yakhtaṣṣu bi-raḥmatihī man yashā'u wa llāhu dhū l-faḍli l-ʿaẓīm",
+        "translation": "U O'z rahmati bilan xohlagan kishini xoslaydi. Alloh ulug' fazl sohibidir.",
+        "tafsir": "Allohning rahmati va payg'ambarlik xohlagan kishiga beriladi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٥",
+        "numberLatin": "75",
+        "arabic": "وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+        "transcription": "wa min ahli l-kitābi man in ta'manhu bi-qinṭārin yu'addihī ilayka wa minhum man in ta'manhu bi-dīnārin lā yu'addihī ilayka illā mā dumta ʿalayhi qā'iman dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna sabīlun wa yaqūlūna ʿalā llāhi l-kadhiba wa hum yaʿlamūn",
+        "translation": "Ahli kitobdan shundaylari borki, agar unga bir qintor ishonib topshirsang, senga qaytarib beradi. Ulardan shundaylari ham borki, agar bir dinor ishonib topshirsang, sen doim uning ustida turmasang, senga qaytarib bermaydi. Bu ular: «Ummiylar (arablar) borasida bizga gunoh yo'q», deganlari uchun. Ular bila turib Allohga yolg'on to'qiydilar.",
+        "tafsir": "Ahli kitobning bir qismi omonatdor, boshqalari esa arablarning molini yeyish halol deb o'ylaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٦",
+        "numberLatin": "76",
+        "arabic": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+        "transcription": "balā man awfā bi-ʿahdihī wa ttaqā fa-inna llāha yuḥibbu l-muttaqīn",
+        "translation": "Yo'q! Kim ahdiga vafo qilib, taqvo qilsa, albatta Alloh taqvodorlarni sevadi.",
+        "tafsir": "Ahd-paymonga vafodorlik va taqvo Alloh sevadigan xislatlardir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٧",
+        "numberLatin": "77",
+        "arabic": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+        "transcription": "inna lladhīna yashtarūna bi-ʿahdi llāhi wa aymānihim thamanan qalīlan ulā'ika lā khalāqa lahum fī l-ākhirati wa lā yukallimuhumu llāhu wa lā yanẓuru ilayhim yawma l-qiyāmati wa lā yuzakkīhim wa lahum ʿadhābun alīm",
+        "translation": "Allohning ahdi va o'z qasanlari evaziga oz bahoni sotib olganlar - ularning oxiratda nasibasi yo'q. Alloh ular bilan gaplashmaydi, qiyomat kuni ularga qaramaydi va ularni poklamaydi. Ularga alamli azob bor.",
+        "tafsir": "Yolg'on qasam ichib, Allohning ahdini buzganlarning qiyomatdagi dahshatli ahvoli.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٨",
+        "numberLatin": "78",
+        "arabic": "وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَـٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَـٰبِ وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+        "transcription": "wa inna minhum la-farīqan yalwūna alsinatahum bi-l-kitābi li-taḥsabūhu mina l-kitābi wa mā huwa mina l-kitābi wa yaqūlūna huwa min ʿindi llāhi wa mā huwa min ʿindi llāhi wa yaqūlūna ʿalā llāhi l-kadhiba wa hum yaʿlamūn",
+        "translation": "Ulardan bir guruh kitobni o'qishda tillarini burishtirib, siz uni kitobdan deb o'ylashingiz uchun (shunday qiladi). Holbuki u kitobdan emas. Ular: «U Alloh huzuridan», deydilar. Holbuki u Alloh huzuridan emas. Ular bila turib Allohga yolg'on to'qiydilar.",
+        "tafsir": "Ahli kitobning muqaddas kitoblarni tahriflaganligi va yolg'on narsalarni Allohga nisbat berganligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٧٩",
+        "numberLatin": "79",
+        "arabic": "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ",
+        "transcription": "mā kāna li-basharin an yu'tiyahu llāhu l-kitāba wa l-ḥukma wa n-nubuwwata thumma yaqūla li-n-nāsi kūnū ʿibādan lī min dūni llāhi wa lākin kūnū rabbāniyyīna bimā kuntum tuʿallimūna l-kitāba wa bimā kuntum tadrusūn",
+        "translation": "Alloh kitob, hukm va payg'ambarlik bergan biror bashar uchun odamlarga: «Allohni qo'yib, menga qul bo'linglar», deyish yarashmaydi. Balki: «Kitobni o'rgatganlaringiz va o'rganganlaringiz sababli rabboniy (Allohga xos) bo'linglar», (deydi).",
+        "tafsir": "Hech bir payg'ambar o'ziga ibodat qilishga chaqirmagan. Ular faqat Allohga bo'ysunishga da'vat qilgan.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٠",
+        "numberLatin": "80",
+        "arabic": "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ",
+        "transcription": "wa lā ya'murakum an tattakhidhū l-malā'ikata wa n-nabiyyīna arbāban a-ya'murukum bi-l-kufri baʿda idh antum muslimūn",
+        "translation": "U sizga farishtalar va payg'ambarlarni rab tutishni buyurmaydi. Musulmon bo'lganingizdan keyin sizga kufrni buyuradimi?!",
+        "tafsir": "Payg'ambarlar hech qachon farishtalar yoki o'zlariga sig'inishga chaqirmagan.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨١",
+        "numberLatin": "81",
+        "arabic": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ",
+        "transcription": "wa idh akhadha llāhu mīthāqa n-nabiyyīna la-mā ātaytukum min kitābin wa ḥikmatin thumma jā'akum rasūlun muṣaddiqun limā maʿakum la-tu'minunna bihī wa la-tanṣurunnahū qāla a-aqrartum wa akhadhtum ʿalā dhālikum iṣrī qālū aqrarnā qāla fa-shhadū wa anā maʿakum mina sh-shāhidīn",
+        "translation": "Alloh payg'ambarlardan ahd olganda: «Sizga kitob va hikmat berganimdan keyin sizda bo'lgan narsani tasdiqlagan rasul kelsa, albatta unga iymon keltirasizlar va albatta unga yordam berasizlar», (dedi). «Iqror bo'ldingizlarmi va bu borada Mening og'ir ahdimni oldingizlarmi?» dedi. «Iqror bo'ldik», dedilar. «Guvoh bo'linglar, Men ham siz bilan birgalikda guvohlarmanman», dedi.",
+        "tafsir": "Barcha payg'ambarlardan Muhammad alayhissalomga iymon keltirish va yordam berish ahdi olingani.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٢",
+        "numberLatin": "82",
+        "arabic": "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+        "transcription": "fa-man tawallā baʿda dhālika fa-ulā'ika humu l-fāsiqūn",
+        "translation": "Bundan keyin kim yuz o'girsa, mana ular fosiqlardir.",
+        "tafsir": "Payg'ambarlar ahdidan yuz o'girganlar fosiq - itaatdan chiquvchilardir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٣",
+        "numberLatin": "83",
+        "arabic": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ",
+        "transcription": "a-fa-ghayra dīni llāhi yabghūna wa lahū aslama man fī s-samāwāti wa l-arḍi ṭawʿan wa karhan wa ilayhi yurjaʿūn",
+        "translation": "Allohning dinidan boshqasini istaydilarmi? Holbuki osmonlar va yerdagi kimsa xoh-noxoh Unga bo'ysungan. Va Ungagina qaytarilishadi.",
+        "tafsir": "Butun koinot Allohga bo'ysungan, faqat Uning dinigina haqdir.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٤",
+        "numberLatin": "84",
+        "arabic": "قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+        "transcription": "qul āmannā billāhi wa mā unzila ʿalaynā wa mā unzila ʿalā ibrāhīma wa ismāʿīla wa isḥāqa wa yaʿqūba wa l-asbāṭi wa mā ūtiya mūsā wa ʿīsā wa n-nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wa naḥnu lahū muslimūn",
+        "translation": "De: «Allohga, bizga nozil qilinganga, Ibrohim, Ismoil, Ishoq, Ya'qub va asbotlarga nozil qilinganga, Muso, Iso va payg'ambarlarga Rablaridan berilganga iymon keltirdik. Ulardan hech birining orasini farq qilmaymiz va biz Unga bo'ysunuvchilarmiz».",
+        "tafsir": "Musulmonlarning barcha payg'ambarlarga teng iymon keltirishi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٥",
+        "numberLatin": "85",
+        "arabic": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+        "transcription": "wa man yabtaghi ghayra l-islāmi dīnan fa-lan yuqbala minhu wa huwa fī l-ākhirati mina l-khāsirīn",
+        "translation": "Kim Islomdan o'zga dinni istasa, undan hargiz qabul qilinmaydi va u oxiratda zarar ko'ruvchilardan bo'ladi.",
+        "tafsir": "Islom yagona haq din. Boshqa dinlar qabul qilinmaydi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٦",
+        "numberLatin": "86",
+        "arabic": "كَيْفَ يَهْدِى ٱللَّهُ قَوْمًۭا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّۭ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+        "transcription": "kayfa yahdī llāhu qawman kafarū baʿda īmānihim wa shahidū anna r-rasūla ḥaqqun wa jā'ahumu l-bayyinātu wa llāhu lā yahdī l-qawma ẓ-ẓālimīn",
+        "translation": "Alloh qanday qilib iymon keltirgandan keyin kofir bo'lgan, Rasul haq ekanligiga guvohlik bergan va ularga ochiq dalillar kelgan qavmni hidoyat qilsin?! Alloh zolim qavmni hidoyat qilmaydi.",
+        "tafsir": "Iymondan keyin kufr keltirganlarga hidoyat yo'qligi.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٧",
+        "numberLatin": "87",
+        "arabic": "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+        "transcription": "ulā'ika jazā'uhum anna ʿalayhim laʿnata llāhi wa l-malā'ikati wa n-nāsi ajmaʿīn",
+        "translation": "Ularning jazosi shuki, ularga Alloh, farishtalar va barcha odamlarning la'nati bo'ladi.",
+        "tafsir": "Murtadlarning jazosi - barcha maxluqotning la'nati.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٨",
+        "numberLatin": "88",
+        "arabic": "خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+        "transcription": "khālidīna fīhā lā yukhaffafu ʿanhumu l-ʿadhābu wa lā hum yunẓarūn",
+        "translation": "Unda abadiy qoluvchilar. Ulardan azob yengillashtirilmaydi va ularga muhhat berilmaydi.",
+        "tafsir": "Murtadlarning do'zaxdagi abadiy azoblari.",
+        "copySymbol": "📋"
+      },
+      {
+        "numberArabic": "٨٩",
+        "numberLatin": "89",
+        "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+        "transcription": "illā lladhīna tābū min baʿdi dhālika wa aṣlaḥū fa-inna llāha ghafūrun raḥīm",
+        "translation": "Magar bundan keyin tavba qilib, isloh qilganlar bundan mustasno. Albatta Alloh maghfiratli va rahmlidir.",
+        "tafsir": "Murtadlar ham tavba qilsa, Alloh ularni kechiradi.",
+        "copySymbol": "📋"
+      },
+        {
+          "numberArabic": "١٢١",
+          "numberLatin": "121",
+          "arabic": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌۭ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+          "transcription": "Wa lā ta'kulū mimmā lam yudhkari smu llāhi ʿalayhi wa innahū lafisqun wa inna sh-shayāṭīna la-yūḥūna ilā awliyā'ihim li-yujādilūkum wa in aṭaʿtumūhum innakum la-mushrikūn",
+          "translation": "Ustida Allohning nomi zikr qilinmagan narsalardan yemang. Chunki bu, albatta, fisqdir. Shaytonlar oʻz doʻstlariga sizlar bilan bahslashishlari uchun vahiy qilishadi. Agar siz ularga itoat qilsangiz, albatta, mushriklardan boʻlasiz.",
+          "tafsir": "Nom zikr qilinmagan ovqatlar va shaytonning vasvasasi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٢",
+          "numberLatin": "122",
+          "arabic": "أَوَمَن كَانَ مَيْتًۭا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًۭا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍۢ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+          "transcription": "Awa man kāna maytan fa-aḥyaynāhu wa jaʿalnā lahu nūran yamshī bihī fī n-nāsi ka-man mathaluhū fī ẓ-ẓulumāti laysa bi-khārijin minhā kadhalika zuyyina li-l-kāfirīna mā kānū yaʿmalūn",
+          "translation": "Oʻlik boʻlgan, keyin Biz tiriltirgan va unga odamlar orasida yurish uchun nur bergan kishi, zulmatlarda qolib, undan chiqa olmaydigan kishi kabiligimi? Kofirlarga qilayotgan ishlari shunday yaxshi koʻrinib turgan.",
+          "tafsir": "Imon nuri va kufr zulmati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٣",
+          "numberLatin": "123",
+          "arabic": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَـٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِмْ وَمَا يَشْعُرُونَ",
+          "transcription": "Wa kadhalika jaʿalnā fī kulli qaryatin akābira mujrimīhā li-yamkurū fīhā wa mā yamkurūna illā bi-anfusihim wa mā yashʿurūn",
+          "translation": "Shunday qilib, Biz har bir qishloqda uning jinoyatchilarining boshliqlarini qildikki, ular u yerda makr ishlashsin. Ular faqat oʻzlariga makr qilishadilar, lekin buni sezmaydilar.",
+          "tafsir": "Jinoyatchilar yetakchilarining makri",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٤",
+          "numberLatin": "124",
+          "arabic": "وَإِذَا جَآءَتْهُمْ ءَايَةٌۭ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌۭ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+          "transcription": "Wa idhā jā'at-hum āyatun qālū lan nu'mina ḥattā nu'tā mithla mā ūtiya rusulu llāhi llāhu aʿlamu ḥaythu yajʿalu risālatahū sa-yuṣību alladhīna ajramū ṣaghārun ʿinda llāhi wa ʿadhābun shadīdun bimā kānū yamkurūn",
+          "translation": "Ularga biror oyat kelganda: \"Allohning elchilariga berilgan kabi bizga ham berilmaguncha ishonmaymiz\" deyishadi. Alloh oʻz elchiligini qayerga qoʻyishini yaxshi biladi. Jinoyatchilarni Alloh huzurida xorlik va qattiq azob kutadi - makr ishlaganlari uchun.",
+          "tafsir": "Kofirlarning paygʻambarlik talabi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٥",
+          "numberLatin": "125",
+          "arabic": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ",
+          "transcription": "Fa-man yuridi llāhu an yahdiyahu yashraḥ ṣadrahu li-l-islāmi wa man yurid an yuḍillahu yajʿal ṣadrahu ḍayyiqan ḥarajan ka-annamā yaṣṣaʿadu fī s-samā'i kadhalika yajʿalu llāhu r-rijsa ʿalā alladhīna lā yu'minūn",
+          "translation": "Kimga Alloh hidoyat qilmoqchi boʻlsa, uning koʻksini Islomga ochadi. Kimni adashtirmoqchi boʻlsa, uning koʻksini osmonga koʻtarilayotgandek tor va tang qiladi. Alloh ishonmaydiganlarga rijs (ifloslik)ni shunday soladi.",
+          "tafsir": "Hidoyat va adashishning Alloh irodasidagi joyi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٦",
+          "numberLatin": "126",
+          "arabic": "وَهَـٰذَا صِرَٰطُ رَبِّكَ مُسْتَقِيمًۭا ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَذَّكَّرُونَ",
+          "transcription": "Wa hādhā ṣirāṭu rabbika mustaqīman qad faṣṣalnā l-āyāti li-qawmin yadhakkarūn",
+          "translation": "Bu - Robbingning toʻgʻri yoʻlidir. Biz eslatib turish uchun oyatlarimizni batafsil bayon qildik.",
+          "tafsir": "Toʻgʻri yoʻl va Qurʼon oyatlari",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٧",
+          "numberLatin": "127",
+          "arabic": "لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+          "transcription": "Lahum dāru s-salāmi ʿinda rabbihim wa huwa waliyyuhum bimā kānū yaʿmalūn",
+          "translation": "Ular uchun Robbilarining huzurida tinchlik uyi (jannat) bor. U ularning qilgan amallari tufayli ularning doʻstidir.",
+          "tafsir": "Moʻminlar uchun jannat va Allohning inoyati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٨",
+          "numberLatin": "128",
+          "arabic": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍۢ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌۭ",
+          "transcription": "Wa yauma yaḥshuruhum jamīʿan yā-maʿshara l-jinni qadi stakthartum mina l-insi wa qāla awliyā'uhum mina l-insi rabbana stamtaʿa baʿḍunā bi-baʿḍin wa balaghnā ajalana lladhī ajjalta lanā qāla n-nāru mathwākum khālidīna fīhā illā mā shā'a llāhu inna rabbaka ḥakīmun ʿalīm",
+          "translation": "Qiyomat kuni Alloh ularning hammasini toʻplaganda: \"Ey jinlar jamoasi! Siz insonlardan koʻpini adashtirdingiz\" deydi. Insonlardan boʻlgan doʻstlari esa: \"Robbimiz! Biz bir-birimizdan bahramand boʻldik va bizga belgilagan muddatingizga yetdik\" deyishadi. Alloh: \"Doʻzax - sizning qarorgohingizdir. Alloh xohlamaguncha u yerda abadiy qolasiz\" deydi. Albatta, Robbing hikmatli va biluvchi Zotdir.",
+          "tafsir": "Jin va inslarning qiyomatdagi muhokamasi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٢٩",
+          "numberLatin": "129",
+          "arabic": "وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+          "transcription": "Wa kadhalika nuwallī baʿḍa ẓ-ẓālimīna baʿḍan bimā kānū yaksibūn",
+          "translation": "Shunday qilib, Biz zolimlarning baʼzisini boshqalariga qilgan ishlari tufayli yoʻlboshchi qilamiz.",
+          "tafsir": "Zolimlarning bir-biriga yoʻlboshchiligi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٠",
+          "numberLatin": "130",
+          "arabic": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+          "transcription": "Yā-maʿshara l-jinni wa l-insi a-lam ya'tikum rusulun minkum yaquṣṣūna ʿalaykum āyātī wa yundhirūnakum liqā'a yaumikum hādhā qālū shahidnā ʿalā anfusinā wa gharathumu l-ḥayātu d-dunyā wa shahidū ʿalā anfusihim annahum kānū kāfirīn",
+          "translation": "Ey jin va inslar jamoasi! Icharingizdan sizlarga oyatlarimni oʻqib beradigan va bu kunningizga (qiyomatga) duchor boʻlishingizdan ogohlantiradigan elchilar kelmadimi? Ular: \"Oʻzimizga qarshi guvohlik beramiz\" deyishadi. Dunyo hayoti ularni aldadi va ular oʻzlari kofir boʻlganliklariga oʻzlari guvohlik berishdi.",
+          "tafsir": "Jin va inslarning qiyomatdagi guvohligi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣١",
+          "numberLatin": "131",
+          "arabic": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍۢ وَأَهْلُهَا غَـٰفِلُونَ",
+          "transcription": "Dhālika an lam yakun rabbuka muhliku l-qurā biẓulmin wa ahluhā ghāfilūn",
+          "translation": "Bu shundan iboratki, Robbing qishloqlarni ular gʻofil boʻlgan holda zulm bilan halok qiluvchi emas.",
+          "tafsir": "Allohning adolati va ogohlantirish",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٢",
+          "numberLatin": "132",
+          "arabic": "وَلِكُلٍّۢ دَرَجَـٰتٌۭ مِّمَّا عَمِلُوا۟ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ",
+          "transcription": "Wa li-kullin darajātun mimmā ʿamilū wa mā rabbuka bi-ghāfilin ʿammā yaʿmalūn",
+          "translation": "Har bir kishi uchun qilgan amallariga koʻra darajalar bor. Robbing ular qilayotgan ishlardan gʻofil emas.",
+          "tafsir": "Amallarga koʻra darajalar",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٣",
+          "numberLatin": "133",
+          "arabic": "وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَجْعَلْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ",
+          "transcription": "Wa rabbuka l-ghaniyyu dhū r-raḥmati in yasha' yudh'hibkum wa yajʿal min baʿdikum mā yashā'u kamā ansha'akum min dhurriyyati qawmin ākharīn",
+          "translation": "Robbing boy va rahmli Zotdir. Agar xohlasa, sizlarni yoʻq qilib, oʻrniga xohlaganini qoldiradi, xuddi sizlarni boshqa qavm avlodlaridan yaratgandek.",
+          "tafsir": "Allohning qudrati va irodasi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٤",
+          "numberLatin": "134",
+          "arabic": "إِنَّ مَا تُوعَدُونَ لَءَاتٍۢ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+          "transcription": "Inna mā tūʿadūna la'ātin wa mā antum bi-muʿjizīn",
+          "translation": "Albatta, sizga vaʼda qilingan narsa kelajak. Siz uni qochib qutula olmaysiz.",
+          "tafsir": "Alloh vaʼdasining haqiqati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٥",
+          "numberLatin": "135",
+          "arabic": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَـٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+          "transcription": "Qul yā-qawmi mʿalū ʿalā makānatikum innī ʿāmilun fa-sawfa taʿlamūna man takūnu lahu ʿāqibatu d-dāri innahu lā yufliḥu ẓ-ẓālimūn",
+          "translation": "Ayting: \"Ey qavmim! Oʻz holatingizga koʻra ish qiling, men ham ish qilaman. Tez orada uyning (oxiratning) oqibati kimga nasib boʻlishini bilasiz. Albatta, zolimlar najot topmaydilar\".",
+          "tafsir": "Har kimning oʻz yoʻli va oqibati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٦",
+          "numberLatin": "136",
+          "arabic": "وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًۭا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ",
+          "transcription": "Wa jaʿalū li-llāhi mimmā dhara'a mina l-ḥarthi wa l-anʿāmi naṣīban fa-qālū hādhā li-llāhi bi-zaʿmihim wa hādhā li-shurakā'inā fa-mā kāna li-shurakā'ihim fa-lā yaṣilu ilā llāhi wa mā kāna li-llāhi fa-huwa yaṣilu ilā shurakā'ihim sā'a mā yaḥkumūn",
+          "translation": "Ular ekin va chorva mollardan Alloh uchun bir qism belgilashdi va: \"Bu Alloh uchun, bu sheriklarimiz uchun\" dedilar. Sheriklariga belgilangan narsa Allohga yetmaydi, Allohga belgilangan narsa esa sheriklariga yetadi. Ular qanday yomon hukm chiqarishadi!",
+          "tafsir": "Mushriklarning narsalarni taqsimlashdagi nodonligi",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٧",
+          "numberLatin": "137",
+          "arabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍۢ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+          "transcription": "Wa kadhalika zayyana li-kathīrin mina l-mushrikīna qatla awlādihim shurakā'uhum li-yurdūhum wa li-yalbisū ʿalayhim dīnahum wa law shā'a llāhu mā faʿalūhu fa-dharhum wa mā yaftarūn",
+          "translation": "Shunday qilib, mushriklarning koʻpchiligiga sheriklari bolalarini oʻldirishni yaxshi koʻrsatdilar - ularni halok qilishlari va dinlarini ularga chalgʻitishlari uchun. Agar Alloh xohlamaguncha, ular bunday qilmas edilar. Bas, ularni va uydirgan yolgʻonlarini tashlab qoʻy.",
+          "tafsir": "Johiliyatda bolalarni oʻldirish odati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٨",
+          "numberLatin": "138",
+          "arabic": "وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌۭ وَحَرْثٌ حِجْرٌۭ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌۭ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+          "transcription": "Wa qālū hādhihi anʿāmun wa ḥarthun ḥijrun lā yaṭʿamuhā illā man nashā'u bi-zaʿmihim wa anʿāmun ḥurrimat ẓuhūruhā wa anʿāmun lā yadhkurūna sma llāhi ʿalayhā ftirā'an ʿalayhi sa-yajzīhim bimā kānū yaftarūn",
+          "translation": "Ular: \"Bu chorva mollari va ekinlar taqiqlangan. Biz xohlaganimizgina ularni eyishi mumkin\" dedilar. Orqalariga minish taqiqlangan chorva mollari va ustida Allohning nomi zikr qilinmagan chorva mollari bor - Allohga nisbatan yolgʻon uydirish uchun. Alloh ularga uydirgan yolgʻonlari uchun jazosini beradi.",
+          "tafsir": "Mushriklarning xurofotlari",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٣٩",
+          "numberLatin": "139",
+          "arabic": "وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌۭ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةًۭ فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌۭ",
+          "transcription": "Wa qālū mā fī buṭūni hādhihi l-anʿāmi khāliṣatun li-dhukūrinā wa muḥarramun ʿalā azwājinā wa in yakun maytatan fa-hum fīhi shurakā'u sa-yajzīhim waṣfahum innahu ḥakīmun ʿalīm",
+          "translation": "Ular: \"Bu chorva mollari qorinlaridagi narsalar faqat erkaklarimizga halol, xotinlarimizga haramdir. Agar u oʻlik boʻlsa, unda ular ham sherikdirlar\" dedilar. Alloh ularning bu taʼriflari uchun ularga jazosini beradi. Albatta, U hikmatli va biluvchi Zotdir.",
+          "tafsir": "Mushriklarning notoʻgʻri taqiqlari",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٠",
+          "numberLatin": "140",
+          "arabic": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَـٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍۢ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ ۚ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+          "transcription": "Qad khasira alladhīna qatalū awlādahum safahan bi-ghayri ʿilmin wa ḥarramū mā razaqahumu llāhu ftirā'an ʿalā llāhi qad ḍallū wa mā kānū muhtadīn",
+          "translation": "Bilimsizlik bilan ahmoqlik qilib bolalarini oʻldirgan va Alloh ularga ato etgan rizqlarni Allohga nisbatan yolgʻon uydirib haram qilganlar, albatta, ziyon koʻrdilar. Ular adashgan va hidoyat topmaganlardir.",
+          "tafsir": "Bolalarni oʻldirish va notoʻgʻri taqiqlarning oqibati",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤١",
+          "numberLatin": "141",
+          "arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍۢ مَّعْرُوشَـٰتٍۢ وَغَيْرَ مَعْرُوشَـٰتٍۢ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًۭا وَغَيْرَ مُتَشَـٰبِهٍۢ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+          "transcription": "Wa huwa lladhī ansha'a jannātin maʿrūshātin wa ghayra maʿrūshātin wa n-nakhla wa z-zarʿa mukhtalifan ukuluhu wa z-zaytūna wa r-rummāna mutashābihan wa ghayra mutashābihin kulū min thamarihī idhā athmara wa ātū ḥaqqahū yauma ḥaṣādihī wa lā tusrifū innahu lā yuḥibbu l-musrifīn",
+          "translation": "U (Alloh) tokzorlarni - baʼzisi tayanchli, baʼzisi tayanchsiz, xurmo, turli mevali ekinlar, zaytun va anorni - bir-biriga oʻxshash va oʻxshamagan holda yaratdi. Meva bergan paytlarida undan yeng. Hosil kunida uning haqqini (sadaqa va zakatni) bering. Isrof qilmang. Albatta, U isrof qiluvchilarni yoqtirmaydi.",
+          "tafsir": "Allohning neʼmatlari va ularga shukronalik",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٢",
+          "numberLatin": "142",
+          "arabic": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ",
+          "transcription": "Wa mina l-anʿāmi ḥamūlatan wa farshan kulū mimmā razaqakumu llāhu wa lā tattabiʿū khuṭuwāti sh-shayṭāni innahū lakum ʿaduwwun mubīn",
+          "translation": "Chorva mollaridan yuk koʻtaruvchi va mayda (yotqiziladigan) hayvonlar bor. Alloh sizlarga ato etgan rizqlardan yeng. Shayton izlariga ergashmang. Albatta, u sizlarga ochiq dushmandir.",
+          "tafsir": "Chorva mollari va shayton vasvasasidan saqlanish",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٣",
+          "numberLatin": "143",
+          "arabic": "ثَمَـٰنِيَةَ أَزْوَٰجٍۢ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۖ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+          "transcription": "Thamāniyata azwājin mina ḍ-ḍa'ni thnayni wa mina l-maʿzi thnayni qul ā-dh-dhakaraẖni ḥarrama am al-unthayayni ammā shtamalat ʿalayhi arḥāmu l-unthayayni nabbīūnī bi-ʿilmin in kuntum ṣādiqīn",
+          "translation": "Sakkiz juft: qoʻylardan ikkisi, echkilardan ikkisi. Ayting: „Erkaklarni haram qildimi, yoki urgʻochilarni? Yoki urgʻochilar qorinlaridagini (naslni)? Haqiqatan aytayotgan boʻlsangiz, ilm bilan menga xabar bering!“",
+          "tafsir": "Mushriklarning hayvonlarni erkak-urgʻochi boʻyicha taqsimlashdagi nodonligiga tanbeh.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٤",
+          "numberLatin": "144",
+          "arabic": "وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۖ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَـٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+          "transcription": "Wa mina l-ibili thnayni wa mina l-baqari thnayni qul ā-dh-dhakaraẖni ḥarrama am al-unthayayni ammā shtamalat ʿalayhi arḥāmu l-unthayayni am kuntum shuhadā'a idh waṣṣākumu llāhu bihādhā fa-man aẓlamu mimmani ftarā ʿalā llāhi kadhiban li-yuḍilla n-nāsa bi-ghayri ʿilmin inna llāha lā yahdī l-qawma ẓ-ẓālimīn",
+          "translation": "Tuya va sigirlardan ham ikkitadan (yaratdi). Ayting: „Erkaklarni haram qildimi, yoki urgʻochilarni? Yoki urgʻochilar qorinlaridagini? Yoʻqsa Alloh sizga bunday buyruq berayotganida hozir boʻlganmidingiz? Kim Allohga nisbatan yolgʻon uydirib, bilimsiz odamlarni adashtirgandan koʻra zolimroq boʻladi? Albatta, Alloh zolim qavmni hidoyat qilmaydi“.",
+          "tafsir": "Mushriklarning ixtiro qilgan haramlariga qarshi dalil.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٥",
+          "numberLatin": "145",
+          "arabic": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍۢ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًۭا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍۢ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ رَبَّكَ غَفُورٌۭ رَّحِيمٌۭ",
+          "transcription": "Qul lā ajidu fī mā ūḥiya ilayya muḥarraman ʿalā ṭāʿimin yaṭʿamuhū illā an yakūna maytatan aw daman masfūḥan aw laḥma khinzīrin fa-innahū rijsun aw fisqan uhilla li-ghayri llāhi bihī fa-mani ḍṭurra ghayra bāghin wa lā ʿādin fa-inna rabbaka ghafūrun raḥīm",
+          "translation": "Ayting: „Menga vahiy qilinganlarda harom qilingan ovqat faqat oʻlik hayvon, oqib quyilgan qon, choʻchqa goʻshti – chunki bu iflos – yoki Allohdan boshgaga atalib soʻyilgan hayvondir. Kim majburiyat tufayli (buni yese), haddan oshmasa va chetdan qolsa, albatta, Robbing magʻfirat qiluvchi va rahmli Zotdir“.",
+          "tafsir": "Haqiqiy harom qilingan narsalar haqida aniq dalil.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٦",
+          "numberLatin": "146",
+          "arabic": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ",
+          "transcription": "Wa ʿalā alladhīna hādū ḥarramnā kulla dhī ẓufurin wa mina l-baqari wa l-ghnami ḥarramnā ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin dhālika jazaynāhum bi-baghyihim wa innā la-ṣādiqūn",
+          "translation": "Yahudiylarga tirnoqli har bir hayvonni harom qildik. Sigir va qoʻylarning yogʻlarini ham ularga harom qildik – faqat orqalarida yoki ichaklarida tushgan yoki suyakka aralashgan yogʻlardan mustasno. Bu jazo ularning haddan oshganligi uchundir. Biz, albatta, haqiqatnidirmiz.",
+          "tafsir": "Yahudiylarga qoʻyilgan qatʼiy chegara.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٧",
+          "numberLatin": "147",
+          "arabic": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍۢ وَٰسِعَةٍۢ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+          "transcription": "Fa-in kadhabūka fa-qul rabbukum dhū raḥmatin wāsiʿatin wa lā yuraddu ba'suhū ʿani l-qawmi l-mujrimīn",
+          "translation": "Agar seni yolgʻonchiga chiqarishsa, ayting: „Robbingizning rahmati keng, lekin jinoyatchi qavmni azobdan qutqarib boʻlmaydi“.",
+          "tafsir": "Rahmat va azobning muvozanati.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٨",
+          "numberLatin": "148",
+          "arabic": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍۢ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍۢ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+          "transcription": "Sayaqūlu alladhīna ashrakū law shā'a llāhu mā ashraknā wa lā ābā'unā wa lā ḥarramnā min shay'in kadhalika kadhaba alladhīna min qablihim ḥattā dhāqū ba'sanā qul hal ʿindakum min ʿilmin fa-tukhrijūhu lanā in tattabiʿūna illā ẓ-ẓanna wa in antum illā takhruṣūn",
+          "translation": "Mushriklar: „Agar Alloh xohlasa, na biz, na otalarimiz shirk qilmas edik va hech narsani harom qilmas edik“ deyishadi. Ulardan oldingilar ham shunday degan, toki azobimizni tatmaguncha. Ayting: „Sizda biror ilm bormi? Bizga koʻrsating! Siz faqat taxminga ergashasiz va quruq gapirasiz“.",
+          "tafsir": "Mushriklarning taqdirga ishonishdagi noligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٤٩",
+          "numberLatin": "149",
+          "arabic": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+          "transcription": "Qul fa-li-llāhi l-ḥujjatu l-bālighatu fa-law shā'a la-hadākum ajmaʿīn",
+          "translation": "Ayting: „Toʻliq dalil Allohning ixtiyoridadir. Agar U xohlasa, hammangizni hidoyat qilar edi“.",
+          "tafsir": "Hidoyat faqat Alloh irodasidadir.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٠",
+          "numberLatin": "150",
+          "arabic": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۖ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+          "transcription": "Qul hulumma shuhadā'akumu alladhīna yashhadūna anna llāha ḥarrama hādhā fa-in shahadū fa-lā tashhad maʿahum wa lā tattabiʿ ahwā'a alladhīna kadhabū bi-āyātinā wa alladhīna lā yu'minūna bi-l-ākhirati wa hum bi-rabbihim yaʿdilūn",
+          "translation": "Ayting: „Kelinglar, Alloh buni harom qilganligiga guvohlik beradigan guvohlaringizni olib keling!“ Agar guvohlik bersalar, ular bilan birga guvohlik berma va oyatlarimizni yolgʻon deb, oxiratga ishonmaydigan, Robbilariga teng qoʻshadiganlarning havaslariga ergashma!",
+          "tafsir": "Haqiqiy guvohlik talabi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥١",
+          "numberLatin": "151",
+          "arabic": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+          "transcription": "Qul taʿālaw atlu mā ḥarrama rabbukum ʿalaykum allā tushrikū bihī shay'an wa bi-l-wālidayni iḥsānan wa lā taqtulū awlādakum min imlāqin naḥnu narzuqukum wa iyyāhum wa lā taqrabū l-fawāḥisha mā ẓahara minhā wa mā baṭana wa lā taqtulū n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi dhālikum waṣṣākum bihī laʿallakum taʿqilūn",
+          "translation": "Ayting: „Kelinglar, Robbimiz sizga nimalarni harom qilganini oʻqiyman: Unga hech narsani sherik qoʻymang, ota-onaga yaxshilik qiling, qashshoqlik qoʻrquvida bolalaringizni oʻldirmang – Biz sizga ham, ularga ham rizq beramiz. Ochiq-oshkor yashirin harom ishlarga yaqinlashmang. Alloh harom qilgan jonni haqsiz oʻldirmang. Alloh sizga buni tavsiya qildi – shuʼlalaringiz uchun.",
+          "tafsir": "Asosiy haromlar va inson huquqlari.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٢",
+          "numberLatin": "152",
+          "arabic": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+          "transcription": "Wa lā taqrabū māla l-yatīmi illā bi-llatī hiya aḥsanu ḥattā yablugha ashuddahū wa awfū l-kayla wa l-mīzāna bi-l-qisṭi lā nukallifu nafsan illā wusʿahā wa idhā qultum fa-ʿdilū wa law kāna dhā qurbā wa bi-ʿahdi llāhi awfū dhālikum waṣṣākum bihī laʿallakum tadhakkarūn",
+          "translation": "Yetimning moliga eng yaxshi yoʻl bilan yaqinlashing – toki u balogʻat yoshiga yetguncha. Tortish va oʻlchashda adolatli boʻling. Biz hech bir jonni qudratidan ortiq majbur qilmaymiz. Gapiringizda adolatli boʻling, hatto qarindosh boʻlsa ham. Alloh ahdiga vafo qiling. Alloh sizga buni tavsiya qildi – ehtimolki, pand olasiz.",
+          "tafsir": "Ijtimoiy adolat va ahdga vafo.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٣",
+          "numberLatin": "153",
+          "arabic": "وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًۭا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ",
+          "transcription": "Wa anna hādhā ṣirāṭī mustaqīman fa-ttabiʿūhu wa lā tattabiʿū s-subula fa-tafarraqa bikum ʿan sabīlihī dhālikum waṣṣākum bihī laʿallakum tattaqūn",
+          "translation": "Bu mening toʻgʻri yoʻlimdir, shuning uchun unga ergashing. Boshqa yoʻllarga ergashmangki, ular sizni Uning yoʻlidan ajratib yuborsin. Alloh sizga buni tavsiya qildi – ehtimolki, taqvo qilasiz.",
+          "tafsir": "Toʻgʻri yoʻlga chaqiriq.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٤",
+          "numberLatin": "154",
+          "arabic": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُمْ بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+          "transcription": "Thumma ātaynā mūsā l-kitāba tamāman ʿalā alladhī aḥsana wa tafṣīlan li-kulli shay'in wa hudan wa raḥmatan laʿallahum bi-liqā'i rabbihim yu'minūn",
+          "translation": "Keyin Musoga yaxshi qilgan kishiga mukammal inʼom, har bir narsaning tafsili, hidoyat va rahmat sifatida Tavrotni berdik – ehtimolki, ular Robbilariga uchrashishga ishonadilar.",
+          "tafsir": "Tavrotning mukammalligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٥",
+          "numberLatin": "155",
+          "arabic": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌۭ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+          "transcription": "Wa hādhā kitābun anzalnāhu mubārakun fa-ttabiʿūhu wa ttaqū laʿallakum turḥamūn",
+          "translation": "Bu (Qurʼon) Biz nozil qilgan muborak kitobdir. Shuning uchun unga ergashing va taqvo qiling – ehtimolki, rahmatga muyassar boʻlasiz.",
+          "tafsir": "Qurʼonning muborakligi va unga ergashish.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٦",
+          "numberLatin": "156",
+          "arabic": "أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَـٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَـٰفِلِينَ",
+          "transcription": "An taqūlū innamā unzila l-kitābu ʿalā ṭā'ifatayni min qablinā wa in kunnā ʿan dirāsatihim la-ghāfilīn",
+          "translation": "(Qurʼonni yuborishimiz) shundan iboratki, (ey ahli kitob!) «Kitob faqat bizdan oldingi ikkita guruhga (yahudiylar va nasroniylarga) nozil qilingan edi, biz esa ularning tilmochlaridan bexabar edik», demaysizlar.",
+          "tafsir": "Qurʼonning umumiy hidoyat sifatida nozil boʻlishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٧",
+          "numberLatin": "157",
+          "arabic": "أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَـٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌۭ مِّن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَـٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَـٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ",
+          "transcription": "Aw taqūlū law annā unzila ʿalaynā l-kitābu la-kunnā ahdā minhum fa-qad jā'akum bayyinatun min rabbikum wa hudan wa raḥmatun fa-man aẓlamu mimman kadhaba bi-āyāti llāhi wa ṣadafa ʿanhā sa-najzī alladhīna yaṣdifūna ʿan āyātinā sū'a l-ʿadhābi bimā kānū yaṣdifūn",
+          "translation": "Yoki: «Agar bizga kitob nozil qilinganida, ularga qaraganda toʻgʻriroq yoʻlda boʻlar edik», demaysizlar. Endi sizga Robbingizdan aniq dalil, hidoyat va rahmat keldi. Alloh oyatlarini yolgʻon deb, ulardan yuz oʻgirgandan koʻra zolimroq kim boʻladi? Biz oyatlarimizdan yuz oʻgirganlarni qaytishlari sababli qattiq azob bilan jazolaymiz.",
+          "tafsir": "Haqni rad etishning oqibati.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٨",
+          "numberLatin": "158",
+          "arabic": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَـٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَـٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَـٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَـٰنِهَا خَيْرًۭا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+          "transcription": "Hal yanẓurūna illā an ta'tiyahumu l-malā'ikatu aw ya'tiya rabbuka aw ya'tiya baʿḍu āyāti rabbika yauma ya'tī baʿḍu āyāti rabbika lā yanfaʿu nafsan īmānuha lam takun āmanat min qablu aw kasabat fī īmānihā khayran quli ntaẓirū innā muntaẓirūn",
+          "translation": "Ular faqat farishtalar kelishini yoki Robbingizning (Oʻzining) kelishini yoki Robbingizning baʼzi oyatlari kelishini kutadilar. Robbingizning baʼzi oyatlari kelgan kunida, ilgari imon keltirmagan yoki imonida yaxshilik qozonmagan kishining imoni foyda bermaydi. Ayting: «Kutinglar, biz ham kutayapmiz».",
+          "tafsir": "Qiyomat belgilari paydo boʻlganda imonning ahamiyatsizligi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٥٩",
+          "numberLatin": "159",
+          "arabic": "إِنَّ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًۭا لَّسْتَ مِنْهُمْ فِى شَىْءٍ ۚ إِنَّمَآ أَمْرُهُمْ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُوا۟ يَفْعَلُونَ",
+          "transcription": "Inna alladhīna farraqū dīnahum wa kānū shiyaʿan lasta minhum fī shay'in innamā amruhum ilā llāhi thumma yunabbi'uhum bimā kānū yafʿalūn",
+          "translation": "Dinlarini boʻlib, firqalarga ayrilganlarga (yaqinlashma). Ularning ishi Allohgagina taalluqlidir. Keyin U ularga qilgan amallarini xabar beradi.",
+          "tafsir": "Dinda boʻlinishning qoralanishi.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦٠",
+          "numberLatin": "160",
+          "arabic": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+          "transcription": "Man jā'a bi-l-ḥasanati fa-lahu ʿashru amthālihā wa man jā'a bi-s-sayyi'ati fa-lā yujzā illā mithlahā wa hum lā yuẓlamūn",
+          "translation": "Kim yaxshi ish bilan kelsa, unga oʻn barobar mukofot beriladi. Kim yomon ish bilan kelsa, u faqat oʻsha yomonlikka teng jazolanadi va ularga zulm qilinmaydi.",
+          "tafsir": "Yaxshi va yomon amallarning barobari.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦١",
+          "numberLatin": "161",
+          "arabic": "قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ دِينًۭا قِيَمًۭا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+          "transcription": "Qul innanī hadānī rabbī ilā ṣirāṭin mustaqīmin dīnan qiyaman millata ibrāhīma ḥanīfan wa mā kāna mina l-mushrikīn",
+          "translation": "Ayting: «Robbim meni toʻgʻri yoʻlga – Ibrohimning hanif (toʻgʻri) diniga hidoyat qildi. U mushriklardan emas edi».",
+          "tafsir": "Ibrohimning hanif diniga daʼvat.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦٢",
+          "numberLatin": "162",
+          "arabic": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+          "transcription": "Qul inna ṣalātī wa nusukī wa maḥyāya wa mamātī li-llāhi rabbi l-ʿālamīn",
+          "translation": "Ayting: «Mening namozim, qurbonligim, tirikligim va oʻlimim olamlar Robbisi Alloh uchundir».",
+          "tafsir": "Butun hayotni Allohga bagʻishlash.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦٣",
+          "numberLatin": "163",
+          "arabic": "لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ",
+          "transcription": "Lā sharīka lahu wa bi-dhālika umirtu wa anā awwalu l-muslimīn",
+          "translation": "Uning sherigi yoʻq. Men shu bilan buyruq qilindim va men musulmonlarning birinchisiman.",
+          "tafsir": "Tavhid va musulmonlik.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦٤",
+          "numberLatin": "164",
+          "arabic": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+          "transcription": "Qul a-ghayra llāhi abghī rabban wa huwa rabbu kulli shay'in wa lā taksibu kullu nafsin illā ʿalayhā wa lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum fa-yunabbi'ukum bimā kuntum fīhi takhtalifūn",
+          "translation": "Ayting: «Men Allohdan boshqa Robbimi izlayaymi? U har bir narsaning Rabbidir. Har bir kishi oʻz gunohining javobgari boʻladi. Hech bir gunohkor boshqasining gunohini yuklamaydi. Keyin Robbingizga qaytarilasiz va u ixtiloflaringiz haqida sizga xabar beradi».",
+          "tafsir": "Tavhid va hisob-kitob.",
+          "copySymbol": "📋"
+        },
+        {
+          "numberArabic": "١٦٥",
+          "numberLatin": "165",
+          "arabic": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍۢ دَرَجَـٰتٍۢ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌۭ رَّحِيمٌۢ",
+          "transcription": "Wa huwa lladhī jaʿalakum khalā'ifa l-arḍi wa rafaʿa baʿḍakum fawqa baʿḍin darajātin li-yablūakum fī mā ātākum inna rabbaka sarīʿu l-ʿiqābi wa innahu la-ghafūrun raḥīm",
+          "translation": "Sizlarni yer yuziga xalifa qilgan va baʼzilaringizni boshqalaridan darajalar bilan baland qilgan Zot Udir. Bu sizga bergan neʼmatlarda sizni sinash uchundir. Albatta, Robbingiz jazoni tez beruvchidir, lekin U, shubhasiz, magʻfirat qiluvchi va rahmli Zotdir.",
+          "tafsir": "Xilofat va insonlarning sinovi.",
+          "copySymbol": "📋"
       }
     ]
   },
